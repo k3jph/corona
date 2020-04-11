@@ -5,55 +5,16 @@ date: 2015-09-30T15:57:20-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=2930
-featured-image: books-840x250.jpg
+featured-image: books.jpg
 menu-order:     90
 menu-label:     Books
 ---
 
-## Computational Methods for Numerical Analysis with R
-
-{% include figure.html image="CMNA-cover-300.png"  cap="" width="240" align="right" link="/cmna"
-   alt="Computational Methods for Numerical Analysis with R book cover" %}
-
-This book is a treatment of the traditional numerical analysis
-course using R as the underlying programming language. The traditional
-numerical analysis outline begins with numerical error, then linear
-algebra, interpolation, integration, optimization, and differential
-equations. In this way, the outline covers the entire introductory
-mathematical sequence. This text will be suitable for the advanced
-undergraduate student or first-year graduate student. The book will
-require a solid understanding of linear algebra, differential and
-integral calculus, and differential equations. Students of mathematics,
-computer science, physics, engineering, and other mathematically
-intensive disciplines will have sufficient background to read and
-understand the book.
-
-## Socioeconomic Effects of the National Flood Insurance Program
-
-{% include figure.html image="SE-NFIP-cover-300.png" cap="" width="240" align="right" link="/se-nfip"
-   alt="Socioeconomic Effects of the National Flood Insurance Program book cover" %}
-
-In this book, I estimate the net the social benefit of the NFIP for
-the years 1996 through 2010, including the estimated consumer surplus
-for flood insurance using historical financial and survey data
-available from the NFIP. Using this estimate and other components
-of net social benefits, this analysis derives a sufficient statistic
-for the insurance component of the NFIP and is joined with other
-estimates of the benefits of the FMA to estimate the net social
-benefits of the combined program. A supplemental analysis is done
-using different income weighting scenarios in a distributionally
-weighted benefit-cost analysis. Finally, this study includes an
-analysis of the change in government revenue attributable to the
-NFIP and FMA programs. Sensitivity analysis is conducted on all
-results. Presented through each component of the analysis are models
-usable by others for extending and revising the analysis, or applying
-to other programs.
-
-
 ## Handbook of Military and Defense Operations Research
 ### Edited with Natalie M. Scala
 
-{% include figure.html image="mdor-cover-300w.jpg" cap="" width="240" align="right" link="/mdor"
+{% include figure.html image="mdor-cover-300w.jpg"
+   placement="right" link="/mdor" width="40%"
    alt="Handbook of Military and Defense Operations Research book cover" %}
 
 Operations research (OR) is a core discipline in military and defense
@@ -74,10 +35,52 @@ Scala](https://www.drnataliescala.com/), associate professor of
 business analytics and technology management at [Towson
 University](https://fusion.towson.edu/www/cbe/DigitalMeasures/faculty_profile_main.cfm?FacMem=nscala).
 
+## Computational Methods for Numerical Analysis with R
+
+{% include figure.html image="CMNA-cover-300.png"
+   placement="right" link="/cmna" width="40%"
+   alt="Computational Methods for Numerical Analysis with R book cover" %}
+
+This book is a treatment of the traditional numerical analysis
+course using R as the underlying programming language. The traditional
+numerical analysis outline begins with numerical error, then linear
+algebra, interpolation, integration, optimization, and differential
+equations. In this way, the outline covers the entire introductory
+mathematical sequence. This text will be suitable for the advanced
+undergraduate student or first-year graduate student. The book will
+require a solid understanding of linear algebra, differential and
+integral calculus, and differential equations. Students of mathematics,
+computer science, physics, engineering, and other mathematically
+intensive disciplines will have sufficient background to read and
+understand the book.
+
+## Socioeconomic Effects of the National Flood Insurance Program
+
+{% include figure.html image="SE-NFIP-cover-300.png"
+   placement="right" link="/se-nfip" width="40%"
+   alt="Socioeconomic Effects of the National Flood Insurance Program book cover" %}
+
+In this book, I estimate the net the social benefit of the NFIP for
+the years 1996 through 2010, including the estimated consumer surplus
+for flood insurance using historical financial and survey data
+available from the NFIP. Using this estimate and other components
+of net social benefits, this analysis derives a sufficient statistic
+for the insurance component of the NFIP and is joined with other
+estimates of the benefits of the FMA to estimate the net social
+benefits of the combined program. A supplemental analysis is done
+using different income weighting scenarios in a distributionally
+weighted benefit-cost analysis. Finally, this study includes an
+analysis of the change in government revenue attributable to the
+NFIP and FMA programs. Sensitivity analysis is conducted on all
+results. Presented through each component of the analysis are models
+usable by others for extending and revising the analysis, or applying
+to other programs.
+
 ## Teaching and Learning Mathematics Online
 ### Edited with John F. Beyers
 
-{% include figure.html image="tlmo-cover-300px.jpg" cap="" width="240" align="right" link="/tlmo"
+{% include figure.html image="tlmo-cover-300px.jpg"
+   placement="right" link="/tlmo" width="40%"
    alt="Teaching and Learning Mathematics Online book cover" %}
 
 Online education has grown to be a major component of the higher

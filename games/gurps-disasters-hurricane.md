@@ -10,9 +10,8 @@ redirect_from:
   - /games/gurps-hurricane
 ---
 
-{% include figure.html image="GURPS_Disasters_Hurricane.png" cap=""
-   width="50%" placement="right" link="/gurps-hurricane"
-   alt="GURPS Disasters: Hurricane gamebook cover" %}
+{% include figure.html image="GURPS_Disasters_Hurricane.png" cap="" width="40%" 
+   placement="right" alt="GURPS Disasters: Hurricane gamebook cover" %}
 
 _You've had a couple of days' warning, but it's never enough. You
 have half the plywood you need, and don't know how high the water

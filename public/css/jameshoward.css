@@ -30,6 +30,16 @@ blockquote cite {
   padding-left: 60%;
 }
 
+/* Lists */
+ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.content a {
+  color:  #871717;
+  text-decoration: underline;
+}
 
 /*
  * Container
@@ -47,6 +57,10 @@ blockquote cite {
  * Super small header above the content for site name and short description.
  */
 
+ .masthead-title a:hover {
+  text-decoration: none;
+ }
+ 
 .masthead-title small {
   font-size: 60%;
   color: #606060;
@@ -89,6 +103,7 @@ blockquote cite {
   clear: both;
   padding-bottom: 3rem;
   padding-top: 1rem;
+  padding-left: 0!important;
 }
 
 .social-icon li {

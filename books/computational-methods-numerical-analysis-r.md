@@ -9,7 +9,8 @@ redirect_from:
   - /cmna
   - /books/cmna
 ---
-{% include figure.html image="CMNA-cover-300.png"  cap="" width="240" align="right"
+
+{% include figure.html image="CMNA-cover-300.png" placement="right" width="40%"
    alt="Computational Methods for Numerical Analysis with R book cover" %}
 
 _Computational Methods for Numerical Analysis with R_ (_CMNA_) is
@@ -39,7 +40,7 @@ with due to its rapidly growing user base. It is free for all users
 and it does not require intensive "environmental management" when
 programming, as is required in, for instance, Java.
 
-### Links
+## Links
 
 *   [Chapman and Hall/CRC's Website](https://www.crcpress.com/9781498723633)
 *   [Amazon](https://www.amazon.com/gp/product/1498723632)
@@ -47,11 +48,11 @@ programming, as is required in, for instance, Java.
 *   [Goodreads](https://www.goodreads.com/book/show/34454411)
 *   [WorldCat](http://www.worldcat.org/oclc/1120511486)
 
-### Errata
+## Errata
 
 *   [April 3, 2019](/assets/files/CMNA-Errata-20190403.pdf)
 
-### Software
+## Software
 
 The [`cmna`](https://cran.r-project.org/web/packages/cmna/index.html)
 R package is available containing all of the algorithms from this
@@ -60,13 +61,17 @@ the source code for the `cmna` package at
 [GitHub](https://github.com/howardjp/cmna). Install `cmna` via
 [DevTools](https://github.com/hadley/devtools):
 
-    devtools::install_github("howardjp/cmna")
+{% highlight r %}
+devtools::install_github("howardjp/cmna")
+{% endhighlight %}
 
 The `cmna` package is developed using the
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 development workflow. To install the development branch, use:
 
-    devtools::install_github("howardjp/cmna", ref = "develop")
+{% highlight r %}
+devtools::install_github("howardjp/cmna", ref = "develop")
+{% endhighlight %}
 
 ## Bibliographic Information
 

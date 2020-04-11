@@ -1,8 +1,12 @@
-<div style="float: {{ include.align | default: 'center' }};">
+{% if include.placement != null %}
+<div style="float: {{ include.placement }}; width: {{ include.width }}; ">
+{% else %}
+<div>
+{% endif %}
     <figure>
         {% if include.link != null %}<a href="{{ include.link }}">{% endif %}
         <img class="featured-img" src="{{ site.baseurl }}/assets/images/{{ include.image }}"
-          alt="{{ include.alt | default: 'no description' }}" width="{{ include.width }}" height="{{ include.height }}"/>
+          alt="{{ include.alt | default: 'no description' }}"/>
         {% if include.link != null %}</a>{% endif %}
         {% if include.cap != null %}
             <figcaption class="images-caption">{{ include.cap }}</figcaption>

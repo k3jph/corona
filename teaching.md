@@ -5,7 +5,7 @@ date: 2013-12-03T22:20:25-05:00
 author: James Howard
 layout: page
 guid: http://localhost/wp-faculty/?page_id=25
-featured-image: teaching-840x250.png
+featured-image: teaching.png
 menu-order:     60
 menu-label:     Teaching
 ---

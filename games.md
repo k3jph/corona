@@ -11,7 +11,8 @@ menu-label:     Games
 ---
 ## GURPS Disasters: Hurricane
 
-{% include figure.html image="GURPS_Disasters_Hurricane.png" cap="" width="50%" placement="right" link="/gurps-hurricane"
+{% include figure.html image="GURPS_Disasters_Hurricane.png" cap="" width="40%" 
+   placement="right" link="/gurps-hurricane"
    alt="GURPS Disasters: Hurricane gamebook cover" %}
 
 _You've had a couple of days' warning, but it's never enough. You

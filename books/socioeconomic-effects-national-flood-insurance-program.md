@@ -10,7 +10,7 @@ redirect_from:
   - /books/se-nfip
 ---
 
-{% include figure.html image="SE-NFIP-cover-300.png" cap="" width="240" align="right"
+{% include figure.html image="SE-NFIP-cover-300.png" placement="right" width="40%"
    alt="Socioeconomic Effects of the National Flood Insurance Program book cover" %}
 
 In _Socioeconomic Effects of the National Flood Insurance Program_,
@@ -35,8 +35,7 @@ issues. This includes those studying the effects of floods on
 populations, academics working on similar issues relating to natural
 disasters, generally, and policymakers working on NFIP reform.
 
-
-### Links
+## Links
 
 * [Springer's Website](http://www.springer.com/us/book/9783319290621)
 * [Amazon](https://www.amazon.com/gp/product/3319290622/)

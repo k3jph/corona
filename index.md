@@ -7,8 +7,9 @@ layout: page
 guid: http://localhost/wp-faculty/?page_id=2
 ---
 
-{% include figure.html image="jhoward-stacks.png" alt="Me at the 2017 Howard County Library Evening in the Stacks" 
-   cap="" width="275" height="275" align="right" %}
+{% include figure.html image="jhoward-stacks.png" width="50%" placement="right"
+   alt="Me at the 2017 Howard County Library Evening in the Stacks"
+   cap="Me at the 2017 Howard County Library Evening in the Stacks" %}
 
 I am a scientist at the [Johns Hopkins Applied Physics Laboratory](http://www.jhuapl.edu/). Previously, I worked for the [Board of Governors of the Federal Reserve System](http://www.federalreserve.gov/) as an internal consultant on scientific computing. I have also been a consultant to numerous government agencies, including the Securities and Exchange Commission, the Executive Office of the President, and the United States Department of Homeland Security. I am a passionate educator, teaching mathematics and statistics at the [University of Maryland Global Campus](http://www.umuc.edu/) since 2010 and have taught public management at [Central Michigan University](https://www.cmich.edu/), [Penn State](https://www.psu.edu/), and the [University of Baltimore](http://www.ubalt.edu/).
 
@@ -33,6 +34,6 @@ In my spare time, I serve Howard County, Maryland, as [a member of the Board of
 -->
 
 {% include figure.html image="akureyri-shades-420.jpg" alt="Me in Akureyri...with solar shades" 
-   cap="Me in Akureyri...with solar shades" width="275" height="275" align="left" %}
+   cap="Me in Akureyri...with solar shades" width="50%" placement="left" %}
 {% include figure.html image="knoxville-shades-420.jpg" alt="Me in Knoxville...with solar shades" 
-   cap="Me in Knoxville...with solar shades" width="275" height="275" align="right" %}
+   cap="Me in Knoxville...with solar shades" width="50%" placement="right" %}

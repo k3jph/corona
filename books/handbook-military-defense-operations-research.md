@@ -10,7 +10,7 @@ redirect_from:
   - /books/mdor
 ---
 
-{% include figure.html image="mdor-cover-300w.jpg" cap="" width="240" align="right"
+{% include figure.html image="mdor-cover-300w.jpg" placement="right" width="40%"
    alt="Handbook of Military and Defense Operations Research book cover" %}
 
 Operations research (OR) is a core discipline in military and defense
@@ -44,7 +44,7 @@ writers in the field. Regardless of background, readers of _MDOR_
 will find solutions for problems facing the security and defense
 space every day.
 
-### Links
+## Links
 
 *   [Chapman and Hall/CRC's Website](http://crcpress.com/9781138607330)
 *   [Amazon](https://www.amazon.com/gp/product/1138607339)

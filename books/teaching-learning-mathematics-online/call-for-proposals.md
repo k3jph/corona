@@ -131,7 +131,7 @@ based on a double-blind peer-review editorial process.
 CRC Press, Florida, USA, is a premier global publisher of science,
 technology, and medical resources. CRC Press is a member of Taylor
 & Francis Group. For additional information regarding the publisher,
-please visit their website at <<https://www.crcpress.com>>.
+please visit their website at [https://www.crcpress.com](https://www.crcpress.com).
 
 ### Important Dates
 
@@ -156,9 +156,9 @@ authors.
 
 Inquiries may be forwarded electronically to:
 
-* James P. Howard, II <james.howard@jhu.edu>
-* John F. Beyers <john.beyers@umuc.edu>
+*   James P. Howard, II <[james.howard@jhu.edu](mailto:james.howard@jhu.edu)>
+*   John F. Beyers <[john.beyers@umuc.edu](john.beyers@umuc.edu)>
 
 Updates and further information available at
-<https://jameshoward.us/tlmo>, or [sign-up to receive
+[https://jameshoward.us/tlmo](https://jameshoward.us/tlmo), or [sign-up to receive
 announcements](https://mailchi.mp/d3bfddbfa56a/teaching-and-learning-mathematics-online-sign-up).
