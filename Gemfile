@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "jekyll-gist"
+gem "jekyll-paginate"
+gem "jekyll-redirect-from"
+gem "jekyll-scholar"
+gem "jekyll-footnotes"
+gem "rake"
+gem "stringex"
