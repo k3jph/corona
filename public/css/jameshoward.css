@@ -23,6 +23,14 @@
  * Update the foundational and global aspects of the page.
  */
 
+ body {
+  background-color: #f0f0f0;
+ }
+
+ .sidebar-toggle {
+  background-color: #f0f0f0;
+}
+
 /* Quotes */
 blockquote cite {
   display: block;
