@@ -6,7 +6,7 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=4047
 featured-image: toolkit.png
-menu-order:     30
+menu-order:     40
 menu-label:     Projects
 ---
 
@@ -15,5 +15,24 @@ menu-label:     Projects
 The [Carme Nearspace Balloon System](/projects/carme) is my project
 to build a standardized system for tracking high-altitude balloons
 for the Coursera Internet of Things capstone course.
+
+## Danish Language Resources
+
+[_Danish Language Resources_](/dansk) is an interactive document
+that collects resources for English speakers who are learning the
+Danish language.  I started learning
+[Danish](http://en.wikipedia.org/wiki/Danish_language) through
+[Duolingo](http://duolingo.com) in December 2014. This document
+exists to collect resources from around the Internet, principally
+YouTube, to help students learning Danish and provide a catalog for
+my own use.  Please feel free to suggest additional material.
+
+## Swedish Language Resources
+
+[_Swedish Language Resources_](/svenska) is an interactive document
+that collects resources for English speakers who are learning the
+Swedish language. This page exists to collect resources from around
+the Internet, principally YouTube, to help students learning Danish
+and provide a catalog for my own use.
 
 _Image by [Florian Richter](https://www.flickr.com/photos/florianric/7263382550)._

@@ -6,7 +6,7 @@ author: James Howard
 layout: page
 guid: http://localhost/wp-faculty/?page_id=25
 featured-image: teaching.png
-menu-order:     60
+menu-order:     30
 menu-label:     Teaching
 ---
 Teaching is the opportunity to share the joy and passion of the material with others who might engage it.  In the classroom, my first goal is to extend to my students the intuitive understanding of the material.  As students approach economics and the underlying mathematics, some are easily intimidated and retreat from participation and learning.  Hands-on instruction is an effective approach for reaching that intuitive understanding, but not always practical.
