@@ -7,7 +7,7 @@ layout: page
 guid: http://localhost/wp-faculty/?page_id=2
 ---
 
-{% include figure.html image="jhoward-stacks.png" width="50%" placement="right"
+{% include figure.html image="jhoward-stacks.webp" width="50%" placement="right"
    alt="Me at the 2017 Howard County Library Evening in the Stacks"
    cap="Me at the 2017 Howard County Library Evening in the Stacks" %}
 
