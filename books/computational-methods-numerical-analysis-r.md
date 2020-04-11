@@ -73,6 +73,10 @@ development workflow. To install the development branch, use:
 devtools::install_github("howardjp/cmna", ref = "develop")
 {% endhighlight %}
 
+## Related Posts
+
+{% include relatedposts.html tag="CMNA" %}
+
 ## Bibliographic Information
 
 1. James P. Howard, II, _Computational Methods for Numerical Analysis with R_, ser. Numerical Analysis and Scientific Computing. New York: Chapman and Hall/CRC, 2017.

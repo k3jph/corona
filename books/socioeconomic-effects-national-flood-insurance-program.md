@@ -43,6 +43,10 @@ disasters, generally, and policymakers working on NFIP reform.
 * [Goodreads](https://www.goodreads.com/book/show/28206258)
 * [WorldCat](http://www.worldcat.org/oclc/951676021)
 
+## Related Posts
+
+{% include relatedposts.html tag="NFIP" %}
+
 ## Bibliographic Information
 
 1. James P. Howard, II, _Socioeconomic Effects of the National Flood Insurance Program_, 1st ed., ser. SpringerBriefs in Political Science. Cham, Switzerland: Springer International Publishing, 2016.

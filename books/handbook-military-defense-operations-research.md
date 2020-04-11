@@ -56,6 +56,10 @@ space every day.
 
 *   [Call for Proposals](/mdor/cfp)
 
+## Related Posts
+
+{% include relatedposts.html tag="MDOR" %}
+
 ## Bibliographic Information
 
 1. Natalie M. Scala and James P. Howard, II, Eds., _Handbook of Military and Defense Operations Research_, ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
