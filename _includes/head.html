@@ -8,7 +8,7 @@
   <meta name="p:domain_verify" content="282d1f28e1861fb0b3dfb20cf515c58e" />
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.title == null %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
@@ -30,9 +30,9 @@
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
 
-  <script src="https://kit.fontawesome.com/3efe1074f1.js" crossorigin="anonymous"></script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script defer async src="https://kit.fontawesome.com/3efe1074f1.js" crossorigin="anonymous"></script>
+  <script defer async src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script defer async id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <script>
     window.MathJax = {
         tex: {
@@ -52,5 +52,6 @@
   {% endif %}
 
   <a rel="me" href="https://scholar.social/@k3jph"></a>
+  <a rel="me" href="https://twitter.com/k3jph"></a>
   <a rel="me" href="https://www.facebook.com/k3jph"></a>
 </head>
