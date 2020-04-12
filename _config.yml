@@ -2,7 +2,7 @@
 title:               'James Howard'
 tagline:             'A Mathematician, a Different Kind of Mathematician, and a Statistician'
 description:         'A Mathematician, a Different Kind of Mathematician, and a Statistician'
-url:                  https://new.jameshoward.us
+url:                 ''
 baseurl:             ''
 twitter_username:    'k3jph'
 
@@ -17,6 +17,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-scholar
+  - jekyll-seo-tag
   - jekyll/footnotes
   
 # Pagination
