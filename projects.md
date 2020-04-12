@@ -18,21 +18,41 @@ for the Coursera Internet of Things capstone course.
 
 ## Danish Language Resources
 
+{% include figure.html image="Codex_Holmiensis_CE_1350.jpg"
+   placement="left" link="/dansk" width="40%"
+   cap="The first page of the Jutlandic Law originally from 1241 in Codex Holmiensis"
+   alt="The first page of the Jutlandic Law originally from 1241 in Codex Holmiensis" %}
+
 [_Danish Language Resources_](/dansk) is an interactive document
 that collects resources for English speakers who are learning the
 Danish language.  I started learning
 [Danish](http://en.wikipedia.org/wiki/Danish_language) through
-[Duolingo](http://duolingo.com) in December 2014. This document
-exists to collect resources from around the Internet, principally
-YouTube, to help students learning Danish and provide a catalog for
-my own use.  Please feel free to suggest additional material.
+[Duolingo](http://duolingo.com) in December 2014, because DuoLingo
+did not have an Icelandic course.  It still doesn't!  But Danish
+did a lot to help me read the signs in Iceland.
+
+This document exists to collect resources from around the Internet,
+principally YouTube, to help students learning Danish and provide
+a catalog for my own use.  Please feel free to suggest additional
+material.
 
 ## Swedish Language Resources
 
+{% include figure.html image="Västgötalagen_blad_21.jpg"
+   placement="right" link="/svenska" width="40%"
+   cap="Sheet number 21 from the Early Westrogothic law" 
+   alt="Sheet number 21 from the Early Westrogothic law" %}
+
 [_Swedish Language Resources_](/svenska) is an interactive document
 that collects resources for English speakers who are learning the
-Swedish language. This page exists to collect resources from around
-the Internet, principally YouTube, to help students learning Danish
-and provide a catalog for my own use.
+Swedish language. After I finished the Danish language course on
+Duolingo, I really wanted to keep my streak up.  I've since lost
+the streak, but kept it up at the time by completing the Swedish
+language course.  The similarities and differences are quite
+interesting between the two languages.
+
+This page exists to collect resources from around the Internet,
+principally YouTube, to help students learning Swedish and provide
+a catalog for my own use.
 
 _Image by [Florian Richter](https://www.flickr.com/photos/florianric/7263382550)._
