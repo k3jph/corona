@@ -1,6 +1,6 @@
 ---
 layout:       page
 title:        Blog
-menu-order:   99
+menu-order:   1
 menu-label:   Blog
 ---
