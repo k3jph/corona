@@ -31,17 +31,6 @@
   background-color: #f0f0f0;
 }
 
-@media (min-width: 38em) {
-  h3.masthead-title {
-    margin-right: auto;
-    margin-left: 3rem;
-  }
-  .page {
-    margin-left: 3rem;
-    margin-right: 1rem;
-  }
-}
-
 /* Quotes */
 blockquote cite {
   display: block;
