@@ -1,13 +1,25 @@
+<meta property="fb:app_id" content="364480777048278" />
 <meta content="{{ site.title }}" property="og:site_name">
-{% if page.title %}
-<meta content="{{ page.title }}" property="og:title">
-{% else %}
-<meta content="{{ site.title }}" property="og:title">
-{% endif %}
-{% if page.title %}
-<meta content="article" property="og:type">
-{% else %}
+{% if page.title == null %}
 <meta content="website" property="og:type">
+<meta content="{{ site.title }}" property="og:title">
+<meta content="{{ site.tagline }}" property="og:description">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:url">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:secure_url">
+{% else %}
+<meta content="article" property="og:type">
+<meta content="{{ page.title }} | {{ site.title }}" property="og:title">
+<meta content="{{ site.tagline }}" property="og:description">
+{% if page.featured-image != null %}
+<meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image">
+<meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image:url">
+<meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image:secure_url">
+{% else %}
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:url">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:secure_url">
+{% endif %}
 {% endif %}
 <meta content="{{ page.content | strip_html | xml_escape | truncate: 200 }}" property="og:description">
 {% if page.url %}
@@ -17,10 +29,14 @@
 <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 <meta content="{{ site.url }}" property="article:author">
 {% endif %}
-{% if page.featured-image %}
+{% if page.featured-image != null %}
 <meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image">
+<meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image:url">
+<meta content="{{ site.url }}/assets/images/{{ page.featured-image }}" property="og:image:secure_url">
 {% else %}
-<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property="og:image">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:url">
+<meta content="{{ site.url }}/assets/images/jhoward-stacks.png"" property=" og:image:secure_url">
 {% endif %}
 {% if page.categories %}
 {% for category in page.categories limit:1 %}

@@ -23,12 +23,12 @@
  * Update the foundational and global aspects of the page.
  */
 
- body {
-  background-color: #f0f0f0;
- }
+body {
+  background-color: #fcfcfc;
+}
 
- .sidebar-toggle {
-  background-color: #f0f0f0;
+.sidebar-toggle {
+  background-color: #fcfcfc;
 }
 
 /* Quotes */
@@ -47,16 +47,6 @@ ul ul {
 .content a {
   color:  #871717;
   text-decoration: underline;
-}
-
-/*
- * Container
- *
- * Center the page content.
- */
-
-.container {
-  max-width: 40rem;
 }
 
 /*
