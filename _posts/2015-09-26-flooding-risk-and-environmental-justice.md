@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2890
 permalink: /2015/09/26/flooding-risk-and-environmental-justice/
 dsq_thread_id:
   - "4167642279"
-featured-image: cedarrapids-840x400.png
+featured-image: cedarrapids.png
 categories:
   - Blog
 tags:

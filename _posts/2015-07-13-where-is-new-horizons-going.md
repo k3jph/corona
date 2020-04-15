@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2267
 permalink: /2015/07/13/where-is-new-horizons-going/
 dsq_thread_id:
   - "3931610174"
-featured-image: nh-pluto-7-11-15-1024x1024-840x525.jpg
+featured-image: nh-pluto.jpg
 categories:
   - Blog
 tags:
@@ -34,4 +34,3 @@ So if the RTG on New Horizons functions as expected, it will run out of power in
 This goes back to the steering question.  New Horizons does not have a lot of fuel, but it has enough to change its final destination by a lot.  So when NASA's operators figure how where they go after Pluto, then we will know which direction New Horizons is heading.  However, we know where [four other interstellar probes are going](http://spectrum.ieee.org/aerospace/robotic-exploration/plotting-the-destinations-of-4-interstellar-probes).
 
 _Image by NASA/JHUAPL/SWRI._
-

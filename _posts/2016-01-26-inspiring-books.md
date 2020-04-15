@@ -8,17 +8,9 @@ guid: https://jameshoward.us/?p=3755
 permalink: /2016/01/26/inspiring-books/
 dsq_thread_id:
   - "4526333626"
-ampforwp_custom_content_editor_checkbox:
-  - null
-onesignal_meta_box_present:
-  - "1"
-onesignal_send_notification:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
 ampforwp-amp-on-off:
   - default
-featured-image: useless-machine-840x400.png
+featured-image: useless-machine.png
 categories:
   - Blog
 tags:
@@ -34,9 +26,7 @@ tags:
 ---
 [Marvin Minksy has died.](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html)  Minsky was a pioneer of robotics and artificial intelligence at M.I.T. for half a century or so.  And among other things, he invented the [useless machine](https://en.wikipedia.org/wiki/Useless_machine), a device that simply switches itself off and has no other purpose.  One is shown in the picture above.
 
-This reminds me of another story I've been wanting to tell.  Last spring and summer, I told the story of the [virtual bumblebees](https://jameshoward.us/?s=bumblebee) and how I was inspired by _Artificial Life_ by Steven Levy.    
-
-  http://www.amazon.com/Artificial-Life-Frontier-Computers-Biology/dp/0679743898
+This reminds me of another story I've been wanting to tell.  Last spring and summer, I told the story of the [virtual bumblebees](https://jameshoward.us/?s=bumblebee) and how I was inspired by [_Artificial Life_ by Steven Levy](http://www.amazon.com/dp/0679743898).
 
 Importantly, I checked this book out around 1994.  Well, I think I also checked it out in 1997.  See, I purchased a copy from Amazon in 2005.  But while looking through a stash of books here a few weeks ago, I found another copy.  It was the copy belonging to [Lane Public Library](http://www.lanepl.org/).  The due date was September 2, 1997 and I appear to have had it checked out for more than 18 years at this point.[1. #ChaseKBH cannot believe I have had this book out since the year began with a 1.]  
 

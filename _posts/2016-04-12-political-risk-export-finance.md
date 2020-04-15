@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3966
 permalink: /2016/04/12/political-risk-export-finance/
 dsq_thread_id:
   - "4742052025"
-featured-image: boeing-plant-840x500.jpg
+featured-image: boeing-plant.jpg
 categories:
   - Blog
 tags:
@@ -29,6 +29,6 @@ Here's a great article on export credit.  Following the fight over the Export-Im
 
 Predictably, I make an appearance discussing political risk.  You can get the full article on _Global Trade_'s website:
 
-  http://www.globaltrademag.com/banking-on-global-trade/export-credit-agencies-abide
+{% include iframely.html url="http://www.globaltrademag.com/banking-on-global-trade/export-credit-agencies-abide" %}
 
 _Image of the Boeing Everett Factory via [Jetstar Airways and Wikimedia](https://en.wikipedia.org/wiki/File:Jetstar%27s_first_787_on_the_production_line_(9132370198).jpg).  Boeing is a beneficiary of Ex-Im Bank's financing options, creating jobs throughout the United States._

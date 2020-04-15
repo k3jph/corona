@@ -19,15 +19,16 @@ tags:
   - GTD
   - Remember the Milk
 ---
-<p>A couple of weeks ago, the <a href="http://www.rememberthemilk.com">Remember the Milk</a> blog posted about <a href="http://blog.rememberthemilk.com/2010/03/tips-tricks-tuesday-two-quick-ways-to-add-tasks-to-remember-the-milk-unix-command-line-automator-service-in-snow-leopard/">adding tasks at the command line</a>.  A simple way to handle task generation, but a bit too complex for even your average Unix hacker.  This script makes it easy and gives you an option to add a note!  Just set RTMADDR and PROG to be your Remember the Milk email address and your local script name, i.o.</p>
+A couple of weeks ago, the [Remember the Milk](http://www.rememberthemilk.com) blog posted about [adding tasks at the command line](http://blog.rememberthemilk.com/2010/03/tips-tricks-tuesday-two-quick-ways-to-add-tasks-to-remember-the-milk-unix-command-line-automator-service-in-snow-leopard/). A simple way to handle task generation, but a bit too complex for even your average Unix hacker. This script makes it easy and gives you an option to add a note! Just set RTMADDR and PROG to be your Remember the Milk email address and your local script name, _i.o._:
 
-<pre><code>#!/bin/sh
+{% highlight shell %}
+#!/bin/sh
 
 RTMADDR='user+NNN@rmilk.com'
 PROG='rtm'
 
 TEMP=`getopt -o n --long note -n $PROG -- "$@"`
-if [ $? != 0 ] ; then echo "Terminating..." &gt;&amp;2 ; exit 1 ; fi
+if [ $? != 0 ] ; then echo "Terminating..." >&2 ; exit 1 ; fi
 eval set -- "$TEMP"
 while true; do
         case "$1" in
@@ -38,15 +39,16 @@ while true; do
 done
 
 if [ x$NOTE == 'x' ]; then
-    mailx -s "$1" $RTMADDR &lt; /dev/null &gt; /dev/null
+    mailx -s "$1" $RTMADDR < /dev/null > /dev/null
 else
     mailx -s "$1" $RTMADDR
 fi
-</code></pre>
+{% endhighlight %}
 
-<p>From RTM&#8217;s example,</p>
+From RTM's example,
 
-<pre><code>rtm "Test code changes committed by Bart. ^tom @ 9a !1 #Testing #na @Work"
-</code></pre>
+{% highlight shell %}
+rtm "Test code changes committed by Bart. ^tom @ 9a !1 #Testing #na @Work"
+{% endhighlight %}
 
-<p>And use <code>-n</code> if you&#8217;d like it to ask for a note.</p>
+And use `-n` if you'd like it to ask for a note.

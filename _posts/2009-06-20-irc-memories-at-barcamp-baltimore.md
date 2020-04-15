@@ -19,9 +19,10 @@ tags:
   - barcamp
   - IRC
 ---
+{% highlight text %}
 	need more folks
---&gt;|	bryanl has joined #bcbmore
---&gt;|	avdi has joined #bcbmore
+-->|	bryanl has joined #bcbmore
+-->|	avdi has joined #bcbmore
 	and now more folks
 	say irc again, see what happens
 	:-)
@@ -39,5 +40,6 @@ tags:
 	No. I mean, I haven't been kicked out of an IRC channel since I was 16 (1996).
 	linkinus was doing me dirty
 =-=	YOU (howardjp) have been booted from #bcbmore by vees (for the memories)
---&gt;|	YOU (howardjp) have joined #bcbmore
+-->|	YOU (howardjp) have joined #bcbmore
 	now its been since 2009
+{% endhighlight %}

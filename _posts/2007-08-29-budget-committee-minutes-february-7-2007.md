@@ -15,4 +15,4 @@ tags:
   - Columbia
   - Columbia Association
 ---
-The <a href="https://jameshoward.us/wp-content/uploads/2007/08/Columbia_Association_-_Budget_Committee_Minutes_2007.02.07.pdf"rel="">minutes of the February 7, 2007 Budget Committee</a> were approved on August 22, 2007.
+The [minutes of the February 7, 2007 Budget Committee](/assets/docs/Columbia_Association_-_Budget_Committee_Minutes_2007.02.07.pdf) were approved on August 22, 2007.

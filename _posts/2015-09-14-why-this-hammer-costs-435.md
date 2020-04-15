@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2831
 permalink: /2015/09/14/why-this-hammer-costs-435/
 dsq_thread_id:
   - "4129584463"
-featured-image: ignite-hoco2-cover-840x500.png
+featured-image: ignite-hoco2-cover.png
 categories:
   - Blog
 tags:
@@ -22,7 +22,6 @@ tags:
 ---
 My talk on government accounting, "Why this Hammer Costs $435," at [Ignite Howard County](http://ignitehowardcounty.com/) is now available on YouTube.
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/tmIIwYu8w1g?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="tmIIwYu8w1g" %}
 
-You can read more about this [in this blog post](https://jameshoward.us/2015/01/31/hammer/).
-
+You can read more about this [in this blog post](/2015/01/31/hammer/).

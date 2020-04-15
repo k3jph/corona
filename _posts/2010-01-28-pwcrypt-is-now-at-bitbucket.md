@@ -23,10 +23,10 @@ tags:
   - pwcrypt
   - source code
 ---
-<p>As part of my plan to rescue data from old <a href="http://www.nongnu.org/cvs/">CVS</a> repositories, <a href="http://bitbucket.org/howardjp/pwcrypt/">PWCrypt is now available at Bitbucket</a>.  PWCrypt provides command line access to the Unix <a href="http://en.wikipedia.org/wiki/Crypt_%28Unix%29#Library_Function">crypt library function</a>.</p>
+As part of my plan to rescue data from old [CVS](http://www.nongnu.org/cvs/) repositories, [PWCrypt is now available at Bitbucket](http://bitbucket.org/howardjp/pwcrypt/). PWCrypt provides command line access to the Unix [crypt library function](http://en.wikipedia.org/wiki/Crypt_%28Unix%29#Library_Function).
 
-<p>This program and an accompanying article were written in response to a problem I had in 1999 with Netscape Enterprise Server.  After taking over administration of a Windows NT-based Netscape server, I discovered I did not know the administrator password for NES.  I hunted down the password file and saw it hashed passwords using the same format at the password file for Unix-like systems.</p>
+This program and an accompanying article were written in response to a problem I had in 1999 with Netscape Enterprise Server. After taking over administration of a Windows NT-based Netscape server, I discovered I did not know the administrator password for NES. I hunted down the password file and saw it hashed passwords using the same format at the password file for Unix-like systems.
 
-<p>So I needed a hashed value for a known password to drop into NES&#8217;s password database and used this program to create that value.  It&#8217;s seen no substantive changes since the original publication eleven years ago.</p>
+So I needed a hashed value for a known password to drop into NES's password database and used this program to create that value. It's seen no substantive changes since the original publication eleven years ago.
 
-<p>Nota bene:  This is a <a href="http://mercurial.selenic.com/">Mercurial</a> repository stored on <a href="http://www.bitbucket.org">Bitbucket</a>, not Git/GitHub like I&#8217;ve made available the past few weeks.  I chose Mercurial for this project so I could get a better feeling for it vis-à-vis Git.</p>
+_Nota bene_: This is a [Mercurial](http://mercurial.selenic.com/) repository stored on [Bitbucket](http://www.bitbucket.org), not Git/GitHub like I've made available the past few weeks. I chose Mercurial for this project so I could get a better feeling for it vis-à-vis Git.

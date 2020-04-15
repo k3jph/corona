@@ -6,10 +6,6 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2394
 permalink: /2015/08/10/bitcoin-mining-pools-and-income-smoothing/
-tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"2399";s:11:"_thumb_type";s:5:"thumb";}'
-dsq_thread_id:
-  - "4019331501"
 featured-image: 9484489496_b6a28de91d_z.jpg
 categories:
   - Blog

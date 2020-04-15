@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3037
 permalink: /2015/10/18/interstate-love-song-of-confusion/
 dsq_thread_id:
   - "4225981795"
-featured-image: I70and29-793x525.png
+featured-image: I70and29.png
 categories:
   - Blog
 tags:
@@ -20,6 +20,6 @@ Going northbound on [U.S. Route 29](https://en.wikipedia.org/wiki/U.S._Route_29_
 
 I don't get it, but I bet it makes this guy happy.
 
-<img src="https://jameshoward.us/wp-content/uploads/2015/10/scarecrow.jpg" alt="This guy would like this (MGM)" width="560" height="235" class="aligncenter size-full wp-image-3040" />
+{% include figure.html image="scarecrow.jpg" alt="This guy would like this (MGM)" cap="This guy would like this (MGM)" %}
 
 _Image stolen from [Google Maps](https://www.google.com/maps/@39.2961111,-76.8252186,15z)._

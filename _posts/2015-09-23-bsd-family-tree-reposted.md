@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4159655700"
 instant_articles_submission_id:
   - "1185409314880633"
-featured-image: Unix_history-simple.svg_-840x525.png
+featured-image: Unix_history-simple.svg_.png
 categories:
   - Blog
 tags:
@@ -26,7 +26,7 @@ I needed to cite (informally, in a Facebook conversation) a footnote I had writt
 
 Also, it turns out the footnote didn't say what I remembered it saying.  So what I needed it to say was,
 
-> NeXTSTEP is capitalized, variable, as NeXTstep, NeXTStep, NEXTSTEP, and even OpenStep.
+> NeXTSTEP is capitalized, variably, as NeXTstep, NeXTStep, NEXTSTEP, and even OpenStep.
 
 Well, I am sure I told that joke somewhere before.
 

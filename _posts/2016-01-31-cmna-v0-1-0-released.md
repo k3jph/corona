@@ -6,17 +6,11 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3774
 permalink: /2016/01/31/cmna-v0-1-0-released/
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
 dsq_thread_id:
   - "4540662881"
-ampforwp_custom_content_editor_checkbox:
-  - ""
 instant_articles_submission_id:
   - "232632643869573"
-featured-image: 1000px-Integration_trapezoid.svg_-840x300.png
+featured-image: 1000px-Integration_trapezoid.svg_.png
 categories:
   - Blog
 tags:
@@ -40,4 +34,3 @@ Each section of this text present a type of problem and a numerical solution.  T
 As we complete the review and editorial process, I will be posting more.
 
 _Image by [Emergie / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Integration_trapezoid.svg).  The image shows the trapezoid rule, which I think is one of the most elegant algorithms and got me hooked on scientific computing._
-

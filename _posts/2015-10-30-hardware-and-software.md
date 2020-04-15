@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4274521812"
 instant_articles_submission_id:
   - "1123619471088196"
-featured-image: Turtle_draw-840x525.jpg
+featured-image: Turtle_draw.jpg
 categories:
   - Blog
 tags:
@@ -34,4 +34,3 @@ But I learned to program on an [Atari 1200XL](http://www.atarimuseum.com/compute
 The ability to touch hardware allows a learner to see the connection between hardware and software.  Abstract data types are important.  And while ADTs can solve a lot of problems, the world is not made of abstract data.  Sometimes, especially in embedded systems engineering, seeing the connection between hardware and software is necessary to make them both function.  I have struggled for a few years about the right way to teach this to my kids.  So far, the [Arduino](https://www.arduino.cc/) has been best.  And that's still a hard system to hack.
 
 _Image by [Valiant Technology Ltd. / Wikimedia](https://commons.wikimedia.org/wiki/File:Turtle_draw.jpg)...now those are turtle graphics._
-

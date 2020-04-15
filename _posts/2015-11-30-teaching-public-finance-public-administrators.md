@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3261
 permalink: /2015/11/30/teaching-public-finance-public-administrators/
 dsq_thread_id:
   - "4364502324"
-featured-image: nyse-840x400.png
+featured-image: nyse.png
 categories:
   - Blog
 tags:
@@ -20,7 +20,7 @@ tags:
   - public finance
   - University of Baltimore
 ---
-Tonight is my last night of [teaching public finance](/teaching/public-economics) for the semester.[1. The last night of class is technically December 7th, but I cancelled class for personal reasons.]  Over the next two weeks or so, my students are working on a group paper analyzing options for alleviating food deserts in Baltimore, as the syllabus requires.  But the last night of instruction is tonight, and we are covering wealth taxes.
+Tonight is my last night of [teaching public finance](/teaching) for the semester.[1. The last night of class is technically December 7th, but I cancelled class for personal reasons.]  Over the next two weeks or so, my students are working on a group paper analyzing options for alleviating food deserts in Baltimore, as the syllabus requires.  But the last night of instruction is tonight, and we are covering wealth taxes.
 
 This semester has been interesting.  I have run the class as flipped classroom, which is probably fairly unusual in graduate classes.  But I found it was very helpful.  First, in a flipped classroom, students are supposed to review material ahead of the class and the homework is done collectively.  I noticed, fairly quickly, that review was not happening.  But I found working directly from the problems was much better for teaching applications than the deeper theoretical structure of [Hyman's _Public Finance_](http://www.amazon.com/Public-Finance-Contemporary-Application-Theory/dp/1285173953).  
 

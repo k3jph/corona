@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1898
 permalink: /2015/06/10/bitcoin-and-money/
 dsq_thread_id:
   - "3838360418"
-featured-image: coins-840x400.png
+featured-image: coins.png
 categories:
   - Blog
 tags:

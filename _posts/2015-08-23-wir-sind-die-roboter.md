@@ -8,8 +8,6 @@ guid: https://jameshoward.us/?p=2543
 permalink: /2015/08/23/wir-sind-die-roboter/
 dsq_thread_id:
   - "4057325576"
-ampforwp_custom_content_editor_checkbox:
-  - ""
 instant_articles_submission_id:
   - "1235468696566534"
 featured-image: Robocop.jpg
@@ -34,6 +32,8 @@ In 1987, that was a crazy idea.  By 2012, [it is routine](http://www.wired.com/2
 
 There's a qualitative difference between Amazon's algorithms showing me a bad pick on the next purchase and law enforcement misreading a dataset.  If Amazon messes up, they just lose revenue.  If law enforcement messes up, someone's life is about to get a lot worse.  And if that were not enough, the incentives are such that only Amazon will move to fix a bad algorithm.  The use of predictive analytics for legal purposes must be as an augmentation tool, and not as an automated tool that proceeds without supervision by someone capable of exercising reasoned judgement.  Copyright enforcement has made that exceptionally clear in the last five years.
 
-_Image by Orion Pictures, and [criticism constitutes fair use](http://copyright.gov/fair-use/), so the robots can suck it.  Also, if you want to come at me, bro, this:_
+{% include figure.html image="7proxies.png" cap="Also, seven Boxxys" placement="right" width="40%" %}
 
-[caption id="attachment_2588" align="aligncenter" width="514"]<img src="https://jameshoward.us/wp-content/uploads/2015/08/7proxies.png" alt="Also, seven Boxxys" width="514" height="339" class="size-full wp-image-2588" /> Also, seven Boxxys[/caption]
+_Image by Orion Pictures, and [criticism constitutes fair use](http://copyright.gov/fair-use/), so the robots can suck it.  Also, if you want to come at me, bro, this._
+
+<div style="clear: both;"></div>

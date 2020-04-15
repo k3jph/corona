@@ -19,6 +19,6 @@ tags:
   - PGP
   - security
 ---
-<p><a href="http://openpgpblog.tumblr.com/post/2052108473/openpgp-bot-on-twitter" class="tumblr_blog">openpgpblog</a>:</p>
+[openpgpblog](http://openpgpblog.tumblr.com/post/2052108473/openpgp-bot-on-twitter):
 
-<blockquote><p>For reasons I cannot entirely justify, I created a new Twitter account, <a href="http://twitter.com/openpgpbot">@OpenPGPBot</a>, that automatically retweets anything posted involving PGP, GnuPGP, or OpenPGP.  Please follow if it’s your thing.</p></blockquote>
+> For reasons I cannot entirely justify, I created a new Twitter account, [@OpenPGPBot](http://twitter.com/openpgpbot), that automatically retweets anything posted involving PGP, GnuPGP, or OpenPGP. Please follow if it’s your thing.

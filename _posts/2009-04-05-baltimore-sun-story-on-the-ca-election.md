@@ -16,6 +16,7 @@ tags:
   - election 2009
   - Long Reach
 ---
+
 This morning's Baltimore Sun [featured an article](http://www.baltimoresun.com/news/local/howard/bal-ho.politics05apr05,0,4726958.story) on this year's CA election.  It is delightful to be called young.
 
 Just to elaborate on some of the points in the article--I am running on six years of experience working with the CA and Long Reach.  This includes four years as Chair of the Financial Advisory and Budget committees and frequent volunteer consultant on economic, financial, and performance management issues to the Board and staff of the CA.  

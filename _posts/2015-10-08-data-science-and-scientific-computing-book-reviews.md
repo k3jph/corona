@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "1241762669242871"
-featured-image: kutzbookcover-834x525.jpeg
+featured-image: kutzbookcover.jpeg
 categories:
   - Blog
 tags:
@@ -27,4 +27,3 @@ Systems & Big Data](http://www.jstatsoft.org/article/view/v067b01)_ by J. Nathan
 From the review,
 
 > Unlike other scientific computing books, Kutz also takes on the broader topic of data science methods. The author, in his introduction, states two goals for his text. First, the text should be suitable for advanced undergraduate or introductory graduate instruction. Second, the book should be usable as a reference text for practitioners. Kutz divides the text into four parts, really representing two fields.
-

@@ -18,4 +18,5 @@ tags:
   - public economics
   - public financial management
 ---
+
 The Budget Committee will be meeting to review and consider the proposed [change in the assessment increase cap](https://jameshoward.us/2008/03/05/ca-budget-committee-called-back/) on April 2 and April 9 at 7 p.m. at the Columbia Association's headquarters building.  These meetings are open to the public and the exact location within the building will be posted at the entrance.

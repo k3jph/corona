@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3608
 permalink: /2016/01/11/iceland-on-mars/
 dsq_thread_id:
   - "4482598820"
-featured-image: terraforming-mars-840x200.png
+featured-image: terraforming-mars.png
 categories:
   - Blog
 tags:
@@ -20,11 +20,7 @@ tags:
   - space exploration
   - space governance
 ---
-Last summer, when I spoke at the [Mars Society Convention](https://jameshoward.us/2015/09/14/planning-for-martian-polity-now-on-youtube), I used Iceland as one of three comparison points for the expected evolution of self-governance on Mars.  Today, the Mars Society posted an older link about a 2014 conference on establishing a bill of rights for Mars:
-
-<a class="embedly-card" href="http://www.bbc.com/future/story/20140709-why-mars-needs-a-bill-of-rights">How to create a bill of rights for Mars colonies</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-Importantly, at the International Extraterrestrial Liberty Conference[1. How do I get an invite to the next one?], delegates used Iceland as the basis point for developing a governance strategy, though for slightly different reasons:
+Last summer, when I spoke at the [Mars Society Convention](https://jameshoward.us/2015/09/14/planning-for-martian-polity-now-on-youtube), I used Iceland as one of three comparison points for the expected evolution of self-governance on Mars.  Today, the Mars Society posted an older link about a 2014 conference on establishing a [bill of rights for Mars](http://www.bbc.com/future/story/20140709-why-mars-needs-a-bill-of-rights):
 
 >  [Iceland] is in a relatively isolated location with a low population. And, as on Mars, inhabitants also face a unique set of natural challenges, in fact parts of Iceland even look like an alien world.
 

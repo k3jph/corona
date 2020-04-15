@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2257
 permalink: /2015/06/30/valacers-article-on-the-nfip/
 dsq_thread_id:
   - "3893849072"
-featured-image: 2594326010_71c309e890_o-840x525.jpg
+featured-image: 2594326010_71c309e890_o.jpg
 categories:
   - Blog
 tags:
@@ -18,6 +18,6 @@ tags:
   - NFIP
   - recent research
 ---
-It's not groundbreaking, but Jeffrey Valacer has <a href="http://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1902&amp;context=plr">a new article</a> in the Pace Law Review that provides a solid legal history of the National Flood Insurance Program.  It's not paywalled.
+It's not groundbreaking, but Jeffrey Valacer has [a new article](http://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1902&context=plr) in the Pace Law Review that provides a solid legal history of the National Flood Insurance Program. It's not paywalled.
 
 <em>Image by: Don Becker / USGS.</em>

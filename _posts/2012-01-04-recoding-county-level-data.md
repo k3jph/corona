@@ -30,30 +30,20 @@ tags:
   - mathematics
   - scientific computing
 ---
-This evening I finished recoding a list of grants from <a href="http://www.fema.gov">FEMA</a> for <a href="http://www.fema.gov/government/grant/fma/index.shtm">Flood Mitigation Assistance</a>. This dataset contains 2108 entries, and contains the following columns, among others:
+This evening I finished recoding a list of grants from [FEMA](http://www.fema.gov) for [Flood Mitigation Assistance](http://www.fema.gov/government/grant/fma/index.shtm). This dataset contains 2108 entries, and contains the following columns, among others:
 
-<table border="0"><tbody><tr><th style="border-bottom: 1px solid black;border-top: 2px solid black;border-right: 10px solid transparent">State</th>
-      <th style="border-bottom: 1px solid black;border-top: 2px solid black;border-right: 10px solid transparent">County</th>
-      <th style="border-bottom: 1px solid black;border-top: 2px solid black">Subgrantee</th>
-    </tr><tr><td style="border-right: 10px solid transparent">Maryland</td>
-      <td style="border-right: 10px solid transparent">Garrett</td>
-      <td>Oakland, Town Of</td>
-    </tr><tr><td style="border-right: 10px solid transparent">Maryland</td>
-      <td style="border-right: 10px solid transparent"></td>
-      <td>Town of Bel Air</td>
-    </tr><tr><td style="border-right: 10px solid transparent">Maryland</td>
-      <td style="border-right: 10px solid transparent"></td>
-      <td>Howard County Department of Fire Rescue Services</td>
-    </tr><tr><td style="border-bottom: 2px solid black;border-right: 10px solid transparent">Maryland</td>
-      <td style="border-bottom: 2px solid black;border-right: 10px solid transparent">Worcester</td>
-      <td style="border-bottom: 2px solid black">Ocean City, Town Of</td></tr></tbody></table>
+| State    	| County    	| Subgrantee                                       	|
+|----------	|-----------	|--------------------------------------------------	|
+| Maryland 	| Garrett   	| Oakland, Town Of                                 	|
+| Maryland 	|           	| Town of Bel Air                                  	|
+| Maryland 	|           	| Howard County Department of Fire Rescue Services 	|
+| Maryland 	| Worcester 	| Ocean City, Town Of                              	|
 
-Because many of the subgrantee fields are filled even when the county is not and most of the subgrantees are local government agencies, I tried to recode the counties according to FIPS 6-4, &#8220;Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas.&#8221;   Local governments were recoded to their parent counties, as appropriate.
+Because many of the subgrantee fields are filled even when the county is not and most of the subgrantees are local government agencies, I tried to recode the counties according to FIPS 6-4, "Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas." Local governments were recoded to their parent counties, as appropriate.
 
 Going through this process by hand, I have some observations on the first-order divisions of states:
 
-<ol><li>There are five townships in Ohio with the name Scioto.</li>
-<li>There are two counties named Jeff Davis, one named Jefferson Davis, and a parish in Louisiana named Jefferson Davis.</li>
-<li>There are seven counties in the United States named Howard County.</li>
-<li>A remarkable number of states have cities and counties with the same name, but which are not near each other.</li>
-</ol>
+1.  There are five townships in Ohio with the name Scioto.
+2.  There are two counties named Jeff Davis, one named Jefferson Davis, and a parish in Louisiana named Jefferson Davis.
+3.  There are seven counties in the United States named Howard County.
+4.  A remarkable number of states have cities and counties with the same name, but which are not near each other.

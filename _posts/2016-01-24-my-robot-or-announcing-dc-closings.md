@@ -6,11 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3752
 permalink: /2016/01/24/my-robot-or-announcing-dc-closings/
-dsq_thread_id:
-  - "4519536864"
-instant_articles_submission_id:
-  - "1861131337507434"
-featured-image: snowcapitol-840x400.png
+featured-image: snowcapitol.png
 categories:
   - Blog
 tags:
@@ -24,9 +20,7 @@ tags:
   - systems science
   - webservices
 ---
-I always know when it's about to snow.  I get a lot of new Twitter followers.  Well, not really.  Another account I have, @opmdcstatus gets new followers.
-
-  https://twitter.com/opmdcstatus
+I always know when it's about to snow.  I get a lot of new Twitter followers.  Well, not really.  Another account I have, [@opmdcstatus](https://twitter.com/opmdcstatus) gets new followers.
 
 A long time ago, way back in 2011, the [Office of Personnel Management](http://www.opm.gov) only offered email broadcast of closings.  I worked for the [Fed](http://www.federalreserve.gov), which followed OPM guidance on closings at the time, but the broadcast announcements would sometimes be delivered several hours late...which is mostly useless.  I wanted a text alert, but OPM didn't offer one.  I could use Twitter to fake it.  Back before it was cool, Twitter worked via text message (that's why there's a 140 character limit).  And if you had an app, you could set certain accounts to deliver via text message.  But I needed a way to get the info to Twitter.
 

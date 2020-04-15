@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "419973988349578"
-featured-image: mongolian-yak-840x400.png
+featured-image: mongolian-yak.png
 categories:
   - Blog
 tags:

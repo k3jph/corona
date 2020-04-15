@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3422
 permalink: /2015/12/22/teaching-calculus/
 dsq_thread_id:
   - "4426627396"
-featured-image: calcrealpeople-840x525.jpg
+featured-image: calcrealpeople.jpg
 categories:
   - Blog
 tags:

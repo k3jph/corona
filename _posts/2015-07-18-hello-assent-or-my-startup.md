@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3946460335"
 instant_articles_submission_id:
   - "1702473683332573"
-featured-image: AssentWordmark-840x200.png
+featured-image: AssentWordmark.png
 categories:
   - Blog
 tags:
@@ -23,11 +23,9 @@ tags:
   - startup
   - systems science
 ---
-Last week, I posted about a start-up I worked for so many lives ago.  Tonight, I write what's coming next.  I posted a <a href="https://gust.com/companies/assentsystems">public profile to Gust</a>, the start up social network, for Assent Systems.  From our profile, this is what we are doing:
+Last week, I posted about a start-up I worked for so many lives ago. Tonight, I write what's coming next. I posted a [public profile to Gust](https://gust.com/companies/assentsystems), the start up social network, for Assent Systems. From our profile, this is what we are doing:
 
-<blockquote>
-  Assent Systems is creating next generation software licensing, management, and fulfillment tools. These tools enable independent software vendors to regulate usage of their products amongst end-user organizations, protecting their intellectual property and sales investments.
-</blockquote>
+> Assent Systems is creating next generation software licensing, management, and fulfillment tools. These tools enable independent software vendors to regulate usage of their products amongst end-user organizations, protecting their intellectual property and sales investments.
 
 In plain English, we are developing new systems for providing license control for independent software vendors.  This work is based on some experiences working with fulfillment software at the Fed.  But I didn't have everything I needed to make a superior alternative until recently.
 

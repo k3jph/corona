@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3986168677"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: tsquare-840x400.png
+featured-image: tsquare.png
 categories:
   - Blog
 tags:
@@ -27,6 +27,12 @@ Logarithmic scales are excellent for relating different measurements that exist 
 
 It does not make sense to measure the height of people, which is more or less, normally distributed, because the difference between someone who is 1.6 meters (m) and someone who is 1.9m is better represented by the raw difference.  If individuals's heights varied from, for instance, 1.5m through 200m, then a logarithmic scale might make more sense.
 
-A person's height is a fairly constrained measurement.  Length, more broadly, can be vary on many different scales.  And space is big.[1. Adams, Douglas. The Hitchhiker's Guide to the Galaxy: The Original Radio Scripts. London: Pan, 1985, p. 39.]  My commute is 50km, but the distance from the Earth to the Sun is approximately 150 million kilometers and the distance from the Earth to the Andromeda is [latex]2.4 \times 10^{19}[/latex] kilometers.  That's a lot.  And that is something we should measure on a logarithmic scale.
+A person's height is a fairly constrained measurement.  Length, more broadly, can be vary on many different scales.  And space is big.{% fn %}  My commute is 50km, but the distance from the Earth to the Sun is approximately 150 million kilometers and the distance from the Earth to the Andromeda is [latex]2.4 \times 10^{19}[/latex] kilometers.  That's a lot.  And that is something we should measure on a logarithmic scale.
 
-<em>Image by <a href="https://www.flickr.com/photos/brettlider/1574524437">Brett L. / Flickr</a>.</em>
+{% footnotes %}
+  {% fnbody %}
+Adams, Douglas. The Hitchhiker's Guide to the Galaxy: The Original Radio Scripts. London: Pan, 1985, p. 39.
+   {% endfnbody %}
+{% endfootnotes %}
+
+_Image by [Brett L. / Flickr](https://www.flickr.com/photos/brettlider/1574524437)._

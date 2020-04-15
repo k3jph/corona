@@ -15,6 +15,7 @@ tags:
   - land use
   - PELU
 ---
+
 Below is the video of the Public Engagement in Land Use Planning Task Force public hearing from April 10, 2008.  I'd like to thank [Bill Taylor](http://www.nocondos.org) for providing the video.
 
-<iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/W3HYy8_9KHc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="W3HYy8_9KHc" %}

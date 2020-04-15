@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3215
 permalink: /2015/11/12/classroom-regulation/
 dsq_thread_id:
   - "4313694204"
-featured-image: 15471928635_c2502585e0_z-640x400.jpg
+featured-image: 15471928635_c2502585e0_z.jpg
 categories:
   - Blog
 tags:

@@ -22,8 +22,8 @@ tags:
   - transportation
   - transportation policy
 ---
-<p>Tonight, <a href="http://www.facebook.com/dave.bittner">Dave Bittner</a> hosted &#8220;Conversation on Art and Culture in Downtown Columbia&#8221; for the Columbia Cultural Plan Advisory Committee.  The event was a large-scale coordinated focus group to ask what cultural resources Columbians need and want.</p>
+Tonight, [Dave Bittner](http://www.facebook.com/dave.bittner) hosted "Conversation on Art and Culture in Downtown Columbia" for the Columbia Cultural Plan Advisory Committee. The event was a large-scale coordinated focus group to ask what cultural resources Columbians need and want.
 
-<p>A prevailing theme that came out of each discussion was the need for good transportation to and from the cultural attractions.  Seniors were interested in transportation options, likely mass transit, for easy access.  Those outside of Town Center were interested in better parking throughout downtown for cultural attractions.  Everyone was worried about the traffic brought by events at Merriweather.  This topic and related genres came up again and again, completely independently as each working group appears to have revisited the issue.</p>
+A prevailing theme that came out of each discussion was the need for good transportation to and from the cultural attractions. Seniors were interested in transportation options, likely mass transit, for easy access. Those outside of Town Center were interested in better parking throughout downtown for cultural attractions. Everyone was worried about the traffic brought by events at Merriweather. This topic and related genres came up again and again, completely independently as each working group appears to have revisited the issue.
 
-<p>I am not an urban planner, but this seems important.</p>
+I am not an urban planner, but this seems important.

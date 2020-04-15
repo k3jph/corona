@@ -15,7 +15,7 @@ tags:
   - Columbia
   - Columbia Association
 ---
-The Fiscal Year 2008 [Columbia Budget Committee](/services/columbia-association) will begin operating on Wednesday, August 22.  The committee will be meeting once per month:
+The Fiscal Year 2008 [Columbia Budget Committee](/service) will begin operating on Wednesday, August 22.  The committee will be meeting once per month:
 * August 22, 2007
 * September 26, 2007
 * October 24, 2007 

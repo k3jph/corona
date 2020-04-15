@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4602853888"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: newyorker-dandy-840x500.png
+featured-image: newyorker-dandy.png
 categories:
   - Blog
 tags:
@@ -30,7 +30,7 @@ I wrote my capstone on the [American invasion of Russia](https://en.wikipedia.or
 
 The second time I took it, I was in a section focusing on the Cold War.  We heard a great presentation by Hugo Keesing on Cold War-themed music.  He had assembled a huge collection of Cold War-related songs, and I recall him playing "Atomic" by Blondie.  For reasons I have never been clear on, right around the same time, whenever you called Apple tech support, they would play "Atomic" on a loop on the hold music.  Keesing had a great story on NPR in 2010 on his Vietnam War-themed music archive.
 
-  http://www.npr.org/2010/11/11/131242902/-next-stop-is-vietnam-a-war-in-song
+{include iframely.html url="http://www.npr.org/2010/11/11/131242902/-next-stop-is-vietnam-a-war-in-song" %}
 
 Having been through it once and having just heard Keesing, I took a chance on the second project and studied the cartoons of _The New Yorker_ focusing on the Cold War.  The goal I had was to review _all_ of the cartoons in _The New Yorker_, highlight those that focused on Cold War themes (e.g., the military, the Soviet Union, nuclear weapons, and so forth).  
 

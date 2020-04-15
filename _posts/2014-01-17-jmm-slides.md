@@ -17,4 +17,5 @@ tags:
   - UMGC
   - UMUC
 ---
-<p style="text-align: left;"><a href="http://jmm2014.jameshoward.us">Check out my slides</a> from my talk at the 2014 Joint Mathematics Meeting.</p>
+
+[Check out my slides](http://jmm2014.jameshoward.us) from my talk at the 2014 Joint Mathematics Meeting.

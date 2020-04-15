@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3798
 permalink: /2016/02/10/code-coverage-counterexamples/
 dsq_thread_id:
   - "4569179037"
-featured-image: 8445190520_6830cb2c1e_k-840x525.jpg
+featured-image: 8445190520_6830cb2c1e_k.jpg
 categories:
   - Blog
 tags:
@@ -35,37 +35,37 @@ Code coverage estimates work by evaluating how thoroughly the code is checked.  
 
 When the functions written in R use regular expressions, there is essentially no branching.  Take this implementation of the `statcan` function (with comments removed):
 
-[sourcecode language="R"]
-statcan &lt;- function(word, maxCodeLen = 4) {
+{% highlight r %}
+statcan <- function(word, maxCodeLen = 4) {
 
-    word &lt;- gsub(&quot;[^[:alpha:]]*&quot;, &quot;&quot;, word)
-    word &lt;- toupper(word)
-    first &lt;- substr(word, 1, 1)
-    word &lt;- substr(word, 2, nchar(word))
+    word <- gsub("[^[:alpha:]]*", "", word)
+    word <- toupper(word)
+    first <- substr(word, 1, 1)
+    word <- substr(word, 2, nchar(word))
 
-    word &lt;- gsub(&quot;A|E|I|O|U|Y&quot;, &quot;&quot;, word)
-    word &lt;- paste(first, word, sep = &quot;&quot;)
-    word &lt;- gsub(&quot;([A-Z])\\1+&quot;, &quot;\\1&quot;, word)
-    word &lt;- substr(word, 1, maxCodeLen)
+    word <- gsub("A|E|I|O|U|Y", "", word)
+    word <- paste(first, word, sep = "")
+    word <- gsub("([A-Z])\\1+", "\\1", word)
+    word <--substr(word, 1, maxCodeLen)
 
     return(word)
 }
-[/sourcecode]
+{% endhighlight %}
 
 Not a single branch.  Any input will hit everyone line.  The code coverage tool is very happy here.  But it's stupid.
 
 This doesn't happen with the C++ based functions, where branching is normal and logic more interesting.  Consistently between the C++ functions, `soundex` and `metaphone`, the coverage holes were the same.  All of them contain, more or less, this code block:
 
-[sourcecode language="cpp"]
+{% highlight r %}
     if(x.length() == 0)
-        return(&quot;&quot;);
+        return("");
     if(x.length() == 1)
         return(x);
 
-    for(i = x.begin(); i != x.end() &amp;&amp; !isalpha(*i); i++);
+    for(i = x.begin(); i != x.end() && !isalpha(*i); i++);
     if(i == x.end())
-        return &quot;&quot;;
-[/sourcecode]
+        return "";
+{% endhighlight %}
 
 I failed to test the `NULL` string, single letter strings, and strings with a single letter followed by nonalphabetical characters.  I added each of the three classes to the test suites.
 
@@ -84,4 +84,3 @@ It's become a staple for programmers to ask how much code coverage is enough.  H
 There's a lot more out there, too.  Universally, the suggestion seems to be 80 percent is probably good enough.  But here, in a single small project, there's an example of a function with perfect code coverage which may or may not be tested correctly and another function with better than 90 percent coverage that is clearly insufficiently tested.
 
 _Image by [Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/8445190520/)._
-

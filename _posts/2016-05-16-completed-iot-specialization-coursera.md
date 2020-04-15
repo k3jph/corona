@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4833078452"
 instant_articles_submission_id:
   - "1819962764951903"
-featured-image: Coursera-CLK88WSXRQVQ-800x525.png
+featured-image: Coursera-CLK88WSXRQVQ.png
 categories:
   - Blog
 tags:

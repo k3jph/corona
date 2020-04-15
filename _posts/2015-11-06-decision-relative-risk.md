@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3168
 permalink: /2015/11/06/decision-relative-risk/
 dsq_thread_id:
   - "4295364762"
-featured-image: 640px-Female_Emperor_Scorpion-640x400.jpg
+featured-image: 640px-Female_Emperor_Scorpion.jpg
 categories:
   - Blog
 tags:
@@ -23,7 +23,7 @@ Cracked has a bit listicle on [things Hollywood thinks are more dangerous](http:
 
 Apparently finding a [scorpion in the shower](http://awesomearachnids.tumblr.com/post/122624216845/sir-p-audax-shaebay-scorpling-in-the) is a [thing that happens](http://historysafariexpress.airstreamlife.com/2011/10/09/agua-caliente-contemplations/).  But this nails the risk.  While something joining you in the shower, suddenly, may scare the hell out of you,
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/atjhOhH-V3E?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="atjhOhH-V3E" %}
 
 You are probably more likely to injure yourself reacting than from the original source of a problem.  This sort of risk analysis needs to be conducted more frequently.  Risks from cybersecurity, terrorism, and petty crime terrify a great many people.  But overall, the relative risk is low and the cost of fighting it excessively high.
 

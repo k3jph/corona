@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3312
 permalink: /2015/12/08/gun-violence-expensive-internalize-costs/
 dsq_thread_id:
   - "4384940945"
-featured-image: bullets-840x400.png
+featured-image: bullets.png
 categories:
   - Blog
 tags:
@@ -36,6 +36,6 @@ As high as this number is, several analytical decisions here push this number do
 
 Of course, this is hardly an original idea.  
 
-<iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/OuX-nFmL0II?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="OuX-nFmL0II" %}
 
 _Image by [U.S. Army Environmental Command / Flickr](https://www.flickr.com/photos/armyenvironmental/3552296540)._

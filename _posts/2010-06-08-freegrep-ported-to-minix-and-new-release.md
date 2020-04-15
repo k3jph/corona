@@ -20,6 +20,6 @@ tags:
   - Github
   - Minix
 ---
-<p>This morning, <a href="http://github.com/gautambt">GitHub user gautambt</a> ported <a href="http://github.com/howardjp/freegrep">FreeGrep</a> to <a href="http://www.minix3.org">Minix 3</a>.  While the build system leaves something to be desired, I remain resolute in my desire to never learn Autoconf.  I have pulled <strong>gautambt</strong>'s changes into the master branch on GitHub.</p>
+This morning, [GitHub user gautambt](http://github.com/gautambt) ported [FreeGrep](http://github.com/howardjp/freegrep) to [Minix 3](http://www.minix3.org). While the build system leaves something to be desired, I remain resolute in my desire to never learn Autoconf. I have pulled **gautambt**'s changes into the master branch on GitHub.
 
-<p>In related news, I figured that after 12 years, it was time to let this thing graduate.  So I cut a new release and have blessed it as version 1.0.  The release should build cleanly on FreeBSD, NetBSD, OpenBSD, and Minix 3.  Compiling by hand, it will also build on OS X.  You can download FreeGrep 1.0 from <a href="http://github.com/howardjp/freegrep/downloads">GitHub</a> and <a href="ftp://ftp.jameshoward.us/pub/howardjp/grep/.">ftp://ftp.jameshoward.us/pub/howardjp/grep/.</a></p>
+In related news, I figured that after 12 years, it was time to let this thing graduate. So I cut a new release and have blessed it as version 1.0. The release should build cleanly on FreeBSD, NetBSD, OpenBSD, and Minix 3. Compiling by hand, it will also build on OS X. You can download FreeGrep 1.0 from [GitHub](http://github.com/howardjp/freegrep/downloads) and [ftp://ftp.jameshoward.us/pub/howardjp/grep/](ftp://ftp.jameshoward.us/pub/howardjp/grep/).

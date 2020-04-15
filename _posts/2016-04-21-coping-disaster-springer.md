@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4764837050"
 instant_articles_submission_id:
   - "284584218670653"
-featured-image: tsunami-sign-840x500.png
+featured-image: tsunami-sign.png
 categories:
   - Blog
 tags:
@@ -27,4 +27,3 @@ For those of you who don't know, Springer will be publishing my new book on floo
 To commemorate the March 11, 2011 Earthquake, Springer has made an extensive series of articles, books, and chapters available for free under the heading [Coping with Disaster](http://www.springer.com/gp/marketing/coping-with-disaster).  The collection provides information on individuals, PTSD, business response, environmental effects, and a lot more.  If you've done some work on any of these things, there's something here for you.
 
 _Image by [M.O. Stevens / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsunami_evac_sign_Seaside_Oregon.JPG)._
-

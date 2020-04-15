@@ -14,7 +14,7 @@ ampforwp_custom_content_editor_checkbox:
   - null
 ampforwp-amp-on-off:
   - default
-featured-image: circlingthedrain-840x400.png
+featured-image: circlingthedrain.png
 categories:
   - Blog
 tags:
@@ -37,7 +37,7 @@ The stormwater management fee pays for restoration and stormwater management.  T
 
 The testimony on the proposal was kind of odd, including Diane Wilson, the county's chief of staff, completely unable to explain anything at all about the proposal.  I am assuming this is because she knows the numbers don't add up, something anyone who spent more than 5 minutes with the county budget would recognize.  And as weird as Wilson's clear fear of being asked a question was, things got really surreal after the Rev. Paige Getty testified against the proposal.  Here's her testimony on YouTube:
 
-  https://www.youtube.com/watch?v=npR5zkg0kTI
+{% include youtube.html id="npR5zkg0kTI" %}
 
 The Rev. Getty is the senior minister at the [Unitarian Universalist Congregation of Columbia](http://uucolumbia.net/).  Councilman Fox's questioning seemed a bit, uh, ungrounded.  To summarize, his point was this is disproportionately paid by businesses, who pay up to "20 to 50 percent of their property tax bill" in stormwater remediation versus homeowners who pay around 1 percent.  That certainly sounds unfair, which is Fox's point, until you understand why.  
 

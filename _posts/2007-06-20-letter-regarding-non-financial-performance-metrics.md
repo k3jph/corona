@@ -17,4 +17,5 @@ tags:
   - public economics
   - public financial management
 ---
-<a href="https://jameshoward.us/wp-content/uploads/2015/12/jh-2008-metrics.pdf"rel="">This letter</a> presents an overview of what priorities must be established when formulating non-financial performance metrics. The letter was sent to the Performance Oversight Committee of the [Columbia Association](http://www.columbiassociation.com) on June 1, 2007. It is a rehashing of the testimony presented to the Columbia Association's Planning and Strategy Committee on May 10, 2007.
+
+[This letter](/assets/docs/jh-2008-metrics.pdf) presents an overview of what priorities must be established when formulating non-financial performance metrics. The letter was sent to the Performance Oversight Committee of the [Columbia Association](http://www.columbiassociation.com) on June 1, 2007. It is a rehashing of the testimony presented to the Columbia Association's Planning and Strategy Committee on May 10, 2007.

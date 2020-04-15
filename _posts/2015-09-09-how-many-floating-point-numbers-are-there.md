@@ -8,23 +8,7 @@ guid: https://jameshoward.us/?p=2741
 permalink: /2015/09/09/how-many-floating-point-numbers-are-there/
 dsq_thread_id:
   - "4112776720"
-ampforwp_custom_content_editor_checkbox:
-  - ""
-instant_articles_submission_id:
-  - "1283086975060593"
-php_everywhere_code:
-  - |
-    <div id="post-wrapper2" class="post-wrapper clearfix">
-    <?php
-    global $post;
-    
-    $q = new WP_Query('tag=' . $post->post_name);
-    while ( $q->have_posts() ) : $q->the_post();
-    get_template_part( 'template-parts/content', 'slider' );
-    endwhile;
-    echo("</div>");
-    tortuga_pagination(); ?>
-featured-image: 1000px-IEEE_754_Single_Floating_Point_Format.svg_-840x202.png
+featured-image: 1000px-IEEE_754_Single_Floating_Point_Format.svg_.png
 categories:
   - Blog
 tags:
@@ -47,14 +31,14 @@ The final part of a floating point number is the _exponent_.  The exponent, like
 Finally, a single bit gives the sign of the number.
 
 With these three components, a floating point number like 1000 is stored as,
-\begin{equation}
+<center>[latex]
   1000 = 0\text{b}1111101000 * 2^{9}\text{,}
-\end{equation}
+[/latex]</center>
 where the 2 is never stored.  Similarly, a negative exponent can represent fractional values. 
 
-Now let's do some math.  For any given value of the exponent, there are $latex 2^{24} = 16777216$ possible numbers that can be represented.  However, the exponent decides how big that number will be.  With a single bit reserved for sign of the exponent, 7 bits are available.  This gives an exponent range of -126 to 127.  For exponents from -126 to 0 (127 possible), there are $latex 127 \times 16777216 = 2130706432$ possible bit combinations.  And for exponents 1 to 127 (also 127 possible), there are 2130706432 possible bit combinations.  But exponents from 0 down represent numbers less than $latex 2^1$ and greater than 0.  Exponents from 1 up represent numbers from 2 up.  
+Now let's do some math.  For any given value of the exponent, there are [latex] 2^{24} = 16777216[/latex] possible numbers that can be represented.  However, the exponent decides how big that number will be.  With a single bit reserved for sign of the exponent, 7 bits are available.  This gives an exponent range of -126 to 127.  For exponents from -126 to 0 (127 possible), there are [latex] 127 \times 16777216 = 2130706432 [/latex] possible bit combinations.  And for exponents 1 to 127 (also 127 possible), there are 2130706432 possible bit combinations.  But exponents from 0 down represent numbers less than [latex] 2^1 [/latex] and greater than 0.  Exponents from 1 up represent numbers from 2 up.  
 
-As a result, allowing for some special carveouts to handle infinity, non a number, and other special floating point numbers, there are the same number of floating point numbers from 0 to 2 as there are from 2 to the maximum single precision number, around $latex 3.402 \times 10^{38}$.  The same logic also holds for double, quadruple, and other fixed-precision formats.
+As a result, allowing for some special carveouts to handle infinity, non a number, and other special floating point numbers, there are the same number of floating point numbers from 0 to 2 as there are from 2 to the maximum single precision number, around [latex] 3.402 \times 10^{38} [/latex].  The same logic also holds for double, quadruple, and other fixed-precision formats.
 
 There's a great single-precision floating point converter [available on the web](http://www.h-schmidt.net/FloatConverter/IEEE754.html).
 

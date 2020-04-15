@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3336
 permalink: /2015/12/12/how-we-externalize-other-life-risks/
 dsq_thread_id:
   - "4396532455"
-featured-image: car-accident-840x350.png
+featured-image: car-accident.png
 categories:
   - Blog
 tags:
@@ -24,7 +24,7 @@ tags:
   - taxation
   - valuation
 ---
-In my [estimate of the costs of gun violence](https://jameshoward.us/2015/12/05/gun-related-violence-recession), someone suggests that amortizing the costs across ammunition is not an appropriate solution, giving this example:
+In my [estimate of the costs of gun violence](/2015/12/05/gun-related-violence-recession), someone suggests that amortizing the costs across ammunition is not an appropriate solution, giving this example:
 
 > I doubt just take $9.1 million X the 30ish thousands automobile deaths each year and follow it up with a break down for a large tax on... break pads, tires, gas?
 

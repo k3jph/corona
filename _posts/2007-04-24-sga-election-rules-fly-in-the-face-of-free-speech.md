@@ -15,7 +15,7 @@ tags:
   - student government
   - UMD
 ---
-[tplist include="33" headline="0" style="simple"]
+* James P. Howard, II, "SGA Election Rules Fly in the Face of Free Speech," _University of Maryland Diamondback_, Apr. 13, 2007.
 
 As a 2002 graduate of the university, I am saddened and disturbed by the treatment of Jahantab Siddiqui and the shrouded mystery of the Student Government Elections. The fact that Bret Cullinan has declared himself to be the arbiter of what is and is not campaigning is reminiscent of a military dictatorship, not a freely elected student government in a free country. Clear rules must apply, and even then it is abhorrent that at a university of all places free speech is stifled.
 

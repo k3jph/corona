@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "418958268451909"
-featured-image: barchart-rasiel-840x525.png
+featured-image: barchart-rasiel.png
 categories:
   - Blog
 tags:

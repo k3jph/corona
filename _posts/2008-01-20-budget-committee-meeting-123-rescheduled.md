@@ -18,4 +18,5 @@ tags:
   - public economics
   - public financial management
 ---
+
 The [Budget Committee](/service/columbia-association) meeting previously scheduled for January 23, 2008 has been rescheduled for January 31, 2008.

@@ -6,6 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1758
 permalink: /2015/01/26/syllabus-public-financial-management-2015/
+featured-image: 7143277339_119f20d696_z.jpg
 dsq_thread_id:
   - "3457928219"
 categories:
@@ -23,7 +24,6 @@ tags:
   - teaching
   - University of Baltimore
 ---
-[caption id="attachment_1759" align="aligncenter" width="640"]<a href="https://jameshoward.us/wp-content/uploads/2015/01/7143277339_119f20d696_z.jpg"><img src="https://jameshoward.us/wp-content/uploads/2015/01/7143277339_119f20d696_z.jpg" alt="That&#039;s a nicer boardroom than we&#039;ll have (ShellVacationsHospitality / Flickr)" width="640" height="419" class="size-full wp-image-1759" /></a> That's a nicer boardroom than we'll have (ShellVacationsHospitality / Flickr)[/caption]
 
 Despite the snowstorm wrecking havoc around the East Coast, the [University of Baltimore](http://www.ubalt.edu) is open and operating today.  Today is the first day of class at UB and I will be teaching PUAD 702, Public Financial Management, again, this spring.  And it's going to be fun.
 
@@ -33,4 +33,4 @@ There are also two memos for the course.  The first is an evaluation of a city's
 
 The really interesting change is the group project.  The class will run a startup nonprofit during the course of the classroom.  This is a more "real world" hands on experience than can typically be offered a financial analysis course.  An organization's startup process focuses on financial matters from strategic planning, to basic accounting, to filing a tax exemption form.  With luck, the students will continue with this project long after the semester is over. 
 
-The syllabus for this class is [available here](https://jameshoward.us/wp-content/uploads/2015/01/PUAD702-Syllabus-2015.pdf).
+The syllabus for this class is [available here](/assets/docs/PUAD702-Syllabus-2015.pdf).

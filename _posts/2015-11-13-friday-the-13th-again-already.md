@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3212
 permalink: /2015/11/13/friday-the-13th-again-already/
 dsq_thread_id:
   - "4313698931"
-featured-image: 270007412_37c6fabf50_z-587x525.jpg
+featured-image: 270007412_37c6fabf50_z.jpg
 categories:
   - Blog
 tags:
@@ -29,30 +29,30 @@ First, I tried working over a perpetual calendar, but the one I had had small pr
 
 Realizing the 400 year-cycle limited the possible options anyway, and that is only 4800 months, checking a million or more random months seemed excessive.  So I wrote this program:
 
-[sourcecode language="R" light="true"]
+{% highlight r %}
 library(lubridate)
 
-year.start &lt;- 2000
-year.end &lt;- 2399
-day13 &lt;- rep(0, 7)
+year.start <- 2000
+year.end <- 2399
+day13 <- rep(0, 7)
 
 for(i in year.start:year.end) {
   for(j in 1:12) {
-    thedate &lt;- paste(j, &quot;13&quot;, i, sep = &quot;/&quot;)
-    thedate.dt &lt;- as.Date(thedate, &quot;%m/%d/%Y&quot;)
-    dow &lt;- wday(thedate.dt)
-    day13[dow] &lt;- day13[dow] + 1
+    thedate <- paste(j, "13", i, sep = "/")
+    thedate.dt <- as.Date(thedate, "%m/%d/%Y")
+    dow <- wday(thedate.dt)
+    day13[dow] <- day13[dow] + 1
   }
 }
 
 print(day13)
-[/sourcecode]
+{% endhighlight %}
 
 And I get the output,
 
-[sourcecode language="R" light="true"]
+{% highlight r %}
 [1] 687 685 685 687 684 688 684
-[/sourcecode]
+{% endhighlight %}
 
 And that agrees with Wikipedia, which tells me I should have looked there, first.  But if you're feeling a bit unlucky on the 13th, and it's a Friday, and you feel like it comes around more often than it should...you'd be right.
 

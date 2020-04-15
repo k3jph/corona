@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2335
 permalink: /2015/07/23/building-an-fm-beacon/
 dsq_thread_id:
   - "3964416122"
-featured-image: 20150723_165144-840x525.jpg
+featured-image: 20150723_165144.jpg
 categories:
   - Blog
 tags:
@@ -33,7 +33,7 @@ But a pure CW wave is silent.  The squelch on the receiving radio opens, but the
 
 We can do that too, by changing the frequency of the transmitter.  We broadcast 100mW at 432.330Mhz with a shift of 300Hz (after trying several different options, we decided this sounded good).  The radio is controlled using the [RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead/) library and Morse generated using the [Morse library for Arduino](https://github.com/markfickett/arduinomorse) (which, because it is C++, even though it is designed for running an LED, can be extended to controlling a radio).[1.  Class-based inheritance: good programming practice, bad social policy.]  I have made the code available [via GitHub](https://github.com/howardjp/bronze-olive).  You can hear it in this video.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/gnsdQhnmpgw" frameborder="0" allowfullscreen></iframe></center>
+{% include youtube.html id="gnsdQhnmpgw" %}
 
 The Morse code string sent is "K3JPH/B Bronze Olive."  [K3JPH](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3503446) is my callsign issued by the FCC.  The /B is a traditional callsign appendix for beacons.  "Bronze Olive" was created by an Internet code name generator.  Version numbers suck and this is what came out.  It's no [Castle Bravo](https://en.wikipedia.org/wiki/Castle_Bravo), but it will do.  
 
@@ -41,4 +41,4 @@ Our next steps are to shrink the package.  Using standard Arduino components, we
 
 In the mean time, I'd like to remind you the space robots are here to protect you from the terrible secret of space:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3_t2HDFM4nQ" frameborder="0" allowfullscreen></iframe></center>
+{% include youtube.html id="3_t2HDFM4nQ" %}

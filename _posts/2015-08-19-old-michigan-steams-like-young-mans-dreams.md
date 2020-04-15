@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2507
 permalink: /2015/08/19/old-michigan-steams-like-young-mans-dreams/
 dsq_thread_id:
   - "4048606568"
-featured-image: lakemichighan-840x474.png
+featured-image: lakemichighan.png
 categories:
   - Blog
 tags:
@@ -23,9 +23,6 @@ But Waukesha is just outside the Basin and doesn't have access to freshwater.  T
 
 The real problem here is that the western U.S., currently in a terrible drought, [really wants this water](http://www.freep.com/story/news/local/2015/04/19/michigan-great-lakes-water/25965121/).  This is both impractical and terribly expensive.
 
-You can hear more about it on [Morning Edition](http://www.npr.org/2015/08/19/432830927/effort-to-divert-water-from-lake-michigan-sets-off-fierce-debate):
-
-<blockquote class="embedly-card" data-card-key="becebaf8d1b14831b7d9031cb0514ce3"><h4><a href="http://www.npr.org/2015/08/19/432830927/effort-to-divert-water-from-lake-michigan-sets-off-fierce-debate">Effort To Divert Water From Lake Michigan Sets Off Fierce Debate</a></h4><p>Wis. Gov. Scott Walker has given preliminary approval for a community just outside the lake basin to siphon off a large amount of drinking water from Lake Michigan.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+You can hear more about it on [Morning Edition](http://www.npr.org/2015/08/19/432830927/effort-to-divert-water-from-lake-michigan-sets-off-fierce-debate).
 
 _Image by [Rachel Kramer / Flickr](https://www.flickr.com/photos/rkramer62/3822325264)._

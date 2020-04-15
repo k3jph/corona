@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3765
 permalink: /2016/01/28/the-young-astronauts-program/
 dsq_thread_id:
   - "4530470813"
-featured-image: challenger-840x400.png
+featured-image: challenger.png
 categories:
   - Blog
 tags:

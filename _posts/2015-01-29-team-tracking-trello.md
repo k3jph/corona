@@ -20,12 +20,16 @@ tags:
 
 I've made a sample board, using [Star Trek: Deep Space Nine](http://www.startrek.com/page/star-trek-deep-space-nine) as the premise:
 
-[caption id="attachment_1783" align="aligncenter" width="1422"]<a href="https://jameshoward.us/wp-content/uploads/2015/01/Status-Board-Trello.png"><img src="https://jameshoward.us/wp-content/uploads/2015/01/Status-Board-Trello.png" alt="What&#039;s going on on Upper Pylon 2, anyway? (Trello)" width="1422" height="359" class="size-full wp-image-1783" /></a> What's going on on Upper Pylon 2, anyway? (Trello)[/caption]
+{% include figure.html image="Status-Board-Trello.png"
+   cap="What's going on on Upper Pylon 2, anyway? (Trello)" 
+   alt="What's going on on Upper Pylon 2, anyway? (Trello)" %}
 
 You can see the [actual board here](https://trello.com/b/zkYNhmMf/status-board).  And with Worf and Dax spending that much time together, it's not wonder they got married.
 
 In addition, many offices have calendars showing where people will be day-to-day.  It will have future statuses for vacation and teleworking. I've created a sample 5-day telework schedule using Deep Space Nine as the background, again:
 
-[caption id="attachment_1781" align="aligncenter" width="1424"]<a href="https://jameshoward.us/wp-content/uploads/2015/01/Telework-Schedule-Trello.png"><img src="https://jameshoward.us/wp-content/uploads/2015/01/Telework-Schedule-Trello.png" alt="Worf sure is phoning it in (Trello)" width="1424" height="328" class="size-full wp-image-1781" /></a> Worf sure is phoning it in (Trello)[/caption]
+{% include figure.html image="Telework-Schedule-Trello.png"
+   cap="Worf sure is phoning it in (Trello)" 
+   alt="Worf sure is phoning it in (Trello)" %}
 
 [The live board is also accessible.](https://trello.com/b/xjebC08U/telework-schedule) In both cases, the schedule can be easily updated and changed when ground-level circumstances change.  Neither is perfect, but for small organizations, this can really meet the need, and it takes only a few minutes to set it up.

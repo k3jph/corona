@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2053
 permalink: /2015/04/27/green-beelievers-update/
 dsq_thread_id:
   - "3718390882"
-featured-image: baltimore-skyline-840x366.png
+featured-image: baltimore-skyline.png
 categories:
   - Blog
 tags:

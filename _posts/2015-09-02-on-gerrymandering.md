@@ -27,7 +27,7 @@ There's been a lot of talk about a recent gerrymandering disaster in Missouri.  
 
 Suzuki, Jeff,  [The self-limiting partisan gerrymander: an optimization approach](http://www.jstor.org/stable/10.4169/college.math.j.45.5.338?seq=1#page_scan_tab_contents), _College Math. J._ 45 (2014), no. 5, 338--348.
 
-Jeff Suzuki also wrote _Constititional Calculus_, which I [also reviewed for MR](https://jameshoward.us/2015/08/01/review-of-constitutional-calculus-by-jeff-suzuki/), last month.
+Jeff Suzuki also wrote _Constititional Calculus_, which I [also reviewed for MR](/2015/08/01/review-of-constitutional-calculus-by-jeff-suzuki/), last month.
 
 _Image by the [Columbia Tribune](http://www.columbiatribune.com/news/local/college-student-would-be-sole-voter-in-cid-sales-tax/article_6702c44b-0243-51f8-861c-1df0b462cd92.html)._
 

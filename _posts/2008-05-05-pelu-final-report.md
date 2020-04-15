@@ -14,4 +14,4 @@ tags:
   - PELU
   - reports
 ---
-Today, the Public Engagement in Land Use Planning Task Force (PELU) issued its final report.  <a href="https://jameshoward.us/wp-content/uploads/2015/10/pelu-report.pdf">You can download the report here.</a>
+Today, the Public Engagement in Land Use Planning Task Force (PELU) issued its final report. [You can download the report here.](/assets/docs/pelu-report.pdf)

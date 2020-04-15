@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2233
 permalink: /2015/06/22/take-it-down-amazon/
 dsq_thread_id:
   - "3870699032"
-featured-image: takeitdown-840x525.jpg
+featured-image: takeitdown.jpg
 categories:
   - Blog
 tags:
@@ -24,7 +24,13 @@ The flag flying in South Carolina is a critical piece of this discussion.  Today
 
 During the fiasco here, I noticed something about how easy it is to get a Confederate flag.  For something disgraceful to own and show, it sure is cheap and easy to get.  Here's a comparison of how many products are available on Amazon, this evening, from the following search terms:
 
-[table id=2 /]
+| Search Term      	| Items   	| Books  	| Nonbook Items 	|
+|------------------	|---------	|--------	|---------------	|
+| Confederate flag 	| 29,991  	| 7,291  	| 22,700        	|
+| American flag    	| 376,903 	| 37,120 	| 339,783       	|
+| Nazi flag        	| 3,013   	| 2,511  	| 502           	|
+| ISIS flag        	| 173     	| 116    	| 57            	|
+| Rainbow flag     	| 75,697  	| 356    	| 75,341        	|
 
 Confederate flag items for purchase include lighters, flags, stickers, shirts, shorts, tongue rings, knives, temporary tattoos, shower curtains, blankets, cell phone cases, children's bibs, ceiling fan skins, guitar picks, cupcake toppers, and then I gave up out of revulsion.  Of course, flags are also available.
 

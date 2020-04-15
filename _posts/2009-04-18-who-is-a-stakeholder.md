@@ -14,6 +14,7 @@ tags:
   - election 2009
   - Long Reach
 ---
+
 One of the comments I made in my candidate's questionnaire for the
 Columbia Flier was that the new CA President needed to heal relations
 with stakeholders across Columbia.  But who is a stakeholder in

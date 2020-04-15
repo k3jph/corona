@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2980
 permalink: /2015/10/09/scientific-computing-and-uncertainty-book-review/
 dsq_thread_id:
   - "4208956589"
-featured-image: 51N-xXddsL._SX312_BO1204203200_-314x400.jpg
+featured-image: 51N-xXddsL._SX312_BO1204203200_.jpg
 categories:
   - Blog
 tags:

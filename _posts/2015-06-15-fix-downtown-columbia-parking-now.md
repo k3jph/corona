@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2203
 permalink: /2015/06/15/fix-downtown-columbia-parking-now/
 dsq_thread_id:
   - "3851495481"
-featured-image: parking-garage-840x399.png
+featured-image: parking-garage.png
 categories:
   - Blog
 tags:

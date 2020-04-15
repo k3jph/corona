@@ -19,7 +19,9 @@ tags:
   - public affairs education
   - teaching
 ---
-[caption id="attachment_1759" align="aligncenter" width="640"]<a href="https://jameshoward.us/wp-content/uploads/2015/01/7143277339_119f20d696_z.jpg"><img src="https://jameshoward.us/wp-content/uploads/2015/01/7143277339_119f20d696_z.jpg" alt="That&#039;s a nicer boardroom than we&#039;ll have (ShellVacationsHospitality / Flickr)" width="640" height="419" class="size-full wp-image-1759" /></a> That's a nicer boardroom than we'll have (ShellVacationsHospitality / Flickr)[/caption]
+{% include figure.html image="7143277339_119f20d696_z.jpg"
+   cap="That's a nicer boardroom than we'll have (ShellVacationsHospitality / Flickr)" 
+   alt="That's a nicer boardroom than we'll have (ShellVacationsHospitality / Flickr)" %}
 
 _I will be using this space, weekly, to record thoughts on the PUAD 702 class project._
 

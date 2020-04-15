@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3228
 permalink: /2015/11/17/weird-youtube/
 dsq_thread_id:
   - "4328211413"
-featured-image: solwayfirthspaceman-800x525.png
+featured-image: solwayfirthspaceman.png
 categories:
   - Blog
 tags:
@@ -27,7 +27,7 @@ Unfortunately, a great many of the stories presented are long debunked, includin
 
 The best of Weird YouTube, though, is Creepy Pasta.  Creepy Pasta originates with a website [of the same name](http://www.creepypasta.com/), which is a collection of flash horror, slipstream, and new weird.  Here's my favorite, the [Russian Sleep Experiment](http://creepypasta.wikia.com/wiki/The_Russian_Sleep_Experiment), as read by someone with exactly the right amount of urgency:
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MEwbfnCpKA4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="MEwbfnCpKA4" %}
 
 Have a great night and sleep well!
 

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1919
 permalink: /2015/03/10/casual-transhumanism/
 dsq_thread_id:
   - "3584736752"
-featured-image: eyeball-840x438.png
+featured-image: eyeball.png
 categories:
   - Blog
 tags:

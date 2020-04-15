@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3875
 permalink: /2016/03/08/now-time-stormwater-reform/
 dsq_thread_id:
   - "4645896445"
-featured-image: 361667885_8e2da8fa96_b-840x525.jpg
+featured-image: 361667885_8e2da8fa96_b.jpg
 categories:
   - Blog
 tags:
@@ -24,7 +24,7 @@ tags:
 ---
 The Howard County Council has killed the plan to remove the stormwater remediation fee:
 
-  http://www.baltimoresun.com/news/maryland/howard/ellicott-city/ph-ho-cf-council-vote-0310-20160307-story.html
+{% include iframely.html url="http://www.baltimoresun.com/news/maryland/howard/ellicott-city/ph-ho-cf-council-vote-0310-20160307-story.html" %}
 
 This is good, but as [I wrote in January](https://jameshoward.us/2016/01/21/circling-the-drain/), the real motivation for the stormwater fee is to improve stormwater management.  For this to be successful, and the fee to have real meaning, the Howard County Council should implement credits against the fee for properties with on-site stormwater remediation and treatment.  For a single-family home, this may be as simple as a [rain barrel](http://www.rainbarrelguide.com/).  For larger properties, this may mean [bioretention facilities](http://www.lakesuperiorstreams.org/stormwater/toolkit/bioretention.html) or rain gardens.
 

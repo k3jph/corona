@@ -17,4 +17,5 @@ tags:
   - public economics
   - public financial management
 ---
+
 The Columbia Association's Budget Committee will now been known as the Financial Advisory Committee.

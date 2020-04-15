@@ -16,6 +16,7 @@ tags:
   - Pope
   - protocol
 ---
+
 So I have some interesting political and social questions, that might be a bit different from anything I've heard so far:
 
 1. Will Benedict XVI be permitted to take part in the Conclave?

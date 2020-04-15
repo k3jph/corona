@@ -10,6 +10,16 @@ menu-order:     40
 menu-label:     Projects
 ---
 
+## Virtual Bumblebees
+
+{% include figure.html image="bee-bug-bumblebee-close-up-235764.jpg"
+   placement="right" link="/software/virtual-bumblebees" width="40%"
+   cap="A bumblebee"
+   alt="A bumblebee" %}
+
+The [Virtual Bumblbees](/software/virtual-bumblebees) are a simple
+cellular automata I created by accident.
+
 ## Carme Nearspace Balloon System
 
 The [Carme Nearspace Balloon System](/projects/carme) is my project

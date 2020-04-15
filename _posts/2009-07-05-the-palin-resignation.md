@@ -19,4 +19,4 @@ tags:
   - Palin
   - politics
 ---
-<p>I watched <a href="http://donnabrazile.com/">Donna Brazile</a> on CNN Friday talk about how Palin&#8217;s resignation is the best thing she can do to prepare for a 2012 presidential campaign.  This is, of course, completely false.  But Brazile has to say it.  Every Democrat within 500 miles of the Washington Monument gives an extra prayer for Palin every night.  They know she is so stupid, Obama can beat her senseless with one diploma tied behind his back.  They are right, too.</p>
+I watched [Donna Brazile](http://donnabrazile.com/) on CNN Friday talk about how Palin's resignation is the best thing she can do to prepare for a 2012 presidential campaign.  This is, of course, completely false.  But Brazile has to say it.  Every Democrat within 500 miles of the Washington Monument gives an extra prayer for Palin every night.  They know she is so stupid, Obama can beat her senseless with one diploma tied behind his back.  They are right, too.

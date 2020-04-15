@@ -18,7 +18,7 @@ tags:
   - mass transit
   - transportation policy
 ---
-I [mentioned a couple of weeks ago](http://jameshoward.us/new-university-of-baltimore-blog) that I am blogging for the [University of Baltimore](http://ubaltblog.blogspot.com/) weekly until the beginning of May.  This morning's post, about [mass transit in downtown Baltimore](http://ubaltblog.blogspot.com/2009/04/university-and-mass-transit.html), ought to strike a chord right here in Columbia.
+I [mentioned a couple of weeks ago](/2009/03/27/new-university-of-baltimore-blog) that I am blogging for the [University of Baltimore](http://ubaltblog.blogspot.com/) weekly until the beginning of May.  This morning's post, about [mass transit in downtown Baltimore](http://ubaltblog.blogspot.com/2009/04/university-and-mass-transit.html), ought to strike a chord right here in Columbia.
 
 I work in downtown DC and when my wife and I were looking to purchase a home, my mantra was "on the bus route."  I now pick up the [MTA's 995 line](http://www.mtamaryland.com/services/commuterbus/schedulesSystemMaps/index.cfm) at the corner of Tamar and Sweetwind, which is a two minute walk from my home:
 

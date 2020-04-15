@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3704
 permalink: /2016/01/14/euler-method-in-r/
 dsq_thread_id:
   - "4493535013"
-featured-image: Euler_method.svg_-768x525.png
+featured-image: Euler_method.svg_.png
 categories:
   - Blog
 tags:
@@ -25,20 +25,20 @@ During differentiation, the value of whatever vertical shift is present is lost 
 
 For ordinary differential equations, them there is no convenient cancellation, leading to the initial value problem.  The initial value problem provides a value of [latex]f(x_0)[/latex], where [latex]x_0[/latex] is normally 0, but is not required to be.  This initial value provides sufficient information to complete the solution and find the actual value of [latex]f(x)[/latex] for some value of [latex]x[/latex].  Below is an implementation of the Euler method in R.
 
-[sourcecode language="R"]
-euler &lt;- function(f, x0, y0, h, n) {
-    x &lt;- x0
-    y &lt;- y0
-    
+{% highlight r %}
+euler <- function(f, x0, y0, h, n) {
+    x <- x0
+    y <- y0
+
     for(i in 1:n) {
-        y0 &lt;- y0 + h * f(x0, y0)
-        x0 &lt;- x0 + h
-        x &lt;- c(x, x0)
-        y &lt;- c(y, y0)
+        y0 <- y0 + h * f(x0, y0)
+        x0 <- x0 + h
+        x <- c(x, x0)
+        y <- c(y, y0)
     }
     
     return(data.frame(x = x, y = y))
 }
-[/sourcecode]
+{% endhighlight %}
 
 _Image by [Oleg Alexandrov via Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Euler_method.svg)._

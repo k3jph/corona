@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2628
 permalink: /2015/08/27/the-cost-of-hazard-mitigation/
 dsq_thread_id:
   - "4071944017"
-featured-image: 920x1240-840x525.jpg
+featured-image: 920x1240.jpg
 categories:
   - Blog
 tags:
@@ -24,7 +24,7 @@ tags:
 From [San Francisco Chronicle](http://www.sfchronicle.com/bayarea/article/Coastal-cities-take-broader-view-of-disaster-6459931.php?t=cbc01e53e39009292e&cmpid=fb-premium),
 
 > For Patrick Otellini, the sky is always about to fall.
-
+>
 > As San Francisco’s first “chief resilience officer,” Otellini inhabits a worst-case scenario world of catastrophic floods, earthquakes, tsunamis, fire, famine and rising sea levels.
 
 I think half of those are the same thing, but the point stands.  San Francisco sits on the San Francisco Bay, sits on a major fault line, and was the site of one of America's worst city-wide fire disasters.  When planning for resilience, the plan must take into account the disasters one is likely to expect.  This is covered quite well in the [FEMA Independent Study](https://training.fema.gov/is/crslist.aspx) courses.
@@ -42,4 +42,3 @@ At the same time, localities must take an accurate assessment of their risk.  Co
 This is the kind of analysis that FEMA does as part of its hazard mitigation grants projects.  For instance, with flood mitigation assistance (FMA) grants, FEMA requires a positive net social benefit before making the grant.  But it is so easy to game a benefit-cost analysis, the results may not be meaningful.
 
 _Image by Paul Chinn / The Chronicle._
-

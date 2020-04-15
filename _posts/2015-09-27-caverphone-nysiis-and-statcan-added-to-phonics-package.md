@@ -8,11 +8,9 @@ guid: https://jameshoward.us/?p=2893
 permalink: /2015/09/27/caverphone-nysiis-and-statcan-added-to-phonics-package/
 dsq_thread_id:
   - "4172320416"
-ampforwp_custom_content_editor_checkbox:
-  - ""
 instant_articles_submission_id:
   - "1013267765470310"
-featured-image: unshaved-yaks-840x383.png
+featured-image: unshaved-yaks.png
 categories:
   - Blog
 tags:

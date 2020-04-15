@@ -18,4 +18,4 @@ tags:
   - public economics
   - public financial management
 ---
-Today, Fitch [affirmed the CA's AA credit rating](http://www.businesswire.com/portal/site/google/?ndmViewId=news_view&newsId=20090323006243&newsLang=en).  I am proud of the work the the [Budget Committee](http://jameshoward.us/service/columbia-association) has done to make this possible.
+Today, Fitch [affirmed the CA's AA credit rating](http://www.businesswire.com/portal/site/google/?ndmViewId=news_view&newsId=20090323006243&newsLang=en).  I am proud of the work the the [Budget Committee](/service) has done to make this possible.

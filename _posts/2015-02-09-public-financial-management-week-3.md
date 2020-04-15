@@ -19,7 +19,9 @@ tags:
   - public affairs education
   - teaching
 ---
-[caption id="attachment_1733" align="aligncenter" width="1024"]<a href="https://jameshoward.us/wp-content/uploads/2015/01/4249886990_107e92c466_b.jpg"><img src="https://jameshoward.us/wp-content/uploads/2015/01/4249886990_107e92c466_b.jpg" alt="According to this, all decisions are supposed to be made in triplicate (Mr.TinDC / Flickr)" width="1024" height="683" class="size-full wp-image-1733" /></a> According to this, all decisions are supposed to be made in triplicate (Mr.TinDC / Flickr)[/caption]
+{% include figure.html image="4249886990_107e92c466_b.jpg"
+   cap="According to this, all decisions are supposed to be made in triplicate (Mr.TinDC / Flickr)" 
+   alt="According to this, all decisions are supposed to be made in triplicate (Mr.TinDC / Flickr)" %}
 
 Last week's meeting of PUAD 702 included more students, since we did not have the looming threat of more snow.  We began with an overview of budgeting models and methods, focusing on government applications.  The last 45 minutes or so of the class discussing the objectives of our proposed nonprofit.  Several solid ideas came out of the session and two seemed to have a grip on the group:
 

@@ -18,4 +18,4 @@ tags:
   - Columbia Association
   - Financial Advisory Committee
 ---
-<p>The Financial Advisory Committee will meet tonight at the Columbia Association&#8217;s maintenance facility just off Snowden River Parkway.</p>
+The Financial Advisory Committee will meet tonight at the Columbia Association's maintenance facility just off Snowden River Parkway.

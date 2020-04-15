@@ -29,7 +29,7 @@ Or not quite.  I had a need to generate MD5 hashes inside a Google Spreadsheet, 
 
 I installed Ruby on Rails and created a very simple controller for hashes:
 
-[ruby]
+{% highlight ruby %}
 class HashController &lt; ApplicationController
     def md5
     result = { }
@@ -37,10 +37,10 @@ class HashController &lt; ApplicationController
     result['md5'] = Digest::MD5.hexdigest(params[:id])
 
     respond_to do |format|
-        format.json { render :json =&amp;gt; result }
-        format.xml { render :xml =&amp;gt; result }
+        format.json { render :json => result }
+        format.xml { render :xml => result }
     end
 end
-[/ruby]
+{% endhighlight %}
 
-Which is now accessible via <a href="http://api.jameshoward.us/hash/md5/foo.json"><a href="http://api.jameshoward.us/hash/md5/foo.json">http://api.jameshoward.us/hash/md5/foo.json</a></a> or <a href="http://api.jameshoward.us/hash/md5/foo.xml">foo.xml</a> as appropriate.  In addition, there is an sha1 method available.  It&#8217;s all running on a minimal instance with <a href="http://www.heroku.com">Heroku</a>, so please use it to your heart's content.
+Which is now accessible via [](http://api.jameshoward.us/hash/md5/foo.json)[http://api.jameshoward.us/hash/md5/foo.json](http://api.jameshoward.us/hash/md5/foo.json) or [foo.xml](http://api.jameshoward.us/hash/md5/foo.xml) as appropriate. In addition, there is an sha1 method available. It's all running on a minimal instance with [Heroku](http://www.heroku.com), so please use it to your heart's content.

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2908
 permalink: /2015/10/21/need-matching-ties/
 dsq_thread_id:
   - "4246734445"
-featured-image: 1509204_1239854196035589_4994731678827953650_n-720x525.jpg
+featured-image: 1509204_1239854196035589_4994731678827953650_n.jpg
 categories:
   - Blog
 tags:
@@ -21,6 +21,6 @@ There's an image macro from _[Back to the Future Part II](https://en.wikipedia.o
 
 The person dressed for an office job is Marty McFly.  His suit may be terribly ugly, but it is also terribly traditional...except for the double ties:
 
-<img src="https://jameshoward.us/wp-content/uploads/2015/10/BTTF2-40-Two-Ties.jpg" alt="BTTF2-40-Two-Ties" width="1920" height="1080" class="aligncenter size-full wp-image-3121" />
+{% include figure.html image="BTTF2-40-Two-Ties.jpg" %}
 
 _Images via Universal Pictures._

@@ -6,6 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1670
 permalink: /2014/12/02/public-goods-often-arent/
+featured-image: poollocked.png
 dsq_thread_id:
   - "3285241853"
 categories:
@@ -19,8 +20,6 @@ tags:
   - public policy
   - taxes
 ---
-[caption id="attachment_1697" align="aligncenter" width="682"]<a href="https://jameshoward.us/wp-content/uploads/2014/11/poollocked.png"><img src="https://jameshoward.us/wp-content/uploads/2014/11/poollocked.png" alt="The pool is excludable (redjar / Flickr)" width="682" height="480" class="size-full wp-image-1697" /></a> The pool is excludable (redjar / Flickr)[/caption]
-
 It's that time of the year, as it always is, where we need a lesson on public goods.  Public goods are a concept of economics defined by goods that are [nonrivalrous](http://en.wikipedia.org/wiki/Rivalry_(economics)) and [nonexcludable](http://en.wikipedia.org/wiki/Excludability).  
 
 Rivalrous goods are those which cannot be used more than once.  For instance, after I eat a cheeseburger, nobody else can eat it.  It's not a thing.  But other goods can be reused again and again.  One such good is a movie.  After I watch it, you can watch it without any loss of utility.  

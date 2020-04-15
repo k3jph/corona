@@ -18,6 +18,7 @@ tags:
   - public economics
   - public financial management
 ---
+
 In attendance:
 * Committee: Mary Chiu, James Howard, Dan Woodruff
 * Others: Jackie Felker (DS), Patricia Laidig (TC), Susan Smith (RH), Andy Stack (OB), Wendy Tauker (HC), Sandy Cederbaum (OM), Sarah Uphouse (LR), Gail Broida (CA Bd rep) 

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2016
 permalink: /2015/04/13/maryland-lottery-proceeds-dont-pay-for-education/
 dsq_thread_id:
   - "3679275458"
-featured-image: maryland-lottery-840x504.png
+featured-image: maryland-lottery.png
 categories:
   - Blog
 tags:
@@ -22,7 +22,7 @@ tags:
 ---
 This morning, I watched an episode of [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) from last November.[1. I am no longer sure what verb tense this is.] [2. I was really bored on the treadmill.]  This episode, investigating state lotteries, explained how lotteries are sold to the public by showing how they fund schools.  It's long, but watch it if you haven't:
 
-<center>[youtube=https://youtu.be/9PK-netuhHA]</center>
+{% include youtube.html id="9PK-netuhHA" %}
 
 But we live in Maryland, and we cannot be so altruistic.  Last term, in [Public Administration and Public Finance](/teaching/public-affairs), I asked my students where the money from the Maryland Lottery went.  After paying winners, that is.  All responded to pay for education.  I told them it went to the [Maryland Stadium Authority](http://www.mdstad.com/).  To looks of shock, I said, "It's printed right on the ticket but at least you're not buying them."  They all reached into their bags and wallets and looked.[3. It seems it is no longer printed there.]
 

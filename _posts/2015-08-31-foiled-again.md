@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2654
 permalink: /2015/08/31/foiled-again/
 dsq_thread_id:
   - "4083605925"
-featured-image: batmanrobin-foil-600x525.jpg
+featured-image: batmanrobin-foil.jpg
 categories:
   - Blog
 tags:
@@ -17,4 +17,4 @@ tags:
   - mathematics
   - robin
 ---
-Stolen from <a href="https://twitter.com/TheKevinAllison/status/638035172546453504/photo/1">Kevin Allison</a>.
+Stolen from [Kevin Allison](https://twitter.com/TheKevinAllison/status/638035172546453504/photo/1).

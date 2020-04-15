@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3023
 permalink: /2015/10/15/someone-will-draw-the-short-straw-on-climate-change/
 dsq_thread_id:
   - "4227181715"
-featured-image: 2095961797_1d27dedc4e_b-840x525.jpg
+featured-image: 2095961797_1d27dedc4e_b.jpg
 categories:
   - Blog
 tags:
@@ -22,7 +22,7 @@ A couple of weeks ago, [economist Matthew Kahn wrote](http://greeneconomics.blog
 
 > This is how we will adapt to climate change. Those areas that are silly enough to not make these investments will experience an out-migration of jobs and falling real estate prices.  This is the Climatopolis logic.
 
-The problem is Kahn is only partially correct.  As [I wrote last summer](https://jameshoward.us/2015/06/04/wealthier-communities-pay-less-for-flood-insurance/),
+The problem is Kahn is only partially correct.  As [I wrote last summer](/2015/06/04/wealthier-communities-pay-less-for-flood-insurance/),
 
 > Wealthier communities generally tend to stay that way. Looking backwards, this means they also have been for some time. If someone had means, they would have moved to where it was safe early and built those communities there. Those without means were stuck with less desirable land, including land at greater environmental risk. Along the coast, this means flooding.
 

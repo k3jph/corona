@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4565777730"
 instant_articles_submission_id:
   - "501591670172167"
-featured-image: marc-train-odenton-840x400.png
+featured-image: marc-train-odenton.png
 categories:
   - Blog
 tags:

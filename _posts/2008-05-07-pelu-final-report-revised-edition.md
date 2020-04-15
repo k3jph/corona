@@ -14,4 +14,4 @@ tags:
   - PELU
   - reports
 ---
-This is kind of embarrassing, but the headline says it all.  <a href="https://jameshoward.us/wp-content/uploads/2015/10/pelu-report-rev.pdf">You can download the file here.</a>
+This is kind of embarrassing, but the headline says it all. [You can download the file here.](/assets/docs/pelu-report-rev.pdf)

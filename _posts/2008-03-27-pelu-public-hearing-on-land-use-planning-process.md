@@ -15,4 +15,5 @@ tags:
   - land use
   - PELU
 ---
+
 Howard County's [Public Engagement in Land Use Planning Task Force](http://www.co.ho.md.us/CountyCouncil/CC_PELU.htm) will hold a public meeting on the Land Use Planning Process on Thursday, April 10th, at 7 p.m. in the Banneker Room at the George Howard Building.

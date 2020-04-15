@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3566
 permalink: /2016/01/06/funny-money-in-canada/
 dsq_thread_id:
   - "4466733648"
-featured-image: currency-cad-840x300.png
+featured-image: currency-cad.png
 categories:
   - Blog
 tags:
@@ -32,4 +32,3 @@ Martin Zibeau, the demi's creator, says,
 And that's telling.  As a means of supporting local business, the demi may be useful, but Zibeau's vision is the currency is not accepted broadly within the locality and instead becomes a second de facto national currency.  And I don't think that will work.  The Canadians already have [Canadian Tire money](http://www.canadiantire.ca/en/my-canadian-tire-money.html).
 
 _Image by [Sara Long / Flickr](https://www.flickr.com/photos/duckiemonster/2219220078)._
-

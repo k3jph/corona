@@ -16,6 +16,7 @@ tags:
   - election 2009
   - Long Reach
 ---
+
 I love Columbia and I am proud to live here with my family.  My wife and I plan to raise our children here because we embrace Columbia values--civility, acceptance, and community.
 
 I have served Long Reach as a volunteer since 2003.  My service as chairman of the Budget Committee has ensured the long term stability of the CA.  I have served on the Art Center Advisory Board supporting the cultural heart of Columbia.  I have worked on many issues with the Village Board and volunteer yearly for the Long Reach Country Fair.  I have also served on a number of state and local advisory committees.

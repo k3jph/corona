@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3908
 permalink: /2016/03/25/chernobyl-as-brownfield/
 dsq_thread_id:
   - "4692184666"
-featured-image: Palace_of_Culture_Front-840x525.jpg
+featured-image: Palace_of_Culture_Front.jpg
 categories:
   - Blog
 tags:

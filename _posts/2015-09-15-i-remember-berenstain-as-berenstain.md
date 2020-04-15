@@ -25,6 +25,6 @@ I do.  And I seem to be the only one.  Somewhere around the first grade (1986-19
 
 So there ya go.  But I should add, I never liked the stories.  Here, enjoy this crazy person talking about it all.
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/1DZnPZ2iXtk?showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="1DZnPZ2iXtk" %}
 
 _Image by [The A.V. Club](http://www.avclub.com/article/how-you-spell-berenstain-bears-could-be-proof-para-223615)._

@@ -17,4 +17,4 @@ tags:
   - teaching
   - University of Baltimore
 ---
-I have [posted the syllabus](http://jameshoward.us/teaching/public-administration/) for this fall's PUAD 701, Public Finance and Public Administration at the [University of Baltimore](http://www.ubalt.edu).
+I have [posted the syllabus](/teaching) for this fall's PUAD 701, Public Finance and Public Administration at the [University of Baltimore](http://www.ubalt.edu).

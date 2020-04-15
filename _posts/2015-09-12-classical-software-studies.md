@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4121453330"
 instant_articles_submission_id:
   - "189113971551371"
-featured-image: MacPaint_2.0_screenshot-639x400.png
+featured-image: MacPaint_2.0_screenshot.png
 categories:
   - Blog
 tags:
@@ -34,4 +34,3 @@ By forcing programmers to understand the constraints of the machine, and seeing 
 It should also include the [Atari ET Game](https://en.wikipedia.org/wiki/Atari_video_game_burial).
 
 _Image by [Remember the dot / Wikimedia](https://en.wikipedia.org/wiki/File:MacPaint_2.0_screenshot.png)._
-

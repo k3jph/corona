@@ -5,6 +5,8 @@ date: 2013-12-02T00:50:20-05:00
 author: James Howard
 layout: page
 guid: http://localhost/wp-faculty/?page_id=2
+redirect_from:
+  - /archive
 ---
 
 {% include figure.html image="jhoward-stacks.png" width="50%" placement="right"

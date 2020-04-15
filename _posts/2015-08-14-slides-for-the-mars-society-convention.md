@@ -8,16 +8,6 @@ guid: https://jameshoward.us/?p=2418
 permalink: /2015/08/14/slides-for-the-mars-society-convention/
 dsq_thread_id:
   - "4033166567"
-onesignal_meta_box_present:
-  - "1"
-onesignal_send_notification:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
 featured-image: Planning-for-Martian-Polity.png
 categories:
   - Blog
@@ -29,16 +19,6 @@ tags:
   - space exploration
   - space governance
 ---
-<!-- wp:paragraph -->
-<p>In about an hour, I will be giving <a href="https://jameshoward.us/2015/06/20/im-going-mars/">my talk on governing a Mars colony</a>. The slides are up on Slideshare for your perusal.</p>
-<!-- /wp:paragraph -->
+In about an hour, I will be giving [my talk on governing a Mars colony](https://jameshoward.us/2015/06/20/im-going-mars/). The slides are up on Slideshare for your perusal.
 
-<!-- wp:core-embed/slideshare {"url":"https://www.slideshare.net/jameshoward/planning-for-martian-polity","type":"rich","providerNameSlug":"slideshare","className":""} -->
-<figure class="wp-block-embed-slideshare wp-block-embed is-type-rich is-provider-slideshare"><div class="wp-block-embed__wrapper">
-https://www.slideshare.net/jameshoward/planning-for-martian-polity
-</div></figure>
-<!-- /wp:core-embed/slideshare -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FICbEgo0Fsn8tT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jameshoward/planning-for-martian-polity" title="Planning for Martian Polity" target="_blank">Planning for Martian Polity</a> </strong> from <strong><a href="https://www.slideshare.net/jameshoward" target="_blank">James Howard</a></strong> </div>

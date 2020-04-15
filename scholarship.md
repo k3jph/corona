@@ -44,65 +44,66 @@ two more.
 1. Natalie M. Scala and James P. Howard, II, Eds., [_Handbook of Military and Defense Operations Research_](/mdor), ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
 1. James P. Howard, II, "World Religions Month: Hinduism," ser. Scorpion Speaker Series, Oakland Mills High School, Columbia, Maryland, Jan. 31, 2020.
 1. James P. Howard, II and Maria E. Vachino, "[Blockchain Compliance with Federal Cryptographic Information Processing Standards](https://ieeexplore.ieee.org/document/8965252)," _IEEE Security & Privacy_, vol. 18, no. 1, pp. 65–70, 2020, {% include doi.html doi="doi:10.1109/MSEC.2019.2944290" %}.
-1. James P. Howard, II, _Hurricane_ ser. Gurps Disasters, Steve Jackson Games, Austin, Texas, 37-1711, 2019.
+1. James P. Howard, II, [_Hurricane_ ser. Gurps Disasters](/games/gurps-disasters-hurricanes), Steve Jackson Games, Austin, Texas, 37-1711, 2019.
 1. David C. Challener, Maria E. Vachino, James P. Howard, II, Christina K. Pikas, and Anil John, "[Blockchain Basics and Suitability: A Primer for Program Managers](http://jitm.ubalt.edu/XXX-3/article3.pdf)," _Journal of Information Technology Management_, vol. 30, no. 3, pp. 33–44, 2019.
-1. Jeffrey Craig, Rohit Mehta, and James P. Howard, II, "Quantitative literacy to new quantitative literacies," in _Shifting Contexts, Stable Core: Advancing Quantitative Literacy in Higher Education_,
+1. Jeffrey Craig, Rohit Mehta, and James P. Howard, II, "[Quantitative literacy to new quantitative literacies](/2019/02/13/new-chapter-on-mathematical-literacy/)," in _Shifting Contexts, Stable Core: Advancing Quantitative Literacy in Higher Education_,
 Luke Tunstall, Gizem Karaali, and Victor Piercey, Eds., ser. MAA Notes. Washington: Mathematical Association of America, 2019, ch. 2, pp. 15–25.
-1. James P. Howard, II, "Blockchain Applications for Distributed Data," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 40, Baltimore, 2019, p. 278.
-1. James P. Howard, II, "Distributed Snake Oil: Second Thoughts on the Blockchain Revolution," INFORMS 2018, Phoenix, Arizona, Nov. 4, 2018.
-1. Don Thibeau, Heather Flannery, Adam Migus, James P. Howard, II, "Identity and Trust," 2018 ONC Interoperability Forum, ser. Security Track, Washington, Aug. 7, 2018.
-1. James P. Howard, II, "Forecasting Artificial Earth Satellite Populations," 2018 Joint Statistical Meetings, Vancouver, British Columbia, Jul. 30, 2018.
-1. Nathan H. Parrish, Anna L. Buczak, Jared T. Zook, James P. Howard, II, Brian J. Ellison, "Crystal Cube: Multidisciplinary Approach to Disruptive Events Prediction," in _Advances in
-Human Factors, Business Management and Society_, Jussi Ilari Kantola, Salman Nazir, Tibor Barath, Eds., ser. Advances in Intelligent Systems and Computing, AHFE 2018, vol. 783, Cham: Springer International Publishing, 2018, pp. 571–581.
-1. Lorraine Black, Natalie M. Scala, Paul Goethals, James P. Howard, II, "Values and Trends in Cybersecurity," in _Proceedings of the 2018 Industrial and Systems Engineering Conference_, KKash Barker, Diana Berry, Chase Rainwater, Eds., Orlando, Florida: Institute of Industrial and Systems Engineers, 2018, pp. 1820–1825.
-1. James P. Howard, II, "Phonetic Algorithms in R," _Journal of Open Source Software_, vol. 3, no. 22, p. 480, 2018.
-1. James P. Howard, II, "Two Fields Separated by a Common Language," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 39, San Diego, 2018, p. 511.
-1. James P. Howard, II, "The Overhype Cycle of Data Science," SEMS Says, _Industrial Management_, vol. 60, no. 1, pp. 8–9, 2018, 
-1. James P. Howard, II, "Hurricane Harvey Dramatizes Flood Insurance Problems," _Greensboro News & Record_, Sep. 3, 2017, reprinted from _The Conversation_.
-1. James P. Howard, II, "The Problem with Offering Flood Insurance Subsidies," _Columbia Flier_, Jul. 27, 2017.
-1. James P. Howard, II, _Computational Methods for Numerical Analysis with R_, ser. Numerical Analysis and Scientific Computing. New York: Chapman and Hall/CRC, 2017.
-1. James P. Howard, II, "Virtual Bumblebees Artificial Life Simulation," _Journal of Open Source Software_, vol. 2, no. 13, p. 256, 2017.
-1. James P. Howard, II, "The Needs of the Many and the Needs of the Few," Baltimore, Maryland: NerdNite Baltimore #8, Apr. 18, 2017.
-1. James P. Howard, II, "And Behind Door #3...," in _Abstracts of Papers Presented to the American Mathematical Society,_ vol. 38, Atlanta, Georgia: Joint Mathematics Meetings, 2017, p. 394.
-1. James P. Howard, II, "Review of Political Analysis Using R by James E. Monogan III," _Journal of Statistical Software_, vol. 74, no. 1, pp. 1–3, 2016.
-1. James P. Howard, II, "Economics of Martian Onfrastructure," Mars Society, Washington: 19th Annual International Mars Society Convention, Sep. 25, 2016.
-1. James P. Howard, II, "Retrospective Social Discount Rates," 2016 Joint Statistical Meetings, Chicago, Illinois, Aug. 2, 2016.
-1. James P. Howard, II, "Public Financial Management," _Syllabus_, vol. 5, no. 1, 2016.
-1. James P. Howard, II, _Socioeconomic Effects of the National Flood Insurance Program_, 1st ed., ser. SpringerBriefs in Political Science. Cham, Switzerland: Springer International Publishing, 2016.
-1. James P. Howard, II, "Maryland’s Suburban Stormwater Problem," Baltimore, Maryland: Ignite Baltimore #18, Apr. 21, 2016.
-1. James P. Howard, II, "Review of Meta-analysis with R by Guido Schwarzer, James R. Carpenter, and Gerta Rücker," _Journal of Statistical Software_, vol. 70, no. Book Review 1, pp. 1–3, 2016.
-1. James P. Howard, II, "Numerical Analysis in R," Statistical Programming DC, Washington, Dec. 8, 2015.
-1. James P. Howard, II, "Review of Uncertainty Quantification and Stochastic Modeling with Matlab by Eduardo Souza De Cursi and Rubens Sampaio," _Journal of Statistical Software_, vol. 67, no. Book Review 7, pp. 1–3, 2015.
-1. James P. Howard, II, "Review of Data-driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data by J. Nathan Kutz," _Journal of Statistical Software_, vol. 67, no. Book Review 1, pp. 1–3, 2015.
-1. James P. Howard, II, "Why this Hammer Costs $435," Columbia, Maryland: Ignite Howard County #2, Sep. 11, 2015.
-1. James P. Howard, II, "Planning for Martian Polity," Mars Society, Washington: 18th Annual International Mars Society Convention, Aug. 14, 2015.
-1. James P. Howard, II, "Virtual Bumblebees," in MathFest 2015, Mathematical Association of America, Washington, Aug. 5, 2015.
-1. James P. Howard, II, "Why Congress Should Keep the Imperiled Export-import Bank", _The Conversation_, Jun. 23, 2015.
-1. James P. Howard, II, "Texas Floods Highlight Need to Reform Key Insurance Program", _The Conversation_, Jun. 2, 2015.
-1. James P. Howard, II and Scott Beaumont, "Analysis as a Service," in _Digital Leaders_. London: BCS, the Chartered Institute of IT, 2015, pp. 20–21.
-1. James P. Howard, II, "Kanban Methods for Agile Course Delivery," University of Baltimore Fall Teaching & Learning Day, Baltimore, Oct. 17, 2014.
-1. James P. Howard, II, "Social Benefits and Costs of the National Flood Insurance Program," Dissertation, University of Maryland Baltimore County, Baltimore, Maryland, Apr. 22, 2014.
-1. James P. Howard, II, "Using Agile Methods for Course Management and Delivery," Association for Public Policy Analysis and Management Spring 2014 Conference, Washington, Apr. 12, 2014.
-1. James P. Howard, II, "Private Applications of Local Government Risk Metrics," American Society for Public Administration 2014 Annual Conference, Washington, Mar. 14, 2014.
-1. James P. Howard, II, "Augmenting the Classroom with Web-based Interactive Demonstrations," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 35, Baltimore, 2014, p. 413.
-1. James P. Howard, II, "Create a Simple Predictive Analytics Classification Model in Java with Weka," _IBM developerWorks_, Nov 1, 2013.
-1. James P. Howard, II, "Implications of Coarse Data Allocation Methods for Flood Mitigation Analysis," in _JSM Proceedings_, Government Statistics Section, Alexandria, Virginia: American Statistical Association, 2013, pp. 2997–3001.
-1. James P. Howard, II, "Implications of Coarse Data Allocation Methods for Flood Mitigation Analysis," 2013 Joint Statistical Meetings, Montréal, Québec, Aug. 6, 2013.
-1. James P. Howard, II, "Our Boo-Boo," _Significance_, vol. 10, no. 4, p. 44, 2013.
-1. James P. Howard, II, "Estimating the Net Social Benefits of the National Flood Insurance Program," Increasing the Utility of Benefit-Cost Analysis, Fifth Annual Conference and Meeting of the Society for Benefit-Cost Analysis, Washington, Feb. 21, 2013.
-1. James P. Howard, II, "Measuring the Impacts of the National Flood Insurance Program," in Eleventh Graduate Research Symposium, College of William and Mary, Williamsburg, Virginia, Mar. 21, 2012, published.
-1. James P. Howard, II, "Trigonometric functions for a right triangle", _Wolfram Demonstrations_, Nov. 3, 2011.
-1. James P. Howard, II, "Using Computable Documents for Online Mathematics Instruction," Wolfram Research Technology Conference 2011, Champaign, Illinois, Oct. 21, 2011.
-1. Christina Ayiotis, James P. Howard, II, Peter Van Buren, "Collaborative Development and Social Media in Government Agencies," in Knowledge Management Conference and Exposition, Tysons Corner, Virginia, May 2, 2011.
-1. James P. Howard, II, "The MacOS X Command Line," _BSD Magazine_, pp. 40–41, May 1, 2011.
-1. James P. Howard, II, "Setting Up Git and Mercurial Servers," _BSD Magazine_, pp. 34–35, Mar. 1, 2011.
-1. James P. Howard, II and Peter Van Buren, "Using DVCS Frameworks for Homogenous Systems Management", Columbia, Maryland, Jan. 12, 2011.
-1. James P. Howard, II, "Review of _R Cookbook_ by Paul Teetor," _Journal of Statistical Software_, Book Reviews, vol. 40, no. Book Review 3, pp. 1–3, 2011.
-1. James P. Howard, II, "SGA Election Rules Fly in the Face of Free Speech," _University of Maryland Diamondback_, Apr. 13, 2007.
-1. James P. Howard, II, "The Little Red Menace," University of Maryland, College Park, Maryland, May 3, 2001,
-1. James P. Howard, II, "The Culture of Affluence Looks at the Cold War," University of Maryland Undergraduate Research Day, College Park, Maryland, Apr. 25, 2001.
-1. James P. Howard, II, "The BSD Family Tree," _DaemonNews_, Apr. 1, 2001.
-1. James P. Howard, II, "An Introduction to FreeBSD Ports," _DaemonNews_, Jun. 1, 2000.
+1. James P. Howard, II, "[Blockchain Applications for Distributed Data](/2019/01/21/blockchain-applications-for-distributed-data/)," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 40, Baltimore, 2019, p. 278.
+1. James P. Howard, II, "[Distributed Snake Oil: Second Thoughts on the Blockchain Revolution](/2018/11/05/second-thoughts-on-the-blockchain-revolution/)," INFORMS 2018, Phoenix, Arizona, Nov. 4, 2018.
+1. Don Thibeau, Heather Flannery, Adam Migus, James P. Howard, II, "[Identity and Trust](/2018/08/07/identity-and-trust-in-healthcare-it/)," 2018 ONC Interoperability Forum, ser. Security Track, Washington, Aug. 7, 2018.
+1. James P. Howard, II, "[Forecasting Artificial Earth Satellite Populations](/2018/07/30/forecasting-artificial-earth-satellite-populations/)," 2018 Joint Statistical Meetings, Vancouver, British Columbia, Jul. 30, 2018.
+1. Nathan H. Parrish, Anna L. Buczak, Jared T. Zook, James P. Howard, II, Brian J. Ellison, "[Crystal Cube: Multidisciplinary Approach to Disruptive Events Prediction](https://link.springer.com/chapter/10.1007/978-3-319-94709-9_56)," in _Advances in Human Factors, Business Management and Society_, Jussi Ilari Kantola, Salman Nazir, Tibor Barath, Eds., ser. Advances in Intelligent Systems and Computing, AHFE 2018, vol. 783, Cham: Springer International Publishing, 2018, pp. 571–581.
+1. Lorraine Black, Natalie M. Scala, Paul Goethals, James P. Howard, II, "[Values and Trends in Cybersecurity](/2018/03/02/values-trends-cybersecurity/)," in _Proceedings of the 2018 Industrial and Systems Engineering Conference_, Kash Barker, Diana Berry, Chase Rainwater, Eds., Orlando, Florida: Institute of Industrial and Systems Engineers, 2018, pp. 1820–1825.
+1. James P. Howard, II, "[Phonetic Algorithms in R](/2018/02/14/phonics-joss-version-1-0-0-released/
+)," _Journal of Open Source Software_, vol. 3, no. 22, p. 480, 2018, {% include doi.html doi="10.21105/joss.00480" %}.
+1. James P. Howard, II, "[Two Fields Separated by a Common Language](/2018/01/12/audio-slides-talk-jmm/)," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 39, San Diego, 2018, p. 511.
+1. James P. Howard, II, "[The Overhype Cycle of Data Science](/2018/02/19/data-science-overhype/)," SEMS Says, _Industrial Management_, vol. 60, no. 1, pp. 8–9, 2018, 
+1. James P. Howard, II, "[Hurricane Harvey Dramatizes Flood Insurance Problems](http://www.greensboro.com/opinion/columns/james-p-howard-ii-hurricane-harvey-dramatizes-flood-insurance-problems/article_933c5130-8ffc-59ff-a732-5455e910eabe.html)," _Greensboro News & Record_, Sep. 3, 2017, reprinted from _The Conversation_.
+1. James P. Howard, II, "[The Problem with Offering Flood Insurance Subsidies](/2017/07/27/the-problem-with-offering-flood-insurance-subsidies/)," _Columbia Flier_, Jul. 27, 2017.
+1. James P. Howard, II, _[Computational Methods for Numerical Analysis with R](/cmna)_, ser. Numerical Analysis and Scientific Computing. New York: Chapman and Hall/CRC, 2017.
+1. James P. Howard, II, "[Virtual Bumblebees Artificial Life Simulation](https://joss.theoj.org/papers/10.21105/joss.00256)," _Journal of Open Source Software_, vol. 2, no. 13, p. 256, 2017, {% include doi.html doi="10.21105/joss.00256" %}.
+1. James P. Howard, II, "[The Needs of the Many and the Needs of the Few](/2017/04/22/slides-nerdnite-baltimore-8/)," Baltimore, Maryland: NerdNite Baltimore #8, Apr. 18, 2017.
+1. James P. Howard, II, "[And Behind Door #3...](/2017/01/05/behind-door-3/)," in _Abstracts of Papers Presented to the American Mathematical Society,_ vol. 38, Atlanta, Georgia: Joint Mathematics Meetings, 2017, p. 394.
+1. James P. Howard, II, "[Review of _Political Analysis Using R_ by James E. Monogan III](https://www.jstatsoft.org/index.php/jss/article/view/v074b01)," _Journal of Statistical Software_, vol. 74, no. 1, pp. 1–3, 2016, {% include doi.html doi="doi:10.18637/jss.v074.b01" %}.
+1. James P. Howard, II, "[Economics of Martian Onfrastructure](/2016/10/30/watch-my-talk-at-the-2016-mars-society-convention/)," Mars Society, Washington: 19th Annual International Mars Society Convention, Sep. 25, 2016.
+1. James P. Howard, II, "[Retrospective Social Discount Rates](https://ww2.amstat.org/meetings/jsm/2016/onlineprogram/AbstractDetails.cfm?abstractid=321720)," 2016 Joint Statistical Meetings, Chicago, Illinois, Aug. 2, 2016.
+1. James P. Howard, II, "[Public Financial Management](http://www.syllabusjournal.org/index.php/syllabus/article/view/194)," _Syllabus_, vol. 5, no. 1, 2016.
+1. James P. Howard, II, _[Socioeconomic Effects of the National Flood Insurance Program](/se-nfip)_, 1st ed., ser. SpringerBriefs in Political Science. Cham, Switzerland: Springer International Publishing, 2016.
+1. James P. Howard, II, "[Maryland's Suburban Stormwater Problem](/2016/04/24/watch-ignite-talk-stormwater-management/)," Baltimore, Maryland: Ignite Baltimore #18, Apr. 21, 2016.
+1. James P. Howard, II, "[Review of _Meta-analysis with R_ by Guido Schwarzer, James R. Carpenter, and Gerta Rücker](https://www.jstatsoft.org/index.php/jss/article/view/v070b01)," _Journal of Statistical Software_, vol. 70, no. Book Review 1, pp. 1–3, 2016, {% include doi.html doi="doi:10.18637/jss.v070.b01" %}.
+1. James P. Howard, II, "[Numerical Analysis in R](/2015/12/09/numerical-analysis-talk-at-statistical-programming-dc/)," Statistical Programming DC, Washington, Dec. 8, 2015.
+1. James P. Howard, II, "[Review of _Uncertainty Quantification and Stochastic Modeling with Matlab_ by Eduardo Souza De Cursi and Rubens Sampaio](http://www.jstatsoft.org/index.php/jss/article/view/v067b07)," _Journal of Statistical Software_, vol. 67, no. Book Review 7, pp. 1–3, 2015, {% include doi.html doi="doi:10.18637/jss.v067.b07" %}.
+1. James P. Howard, II, "[Review of _Data-driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data_ by J. Nathan Kutz](http://www.jstatsoft.org/index.php/jss/article/view/v067b01)," _Journal of Statistical Software_, vol. 67, no. Book Review 1, pp. 1–3, 2015, {% include doi.html doi="doi:10.18637/jss.v067.b01" %}.
+1. James P. Howard, II, "[Why this Hammer Costs $435](/2015/09/14/why-this-hammer-costs-435/)," Columbia, Maryland: Ignite Howard County #2, Sep. 11, 2015.
+1. James P. Howard, II, "[Planning for Martian Polity](/2015/08/14/slides-for-the-mars-society-convention/)," Mars Society, Washington: 18th Annual International Mars Society Convention, Aug. 14, 2015.
+1. James P. Howard, II, "[Virtual Bumblebees](/2015/08/05/virtual-bumblebees-at-mathfest-2015/)," MathFest 2015, Mathematical Association of America, Washington, Aug. 5, 2015.
+1. James P. Howard, II, "[Why Congress Should Keep the Imperiled Export-Import Bank](https://theconversation.com/why-congress-should-keep-the-imperiled-export-import-bank-42234)", _The Conversation_, Jun. 23, 2015.
+1. James P. Howard, II, "[Texas Floods Highlight Need to Reform Key Insurance Program](https://theconversation.com/texas-floods-highlight-need-to-reform-key-insurance-program-42235)", _The Conversation_, Jun. 2, 2015.
+1. James P. Howard, II and Scott Beaumont, "[Analysis as a Service](http://www.bcs.org/content/ConMediaFile/25705)," in _Digital Leaders_. London: BCS, the Chartered Institute of IT, 2015, pp. 20–21.
+1. James P. Howard, II, "[Kanban Methods for Agile Course Delivery](http://www.slideshare.net/jameshoward/pmclassroom)," University of Baltimore Fall Teaching & Learning Day, Baltimore, Oct. 17, 2014.
+1. James P. Howard, II, "[Social Benefits and Costs of the National Flood Insurance Program](http://contentdm.ad.umbc.edu/cdm/ref/collection/ETD/id/24951)," Dissertation, University of Maryland Baltimore County, Baltimore, Maryland, Apr. 22, 2014.
+1. James P. Howard, II, "[Using Agile Methods for Course Management and Delivery](http://www.slideshare.net/jameshoward/pmclassroom)," Association for Public Policy Analysis and Management Spring 2014 Conference, Washington, Apr. 12, 2014.
+1. James P. Howard, II, "[Private Applications of Local Government Risk Metrics](http://www.slideshare.net/jameshoward/private-applications-of)," American Society for Public Administration 2014 Annual Conference, Washington, Mar. 14, 2014.
+1. James P. Howard, II, "[Augmenting the Classroom with Web-based Interactive Demonstrations](http://jmm2014.jameshoward.us/)," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 35, Baltimore, 2014, p. 413.
+1. James P. Howard, II, "[Create a Simple Predictive Analytics Classification Model in Java with Weka](https://www.ibm.com/developerworks/library/bd-javaweka/index.html)," _IBM developerWorks_, Nov 1, 2013.
+1. James P. Howard, II, "[Implications of Coarse Data Allocation Methods for Flood Mitigation Analysis](/wp-content/uploads/2017/04/JHoward-JSM2013-Proceedings.pdf)," in _JSM Proceedings_, Government Statistics Section, Alexandria, Virginia: American Statistical Association, 2013, pp. 2997–3001.
+1. James P. Howard, II, "[Implications of Coarse Data Allocation Methods for Flood Mitigation Analysis](/2017/04/25/implications-coarse-data-allocation-methods-flood-mitigation-analysis/)," 2013 Joint Statistical Meetings, Montréal, Québec, Aug. 6, 2013.
+1. James P. Howard, II, "[Our Boo-Boo](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2013.00685.x/epdf)," _Significance_, vol. 10, no. 4, p. 44, 2013, {% include doi.html doi="doi:10.1111/j.1740-9713.2013.00685.x" %}.
+1. James P. Howard, II, "[Estimating the Net Social Benefits of the National Flood Insurance Program](http://www.slideshare.net/jameshoward/sbca-nfip)," Increasing the Utility of Benefit-Cost Analysis, Fifth Annual Conference and Meeting of the Society for Benefit-Cost Analysis, Washington, Feb. 21, 2013.
+1. James P. Howard, II, "[Measuring the Impacts of the National Flood Insurance Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2021204)," Eleventh Graduate Research Symposium, College of William and Mary, Williamsburg, Virginia, Mar. 21, 2012, published.
+1. James P. Howard, II, "[Trigonometric Functions for a Right Triangle](http://demonstrations.wolfram.com/TrigonometricFunctionsForARightTriangle/)", _Wolfram Demonstrations_, Nov. 3, 2011.
+1. James P. Howard, II, "[Using Computable Documents for Online Mathematics Instruction](http://library.wolfram.com/infocenter/Conferences/7981/)," Wolfram Research Technology Conference 2011, Champaign, Illinois, Oct. 21, 2011.
+1. Christina Ayiotis, James P. Howard, II, Peter Van Buren, "[Collaborative Development and Social Media in Government Agencies](http://foseinstitute.org/Events/2011/Knowledge-Management/Sessions/Monday/IN2-Collaborative-Development.aspx)," in Knowledge Management Conference and Exposition, Tysons Corner, Virginia, May 2, 2011.
+1. James P. Howard, II, "[The MacOS X Command Line](/assets/docs/The-MacOS-X-Command-Line.pdf)," _BSD Magazine_, pp. 40–41, May 1, 2011.
+1. James P. Howard, II, "[Setting Up Git and Mercurial Servers](/assets/docs/Setting-Up-Git-and-Mercurial-Servers.pdf)," _BSD Magazine_, pp. 34–35, Mar. 1, 2011.
+1. James P. Howard, II and Peter Van Buren, "[Using DVCS Frameworks for Homogenous Systems Management](https://prezi.com/5fwwaafsuo7o/using-dvcs-frameworks-for-homogenous-systems-management/)," Columbia, Maryland, Jan. 12, 2011.
+1. James P. Howard, II, "[Review of _R Cookbook_ by Paul Teetor](http://www.jstatsoft.org/v40/b03)," _Journal of Statistical Software_, Book Reviews, vol. 40, no. Book Review 3, pp. 1–3, 2011, {% include doi.html doi="doi:10.18637/jss.v040.b03" %}.
+1. James P. Howard, II, "[Letter to the Editor](/2008/03/13/californias-risky-business/)," _Los Angeles Times_, March 13, 2008.
+1. James P. Howard, II, "[SGA Election Rules Fly in the Face of Free Speech](/2007/04/24/sga-election-rules-fly-in-the-face-of-free-speech/)," _University of Maryland Diamondback_, Apr. 13, 2007.
+1. James P. Howard, II, "[The Little Red Menace](http://www.slideshare.net/jameshoward/james-howard-the-little-red-menace)," University of Maryland, College Park, Maryland, May 3, 2001,
+1. James P. Howard, II, "[The Culture of Affluence Looks at the Cold War](http://www.slideshare.net/jameshoward/james-howard-the-culture-of-affluence-looks-at-the-cold-war-58576527)," University of Maryland Undergraduate Research Day, College Park, Maryland, Apr. 25, 2001.
+1. James P. Howard, II, "[The BSD Family Tree](/archive/bsd-family-tree)," _DaemonNews_, Apr. 1, 2001.
+1. James P. Howard, II, "[An Introduction to FreeBSD Ports](/archive/an-introduction-to-ports/)," _DaemonNews_, Jun. 1, 2000.
 1. James P. Howard, II, "The American Invasion of Russia," University of Maryland College Park Scholars Capstone Conference, College Park, Maryland, May 13, 2000.
 
 ## Grants and Support
@@ -122,10 +123,5 @@ Human Factors, Business Management and Society_, Jussi Ilari Kantola, Salman Naz
 1. Augmenting the Classroom with Web-Based Interactive Demonstrations. University of Maryland University College, Center for Teaching and Learning Professional Development Grant 2014, (2014 Joint Mathematics Meeting, $508).
 1. Estimating the Net Social Benefits of the National Flood Insurance Program. UMBC Graduate Student Association, Travel Grant 2013, (Fifth Annual Conference and Meeting of the Society for Benefit-Cost Analysis, $500).
 1. Measuring the Impacts of National Flood Insurance Program. UMBC Graduate Student Association, Travel Grant 2012, (William and Mary Graduate Research Symposium, $500).
-
-## News and Coverage
-
-* List
-* List
 
 _Image by [Michael D Beckwith / Flickr](https://www.flickr.com/photos/118118485@N05/16468895996)._

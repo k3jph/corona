@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3418
 permalink: /2016/01/08/opening-transpolar-shipping-lanes/
 dsq_thread_id:
   - "4473007488"
-featured-image: yamal-icebreaker-840x525.png
+featured-image: yamal-icebreaker.png
 categories:
   - Blog
 tags:
@@ -26,9 +26,8 @@ tags:
   - transport economics
   - transportation policy
 ---
-Russian company Росатомфлот is planning to build an enormous ice breaker to open polar shipping routes.  
-
-  http://www.thebarentsobserver.com/2015/12/monster-icebreaker-transpolar-shipping
+Russian company Росатомфлот is [planning to build an enormous ice breaker](http://www.thebarentsobserver.com/2015/12/monster-icebreaker-transpolar-shipping
+) to open polar shipping routes.  
 
 The ship will be nuclear powered with a deadweight of at least 55,000 tons.  For comparison, the largest United States icebreaker, the USCGC _Healy_, is only 16,000 tons.  This massive ship's purpose is to cut 50-meter shipping lanes across the Arctic Ocean.  Cutting that lane will result in a 4000 kilometer route between east Asia and Europe, a huge cost savings over currently available shipping routes.
 

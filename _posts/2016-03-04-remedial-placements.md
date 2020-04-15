@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3886
 permalink: /2016/03/04/remedial-placements/
 dsq_thread_id:
   - "4635045917"
-featured-image: Algebraproblem-818x400.jpg
+featured-image: Algebraproblem.jpg
 categories:
   - Blog
 tags:
@@ -24,7 +24,7 @@ These tests have and placements have become a real problem because go into these
 
 The Atlantic has a new story on the treadmill of remedial courses for students entering community college:
 
-  http://www.theatlantic.com/education/archive/2016/02/community-colleges-remedial-classes/471192/
+{% include iframely.html url="http://www.theatlantic.com/education/archive/2016/02/community-colleges-remedial-classes/471192/" %}
 
 The short version is, placing students into remedial classes is more harmful than not.  It has been a huge hope of mine that MOOCs could deliver quality free courses in elementary mathematics.  Based on these, students could place higher.  Costs are cut and student outcomes would vastly improve. But students are not being steered that way.
 

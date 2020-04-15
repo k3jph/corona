@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3781
 permalink: /2016/02/08/historical-social-discount-rates/
 dsq_thread_id:
   - "4563412210"
-featured-image: discounts-840x300.png
+featured-image: discounts.png
 categories:
   - Blog
 tags:

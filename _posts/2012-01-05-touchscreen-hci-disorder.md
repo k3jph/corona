@@ -24,4 +24,4 @@ tags:
   - systems science
   - technology
 ---
-<p>It isn&#8217;t listed in the <a href="http://www.psych.org/MainMenu/Research/DSMIV.aspx">DSM</a> yet, but I think I have a condition I am calling Touchscreen HCI Disorder.  The cause is using too many touchscreen devices.  The symptom is assuming all glowing boxes are touchscreens and jabbing them with your finger then getting annoyed when they do not respond.</p>
+It isn't listed in the [DSM](http://www.psych.org/MainMenu/Research/DSMIV.aspx) yet, but I think I have a condition I am calling Touchscreen HCI Disorder. The cause is using too many touchscreen devices. The symptom is assuming all glowing boxes are touchscreens and jabbing them with your finger then getting annoyed when they do not respond.

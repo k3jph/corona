@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4062
 permalink: /2016/05/06/my-dissertation/
 dsq_thread_id:
   - "4804810671"
-featured-image: 1898286_541285404792_914859516_n-1-840x525.jpg
+featured-image: 1898286_541285404792_914859516_n-1.jpg
 categories:
   - Blog
 tags:
@@ -18,4 +18,4 @@ tags:
   - NFIP
   - UMBC
 ---
-With this week's announcement, I realized I had never posted my dissertation online.  And I post everything online.  So here, you can now download [my dissertation here](https://jameshoward.us/wp-content/uploads/2016/05/JHoward-Dissertation.pdf).
+With this week's announcement, I realized I had never posted my dissertation online.  And I post everything online.  So here, you can now download [my dissertation here](/assets/docs/JHoward-Dissertation.pdf).

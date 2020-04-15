@@ -38,6 +38,16 @@ blockquote cite {
   padding-left: 60%;
 }
 
+.highlight {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.highlight pre {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 /* Lists */
 ul ul {
   margin-top: 0;

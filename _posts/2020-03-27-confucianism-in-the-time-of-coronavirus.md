@@ -40,6 +40,6 @@ those holes. Extreme social stability, such as that proposed by
 Confucius may mean little changes in societies influences by Confucian
 thought. On the other hand, nations like the United States and
 France ground their [founding
-myths](https://jameshoward.us/2020/03/22/china-and-founding-myth/) on
+myths](/2020/03/22/china-and-founding-myth/) on
 the importance of revolutionary change. What changes and what does
 not will tell us a lot about how people think.

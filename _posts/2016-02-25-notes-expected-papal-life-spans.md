@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3851
 permalink: /2016/02/25/notes-expected-papal-life-spans/
 dsq_thread_id:
   - "4610095932"
-featured-image: Franciscus_kotel-799x525.jpg
+featured-image: Franciscus_kotel.jpg
 categories:
   - Blog
 tags:

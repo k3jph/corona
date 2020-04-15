@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3894
 permalink: /2016/03/12/observation-central-bank-coordination/
 dsq_thread_id:
   - "4657794717"
-featured-image: 1024px-BIZ_Basel-840x525.jpg
+featured-image: 1024px-BIZ_Basel.jpg
 categories:
   - Blog
 tags:
@@ -22,7 +22,7 @@ tags:
 ---
 There's an interesting story about a typo and an electronic robbery from the [Bangladesh Bank](https://www.bb.org.bd/).  Basically, a bunch of hackers issued fake transfer orders for the Bangladesh Bank account at the [New York Fed](https://www.newyorkfed.org/).  We'll toss it to Reuters for the details:
 
-  http://www.reuters.com/article/us-usa-fed-bangladesh-typo-insight-idUSKCN0WC0TC
+{% include iframely.html url="http://www.reuters.com/article/us-usa-fed-bangladesh-typo-insight-idUSKCN0WC0TC" %}
 
 One detail in this story sticks out:
 

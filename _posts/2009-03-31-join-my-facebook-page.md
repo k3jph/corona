@@ -16,4 +16,5 @@ tags:
   - election 2009
   - Long Reach
 ---
+
 Everyone is invited to join the [Facebook page](http://www.facebook.com/pages/James-Howard/72622870478) for my candidacy.  We will be organizing for the Long Reach community clean up there on April 18th.

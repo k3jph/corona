@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3698542940"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: matrices-840x525.jpg
+featured-image: matrices.jpg
 categories:
   - Blog
 tags:
@@ -24,50 +24,50 @@ tags:
   - R
   - scientific computing
 ---
-For reasons unknown, I can't find a function to transform a matrix into row echelon form in R.  There's a function on Rosetta Code for <a href="http://rosettacode.org/wiki/Reduced_row_echelon_form#R">reduced row echelon form</a> in R.  So I wrote this on Sunday.  And if you look at this and the Rosetta Code solution, they work in mostly the same way.  This will be released as part of a larger package later, with documentation and unit tests.  But it's useful enough to stand on its own here.
+For reasons unknown, I can't find a function to transform a matrix into row echelon form in R. There's a function on Rosetta Code for [reduced row echelon form](http://rosettacode.org/wiki/Reduced_row_echelon_form#R) in R. So I wrote this on Sunday. And if you look at this and the Rosetta Code solution, they work in mostly the same way. This will be released as part of a larger package later, with documentation and unit tests. But it's useful enough to stand on its own here.
 
-[sourcecode language="R"]
-refmatrix &lt;- function(m) {
-    count.rows &lt;- nrow(m)
-    count.cols &lt;- ncol(m)
-    piv &lt;- 1
+{% highlight r %}
+refmatrix <- function(m) {
+    count.rows <- nrow(m)
+    count.cols <- ncol(m)
+    piv <- 1
     
     for(row.curr in 1:count.rows) {
-        if(count.cols &gt; piv) {
-            i &lt;- row.curr
+        if(count.cols > piv) {
+            i <- row.curr
             while(m[i, piv] == 0) {
-                i &lt;- i + 1
+                i <- i + 1
                 if(count.rows == i) {
-                    i &lt;- row.curr
-                    piv &lt;- piv + 1
+                    i <- row.curr
+                    piv <- piv + 1
                     if(count.cols == piv)
                         return(m)
                 }
             }
-            m &lt;- swaprows(m, row.curr, i)
+            m <- swaprows(m, row.curr, i)
             for(j in row.curr:count.rows)
                 if(j != row.curr) {
-                    k &lt;- m[j, piv] / m[row.curr, piv]
-                    m &lt;- replacerow(m, row.curr, j, k)
+                    k <- m[j, piv] / m[row.curr, piv]
+                    m <- replacerow(m, row.curr, j, k)
                 }
-            piv &lt;- piv + 1
+            piv <- piv + 1
         }
     }
     return(m)
 }
 
-swaprows &lt;- function(m, row1, row2) {
-    row.tmp &lt;- m[row1,]
-    m[row1,] &lt;- m[row2,]
-    m[row2,] &lt;- row.tmp
+swaprows <- function(m, row1, row2) {
+    row.tmp <- m[row1,]
+    m[row1,] <- m[row2,]
+    m[row2,] <- row.tmp
 
     return(m)
 }
 
-replacerow &lt;- function(m, row1, row2, k) {
-    m[row2,] &lt;- m[row2,] - m[row1,] * k
+replacerow <- function(m, row1, row2, k) {
+    m[row2,] <- m[row2,] - m[row1,] * k
     return(m)
 }
-[/sourcecode]
+{% endhighlight %}
 
-<em>Image by <a href="https://www.flickr.com/photos/vialbost/16084697841">Frédérique Voisin-Demery</a>.</em>
+_Image by [Frédérique Voisin-Demery](https://www.flickr.com/photos/vialbost/16084697841)._

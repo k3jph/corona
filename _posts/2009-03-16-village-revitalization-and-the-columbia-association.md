@@ -16,6 +16,7 @@ tags:
   - election 2009
   - Long Reach
 ---
+
 I received this question recently, from a Long Reach resident:
 
 > What are your views on village revitalization and the role that CA should play. 

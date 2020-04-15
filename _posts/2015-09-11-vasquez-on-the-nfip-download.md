@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2784
 permalink: /2015/09/11/vasquez-on-the-nfip-download/
 dsq_thread_id:
   - "4119783983"
-featured-image: cedarrapids-840x400.png
+featured-image: cedarrapids.png
 categories:
   - Blog
 tags:

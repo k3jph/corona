@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4779317280"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: facelesshead-840x500.jpg
+featured-image: facelesshead.jpg
 categories:
   - Blog
 tags:
@@ -33,7 +33,7 @@ tags:
 
 Read more about what I and other industry leaders say about organizational approaches to analytics:
 
-  http://www.informationweek.com/big-data/big-data-analytics/agile-analytics-11-ways-to-get-there/d/d-id/1325252
+{% include iframely.html url="http://www.informationweek.com/big-data/big-data-analytics/agile-analytics-11-ways-to-get-there/d/d-id/1325252" %}
 
 _Image by [geralt / Pixabay](https://pixabay.com/en/head-woman-transparent-empty-1137275/)._
 

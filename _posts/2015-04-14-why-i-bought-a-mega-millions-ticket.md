@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2021
 permalink: /2015/04/14/why-i-bought-a-mega-millions-ticket/
 dsq_thread_id:
   - "3680817503"
-featured-image: lotterymoney-840x465.png
+featured-image: lotterymoney.png
 categories:
   - Blog
 tags:

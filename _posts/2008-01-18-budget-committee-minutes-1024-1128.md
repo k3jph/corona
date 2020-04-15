@@ -19,6 +19,7 @@ tags:
   - public economics
   - public financial management
 ---
+
 I have posted the minutes for the October 24th and November 28th  Budget Committee minutes.
 
 * [November 28, 2007 Meeting](/2008/01/18/columbia-association-budget-committee-minutes-november-28-2007/)

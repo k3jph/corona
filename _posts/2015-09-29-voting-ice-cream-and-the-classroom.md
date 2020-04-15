@@ -8,16 +8,6 @@ guid: https://jameshoward.us/?p=2911
 permalink: /2015/09/29/voting-ice-cream-and-the-classroom/
 dsq_thread_id:
   - "4178173855"
-onesignal_meta_box_present:
-  - "1"
-onesignal_send_notification:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
 featured-image: ballotboxes.png
 categories:
   - Blog

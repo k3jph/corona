@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2693
 permalink: /2015/09/03/the-values-statement/
 dsq_thread_id:
   - "4094460787"
-featured-image: corevalues-840x501.png
+featured-image: corevalues.png
 categories:
   - Blog
 tags:

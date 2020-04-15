@@ -12,8 +12,6 @@ tumblr_howardjp_id:
   - "58944605478"
 dsq_thread_id:
   - "2271887513"
-ampforwp_custom_content_editor_checkbox:
-  - ""
 instant_articles_submission_id:
   - "221472191590597"
 categories:
@@ -27,6 +25,6 @@ tags:
   - statistics
   - Yogi Bear
 ---
-<p><strong>Our Boo-boo</strong></p>
+**Our Boo-boo**
 
-<p>In an unsigned article on xkcd, the authors pity readers who do not recognize “What’s up, Doc?”  Like the authors, Yogi Bear may be “smarter than the av-er-age bear” (which, I suppose is preferable to a mean bear) when stealing “pic-a-nic baskets.” But when  expressing extreme delight, “Yabba dabba doo!” was Fred Flintstone’s catchphrase.</p>
+In an unsigned article on xkcd, the authors pity readers who do not recognize “What’s up, Doc?” Like the authors, Yogi Bear may be “smarter than the av-er-age bear” (which, I suppose is preferable to a mean bear) when stealing “pic-a-nic baskets.” But when expressing extreme delight, “Yabba dabba doo!” was Fred Flintstone’s catchphrase.

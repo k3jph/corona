@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3914
 permalink: /2016/03/29/learn-flood-insurance-renting/
 dsq_thread_id:
   - "4703776656"
-featured-image: flooded-homes-840x500.jpg
+featured-image: flooded-homes.jpg
 categories:
   - Blog
 tags:
@@ -24,12 +24,12 @@ tags:
 Kayda Norman with [QuoteWizard](http://quotewizard.com/), the insurance purchasing website, interviewed me for a new article on the ins and outs of flood insurance for renters.
 
 > A Preferred Risk Policy gives coverage for both the building and contents at a preferred rate. This policy is available for those living in moderate-to-low risk areas. Renters will only need to worry about purchasing contents coverage.
-> 
+>
 > "When you purchase a home, you purchase flood insurance for the contents and the structure. For renters, they generally only insure the contents since the building owner insures the building," Dr. James Howard, statistician said.
 
 Read more at QuoteWizard:
 
-  http://quotewizard.com/renters-insurance/flood-insurance-for-renters
+{% include iframely.html url="http://quotewizard.com/renters-insurance/flood-insurance-for-renters" %}
 
 While this article is targeted renters, everyone should consider buying flood insurance.
 

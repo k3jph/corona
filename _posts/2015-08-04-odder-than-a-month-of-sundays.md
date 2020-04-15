@@ -8,17 +8,7 @@ guid: https://jameshoward.us/?p=2374
 permalink: /2015/08/04/odder-than-a-month-of-sundays/
 dsq_thread_id:
   - "4004052900"
-onesignal_meta_box_present:
-  - "1"
-onesignal_send_notification:
-  - ""
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - null
-ampforwp-amp-on-off:
-  - default
-featured-image: FB_IMG_1438645098896-720x525.jpg
+featured-image: FB_IMG_1438645098896.jpg
 categories:
   - Blog
 tags:
@@ -40,4 +30,6 @@ As an aside, we can use the limited number of calendar configurations to determi
 
 It should come as no surprise, I also saw this on the same person's feed.
 
-[caption id="attachment_2376" align="aligncenter" width="1080"]<img class="size-full wp-image-2376" src="https://jameshoward.us/wp-content/uploads/2015/08/algebra-useit.png" alt="Well, now you're just embarrassing yourself" width="1080" height="1673" /> Well, now you're just embarrassing yourself[/caption]
+{% include figure.html image="algebra-useit.png"
+   cap="Well, now you're just embarrassing yourself"
+   alt="Well, now you're just embarrassing yourself" %}

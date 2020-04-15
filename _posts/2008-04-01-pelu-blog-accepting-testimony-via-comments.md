@@ -15,4 +15,5 @@ tags:
   - land use
   - PELU
 ---
+
 The Public Engagement in Land Use Planning Task Force blog now has an [open thread](http://howardcountypelu.blogspot.com/2008/04/blog-now-open-for-comments.html) for testimony and comments.  The thread will be open until April 15.

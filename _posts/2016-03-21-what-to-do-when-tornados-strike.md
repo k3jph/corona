@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3900
 permalink: /2016/03/21/what-to-do-when-tornados-strike/
 dsq_thread_id:
   - "4681846825"
-featured-image: tornado-cover-840x500.png
+featured-image: tornado-cover.png
 categories:
   - Blog
 tags:
@@ -23,8 +23,8 @@ tags:
 
 Read more [at Roomi Connect](http://roomiconnect.com/4-must-know-tornado-safety-tips-for-renters/):
 
-  http://roomiconnect.com/4-must-know-tornado-safety-tips-for-renters/
+{% include pdfembed.html pdf="4 Must-Know Tornado Safety Tips for Renters | Roomi Connect.pdf" width="100%" %}
 
-While targeted at renters, this tornado advice applies to pretty much everyone.  This is the second time Roomi Connect has [interviewed me about disaster preparation](https://jameshoward.us/2016/01/28/flood-preparation-tips-renters-via-roomi-connect/).
+While targeted at renters, this tornado advice applies to pretty much everyone.  This is the second time Roomi Connect has [interviewed me about disaster preparation](/2016/01/28/flood-preparation-tips-renters-via-roomi-connect/).
 
 _Image by [Justin Hobson  / Wikimedia](https://commons.wikimedia.org/wiki/File:F5_tornado_Elie_Manitoba_2007.jpg)._

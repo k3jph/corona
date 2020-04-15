@@ -12,21 +12,9 @@ tumblr_jhresearchlog_id:
   - "31830933127"
 dsq_thread_id:
   - "2262929804"
-bpxl_standard_single:
-  - "0"
-bpxl_audio_single:
-  - "0"
-bpxl_video_single:
-  - "0"
-bpxl_gallery_single:
-  - "0"
-bpxl_status_single:
-  - "0"
-bpxl_singlerelated:
-  - "0"
 bpxl_layout:
   - left
-featured-image: tumblr_maknpsqHTA1rejfwpo1_1280-840x525.png
+featured-image: tumblr_maknpsqHTA1rejfwpo1_1280.png
 categories:
   - Blog
 tags:

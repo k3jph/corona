@@ -21,11 +21,11 @@ tags:
 ---
 A couple of years ago, I bought a roll of Tyvek sheeting for a special project.  It was completely the wrong answer for that project, but that's a subject of a different post.  
 
-  http://jameshoward.us/2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/
+{% include iframely.html url="https://jameshoward.us/2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/" %}
 
 Obviously, I still have the rest of the roll.  We've found it is useful for all sorts of things.  We've used it to protect the dining room table while soldering:
 
-https://www.youtube.com/watch?v=gnsdQhnmpgw
+{% include youtube.html id="gnsdQhnmpgw" %}
 
 We've used it to protect the table during massive cookie baking exercises this Christmas:
 
@@ -36,7 +36,6 @@ We've used it to protect the table during massive cookie baking exercises this C
 
 Finally, we used it yesterday to protect the floor for painting.  
 
-<a href="https://jameshoward.us/wp-content/uploads/2015/12/tyvek-painting-full.jpg" rel="attachment wp-att-3491"><img src="https://jameshoward.us/wp-content/uploads/2015/12/tyvek-painting-full.jpg" alt="tyvek-painting-full" width="1000" height="563" class="aligncenter size-full wp-image-3491" /></a>
+{% include figure.html image="tyvek-painting-full.jpg" %}
 
 Tyvek is awesome.  Well, when you actually cover things with it.
-

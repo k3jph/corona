@@ -24,30 +24,29 @@ tags:
   - software engineering
   - systems science
 ---
-<p>MacOS X provides a commnad line tool to open applications and files.  MacOS X applications are actually collections of files residing within one directory with a name ending in <em>.app</em>.  I usually use <strong>open</strong> at the command line to start most applications, leaving the Dock clear of applications not running:</p>
 
-<blockquote>
-  <p>howardjp@thermopylae:~$ open /Applications/Safari.app</p>
-</blockquote>
+MacOS X provides a commnad line tool to open applications and files. MacOS X applications are actually collections of files residing within one directory with a name ending in _.app_. I usually use `open` at the command line to start most applications, leaving the Dock clear of applications not running:
 
-<p>is enough to start Safari and if the browser is already running, it will open a new window.</p>
+{% highlight shell %}
+howardjp@thermopylae:~$ open /Applications/Safari.app
+{% endhighlight %}
 
-<p>The <strong>open</strong> command also works on individual files and will open the file in its associated application.  For instance, running open on a PDF will open the file in Preview.  And running <strong>open</strong> on a normal directory (as opposed to an application package) will open the directory in Finder.</p>
+is enough to start Safari and if the browser is already running, it will open a new window.
 
-<p>The <strong>open</strong> command provides a number of useful options.  The option <em>t</em> treats the file, regardless of type, as a text file and opens it in the default text editor.  A related option, <em>e</em> simplifies the process and opens the file in TextEdit, the native text editor provided with MacOS X.  Also related is <em>f</em>, which reads from the standard input and passes the input to the default text editor.</p>
+The `open` command also works on individual files and will open the file in its associated application. For instance, running open on a PDF will open the file in Preview. And running `open` on a normal directory (as opposed to an application package) will open the directory in Finder.
 
-<p>It is also possible to override the default application with other types of files using the option <em>a</em>.  But it is important to remember the full path to the application must be given:</p>
+The `open` command provides a number of useful options. The option _t_ treats the file, regardless of type, as a text file and opens it in the default text editor. A related option, _e_ simplifies the process and opens the file in TextEdit, the native text editor provided with MacOS X. Also related is _f_, which reads from the standard input and passes the input to the default text editor.
 
-<blockquote>
-  <p>open -a /Applications/Adobe Reader 9/Adobe Reader.app/ foo.pdf</p>
-</blockquote>
+It is also possible to override the default application with other types of files using the option _a_. But it is important to remember the full path to the application must be given:
 
-<p>This form is quite cumbersome, but it may be appropriate in some circumstances.  One last option worth mentioning is <em>R</em> which find the references file in Finder, instead of opening the file itself.  Of course, <strong>open</strong> supports other options as well and reveiwing the man page is advised.</p>
+{% highlight shell %}
+open -a /Applications/Adobe Reader 9/Adobe Reader.app/ foo.pdf
+{% endhighlight %}
 
-<p>Finally, the <strong>open</strong> supports URLs:</p>
+This form is quite cumbersome, but it may be appropriate in some circumstances. One last option worth mentioning is _R_ which find the references file in Finder, instead of opening the file itself. Of course, `open` supports other options as well and reveiwing the man page is advised.
 
-<blockquote>
-  <p>open <a href="http://www.jameshoward.us">http://www.jameshoward.us</a></p>
-</blockquote>
+Finally, the `open` supports URLs:
 
-<p>will open my website directly in the default browser.</p>
+> open [http://www.jameshoward.us](http://www.jameshoward.us)
+
+will open my website directly in the default browser.

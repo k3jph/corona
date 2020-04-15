@@ -15,4 +15,5 @@ tags:
   - CPSAAi
   - UMD
 ---
-The minutes of the 1/30/2007 College Park Scholars Board of Directors meeting are now available <a href="https://jameshoward.us/wp-content/uploads/2007/04/College-Park-Scholars-Alumni-Association-Board-Minutes-2007.01.30.pdf"rel="">for download</a>.
+
+The minutes of the 1/30/2007 College Park Scholars Board of Directors meeting are now available [for download](/assets/docs/College-Park-Scholars-Alumni-Association-Board-Minutes-2007.01.30.pdf).

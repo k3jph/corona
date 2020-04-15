@@ -21,7 +21,8 @@ tags:
   - public administration
   - public affairs
 ---
-When I joined the CA's Budget Committee in 2004, I was astonished to learn the budgetary process was mostly shrouded in mystery.  Meetings were not announced and prior year information was almost nonexistent.  As a result, I made it a goal to open the CA's financials.  After our report was completed, I scanned it and posted it to [my personal website](http://jameshoward.us/service/columbia-association).  I also posted two prior reports given to me by Kathy Larson and Andy Stack.
+
+When I joined the CA's Budget Committee in 2004, I was astonished to learn the budgetary process was mostly shrouded in mystery.  Meetings were not announced and prior year information was almost nonexistent.  As a result, I made it a goal to open the CA's financials.  After our report was completed, I scanned it and posted it to [my personal website](/service).  I also posted two prior reports given to me by Kathy Larson and Andy Stack.
 
 When I was selected as chair of the committee the following year, I sought more openness.  Reports and meeting schedules were made available though this website as soon as possible.  Additionally, I simplified the Budget and Financial Advisory committee report formats to make them more accessible and understandable, rather than lengthy tables of opaque numbers.
 

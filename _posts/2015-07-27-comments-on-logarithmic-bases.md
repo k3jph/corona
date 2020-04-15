@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "1311278065577126"
-featured-image: 9610474266_d5c556de34_k-840x320.jpg
+featured-image: 9610474266_d5c556de34_k.jpg
 categories:
   - Blog
 tags:
@@ -30,4 +30,4 @@ Generally, though, there are only three bases we would worry about.  First is ba
 
 These different logarithm types are represented by various symbols.  Different fields refer to the natural logarithm as [latex]\log x[/latex], though some fields call it [latex]\ln x[/latex].  For our purpose here, we will always specify the base when important and if the base is omitted, the statement is true regardless of base.  Of course, some applications are base-independent.  The base conversion formula, given above, works regardless of the underlying implementation base.  Other applications, such as taking the logarithm of a data column before a regression analysis is also base-independent, provided you are aware of the implications of the logarithmic transformation.
 
-<em>Image by <a href="https://www.flickr.com/photos/51764518@N02/9610474266">Joe Haupt / Flickr</a>.</em>
+_Image by [Joe Haupt / Flickr](https://www.flickr.com/photos/51764518@N02/9610474266)._

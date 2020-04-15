@@ -8,13 +8,7 @@ guid: https://jameshoward.us/?p=3150
 permalink: /2015/10/27/probability-at-scale-and-kic-8462852/
 dsq_thread_id:
   - "4264043106"
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
-featured-image: Ringworld-800x525.jpg
+featured-image: Ringworld.jpg
 categories:
   - Blog
 tags:
@@ -43,4 +37,3 @@ That's a big number, and the relative stellar density, the number of stars per c
 This same mistaking of net population probability for individual probability underlies a lot of policy problems.  This is why we keep seeing 100-year storms.  They are in different places.  And it's also why someone wins the lottery.  Repeatedly running the trial increases the likelihood of a hit.
 
 _Image by [Hill / Wikimedia](https://commons.wikimedia.org/wiki/File:Ringworld.jpg)._
-

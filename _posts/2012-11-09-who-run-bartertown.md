@@ -26,4 +26,4 @@ tags:
   - science
   - scientific computing
 ---
-<p>Nate Silver.  But lost in the discussion of how the Republican Party panned his predictions is an underlying truth.  The same group of people who reject climate science, evolutionary science, economic science, geological science, medical science, social science, and public health also reject data science.</p>
+Nate Silver. But lost in the discussion of how the Republican Party panned his predictions is an underlying truth. The same group of people who reject climate science, evolutionary science, economic science, geological science, medical science, social science, and public health also reject data science.

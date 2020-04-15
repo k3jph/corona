@@ -14,6 +14,7 @@ tags:
   - meta
   - website
 ---
+
 For really no reason whatsoever, I have added new commenting features to JamesHoward.us based on [Intense Debate](http://www.intensedebate.com).  The commenting is automated and links your comments with posts at blogs and bulletin board systems using Intense Debate.
 
 So be fruitful and comment, or some such.

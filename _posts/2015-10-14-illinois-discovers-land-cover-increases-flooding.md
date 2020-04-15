@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4222548213"
 instant_articles_submission_id:
   - "242495209488514"
-featured-image: 14476423390_972b608093_z-640x400.jpg
+featured-image: 14476423390_972b608093_z.jpg
 categories:
   - Blog
 tags:
@@ -31,4 +31,3 @@ It's about a month old, but [WUIS has a story about increased urban flooding in 
 We often think about development along beachfront property eliminating natural barriers to flooding.  But any time land is developed, increased land cover leaves newly fallen water fewer places to go.  When there isn't any place left, that water is going into your basement, regardless of whether you live on the declared floodplain.  Further, the risk associated with some areas should be reevaluated following major development, as the development can fundamentaly change the risk profile.
 
 _Image by [Center for Neighborhood Technology / Flickr](https://www.flickr.com/photos/centerforneighborhoodtechnology/14476423390)._
-

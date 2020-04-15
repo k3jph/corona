@@ -46,6 +46,14 @@ from the new techniques presented as students are better able to
 assimilate and apply the material.  Finally, we expect our readers
 will find better methods to work with students across skill levels.
 
+## Links
+
+*   [Chapman and Hall/CRC's Website](http://crcpress.com/9780815372363)
+*   [Amazon](https://www.amazon.com/gp/product/0815372361)
+*   [Google Books](https://books.google.com/books?id=bifLzAEACAAJ)
+*   [Goodreads](https://www.goodreads.com/book/show/49766322)
+*   [WorldCat](http://www.worldcat.org/oclc/1133127673)
+
 ## Background Information
 
 * [Call for Proposals](/tlmo/cfp)

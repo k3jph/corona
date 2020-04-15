@@ -22,6 +22,6 @@ tags:
   - virtual ants
   - virtual bumblebees
 ---
-If everything is going according to plan, and then just as I posted this, I started my MathFest presentation.  [You can download the slides here.](/wp-content/uploads/2015/08/Virtual-Bumblebees-MathFest2015.pptx)  The PowerPoint file contains several embedded videos, so it is quite large.  You can see a static rendition of the slides here:
+If everything is going according to plan, and then just as I posted this, I started my MathFest presentation.  [You can download the slides here.](/assets/docs/Virtual-Bumblebees-MathFest2015.pptx)  The PowerPoint file contains several embedded videos, so it is quite large.  You can see a static rendition of the slides here:
 
-<center>[slideshare id=51287684&doc=virtualbumblebees-mathfest2015-150805030618-lva1-app6891]</center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wQwLHSnkhdLNm7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jameshoward/virtual-bumblebees-51287684" title="Virtual Bumblebees" target="_blank">Virtual Bumblebees</a> </strong> de <strong><a href="https://www.slideshare.net/jameshoward" target="_blank">James Howard</a></strong> </div>

@@ -18,4 +18,4 @@ tags:
   - FreeGrep
   - Minix
 ---
-<p>I received an email today saying <a href="http://gforge.cs.vu.nl/gf/project/minix/scmsvn/?action=browse&amp;path=%2Ftrunk%2Fsrc%2Fcommands%2Fgrep%2F">FreeGrep is now standard in Minix 3</a>!</p>
+I received an email today saying [FreeGrep is now standard in Minix 3](http://gforge.cs.vu.nl/gf/project/minix/scmsvn/?action=browse&path=%2Ftrunk%2Fsrc%2Fcommands%2Fgrep%2F)!

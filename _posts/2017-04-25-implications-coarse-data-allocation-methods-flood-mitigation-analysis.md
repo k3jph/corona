@@ -28,9 +28,9 @@ Statistical
 Meetings](https://ww2.amstat.org/meetings/JSM/2013/onlineprogram/AbstractDetails.cfm?abstractid=309271)
 and realized, it does not seem to be online.  And neither does my
 poster!  So I figured I should fix that.  Here's a link to the
-[poster](https://jameshoward.us/wp-content/uploads/2017/04/JHoward-JSM2013-Poster.pdf)
+[poster](/assets/docs/JHoward-JSM2013-Poster.pdf)
 and the [proceedings
-paper](https://jameshoward.us/wp-content/uploads/2017/04/JHoward-JSM2013-Proceedings.pdf).
+paper](/assets/docs/JHoward-JSM2013-Proceedings.pdf).
 
 The key idea here comes from my work on flood insurance and trying
 to understand the county-level effects of flood mitigation grants.

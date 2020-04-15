@@ -20,4 +20,5 @@ tags:
   - software
   - systems science
 ---
-<a href='ftp://ftp.jameshoward.us/pub/howardjp'>New FTP Site</a><div class="link_description"><p>I have set up a small FTP site for numerous small programs I either wrote or was once responsible for.  Or still am.</p></div>
+
+I have set up a [small FTP site](ftp://ftp.jameshoward.us/pub/howardjp) for numerous small programs I either wrote or was once responsible for. Or still am.

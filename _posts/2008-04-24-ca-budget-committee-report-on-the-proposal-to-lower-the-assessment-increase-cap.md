@@ -18,4 +18,4 @@ tags:
   - public economics
   - public financial management
 ---
-The Budget Committee has released is report on the proposal to lower the assessment increase cap.  <a href="https://jameshoward.us/wp-content/uploads/2009/04/cabac-2008-assessments.pdf">You can download the report here.</a>
+The Budget Committee has released is report on the proposal to lower the assessment increase cap. [You can download the report here.](/assets/docs/cabac-2008-assessments.pdf)

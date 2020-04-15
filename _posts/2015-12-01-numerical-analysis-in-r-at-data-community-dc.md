@@ -27,5 +27,4 @@ A week from tonight, I'll be talking to [Statistical Programming DC](www.datacom
 
 Find out more and register at the Meetup page:
 
-  http://www.meetup.com/stats-prog-dc/events/227114848/
-
+{% include iframely.html url="http://www.meetup.com/stats-prog-dc/events/227114848/" %}

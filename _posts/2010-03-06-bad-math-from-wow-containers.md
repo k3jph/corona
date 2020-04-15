@@ -19,4 +19,4 @@ tags:
   - math education
   - mathematics
 ---
-<p>I just saw an advertisement for something called <a href="https://www.wowcontainers.com/">Wow Containers</a> which allows the tops and bottoms of containers to be interchangeable with each other.  So far, this seems sensible.  Then the commercial says, &#8220;with four different sizes, the possibilities are endless.&#8221;  And by endless, they mean sixteen.  You can see the commercial at the link above.</p>
+I just saw an advertisement for something called [Wow Containers](https://www.wowcontainers.com/) which allows the tops and bottoms of containers to be interchangeable with each other. So far, this seems sensible. Then the commercial says, "with four different sizes, the possibilities are endless." And by endless, they mean sixteen. You can see the commercial at the link above.

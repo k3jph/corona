@@ -20,7 +20,10 @@ tags:
   - finance
   - Financial Advisory Committee
 ---
-<p>Last night, the Columbia Association&#8217;s Financial Advisory Committee held its first meeting of the term and we introduced three new members.  Those members have a diverse background and strenghen our expertise in financial analysis.</p>
-<p>This year, the Financial Advisory Committee will be reviewing two key questions for the Columbia Association&#8217;s Board of Directors.  The first is recommend measurement target for financial performance of the organization, particularly with regard to the outstanding debt position.  As the Committee has experience in establishing measures for the organization, this is a natural outgrowth of that work.</p>
-<p>The second question the Financial Advisory Committee will address is to consider and respond to a proposed business plan being developed by the Columbia Association&#8217;s senior staff.  The proposed business plan is not yet available and will be addressed when ready.</p>
-<p>Both topics this year are quite exciting and give the Financial Advisory Committee some red meat to chew on following a few lean years.  I look forward to diving into these and am delighted to be working with new Committee members.</p>
+Last night, the Columbia Association’s Financial Advisory Committee held its first meeting of the term and we introduced three new members.  Those members have a diverse background and strenghen our expertise in financial analysis.
+
+This year, the Financial Advisory Committee will be reviewing two key questions for the Columbia Association’s Board of Directors.  The first is recommend measurement target for financial performance of the organization, particularly with regard to the outstanding debt position.  As the Committee has experience in establishing measures for the organization, this is a natural outgrowth of that work.
+
+The second question the Financial Advisory Committee will address is to consider and respond to a proposed business plan being developed by the Columbia Association’s senior staff.  The proposed business plan is not yet available and will be addressed when ready.
+
+Both topics this year are quite exciting and give the Financial Advisory Committee some red meat to chew on following a few lean years.  I look forward to diving into these and am delighted to be working with new Committee members.

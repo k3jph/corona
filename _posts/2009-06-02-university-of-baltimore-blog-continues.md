@@ -14,4 +14,5 @@ tags:
   - blogging
   - University of Baltimore
 ---
+
 The [University of Baltimore Blog](http://ubaltblog.blogspot.com/) has reconstituted itself for the summer term and I will still be posting there.  The good news is there are more posters and most days will see two posts per day.

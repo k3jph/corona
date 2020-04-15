@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3812
 permalink: /2012/01/20/dissertation-proposal-defense-slides/
-featured-image: NFIP-proposal-defense-slides-cover-840x525.png
+featured-image: NFIP-proposal-defense-slides-cover.png
 categories:
   - Blog
 tags:
@@ -19,4 +19,4 @@ tags:
 ---
 Below are the slides from my dissertation proposal defense.  I gave the presentation this morning and was approved.  My notes are also included.
 
-[slideshare id=58213384&doc=jhoward-nfip-proposal-defense-160213021953]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bykOeQUHGuP5T2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jameshoward/nfip-dissertation-proposal-defense" title="NFIP Dissertation Proposal Defense" target="_blank">NFIP Dissertation Proposal Defense</a> </strong> from <strong><a href="https://www.slideshare.net/jameshoward" target="_blank">James Howard</a></strong> </div>

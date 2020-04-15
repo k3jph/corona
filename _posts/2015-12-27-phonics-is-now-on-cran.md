@@ -8,9 +8,7 @@ guid: https://jameshoward.us/?p=3503
 permalink: /2015/12/27/phonics-is-now-on-cran/
 dsq_thread_id:
   - "4439241541"
-ampforwp_custom_content_editor_checkbox:
-  - ""
-featured-image: anotheryak-840x350.png
+featured-image: anotheryak.png
 categories:
   - Blog
 tags:
@@ -25,9 +23,9 @@ tags:
 ---
 You can now download [phonics on CRAN](https://cran.r-project.org/web/packages/phonics/index.html).  Or just do this:
 
-[sourcecode language="R" light="true"]
-install.packages(&quot;phonics&quot;)
-[/sourcecode]
+{% highlight r %}
+install.packages("phonics")
+{% endhighlight %}
 
 You will have to compile it.
 

@@ -14,4 +14,5 @@ tags:
   - blogging
   - University of Baltimore
 ---
+
 The University of Baltimore has a [new blog](http://ubaltblog.blogspot.com) written by those affiliated with campus and have selected me as an alumni blogger.  My posts will appear every Friday.  The first ran this morning, [Research at the Library](http://ubaltblog.blogspot.com/2009/03/research-at-library.html).

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2639
 permalink: /2015/08/31/mission-vision-and-values/
 dsq_thread_id:
   - "4084276644"
-featured-image: 4633956242_b193e15c9f_o-840x525.jpg
+featured-image: 4633956242_b193e15c9f_o.jpg
 categories:
   - Blog
 tags:

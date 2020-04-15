@@ -19,6 +19,7 @@ tags:
   - public economics
   - public financial management
 ---
+
 In Attendance:
 
 * Committee -  Mary Chiu, James Howard, Roger Hultgren, Dan Woodruff

@@ -13,4 +13,4 @@ tags:
   - Columbia
   - Columbia Association
 ---
-The [Columbia Association](http://www.columbiaassociation.com) recently proposed subjecting all members of resident advisory committees to a broad non-disclosure agreement over confidential information.  I submitted <a href="https://jameshoward.us/wp-content/uploads/2007/09/jh-2008-nda.pdf"rel="">this letter</a> to the Columbia Association requesting the new policy be reduced in scope.
+The [Columbia Association](http://www.columbiaassociation.com) recently proposed subjecting all members of resident advisory committees to a broad non-disclosure agreement over confidential information. I submitted [this letter](/assets/docs/jh-2008-nda.pdf) to the Columbia Association requesting the new policy be reduced in scope.
