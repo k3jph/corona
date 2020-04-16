@@ -1,7 +1,7 @@
 ---
 id: ebolavirus-transmission-at-jsm2020
 title: Ebolavirus Transmission at JSM2020
-date: 2020-04-12T20:11:00-04:00
+date: 2020-04-15T20:05:00-04:00
 author: James Howard
 layout: post
 guid: ebolavirus-transmission-at-jsm2020
