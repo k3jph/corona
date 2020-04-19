@@ -9,7 +9,7 @@ redirect_from:
   - /archive
 ---
 
-{% include figure.html image="jhoward-stacks.png" width="50%" placement="right"
+{% include figure.html image="jhoward-greenglow.jpg" width="50%" placement="right"
    alt="Me at the 2017 Howard County Library Evening in the Stacks"
    cap="Me at the 2017 Howard County Library Evening in the Stacks" %}
 
