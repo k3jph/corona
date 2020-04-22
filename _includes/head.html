@@ -1,7 +1,7 @@
 <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="http://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   <meta name="description" content="{{ page.description }}" />
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <meta name="msvalidate.01" content="DD9F41D19DC592B5DB3651A20B5D7BEA" />
@@ -11,6 +11,10 @@
   <a rel="me" href="https://twitter.com/k3jph"></a>
   <a rel="me" href="https://www.facebook.com/k3jph"></a>
   
+  <link rel="icon" href="{{ '/assets/images/jhoward-greenglow-32x32.jpeg' | absolute_url }}" sizes="32x32" />
+  <link rel="icon" href="{{ '/assets/images/jhoward-greenglow-192x192.jpeg' | absolute_url }}" sizes="192x192" />
+  <link rel="apple-touch-icon" href="{{ '/assets/images/jhoward-greenglow-300x300.jpeg' | absolute_url }}" />
+
   {% include twittercards.html %}
   {% include og.html %}
 
@@ -23,29 +27,25 @@
   </title>
 
   {% if page.url and site.baseurl %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
   {% endif %}
 
-  <link rel="preload" href="{{ '/assets/css/poole.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="{{ '/assets/css/poole.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="{{ '/assets/css/poole.css' | absolute_url }}"></noscript>
 
-  <link rel="preload" href="{{ '/assets/css/syntax.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="{{ '/assets/css/syntax.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="{{ '/assets/css/syntax.css' | absolute_url }}"></noscript>
  
-  <link rel="preload" href="{{ '/assets/css/lanyon.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="{{ '/assets/css/lanyon.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="{{ '/assets/css/lanyon.css' | absolute_url }}"></noscript>
 
-  <link rel="preload" href="{{ '/assets/css/jameshoward.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="{{ '/assets/css/jameshoward.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript> <link rel="stylesheet" href="{{ '/assets/css/jameshoward.css' | absolute_url }}"></noscript>
 
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"></noscript>
 
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/images/apple-touch-icon-precomposed.png' | absolute_url }}">
-  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}">
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}">
-
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}" />
 
   <script defer async src="https://kit.fontawesome.com/3efe1074f1.js" crossorigin="anonymous"></script>
   <script defer async src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

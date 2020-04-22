@@ -10,19 +10,9 @@ menu-order:     5
 menu-label:     Media
 ---
 
-## TV/Video
-1. Patrick Henderson's Meet the People, "[Economics and the New Tax Laws](/2018/01/01/video-patrick-hendersons-meet-people/)," WOLB-FM Baltimore, Jan. 1, 2018.
-1. Heidi Hecht, "[Interview with James Howard](/2016/07/04/watch-interview-mars-one-candidate-heidi-hecht/)," YouTube,  Jul. 3, 2016.
+## Print and Written
 
-## Radio and Podcasts
-
-1. Resoundingly Human, "[Is Your Favorite Restaurant at Risk of Failing Its Health Inspection?](https://pubsonline.informs.org/do/10.1287/orms.2020.01.01p/abs/)" ORMS Today, Jan. 8, 2020.
-1. DMVDaily Radio Show, "[Tell the Truth Tuesday: Opportunity Zones in Baltimore](/2018/12/19/talking-about-opportunity-zones-in-baltimore/)," WOLB-FM Baltimore, Dec. 18, 2018.
-1. The Attitude with Arnie Arnesen, "[Interview with James Howard](/2017/08/31/audio-attitude-interview/)," WNHN-FM Concord and podcast, Aug. 31, 2017
-1. IMI TechTalk with Tom D’Auria, "[Artificial Intelligence is a Go](/2016/04/13/listen-talk-data-science-kfnx/)," 1100 KFNX and podcast, Apr. 10, 2016. 
-
-## Print 
-
+1. Jenna Harrity, "[Associate Professor Publishes Book on Military Operations Research](http://wp.towson.edu/businessdialog/2020/04/09/associate-professor-publishes-book-on-military-operations-research/)," Towson _Business Dialog_, Apr. 9, 2020.
 1. Julie Bawden-Davis, "[What Is Covered under Flood Insurance – a Complete Guide](https://www.supermoney.com/what-is-covered-under-flood-insurance/)," Supermoney!, Aug. 17, 2018.
 1. Emmet Pierce, "[How El Niño and La Niña Affect the Weather](/assets/docs/elninolaninaweather.pdf)," The Hartford Extra Mile, Jun. 13, 2018.
 1. Holly Johnson, "[Three Reasons Everyone Should Consider Buying Flood Insurance](https://www.thesimpledollar.com/insurance/home/three-reasons-everyone-should-consider-buying-flood-insurance/)," The Simple Dollar, Dec. 27, 2017.
@@ -41,6 +31,17 @@ ce-parents.pdf)," HighYa Jul. 16, 2016.
 1. Emma Goddard, "[4 Must-Know Tornado Safety Tips for Renters](/assets/docs/4tornado.pdf)," Roomi Connect, Mar. 21, 2016.
 1. Meghan Larsen, "[The 6 Critical Steps of a Flood Safety Plan](/assets/docs/6critflood.pdf)," Roomi Connect, Jan. 28, 2016.
 
-## Features
+## Profiles
 
 1. 2LT (MDDF) Anthony Granado, "[Captain James Howard Completes Ph.D. and Provides Talent to the Maryland Defense Force](http://mddfdefender.blogspot.com/2014/07/captain-james-howard-completes-phd-and.html)," _Maryland Defense Force Defender_, Jul. 10, 2014.
+
+## Radio and Podcasts
+
+1. Resoundingly Human, "[Is Your Favorite Restaurant at Risk of Failing Its Health Inspection?](https://pubsonline.informs.org/do/10.1287/orms.2020.01.01p/abs/)" ORMS Today, Jan. 8, 2020.
+1. DMVDaily Radio Show, "[Tell the Truth Tuesday: Opportunity Zones in Baltimore](/2018/12/19/talking-about-opportunity-zones-in-baltimore/)," WOLB-FM Baltimore, Dec. 18, 2018.
+1. The Attitude with Arnie Arnesen, "[Interview with James Howard](/2017/08/31/audio-attitude-interview/)," WNHN-FM Concord and podcast, Aug. 31, 2017
+1. IMI TechTalk with Tom D’Auria, "[Artificial Intelligence is a Go](/2016/04/13/listen-talk-data-science-kfnx/)," 1100 KFNX and podcast, Apr. 10, 2016. 
+
+## TV/Video
+1. Patrick Henderson's Meet the People, "[Economics and the New Tax Laws](/2018/01/01/video-patrick-hendersons-meet-people/)," WOLB-FM Baltimore, Jan. 1, 2018.
+1. Heidi Hecht, "[Interview with James Howard](/2016/07/04/watch-interview-mars-one-candidate-heidi-hecht/)," YouTube,  Jul. 3, 2016.

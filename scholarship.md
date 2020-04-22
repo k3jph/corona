@@ -39,7 +39,7 @@ two more.
 
 1. James P. Howard, II and John F. Beyers, Eds., [_Teaching and Learning Mathematics Online_](/tlmo). Boca Raton, Florida: Chapman and Hall/CRC, forthcoming.
 1. James P. Howard, II, "Phonetic Spelling Algorithm Implementations for R," _Journal of Statistical Software_, forthcoming.
-1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey; James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "Augmented Reality Post-Disaster Situational Awareness," _Johns Hopkins APL Technical Digest_, forthcoming.
+1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey, James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "Augmented Reality Post-Disaster Situational Awareness," _Johns Hopkins APL Technical Digest_, forthcoming.
 1. James P. Howard, II, "Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic," 2020 Joint Statistical Meetings, Philadelphia, Aug. 4, 2020.
 1. Anna L Buczak, Benjamin Baugher, Christine Martin, Meg Keiley-Listermann, James P. Howard, II, Nathan Parrish, Anton Stalick, Daniel Berman, Mark Dredze, "Crystal Cube: Forecasting of Disruptive Events," International Conference on Machine Learning and Data Mining MLDM 2020, New York, Jul. 12-14, 2020.
 1. Natalie M. Scala and James P. Howard, II, Eds., [_Handbook of Military and Defense Operations Research_](/mdor), ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
