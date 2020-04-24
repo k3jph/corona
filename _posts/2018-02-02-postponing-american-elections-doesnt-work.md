@@ -120,9 +120,9 @@ the senators stay in the Senate following the election. Because of
 this, it is often argued that the Senate, unlike the House of
 Representatives, is a continuing body. That is, while there is a
 new House of Representatives every two years, this is the same
-Senate today as first met in 1789, just with different members.[1.
-Some [dispute
-this](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=2805&amp;context=facpubs).]
+Senate today as first met in 1789, just with different members.
+However, some [dispute
+this](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=2805&amp;context=facpubs).
 The difference may seem semantic, but there's a huge difference in
 practical application. I can, without much work, dig up more than
 2000 pages on how to organize a new House of Representatives, which
@@ -158,9 +158,8 @@ Constitution is also clear that the old Senate is the legitimate
 Senate, just the opposite of the analysis in the case of the House
 of Representatives.
 
-This all takes us to the election of the President and Vice-President[2.
-As an aside, the title of the "Vice-President" actually has a hyphen
-in it. Get it right, people.] Any states organizing a presidential
+This all takes us to the election of the President and 
+Vice-President.{% fn %}  Any states organizing a presidential
 election and holding a meeting of electors would presumably publish
 results. Electors' meetings for each state are held within the state
 and the results forwarded to Congress. The official count happens
@@ -219,3 +218,10 @@ the other hand, he also wrote the [infamous, immoral, and obviously
 incorrect torture
 memos](http://www.nytimes.com/ref/international/24MEMO-GUIDE.html).  So
 now I am questioning my logic.
+
+{% footnotes %}
+  {% fnbody %}
+As an aside, the title of the "Vice-President" actually has a hyphen in
+it. Get it right, people.
+   {% endfnbody %}
+{% endfootnotes %}
