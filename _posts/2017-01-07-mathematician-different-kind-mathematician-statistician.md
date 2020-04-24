@@ -5,7 +5,7 @@ date: 2017-01-07T13:53:56-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4691
-permalink: /2017/01/07/mathematician-different-kind-mathematician-statistician/
+permalink: /2017/01/07/mathematician-different-kind-mathematician-statistician
 dsq_thread_id:
   - "5444014491"
 featured-image: mathematician-different-kind-mathematician-statistician.jpg

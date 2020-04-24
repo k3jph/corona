@@ -5,7 +5,7 @@ date: 2015-07-13T18:24:14-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2267
-permalink: /2015/07/13/where-is-new-horizons-going/
+permalink: /2015/07/13/where-is-new-horizons-going
 dsq_thread_id:
   - "3931610174"
 featured-image: nh-pluto.jpg

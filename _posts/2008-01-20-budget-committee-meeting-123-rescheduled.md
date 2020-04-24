@@ -5,7 +5,7 @@ date: 2008-01-20T21:50:02-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3347
-permalink: /2008/01/20/budget-committee-meeting-123-rescheduled/
+permalink: /2008/01/20/budget-committee-meeting-123-rescheduled
 dsq_thread_id:
   - "4396670261"
 categories:

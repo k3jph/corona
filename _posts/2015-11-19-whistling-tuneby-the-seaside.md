@@ -5,7 +5,7 @@ date: 2015-11-19T09:19:28-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3233
-permalink: /2015/11/19/whistling-tuneby-the-seaside/
+permalink: /2015/11/19/whistling-tuneby-the-seaside
 dsq_thread_id:
   - "4333803566"
 featured-image: beachdunes.png

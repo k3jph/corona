@@ -5,7 +5,7 @@ date: 2017-11-28T15:36:39-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5710
-permalink: /2017/11/28/county-council-seeks-new-member-board-appeals/
+permalink: /2017/11/28/county-council-seeks-new-member-board-appeals
 featured-image: board-appeals-seeks-new-member.jpg
 categories:
   - Blog

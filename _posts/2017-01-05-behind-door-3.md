@@ -5,7 +5,7 @@ date: 2017-01-05T17:31:18-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4688
-permalink: /2017/01/05/behind-door-3/
+permalink: /2017/01/05/behind-door-3
 dsq_thread_id:
   - "5439826772"
 featured-image: behind-door-3.jpg

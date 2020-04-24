@@ -5,7 +5,7 @@ date: 2016-07-02T07:03:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4242
-permalink: /2016/07/02/thoughts-monty-hall/
+permalink: /2016/07/02/thoughts-monty-hall
 dsq_thread_id:
   - "4955381871"
 featured-image: 800px-Monty_open_door.svg_.png

@@ -5,7 +5,7 @@ date: 2008-03-05T18:21:46-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3133
-permalink: /2008/03/05/ca-budget-committee-called-back/
+permalink: /2008/03/05/ca-budget-committee-called-back
 dsq_thread_id:
   - "4247413908"
 categories:

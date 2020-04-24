@@ -5,7 +5,7 @@ date: 2007-06-12T20:00:34-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3571
-permalink: /2007/06/12/welcome-back-to-mediawiki/
+permalink: /2007/06/12/welcome-back-to-mediawiki
 dsq_thread_id:
   - "4465375667"
 categories:

@@ -5,7 +5,7 @@ date: 2016-07-05T16:17:15-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4278
-permalink: /2016/07/05/makinsters-lectures-eastern-philosophy/
+permalink: /2016/07/05/makinsters-lectures-eastern-philosophy
 instant_articles_submission_id:
   - "149016385570140"
 dsq_thread_id:

@@ -5,7 +5,7 @@ date: 2008-02-08T20:13:34-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3242
-permalink: /2008/02/08/a-brief-note-on-feeds/
+permalink: /2008/02/08/a-brief-note-on-feeds
 categories:
   - Blog
 tags:

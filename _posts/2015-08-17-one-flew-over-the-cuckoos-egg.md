@@ -5,7 +5,7 @@ date: 2015-08-17T18:12:16-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2470
-permalink: /2015/08/17/one-flew-over-the-cuckoos-egg/
+permalink: /2015/08/17/one-flew-over-the-cuckoos-egg
 dsq_thread_id:
   - "4042093024"
 featured-image: cuckoosegg.jpg

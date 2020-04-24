@@ -5,7 +5,7 @@ date: 2015-08-21T17:39:41-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2351
-permalink: /2015/08/21/radians-arent-bad/
+permalink: /2015/08/21/radians-arent-bad
 dsq_thread_id:
   - "4054915038"
 featured-image: rings.png

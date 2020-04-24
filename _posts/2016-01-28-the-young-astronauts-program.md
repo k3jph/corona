@@ -5,7 +5,7 @@ date: 2016-01-28T06:54:19-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3765
-permalink: /2016/01/28/the-young-astronauts-program/
+permalink: /2016/01/28/the-young-astronauts-program
 dsq_thread_id:
   - "4530470813"
 featured-image: challenger.png

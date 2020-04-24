@@ -5,7 +5,7 @@ date: 2017-11-07T21:39:37-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5642
-permalink: /2017/11/07/xsede-is-awesome/
+permalink: /2017/11/07/xsede-is-awesome
 featured-image: xsede-is-awesome.jpg
 categories:
   - Blog

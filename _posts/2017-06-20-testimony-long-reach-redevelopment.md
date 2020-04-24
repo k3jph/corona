@@ -5,7 +5,7 @@ date: 2017-06-20T07:06:21-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5089
-permalink: /2017/06/20/testimony-long-reach-redevelopment/
+permalink: /2017/06/20/testimony-long-reach-redevelopment
 dsq_thread_id:
   - "5925180687"
 instant_articles_submission_id:

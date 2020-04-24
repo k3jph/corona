@@ -5,7 +5,7 @@ date: 2015-08-30T08:34:28-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2626
-permalink: /2015/08/30/i-wonder-how-zoning-works-on-qonos/
+permalink: /2015/08/30/i-wonder-how-zoning-works-on-qonos
 dsq_thread_id:
   - "4080721355"
 featured-image: pirates-of-orion.png

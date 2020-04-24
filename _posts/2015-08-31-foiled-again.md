@@ -5,7 +5,7 @@ date: 2015-08-31T08:22:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2654
-permalink: /2015/08/31/foiled-again/
+permalink: /2015/08/31/foiled-again
 dsq_thread_id:
   - "4083605925"
 featured-image: batmanrobin-foil.jpg

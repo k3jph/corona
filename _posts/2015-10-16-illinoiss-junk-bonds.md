@@ -5,7 +5,7 @@ date: 2015-10-16T08:27:24-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3054
-permalink: /2015/10/16/illinoiss-junk-bonds/
+permalink: /2015/10/16/illinoiss-junk-bonds
 dsq_thread_id:
   - "4230524033"
 featured-image: lottery-174132_1920.jpg

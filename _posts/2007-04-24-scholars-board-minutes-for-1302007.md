@@ -5,7 +5,7 @@ date: 2007-04-24T21:50:54-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3586
-permalink: /2007/04/24/scholars-board-minutes-for-1302007/
+permalink: /2007/04/24/scholars-board-minutes-for-1302007
 dsq_thread_id:
   - "4465405846"
 categories:

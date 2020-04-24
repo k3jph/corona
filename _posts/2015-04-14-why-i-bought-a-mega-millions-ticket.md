@@ -5,7 +5,7 @@ date: 2015-04-14T09:33:29-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2021
-permalink: /2015/04/14/why-i-bought-a-mega-millions-ticket/
+permalink: /2015/04/14/why-i-bought-a-mega-millions-ticket
 dsq_thread_id:
   - "3680817503"
 featured-image: lotterymoney.png

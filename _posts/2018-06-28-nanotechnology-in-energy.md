@@ -5,7 +5,7 @@ date: 2018-06-28T16:47:28-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6350
-permalink: /2018/06/28/nanotechnology-in-energy/
+permalink: /2018/06/28/nanotechnology-in-energy
 featured-image: nanotechnology-in-energy.jpg
 categories:
   - Blog

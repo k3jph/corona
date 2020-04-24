@@ -5,7 +5,7 @@ date: 2016-02-09T16:40:47-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3794
-permalink: /2016/02/09/solar-powered-trains/
+permalink: /2016/02/09/solar-powered-trains
 dsq_thread_id:
   - "4565777730"
 instant_articles_submission_id:

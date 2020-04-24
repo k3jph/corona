@@ -5,7 +5,7 @@ date: 2015-09-09T08:42:43-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2741
-permalink: /2015/09/09/how-many-floating-point-numbers-are-there/
+permalink: /2015/09/09/how-many-floating-point-numbers-are-there
 dsq_thread_id:
   - "4112776720"
 featured-image: 1000px-IEEE_754_Single_Floating_Point_Format.svg_.png

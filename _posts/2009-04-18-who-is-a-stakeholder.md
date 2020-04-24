@@ -5,7 +5,7 @@ date: 2009-04-18T19:45:42-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3013
-permalink: /2009/04/18/who-is-a-stakeholder/
+permalink: /2009/04/18/who-is-a-stakeholder
 categories:
   - Blog
 tags:

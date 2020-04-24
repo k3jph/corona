@@ -5,7 +5,7 @@ date: 2014-12-02T06:32:43-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1670
-permalink: /2014/12/02/public-goods-often-arent/
+permalink: /2014/12/02/public-goods-often-arent
 featured-image: poollocked.png
 dsq_thread_id:
   - "3285241853"

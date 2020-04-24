@@ -5,7 +5,7 @@ date: 2017-03-01T19:07:40-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4802
-permalink: /2017/03/01/adam-gopnik-needs-get-real/
+permalink: /2017/03/01/adam-gopnik-needs-get-real
 dsq_thread_id:
   - "5595643224"
 featured-image: adam-gopnik-needs-get-real.jpg

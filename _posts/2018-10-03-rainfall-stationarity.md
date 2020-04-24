@@ -5,7 +5,7 @@ date: 2018-10-03T09:42:13-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6471
-permalink: /2018/10/03/rainfall-stationarity/
+permalink: /2018/10/03/rainfall-stationarity
 featured-image: rainfall-stationarity.jpg
 categories:
   - Blog

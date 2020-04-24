@@ -5,7 +5,7 @@ date: 2018-07-12T06:50:14-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6390
-permalink: /2018/07/12/nanotechnology-on-your-face/
+permalink: /2018/07/12/nanotechnology-on-your-face
 featured-image: nanotechnology-on-your-face.jpg
 categories:
   - Blog

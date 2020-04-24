@@ -5,7 +5,7 @@ date: 2016-07-29T21:53:50-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4353
-permalink: /2016/07/29/learn-prepare-tsunami/
+permalink: /2016/07/29/learn-prepare-tsunami
 dsq_thread_id:
   - "5025558234"
 featured-image: learn-prepare-tsunami-1.jpg

@@ -5,7 +5,7 @@ date: 2010-03-06T20:09:00-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/03/06/bad-math-from-wow-containers/
-permalink: /2010/03/06/bad-math-from-wow-containers/
+permalink: /2010/03/06/bad-math-from-wow-containers
 dsq_thread_id:
   - "2268152523"
 tumblr_howardjp_permalink:

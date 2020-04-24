@@ -5,7 +5,7 @@ date: 2018-03-30T08:12:54-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6273
-permalink: /2018/03/30/my-orbit-population-model-at-jsm/
+permalink: /2018/03/30/my-orbit-population-model-at-jsm
 featured-image: my-orbit-population-model-at-jsm.jpg
 categories:
   - Blog

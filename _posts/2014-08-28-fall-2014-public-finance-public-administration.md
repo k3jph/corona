@@ -5,7 +5,7 @@ date: 2014-08-28T17:15:43-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1404
-permalink: /2014/08/28/fall-2014-public-finance-public-administration/
+permalink: /2014/08/28/fall-2014-public-finance-public-administration
 dsq_thread_id:
   - "2968257040"
 categories:

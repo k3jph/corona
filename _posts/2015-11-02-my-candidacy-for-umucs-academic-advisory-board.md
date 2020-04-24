@@ -5,7 +5,7 @@ date: 2015-11-02T17:21:02-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3172
-permalink: /2015/11/02/my-candidacy-for-umucs-academic-advisory-board/
+permalink: /2015/11/02/my-candidacy-for-umucs-academic-advisory-board
 dsq_thread_id:
   - "4284260347"
 featured-image: umuc-img.jpg

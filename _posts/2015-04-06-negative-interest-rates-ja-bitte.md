@@ -5,7 +5,7 @@ date: 2015-04-06T18:35:43-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2001
-permalink: /2015/04/06/negative-interest-rates-ja-bitte/
+permalink: /2015/04/06/negative-interest-rates-ja-bitte
 dsq_thread_id:
   - "3660188619"
 featured-image: bunds.png

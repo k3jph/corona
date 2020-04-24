@@ -5,7 +5,7 @@ date: 2015-12-02T07:57:43-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3272
-permalink: /2015/12/02/notes-on-english/
+permalink: /2015/12/02/notes-on-english
 dsq_thread_id:
   - "4368859759"
 featured-image: UigChessmen_SelectionOfKings.jpg

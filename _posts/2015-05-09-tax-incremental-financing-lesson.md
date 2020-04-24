@@ -5,7 +5,7 @@ date: 2015-05-09T08:53:05-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2076
-permalink: /2015/05/09/tax-incremental-financing-lesson/
+permalink: /2015/05/09/tax-incremental-financing-lesson
 dsq_thread_id:
   - "3748628433"
 featured-image: TIF-coverpage.png

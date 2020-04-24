@@ -5,7 +5,7 @@ date: 2017-04-24T07:16:54-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4875
-permalink: /2017/04/24/students-and-customers/
+permalink: /2017/04/24/students-and-customers
 instant_articles_submission_id:
   - "1668290190134284"
 dsq_thread_id:

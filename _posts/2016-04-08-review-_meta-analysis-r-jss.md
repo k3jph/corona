@@ -5,7 +5,7 @@ date: 2016-04-08T06:55:57-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3945
-permalink: /2016/04/08/review-_meta-analysis-r-jss/
+permalink: /2016/04/08/review-_meta-analysis-r-jss
 dsq_thread_id:
   - "4730418947"
 ampforwp_custom_content_editor_checkbox:

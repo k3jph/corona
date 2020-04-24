@@ -5,7 +5,7 @@ date: 2015-12-10T08:05:03-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3320
-permalink: /2015/12/10/dont-cancel-for-flood-insurance-due-to-mitigation/
+permalink: /2015/12/10/dont-cancel-for-flood-insurance-due-to-mitigation
 dsq_thread_id:
   - "4391965874"
 featured-image: missourifloods.png

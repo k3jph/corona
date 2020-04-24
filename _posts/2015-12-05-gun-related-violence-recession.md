@@ -5,7 +5,7 @@ date: 2015-12-05T12:16:21-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3203
-permalink: /2015/12/05/gun-related-violence-recession/
+permalink: /2015/12/05/gun-related-violence-recession
 dsq_thread_id:
   - "4378300939"
 featured-image: coffin.png

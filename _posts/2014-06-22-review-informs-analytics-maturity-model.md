@@ -5,7 +5,7 @@ date: 2014-06-22T11:00:51-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1335
-permalink: /2014/06/22/review-informs-analytics-maturity-model/
+permalink: /2014/06/22/review-informs-analytics-maturity-model
 dsq_thread_id:
   - "2786359154"
 ampforwp_custom_content_editor_checkbox:

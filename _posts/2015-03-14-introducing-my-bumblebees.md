@@ -5,7 +5,7 @@ date: 2015-03-14T13:59:49-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1929
-permalink: /2015/03/14/introducing-my-bumblebees/
+permalink: /2015/03/14/introducing-my-bumblebees
 dsq_thread_id:
   - "3595225297"
 featured-image: Bumblebees.png

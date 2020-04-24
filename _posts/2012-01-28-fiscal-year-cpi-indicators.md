@@ -5,7 +5,7 @@ date: 2012-01-28T13:01:00-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2012/01/28/fiscal-year-cpi-indicators/
-permalink: /2012/01/28/fiscal-year-cpi-indicators/
+permalink: /2012/01/28/fiscal-year-cpi-indicators
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/30316156167/fiscal-year-cpi-indicators
 tumblr_jhresearchlog_id:

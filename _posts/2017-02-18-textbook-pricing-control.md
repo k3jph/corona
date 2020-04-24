@@ -5,7 +5,7 @@ date: 2017-02-18T09:50:18-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4780
-permalink: /2017/02/18/textbook-pricing-control/
+permalink: /2017/02/18/textbook-pricing-control
 dsq_thread_id:
   - "5562997537"
 featured-image: textbook-pricing-control.jpg

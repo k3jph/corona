@@ -5,7 +5,7 @@ date: 2016-05-15T22:49:38-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4086
-permalink: /2016/05/15/carme-test-plan/
+permalink: /2016/05/15/carme-test-plan
 dsq_thread_id:
   - "4830130573"
 featured-image: Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg

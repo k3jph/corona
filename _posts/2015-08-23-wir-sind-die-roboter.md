@@ -5,7 +5,7 @@ date: 2015-08-23T09:26:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2543
-permalink: /2015/08/23/wir-sind-die-roboter/
+permalink: /2015/08/23/wir-sind-die-roboter
 dsq_thread_id:
   - "4057325576"
 instant_articles_submission_id:

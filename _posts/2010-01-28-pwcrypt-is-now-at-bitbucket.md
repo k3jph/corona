@@ -5,7 +5,7 @@ date: 2010-01-28T14:52:00-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/01/28/pwcrypt-is-now-at-bitbucket/
-permalink: /2010/01/28/pwcrypt-is-now-at-bitbucket/
+permalink: /2010/01/28/pwcrypt-is-now-at-bitbucket
 dsq_thread_id:
   - "2309664517"
 tumblr_howardjp_permalink:

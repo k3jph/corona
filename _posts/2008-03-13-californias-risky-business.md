@@ -5,7 +5,7 @@ date: 2008-03-13T10:15:45-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3136
-permalink: /2008/03/13/californias-risky-business/
+permalink: /2008/03/13/californias-risky-business
 dsq_thread_id:
   - "4247426797"
 categories:

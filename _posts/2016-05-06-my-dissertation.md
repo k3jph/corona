@@ -5,7 +5,7 @@ date: 2016-05-06T09:02:11-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4062
-permalink: /2016/05/06/my-dissertation/
+permalink: /2016/05/06/my-dissertation
 dsq_thread_id:
   - "4804810671"
 featured-image: 1898286_541285404792_914859516_n-1.jpg

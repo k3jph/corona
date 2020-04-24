@@ -5,7 +5,7 @@ date: 2015-10-25T09:44:25-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3146
-permalink: /2015/10/25/insuring-against-disaster/
+permalink: /2015/10/25/insuring-against-disaster
 dsq_thread_id:
   - "4258701517"
 featured-image: disaster.png

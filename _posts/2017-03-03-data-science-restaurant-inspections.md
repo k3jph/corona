@@ -5,7 +5,7 @@ date: 2017-03-03T07:00:21-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4809
-permalink: /2017/03/03/data-science-restaurant-inspections/
+permalink: /2017/03/03/data-science-restaurant-inspections
 dsq_thread_id:
   - "5599847238"
 featured-image: data-science-restaurant-inspections.jpg

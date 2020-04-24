@@ -5,7 +5,7 @@ date: 2018-08-27T17:38:22-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6452
-permalink: /2018/08/27/teaching-research-methods-this-fall/
+permalink: /2018/08/27/teaching-research-methods-this-fall
 featured-image: teaching-research-methods-this-fall.jpg
 categories:
   - Blog

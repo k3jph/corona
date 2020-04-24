@@ -5,7 +5,7 @@ date: 2015-06-05T18:21:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2138
-permalink: /2015/06/05/place-space-christianisation-sagas/
+permalink: /2015/06/05/place-space-christianisation-sagas
 dsq_thread_id:
   - "3824856482"
 featured-image: islendabok.png

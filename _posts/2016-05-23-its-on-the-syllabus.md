@@ -5,7 +5,7 @@ date: 2016-05-23T21:46:39-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4074
-permalink: /2016/05/23/its-on-the-syllabus/
+permalink: /2016/05/23/its-on-the-syllabus
 dsq_thread_id:
   - "4852489120"
 featured-image: syllabus.png

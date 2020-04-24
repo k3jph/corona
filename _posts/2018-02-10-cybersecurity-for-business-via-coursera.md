@@ -5,7 +5,7 @@ date: 2018-02-10T08:15:18-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6139
-permalink: /2018/02/10/cybersecurity-for-business-via-coursera/
+permalink: /2018/02/10/cybersecurity-for-business-via-coursera
 featured-image: cybersecurity-for-business-via-coursera.png
 categories:
   - Blog

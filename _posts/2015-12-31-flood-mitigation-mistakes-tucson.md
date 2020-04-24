@@ -5,7 +5,7 @@ date: 2015-12-31T20:22:00-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3548
-permalink: /2015/12/31/flood-mitigation-mistakes-tucson/
+permalink: /2015/12/31/flood-mitigation-mistakes-tucson
 dsq_thread_id:
   - "4470203941"
 instant_articles_submission_id:

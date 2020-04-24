@@ -5,7 +5,7 @@ date: 2014-07-03T10:24:44-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1381
-permalink: /2014/07/03/reauthorizing-ex-im-bank/
+permalink: /2014/07/03/reauthorizing-ex-im-bank
 dsq_thread_id:
   - "2813305261"
 featured-image: 3468445533_33c0f0d490_z.jpg

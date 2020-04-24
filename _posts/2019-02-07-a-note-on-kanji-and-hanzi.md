@@ -5,7 +5,7 @@ date: 2019-02-07T20:58:38-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6835
-permalink: /2019/02/07/a-note-on-kanji-and-hanzi/
+permalink: /2019/02/07/a-note-on-kanji-and-hanzi
 featured-image: a-note-on-kanji-and-hanzi.jpg
 categories:
   - Blog

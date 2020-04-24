@@ -5,7 +5,7 @@ date: 2015-06-21T09:58:13-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2216
-permalink: /2015/06/21/im-going-to-mathfest/
+permalink: /2015/06/21/im-going-to-mathfest
 dsq_thread_id:
   - "3866794654"
 featured-image: mathfest2015banner.gif

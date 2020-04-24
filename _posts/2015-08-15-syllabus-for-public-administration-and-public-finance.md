@@ -5,7 +5,7 @@ date: 2015-08-15T08:12:59-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2426
-permalink: /2015/08/15/syllabus-for-public-administration-and-public-finance/
+permalink: /2015/08/15/syllabus-for-public-administration-and-public-finance
 dsq_thread_id:
   - "4035031514"
 featured-image: desert.png

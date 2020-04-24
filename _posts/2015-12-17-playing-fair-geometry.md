@@ -5,7 +5,7 @@ date: 2015-12-17T21:10:24-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3396
-permalink: /2015/12/17/playing-fair-geometry/
+permalink: /2015/12/17/playing-fair-geometry
 dsq_thread_id:
   - "4413381178"
 featured-image: 1024px-Triangles_spherical_geometry.jpg

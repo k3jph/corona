@@ -5,7 +5,7 @@ date: 2015-06-02T20:28:53-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2154
-permalink: /2015/06/02/better-extra-credit/
+permalink: /2015/06/02/better-extra-credit
 dsq_thread_id:
   - "3816340543"
 featured-image: businessmath.png

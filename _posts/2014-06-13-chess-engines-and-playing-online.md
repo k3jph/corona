@@ -5,7 +5,7 @@ date: 2014-06-13T21:39:27-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1246
-permalink: /2014/06/13/chess-engines-and-playing-online/
+permalink: /2014/06/13/chess-engines-and-playing-online
 dsq_thread_id:
   - "2762674264"
 categories:

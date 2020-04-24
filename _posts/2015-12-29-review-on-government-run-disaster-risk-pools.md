@@ -5,7 +5,7 @@ date: 2015-12-29T18:00:49-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3545
-permalink: /2015/12/29/review-on-government-run-disaster-risk-pools/
+permalink: /2015/12/29/review-on-government-run-disaster-risk-pools
 dsq_thread_id:
   - "4445190873"
 featured-image: volcano-holuhraun.png

@@ -5,7 +5,7 @@ date: 2017-08-05T06:37:39-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5310
-permalink: /2017/08/05/i-thought-the-generals-were-due/
+permalink: /2017/08/05/i-thought-the-generals-were-due
 dsq_thread_id:
   - "6043034447"
 featured-image: i-thought-the-generals-were-due.jpg

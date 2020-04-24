@@ -5,7 +5,7 @@ date: 2015-11-06T09:38:57-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3168
-permalink: /2015/11/06/decision-relative-risk/
+permalink: /2015/11/06/decision-relative-risk
 dsq_thread_id:
   - "4295364762"
 featured-image: 640px-Female_Emperor_Scorpion.jpg

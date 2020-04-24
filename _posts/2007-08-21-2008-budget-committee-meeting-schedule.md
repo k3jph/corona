@@ -5,7 +5,7 @@ date: 2007-08-21T21:44:02-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3408
-permalink: /2007/08/21/2008-budget-committee-meeting-schedule/
+permalink: /2007/08/21/2008-budget-committee-meeting-schedule
 dsq_thread_id:
   - "4407595653"
 categories:

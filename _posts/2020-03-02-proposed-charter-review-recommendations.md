@@ -5,7 +5,7 @@ date: 2020-03-02T20:47:32-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7314
-permalink: /2020/03/02/proposed-charter-review-recommendations/
+permalink: /2020/03/02/proposed-charter-review-recommendations
 featured-image: charter-review-commission-public-hearing.png
 categories:
   - Blog

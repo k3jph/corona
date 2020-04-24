@@ -5,7 +5,7 @@ date: 2015-09-26T08:08:54-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2890
-permalink: /2015/09/26/flooding-risk-and-environmental-justice/
+permalink: /2015/09/26/flooding-risk-and-environmental-justice
 dsq_thread_id:
   - "4167642279"
 featured-image: cedarrapids.png

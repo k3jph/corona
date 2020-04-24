@@ -5,7 +5,7 @@ date: 2016-04-24T17:21:04-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4021
-permalink: /2016/04/24/watch-ignite-talk-stormwater-management/
+permalink: /2016/04/24/watch-ignite-talk-stormwater-management
 dsq_thread_id:
   - "4773551294"
 featured-image: ib18-solo.png

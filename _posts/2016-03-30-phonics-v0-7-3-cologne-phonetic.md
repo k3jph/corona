@@ -5,7 +5,7 @@ date: 2016-03-30T06:56:25-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3891
-permalink: /2016/03/30/phonics-v0-7-3-cologne-phonetic/
+permalink: /2016/03/30/phonics-v0-7-3-cologne-phonetic
 dsq_thread_id:
   - "4705189021"
 ampforwp_custom_content_editor_checkbox:

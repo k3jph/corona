@@ -5,7 +5,7 @@ date: 2015-09-03T09:06:54-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2689
-permalink: /2015/09/03/writing-for-mathematical-reviews/
+permalink: /2015/09/03/writing-for-mathematical-reviews
 dsq_thread_id:
   - "4088978408"
 featured-image: mr-titlepage.png

@@ -5,7 +5,7 @@ date: 2016-06-29T07:09:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4238
-permalink: /2016/06/29/read-article-public-financial-management-syllabus/
+permalink: /2016/06/29/read-article-public-financial-management-syllabus
 dsq_thread_id:
   - "4947640037"
 featured-image: read-article-public-financial-management-syllabus.jpg

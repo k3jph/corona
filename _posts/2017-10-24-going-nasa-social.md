@@ -5,7 +5,7 @@ date: 2017-10-24T07:35:09-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5623
-permalink: /2017/10/24/going-nasa-social/
+permalink: /2017/10/24/going-nasa-social
 featured-image: going-nasa-social.jpg
 categories:
   - Blog

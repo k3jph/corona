@@ -5,7 +5,7 @@ date: 2015-08-19T18:23:03-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2507
-permalink: /2015/08/19/old-michigan-steams-like-young-mans-dreams/
+permalink: /2015/08/19/old-michigan-steams-like-young-mans-dreams
 dsq_thread_id:
   - "4048606568"
 featured-image: lakemichighan.png

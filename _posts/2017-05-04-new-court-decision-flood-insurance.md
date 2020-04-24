@@ -5,7 +5,7 @@ date: 2017-05-04T21:16:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4991
-permalink: /2017/05/04/new-court-decision-flood-insurance/
+permalink: /2017/05/04/new-court-decision-flood-insurance
 instant_articles_submission_id:
   - "235330783611074"
 dsq_thread_id:

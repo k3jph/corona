@@ -5,7 +5,7 @@ date: 2018-02-05T07:53:36-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6104
-permalink: /2018/02/05/climate-change-business/
+permalink: /2018/02/05/climate-change-business
 featured-image: climate-change-business.jpg
 categories:
   - Blog

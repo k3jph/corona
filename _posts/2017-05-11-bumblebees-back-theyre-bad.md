@@ -5,7 +5,7 @@ date: 2017-05-11T20:51:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5000
-permalink: /2017/05/11/bumblebees-back-theyre-bad/
+permalink: /2017/05/11/bumblebees-back-theyre-bad
 instant_articles_submission_id:
   - "1786745951638198"
 dsq_thread_id:

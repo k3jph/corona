@@ -5,7 +5,7 @@ date: 2016-06-08T19:30:32-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4115
-permalink: /2016/06/08/critical-information-acquisition/
+permalink: /2016/06/08/critical-information-acquisition
 dsq_thread_id:
   - "4895258977"
 featured-image: 4124425733_f143f51284_b.jpg

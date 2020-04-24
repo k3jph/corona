@@ -5,7 +5,7 @@ date: 2015-04-22T17:29:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2042
-permalink: /2015/04/22/analytics-service-enterprise/
+permalink: /2015/04/22/analytics-service-enterprise
 dsq_thread_id:
   - "3704277305"
 instant_articles_submission_id:

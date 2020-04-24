@@ -5,7 +5,7 @@ date: 2014-06-10T12:36:15-04:00
 author: James Howard
 layout: post
 guid: http://www.jameshoward.us/?p=1176
-permalink: /2014/06/10/review-of-more-fallacies-flaws-and-flimflam/
+permalink: /2014/06/10/review-of-more-fallacies-flaws-and-flimflam
 dsq_thread_id:
   - "2751397691"
 categories:

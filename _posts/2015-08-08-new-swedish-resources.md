@@ -5,7 +5,7 @@ date: 2015-08-08T08:30:57-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2389
-permalink: /2015/08/08/new-swedish-resources/
+permalink: /2015/08/08/new-swedish-resources
 featured-image: svmeatballs.png
 categories:
   - Blog

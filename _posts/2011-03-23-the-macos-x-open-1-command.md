@@ -5,7 +5,7 @@ date: 2011-03-23T01:23:12-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2011/03/23/the-macos-x-open-1-command/
-permalink: /2011/03/23/the-macos-x-open-1-command/
+permalink: /2011/03/23/the-macos-x-open-1-command
 dsq_thread_id:
   - "2268135103"
 tumblr_howardjp_permalink:

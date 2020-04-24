@@ -5,7 +5,7 @@ date: 2012-01-20T21:32:16-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3812
-permalink: /2012/01/20/dissertation-proposal-defense-slides/
+permalink: /2012/01/20/dissertation-proposal-defense-slides
 featured-image: NFIP-proposal-defense-slides-cover.png
 categories:
   - Blog

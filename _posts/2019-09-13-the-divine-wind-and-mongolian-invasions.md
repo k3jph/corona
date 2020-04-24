@@ -5,7 +5,7 @@ date: 2019-09-13T20:59:19-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7097
-permalink: /2019/09/13/the-divine-wind-and-mongolian-invasions/
+permalink: /2019/09/13/the-divine-wind-and-mongolian-invasions
 featured-image: the-divine-wind-and-mongolian-invasions-1.jpg
 categories:
   - Blog

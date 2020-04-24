@@ -5,7 +5,7 @@ date: 2020-04-15T20:05:00-04:00
 author: James Howard
 layout: post
 guid: ebolavirus-transmission-at-jsm2020
-permalink: /2020/04/15/ebolavirus-transmission-at-jsm2020/
+permalink: /2020/04/15/ebolavirus-transmission-at-jsm2020
 featured-image: ebola-virus.jpg
 categories:
   - Blog

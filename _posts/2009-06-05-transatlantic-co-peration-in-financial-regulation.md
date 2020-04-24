@@ -5,7 +5,7 @@ date: 2009-06-05T01:13:29-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/06/05/transatlantic-co-peration-in-financial-regulation/
-permalink: /2009/06/05/transatlantic-co-peration-in-financial-regulation/
+permalink: /2009/06/05/transatlantic-co-peration-in-financial-regulation
 dsq_thread_id:
   - "2498624923"
 tumblr_howardjp_permalink:

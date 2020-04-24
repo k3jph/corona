@@ -5,7 +5,7 @@ date: 2015-10-04T10:54:18-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2932
-permalink: /2015/10/04/stop-being-so-irrational/
+permalink: /2015/10/04/stop-being-so-irrational
 dsq_thread_id:
   - "4193067570"
 featured-image: 1024px-Real_number_line.svg_.png

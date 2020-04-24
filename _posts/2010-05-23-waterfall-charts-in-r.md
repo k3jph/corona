@@ -5,7 +5,7 @@ date: 2010-05-23T16:07:00-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/05/23/waterfall-charts-in-r/
-permalink: /2010/05/23/waterfall-charts-in-r/
+permalink: /2010/05/23/waterfall-charts-in-r
 dsq_thread_id:
   - "2268152305"
 tumblr_howardjp_permalink:

@@ -5,7 +5,7 @@ date: 2015-09-20T18:45:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2869
-permalink: /2015/09/20/metaphone-in-r/
+permalink: /2015/09/20/metaphone-in-r
 dsq_thread_id:
   - "4149017401"
 ampforwp_custom_content_editor_checkbox:

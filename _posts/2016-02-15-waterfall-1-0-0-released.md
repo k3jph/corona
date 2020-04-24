@@ -5,7 +5,7 @@ date: 2016-02-15T21:31:52-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3829
-permalink: /2016/02/15/waterfall-1-0-0-released/
+permalink: /2016/02/15/waterfall-1-0-0-released
 dsq_thread_id:
   - "4582916803"
 ampforwp_custom_content_editor_checkbox:

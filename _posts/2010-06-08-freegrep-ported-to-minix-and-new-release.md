@@ -5,7 +5,7 @@ date: 2010-06-08T00:55:22-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/06/08/freegrep-ported-to-minix-and-new-release/
-permalink: /2010/06/08/freegrep-ported-to-minix-and-new-release/
+permalink: /2010/06/08/freegrep-ported-to-minix-and-new-release
 dsq_thread_id:
   - "2271793618"
 tumblr_howardjp_permalink:

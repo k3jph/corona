@@ -5,7 +5,7 @@ date: 2015-08-25T07:47:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2585
-permalink: /2015/08/25/flood-control-at-the-ground-level/
+permalink: /2015/08/25/flood-control-at-the-ground-level
 dsq_thread_id:
   - "4065175012"
 featured-image: DSC_0115-1.jpg

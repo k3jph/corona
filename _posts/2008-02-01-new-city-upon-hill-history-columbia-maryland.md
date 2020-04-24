@@ -5,7 +5,7 @@ date: 2008-02-01T19:14:33-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3248
-permalink: /2008/02/01/new-city-upon-hill-history-columbia-maryland/
+permalink: /2008/02/01/new-city-upon-hill-history-columbia-maryland
 dsq_thread_id:
   - "4341422358"
 featured-image: newcitycover.jpg

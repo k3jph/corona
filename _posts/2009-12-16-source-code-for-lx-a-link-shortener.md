@@ -5,7 +5,7 @@ date: 2009-12-16T22:54:43-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/12/16/source-code-for-lx-a-link-shortener/
-permalink: /2009/12/16/source-code-for-lx-a-link-shortener/
+permalink: /2009/12/16/source-code-for-lx-a-link-shortener
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/286614416/source-code-for-lx-a-link-shortener
 tumblr_howardjp_id:

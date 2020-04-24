@@ -5,7 +5,7 @@ date: 2015-06-20T07:01:32-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2214
-permalink: /2015/06/20/im-going-mars/
+permalink: /2015/06/20/im-going-mars
 dsq_thread_id:
   - "3863307354"
 featured-image: marscolony.png

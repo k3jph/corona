@@ -5,7 +5,7 @@ date: 2009-03-04T00:58:26-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3080
-permalink: /2009/03/04/feeds-fixed/
+permalink: /2009/03/04/feeds-fixed
 dsq_thread_id:
   - "5804019288"
 categories:

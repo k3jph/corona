@@ -5,7 +5,7 @@ date: 2008-03-26T20:57:48-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3132
-permalink: /2008/03/26/new-budget-committee-meetings/
+permalink: /2008/03/26/new-budget-committee-meetings
 dsq_thread_id:
   - "4247414644"
 categories:

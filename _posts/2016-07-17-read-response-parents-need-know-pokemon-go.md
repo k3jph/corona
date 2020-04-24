@@ -5,7 +5,7 @@ date: 2016-07-17T09:29:29-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4319
-permalink: /2016/07/17/read-response-parents-need-know-pokemon-go/
+permalink: /2016/07/17/read-response-parents-need-know-pokemon-go
 dsq_thread_id:
   - "4992410446"
 featured-image: read-response-parents-need-know-pokemon-go-1.jpg

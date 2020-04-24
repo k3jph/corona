@@ -5,7 +5,7 @@ date: 2009-10-13T12:12:10-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/10/13/financial-advisory-committee-meeting-tonight/
-permalink: /2009/10/13/financial-advisory-committee-meeting-tonight/
+permalink: /2009/10/13/financial-advisory-committee-meeting-tonight
 dsq_thread_id:
   - "2310664129"
 tumblr_howardjp_permalink:

@@ -5,7 +5,7 @@ date: 2017-01-18T21:00:27-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4696
-permalink: /2017/01/18/land-milk-honey/
+permalink: /2017/01/18/land-milk-honey
 instant_articles_submission_id:
   - "925551367579001"
 dsq_thread_id:

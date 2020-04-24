@@ -5,7 +5,7 @@ date: 2018-02-07T07:34:53-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6123
-permalink: /2018/02/07/three-reasons-buy-flood-insurance/
+permalink: /2018/02/07/three-reasons-buy-flood-insurance
 featured-image: three-reasons-buy-flood-insurance.jpg
 categories:
   - News

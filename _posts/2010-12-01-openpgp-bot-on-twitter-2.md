@@ -5,7 +5,7 @@ date: 2010-12-01T23:47:05-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/12/01/openpgp-bot-on-twitter-2/
-permalink: /2010/12/01/openpgp-bot-on-twitter-2/
+permalink: /2010/12/01/openpgp-bot-on-twitter-2
 dsq_thread_id:
   - "2309663978"
 tumblr_howardjp_permalink:

@@ -5,7 +5,7 @@ date: 2018-03-28T21:00:56-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6258
-permalink: /2018/03/28/shrinky-dinks-for-custom-tokens-or-how-i-learned-to-stop-worrying-and-love-my-little-pony/
+permalink: /2018/03/28/shrinky-dinks-for-custom-tokens-or-how-i-learned-to-stop-worrying-and-love-my-little-pony
 featured-image: shrinky-dinks-for-custom-tokens-or-how-i-learned-to-stop-worrying-and-love-my-little-pony.jpg
 categories:
   - Blog

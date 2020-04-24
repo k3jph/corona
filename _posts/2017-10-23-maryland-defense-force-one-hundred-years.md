@@ -5,7 +5,7 @@ date: 2017-10-23T19:41:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5618
-permalink: /2017/10/23/maryland-defense-force-one-hundred-years/
+permalink: /2017/10/23/maryland-defense-force-one-hundred-years
 featured-image: maryland-defense-force-one-hundred-years.jpg
 categories:
   - Blog

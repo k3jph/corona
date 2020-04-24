@@ -5,7 +5,7 @@ date: 2012-12-31T22:26:36-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2012/12/31/presenting-estimating-the-net-social-benefits-of-the/
-permalink: /2012/12/31/presenting-estimating-the-net-social-benefits-of-the/
+permalink: /2012/12/31/presenting-estimating-the-net-social-benefits-of-the
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/39336941138/presenting-estimating-the-net-social-benefits-of-the
 tumblr_jhresearchlog_id:

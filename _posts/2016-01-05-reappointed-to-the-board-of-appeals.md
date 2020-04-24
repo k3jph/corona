@@ -5,7 +5,7 @@ date: 2016-01-05T08:06:34-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3560
-permalink: /2016/01/05/reappointed-to-the-board-of-appeals/
+permalink: /2016/01/05/reappointed-to-the-board-of-appeals
 dsq_thread_id:
   - "4462146165"
 featured-image: hoco-council-chambers.jpg

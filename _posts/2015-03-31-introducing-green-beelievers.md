@@ -5,7 +5,7 @@ date: 2015-03-31T21:12:18-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1965
-permalink: /2015/03/31/introducing-green-beelievers/
+permalink: /2015/03/31/introducing-green-beelievers
 dsq_thread_id:
   - "3644531471"
 featured-image: Park.png

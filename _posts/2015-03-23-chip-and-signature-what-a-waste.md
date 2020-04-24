@@ -5,7 +5,7 @@ date: 2015-03-23T19:13:12-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1945
-permalink: /2015/03/23/chip-and-signature-what-a-waste/
+permalink: /2015/03/23/chip-and-signature-what-a-waste
 dsq_thread_id:
   - "3620940706"
 instant_articles_submission_id:

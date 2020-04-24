@@ -5,7 +5,7 @@ date: 2017-11-24T18:53:54-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5699
-permalink: /2017/11/24/icesat-icesat-2/
+permalink: /2017/11/24/icesat-icesat-2
 featured-image: icesat2-hqprint.jpg
 categories:
   - Blog

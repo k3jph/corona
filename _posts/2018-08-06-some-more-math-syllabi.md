@@ -5,7 +5,7 @@ date: 2018-08-06T16:56:57-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6409
-permalink: /2018/08/06/some-more-math-syllabi/
+permalink: /2018/08/06/some-more-math-syllabi
 featured-image: some-more-math-syllabi.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2009-03-14T18:24:35-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3076
-permalink: /2009/03/14/the-great-conversation-why-twitter-works/
+permalink: /2009/03/14/the-great-conversation-why-twitter-works
 dsq_thread_id:
   - "4232411771"
 categories:

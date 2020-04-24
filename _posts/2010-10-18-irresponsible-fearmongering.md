@@ -5,7 +5,7 @@ date: 2010-10-18T01:43:43-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/10/18/irresponsible-fearmongering/
-permalink: /2010/10/18/irresponsible-fearmongering/
+permalink: /2010/10/18/irresponsible-fearmongering
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/1340558135/irresponsible-fearmongering
 tumblr_howardjp_id:

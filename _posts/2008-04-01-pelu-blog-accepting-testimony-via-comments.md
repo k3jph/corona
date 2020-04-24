@@ -5,7 +5,7 @@ date: 2008-04-01T20:00:21-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3128
-permalink: /2008/04/01/pelu-blog-accepting-testimony-via-comments/
+permalink: /2008/04/01/pelu-blog-accepting-testimony-via-comments
 dsq_thread_id:
   - "4247402928"
 categories:

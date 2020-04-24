@@ -5,7 +5,7 @@ date: 2016-09-19T21:31:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1863
-permalink: /2016/09/19/announcing-computational-methods-numerical-analysis/
+permalink: /2016/09/19/announcing-computational-methods-numerical-analysis
 instant_articles_submission_id:
   - "1872278823056749"
 dsq_thread_id:

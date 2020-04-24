@@ -5,7 +5,7 @@ date: 2017-08-29T07:25:30-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5435
-permalink: /2017/08/29/listen-live-thursday-831/
+permalink: /2017/08/29/listen-live-thursday-831
 featured-image: listen-live-thursday-831.jpg
 categories:
   - Blog

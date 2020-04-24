@@ -5,7 +5,7 @@ date: 2015-01-29T20:31:49-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1779
-permalink: /2015/01/29/team-tracking-trello/
+permalink: /2015/01/29/team-tracking-trello
 dsq_thread_id:
   - "3468164317"
 categories:

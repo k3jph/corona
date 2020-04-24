@@ -5,7 +5,7 @@ date: 2007-03-01T19:59:27-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3682
-permalink: /2007/03/01/updates-to-the-search-list/
+permalink: /2007/03/01/updates-to-the-search-list
 dsq_thread_id:
   - "5533655552"
 categories:

@@ -5,7 +5,7 @@ date: 2016-06-15T08:01:04-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4176
-permalink: /2016/06/15/expanding-market-fear/
+permalink: /2016/06/15/expanding-market-fear
 dsq_thread_id:
   - "4912122930"
 featured-image: pillbottles-840x400.png

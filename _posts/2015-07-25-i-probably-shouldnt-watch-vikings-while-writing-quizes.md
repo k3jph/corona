@@ -5,7 +5,7 @@ date: 2015-07-25T09:46:14-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2319
-permalink: /2015/07/25/i-probably-shouldnt-watch-vikings-while-writing-quizes/
+permalink: /2015/07/25/i-probably-shouldnt-watch-vikings-while-writing-quizes
 dsq_thread_id:
   - "3962445475"
 featured-image: allhailkingragnar.jpg

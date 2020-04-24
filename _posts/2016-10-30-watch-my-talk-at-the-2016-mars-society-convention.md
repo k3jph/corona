@@ -5,7 +5,7 @@ date: 2016-10-30T22:05:42-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4459
-permalink: /2016/10/30/watch-my-talk-at-the-2016-mars-society-convention/
+permalink: /2016/10/30/watch-my-talk-at-the-2016-mars-society-convention
 instant_articles_submission_id:
   - "1920152748220792"
 dsq_thread_id:

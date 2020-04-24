@@ -5,7 +5,7 @@ date: 2008-03-03T22:19:51-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3186
-permalink: /2008/03/03/letter-to-the-columbia-association-on-the-availability-of-the-budget-committee-during-the-spring-of-2008/
+permalink: /2008/03/03/letter-to-the-columbia-association-on-the-availability-of-the-budget-committee-during-the-spring-of-2008
 dsq_thread_id:
   - "4293875123"
 categories:

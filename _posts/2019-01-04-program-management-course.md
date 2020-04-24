@@ -5,7 +5,7 @@ date: 2019-01-04T07:36:37-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6716
-permalink: /2019/01/04/program-management-course/
+permalink: /2019/01/04/program-management-course
 
 featured-image: program-management-course.jpg
 categories:

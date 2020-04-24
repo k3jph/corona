@@ -5,7 +5,7 @@ date: 2019-11-11T10:06:54-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7171
-permalink: /2019/11/11/p-hacking-and-data-science/
+permalink: /2019/11/11/p-hacking-and-data-science
 featured-image: p-hacking-and-data-science.jpg
 categories:
   - Blog

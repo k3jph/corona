@@ -5,7 +5,7 @@ date: 2016-12-15T06:41:52-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4629
-permalink: /2016/12/15/blockchains-explained/
+permalink: /2016/12/15/blockchains-explained
 instant_articles_submission_id:
   - "196407977430608"
 dsq_thread_id:

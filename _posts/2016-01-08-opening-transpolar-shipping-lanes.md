@@ -5,7 +5,7 @@ date: 2016-01-08T07:28:09-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3418
-permalink: /2016/01/08/opening-transpolar-shipping-lanes/
+permalink: /2016/01/08/opening-transpolar-shipping-lanes
 dsq_thread_id:
   - "4473007488"
 featured-image: yamal-icebreaker.png

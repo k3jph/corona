@@ -5,7 +5,7 @@ date: 2015-09-27T23:56:03-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2893
-permalink: /2015/09/27/caverphone-nysiis-and-statcan-added-to-phonics-package/
+permalink: /2015/09/27/caverphone-nysiis-and-statcan-added-to-phonics-package
 dsq_thread_id:
   - "4172320416"
 instant_articles_submission_id:

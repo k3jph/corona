@@ -5,7 +5,7 @@ date: 2017-06-13T08:48:20-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5054
-permalink: /2017/06/13/computational-methods-numerical-analysis-now/
+permalink: /2017/06/13/computational-methods-numerical-analysis-now
 instant_articles_submission_id:
   - "255070978307187"
 dsq_thread_id:

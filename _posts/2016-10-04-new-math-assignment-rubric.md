@@ -5,7 +5,7 @@ date: 2016-10-04T21:48:57-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4450
-permalink: /2016/10/04/new-math-assignment-rubric/
+permalink: /2016/10/04/new-math-assignment-rubric
 dsq_thread_id:
   - "5197424568"
 featured-image: new-math-assignment-rubric.png

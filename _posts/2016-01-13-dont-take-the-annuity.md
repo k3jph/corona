@@ -5,7 +5,7 @@ date: 2016-01-13T06:02:30-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3700
-permalink: /2016/01/13/dont-take-the-annuity/
+permalink: /2016/01/13/dont-take-the-annuity
 dsq_thread_id:
   - "4487035949"
 featured-image: pileofmoney.png

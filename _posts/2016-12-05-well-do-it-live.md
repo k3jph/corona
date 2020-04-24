@@ -5,7 +5,7 @@ date: 2016-12-05T21:43:17-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4532
-permalink: /2016/12/05/well-do-it-live/
+permalink: /2016/12/05/well-do-it-live
 instant_articles_submission_id:
   - "221377121636120"
 dsq_thread_id:

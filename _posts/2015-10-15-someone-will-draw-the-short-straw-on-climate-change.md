@@ -5,7 +5,7 @@ date: 2015-10-15T07:27:08-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3023
-permalink: /2015/10/15/someone-will-draw-the-short-straw-on-climate-change/
+permalink: /2015/10/15/someone-will-draw-the-short-straw-on-climate-change
 dsq_thread_id:
   - "4227181715"
 featured-image: 2095961797_1d27dedc4e_b.jpg

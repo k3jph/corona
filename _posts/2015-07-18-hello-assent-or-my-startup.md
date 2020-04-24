@@ -5,7 +5,7 @@ date: 2015-07-18T08:44:18-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2270
-permalink: /2015/07/18/hello-assent-or-my-startup/
+permalink: /2015/07/18/hello-assent-or-my-startup
 dsq_thread_id:
   - "3946460335"
 instant_articles_submission_id:

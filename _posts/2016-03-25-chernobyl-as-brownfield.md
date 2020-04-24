@@ -5,7 +5,7 @@ date: 2016-03-25T08:06:18-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3908
-permalink: /2016/03/25/chernobyl-as-brownfield/
+permalink: /2016/03/25/chernobyl-as-brownfield
 dsq_thread_id:
   - "4692184666"
 featured-image: Palace_of_Culture_Front.jpg

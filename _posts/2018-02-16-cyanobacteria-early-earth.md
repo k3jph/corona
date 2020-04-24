@@ -5,7 +5,7 @@ date: 2018-02-16T07:16:40-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6167
-permalink: /2018/02/16/cyanobacteria-early-earth/
+permalink: /2018/02/16/cyanobacteria-early-earth
 featured-image: cyanobacteria-early-earth.jpg
 categories:
   - Blog

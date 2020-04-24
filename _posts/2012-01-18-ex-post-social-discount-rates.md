@@ -5,7 +5,7 @@ date: 2012-01-18T01:15:00-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2012/01/18/ex-post-social-discount-rates/
-permalink: /2012/01/18/ex-post-social-discount-rates/
+permalink: /2012/01/18/ex-post-social-discount-rates
 dsq_thread_id:
   - "2262922747"
 tumblr_jhresearchlog_permalink:

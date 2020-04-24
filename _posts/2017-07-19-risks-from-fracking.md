@@ -5,7 +5,7 @@ date: 2017-07-19T07:01:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5205
-permalink: /2017/07/19/risks-from-fracking/
+permalink: /2017/07/19/risks-from-fracking
 dsq_thread_id:
   - "6000516547"
 featured-image: risks-from-fracking.jpg

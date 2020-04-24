@@ -5,7 +5,7 @@ date: 2019-06-15T09:08:29-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6978
-permalink: /2019/06/15/understanding-radioactive-exposure/
+permalink: /2019/06/15/understanding-radioactive-exposure
 featured-image: understanding-radioactive-exposure.jpg
 categories:
   - Blog

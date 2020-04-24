@@ -5,7 +5,7 @@ date: 2017-06-26T06:50:10-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5114
-permalink: /2017/06/26/the-fish-bowl/
+permalink: /2017/06/26/the-fish-bowl
 instant_articles_submission_id:
   - "229893464184246"
 dsq_thread_id:

@@ -5,7 +5,7 @@ date: 2017-12-28T22:01:44-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4004
-permalink: /2017/12/28/unlocking-the-box/
+permalink: /2017/12/28/unlocking-the-box
 featured-image: unlocking-the-box.jpg
 categories:
   - Blog

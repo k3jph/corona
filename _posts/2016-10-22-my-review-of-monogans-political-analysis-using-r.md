@@ -5,7 +5,7 @@ date: 2016-10-22T20:04:11-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4342
-permalink: /2016/10/22/my-review-of-monogans-political-analysis-using-r/
+permalink: /2016/10/22/my-review-of-monogans-political-analysis-using-r
 instant_articles_force_submit:
   - "1"
 instant_articles_submission_id:

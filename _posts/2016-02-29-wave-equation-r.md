@@ -5,7 +5,7 @@ date: 2016-02-29T10:54:50-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3746
-permalink: /2016/02/29/wave-equation-r/
+permalink: /2016/02/29/wave-equation-r
 dsq_thread_id:
   - "4622175208"
 featured-image: violin.png

@@ -5,7 +5,7 @@ date: 2009-03-16T20:44:28-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3072
-permalink: /2009/03/16/village-revitalization-and-the-columbia-association/
+permalink: /2009/03/16/village-revitalization-and-the-columbia-association
 dsq_thread_id:
   - "4232396013"
 categories:

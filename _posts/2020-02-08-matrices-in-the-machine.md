@@ -5,7 +5,7 @@ date: 2020-02-08T08:01:00-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7266
-permalink: /2020/02/08/matrices-in-the-machine/
+permalink: /2020/02/08/matrices-in-the-machine
 featured-image: pattern-metal-pipes-grid-35543.jpg
 categories:
   - Blog

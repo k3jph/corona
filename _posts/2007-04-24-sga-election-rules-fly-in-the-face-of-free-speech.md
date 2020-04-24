@@ -5,7 +5,7 @@ date: 2007-04-24T21:05:59-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3668
-permalink: /2007/04/24/sga-election-rules-fly-in-the-face-of-free-speech/
+permalink: /2007/04/24/sga-election-rules-fly-in-the-face-of-free-speech
 dsq_thread_id:
   - "4478873807"
 categories:

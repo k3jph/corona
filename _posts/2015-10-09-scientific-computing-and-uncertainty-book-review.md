@@ -5,7 +5,7 @@ date: 2015-10-09T00:10:36-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2980
-permalink: /2015/10/09/scientific-computing-and-uncertainty-book-review/
+permalink: /2015/10/09/scientific-computing-and-uncertainty-book-review
 dsq_thread_id:
   - "4208956589"
 featured-image: 51N-xXddsL._SX312_BO1204203200_.jpg

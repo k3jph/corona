@@ -5,7 +5,7 @@ date: 2015-12-15T07:06:53-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3303
-permalink: /2015/12/15/volokh-conspiracy-maryland-state-guard/
+permalink: /2015/12/15/volokh-conspiracy-maryland-state-guard
 dsq_thread_id:
   - "4405635856"
 featured-image: 5574092086_edb2fd2316_z.jpg

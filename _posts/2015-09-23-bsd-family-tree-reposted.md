@@ -5,7 +5,7 @@ date: 2015-09-23T22:04:49-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2884
-permalink: /2015/09/23/bsd-family-tree-reposted/
+permalink: /2015/09/23/bsd-family-tree-reposted
 dsq_thread_id:
   - "4159655700"
 instant_articles_submission_id:

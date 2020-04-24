@@ -5,7 +5,7 @@ date: 2007-03-09T10:00:20-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3679
-permalink: /2007/03/09/eulogy-for-james-patrick-howard/
+permalink: /2007/03/09/eulogy-for-james-patrick-howard
 dsq_thread_id:
   - "4478947496"
 featured-image: Pats_Memorial_Photo.jpg

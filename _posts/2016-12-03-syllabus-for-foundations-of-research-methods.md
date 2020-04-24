@@ -5,7 +5,7 @@ date: 2016-12-03T12:55:36-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4467
-permalink: /2016/12/03/syllabus-for-foundations-of-research-methods/
+permalink: /2016/12/03/syllabus-for-foundations-of-research-methods
 instant_articles_submission_id:
   - "556017014589407"
 dsq_thread_id:
