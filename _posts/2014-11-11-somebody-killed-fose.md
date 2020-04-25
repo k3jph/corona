@@ -5,7 +5,7 @@ date: 2014-11-11T14:19:42-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1594
-permalink: /2014/11/11/somebody-killed-fose
+permalink: /2014/11/11/somebody-killed-fose/
 dsq_thread_id:
   - "3214950086"
 instant_articles_submission_id:

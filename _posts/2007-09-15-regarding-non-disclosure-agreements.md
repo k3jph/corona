@@ -5,7 +5,7 @@ date: 2007-09-15T13:01:29-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3399
-permalink: /2007/09/15/regarding-non-disclosure-agreements
+permalink: /2007/09/15/regarding-non-disclosure-agreements/
 categories:
   - Blog
 tags:

@@ -5,7 +5,7 @@ date: 2016-04-18T07:38:30-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3982
-permalink: /2016/04/18/and-we-all-shine-on
+permalink: /2016/04/18/and-we-all-shine-on/
 dsq_thread_id:
   - "4756436907"
 featured-image: 959px-Near-stars-past-future-en.svg_.png

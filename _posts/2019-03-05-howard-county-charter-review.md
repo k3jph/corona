@@ -5,7 +5,7 @@ date: 2019-03-05T20:18:22-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6876
-permalink: /2019/03/05/howard-county-charter-review
+permalink: /2019/03/05/howard-county-charter-review/
 featured-image: howard-county-charter-review.jpg
 categories:
   - News

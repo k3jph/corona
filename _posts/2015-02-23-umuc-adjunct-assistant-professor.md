@@ -5,7 +5,7 @@ date: 2015-02-23T18:23:25-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1850
-permalink: /2015/02/23/umuc-adjunct-assistant-professor
+permalink: /2015/02/23/umuc-adjunct-assistant-professor/
 dsq_thread_id:
   - "3542136313"
 categories:

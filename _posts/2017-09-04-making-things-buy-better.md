@@ -5,7 +5,7 @@ date: 2017-09-04T07:37:09-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5447
-permalink: /2017/09/04/making-things-buy-better
+permalink: /2017/09/04/making-things-buy-better/
 featured-image: making-things-buy-better.png
 categories:
   - Blog

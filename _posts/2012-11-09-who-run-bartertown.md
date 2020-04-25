@@ -5,7 +5,7 @@ date: 2012-11-09T23:26:14-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2012/11/09/who-run-bartertown/
-permalink: /2012/11/09/who-run-bartertown
+permalink: /2012/11/09/who-run-bartertown/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/35366364994/who-run-bartertown
 tumblr_howardjp_id:

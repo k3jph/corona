@@ -5,7 +5,7 @@ date: 2017-07-05T07:40:55-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5132
-permalink: /2017/07/05/structure-space-corps
+permalink: /2017/07/05/structure-space-corps/
 dsq_thread_id:
   - "5965513658"
 featured-image: structure-space-corps.jpg

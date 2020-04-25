@@ -5,7 +5,7 @@ date: 2019-09-14T15:31:02-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7101
-permalink: /2019/09/14/more-extra-credit-for-college-algebra
+permalink: /2019/09/14/more-extra-credit-for-college-algebra/
 featured-image: more-extra-credit-for-college-algebra.png
 categories:
   - Blog

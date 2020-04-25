@@ -5,7 +5,7 @@ date: 2017-09-03T20:36:23-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5450
-permalink: /2017/09/03/editorial-texas-flooding-greensboro-news-record
+permalink: /2017/09/03/editorial-texas-flooding-greensboro-news-record/
 featured-image: editorial-texas-flooding-greensboro-news-record.jpg
 categories:
   - News

@@ -5,7 +5,7 @@ date: 2017-05-09T17:53:04-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4995
-permalink: /2017/05/09/board-appeals-seeks-new-member
+permalink: /2017/05/09/board-appeals-seeks-new-member/
 instant_articles_submission_id:
   - "132673277279592"
 dsq_thread_id:

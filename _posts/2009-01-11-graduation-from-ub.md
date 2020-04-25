@@ -5,7 +5,7 @@ date: 2009-01-11T21:19:40-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3092
-permalink: /2009/01/11/graduation-from-ub
+permalink: /2009/01/11/graduation-from-ub/
 categories:
   - Blog
 tags:

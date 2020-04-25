@@ -5,7 +5,7 @@ date: 2015-02-20T20:58:21-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1572
-permalink: /2015/02/20/somedays-you-get-lucky
+permalink: /2015/02/20/somedays-you-get-lucky/
 dsq_thread_id:
   - "3534451318"
 categories:

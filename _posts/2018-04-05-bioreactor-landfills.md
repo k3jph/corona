@@ -5,7 +5,7 @@ date: 2018-04-05T20:24:22-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6288
-permalink: /2018/04/05/bioreactor-landfills
+permalink: /2018/04/05/bioreactor-landfills/
 featured-image: bioreactor-landfills.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2015-12-11T09:01:19-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3328
-permalink: /2015/12/11/health-effects-of-climate-change
+permalink: /2015/12/11/health-effects-of-climate-change/
 dsq_thread_id:
   - "4393654670"
 featured-image: climatechangepoor.png

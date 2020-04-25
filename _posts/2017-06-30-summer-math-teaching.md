@@ -5,7 +5,7 @@ date: 2017-06-30T07:25:05-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5113
-permalink: /2017/06/30/summer-math-teaching
+permalink: /2017/06/30/summer-math-teaching/
 instant_articles_submission_id:
   - "239857066515660"
 dsq_thread_id:

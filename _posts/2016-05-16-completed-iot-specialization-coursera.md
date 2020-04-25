@@ -5,7 +5,7 @@ date: 2016-05-16T21:54:35-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4092
-permalink: /2016/05/16/completed-iot-specialization-coursera
+permalink: /2016/05/16/completed-iot-specialization-coursera/
 dsq_thread_id:
   - "4833078452"
 instant_articles_submission_id:

@@ -5,7 +5,7 @@ date: 2009-02-12T21:27:46-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3089
-permalink: /2009/02/12/financial-advisory-committee-reports-to-the-columbia-association-1
+permalink: /2009/02/12/financial-advisory-committee-reports-to-the-columbia-association-1/
 dsq_thread_id:
   - "4727081144"
 categories:

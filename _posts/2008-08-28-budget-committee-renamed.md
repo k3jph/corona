@@ -5,7 +5,7 @@ date: 2008-08-28T22:19:34-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3094
-permalink: /2008/08/28/budget-committee-renamed
+permalink: /2008/08/28/budget-committee-renamed/
 categories:
   - Blog
 tags:

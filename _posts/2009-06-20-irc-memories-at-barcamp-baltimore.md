@@ -5,7 +5,7 @@ date: 2009-06-20T15:14:13-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/06/20/irc-memories-at-barcamp-baltimore/
-permalink: /2009/06/20/irc-memories-at-barcamp-baltimore
+permalink: /2009/06/20/irc-memories-at-barcamp-baltimore/
 tumblr_howardjp_id:
   - "127039665"
 dsq_thread_id:

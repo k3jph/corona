@@ -5,7 +5,7 @@ date: 2020-03-30T20:44:30-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7339
-permalink: /2020/03/30/a-brief-discourse-on-the-jackknife-method
+permalink: /2020/03/30/a-brief-discourse-on-the-jackknife-method/
 featured-image: a-brief-discourse-on-the-jackknife-method.jpg
 categories:
   - Blog

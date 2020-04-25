@@ -5,7 +5,7 @@ date: 2018-01-25T12:26:08-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6023
-permalink: /2018/01/25/cliff-stoll-hidden-warehouse-home
+permalink: /2018/01/25/cliff-stoll-hidden-warehouse-home/
 featured-image: cliff-stoll-hidden-warehouse-home.jpg
 categories:
   - Blog

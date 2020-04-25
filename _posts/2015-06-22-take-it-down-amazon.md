@@ -5,7 +5,7 @@ date: 2015-06-22T21:14:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2233
-permalink: /2015/06/22/take-it-down-amazon
+permalink: /2015/06/22/take-it-down-amazon/
 dsq_thread_id:
   - "3870699032"
 featured-image: takeitdown.jpg

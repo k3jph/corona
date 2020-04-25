@@ -5,7 +5,7 @@ date: 2015-09-05T09:12:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2730
-permalink: /2015/09/05/on-teaching-public-finance
+permalink: /2015/09/05/on-teaching-public-finance/
 dsq_thread_id:
   - "4095019589"
 featured-image: ubalt.jpg

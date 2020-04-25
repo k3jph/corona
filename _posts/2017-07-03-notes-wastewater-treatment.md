@@ -5,7 +5,7 @@ date: 2017-07-03T07:51:49-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5128
-permalink: /2017/07/03/notes-wastewater-treatment
+permalink: /2017/07/03/notes-wastewater-treatment/
 dsq_thread_id:
   - "5956429584"
 featured-image: notes-wastewater-treatment.jpg

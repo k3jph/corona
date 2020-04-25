@@ -5,7 +5,7 @@ date: 2015-09-04T08:42:31-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2725
-permalink: /2015/09/04/after-the-mission-vision-and-values
+permalink: /2015/09/04/after-the-mission-vision-and-values/
 dsq_thread_id:
   - "4095001537"
 featured-image: goal.png

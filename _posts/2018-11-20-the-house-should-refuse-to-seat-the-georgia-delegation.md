@@ -5,7 +5,7 @@ date: 2018-11-20T07:14:28-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6562
-permalink: /2018/11/20/the-house-should-refuse-to-seat-the-georgia-delegation
+permalink: /2018/11/20/the-house-should-refuse-to-seat-the-georgia-delegation/
 featured-image: the-house-should-refuse-to-seat-the-georgia-delegation.jpg
 categories:
   - Blog

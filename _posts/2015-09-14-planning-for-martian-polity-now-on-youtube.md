@@ -5,7 +5,7 @@ date: 2015-09-14T08:22:20-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2802
-permalink: /2015/09/14/planning-for-martian-polity-now-on-youtube
+permalink: /2015/09/14/planning-for-martian-polity-now-on-youtube/
 dsq_thread_id:
   - "4126501368"
 featured-image: mars-talk-cover.png

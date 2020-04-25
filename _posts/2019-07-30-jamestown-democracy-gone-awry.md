@@ -5,7 +5,7 @@ date: 2019-07-30T09:39:35-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5888
-permalink: /2019/07/30/jamestown-democracy-gone-awry
+permalink: /2019/07/30/jamestown-democracy-gone-awry/
 featured-image: jamestown-democracy-gone-awry.jpg
 categories:
   - Blog

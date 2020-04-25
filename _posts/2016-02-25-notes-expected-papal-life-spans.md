@@ -5,7 +5,7 @@ date: 2016-02-25T08:02:47-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3851
-permalink: /2016/02/25/notes-expected-papal-life-spans
+permalink: /2016/02/25/notes-expected-papal-life-spans/
 dsq_thread_id:
   - "4610095932"
 featured-image: Franciscus_kotel.jpg

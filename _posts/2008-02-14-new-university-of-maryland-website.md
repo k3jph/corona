@@ -5,7 +5,7 @@ date: 2008-02-14T06:03:42-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3219
-permalink: /2008/02/14/new-university-of-maryland-website
+permalink: /2008/02/14/new-university-of-maryland-website/
 dsq_thread_id:
   - "4318481823"
 categories:

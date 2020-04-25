@@ -5,7 +5,7 @@ date: 2016-01-31T23:24:46-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3774
-permalink: /2016/01/31/cmna-v0-1-0-released
+permalink: /2016/01/31/cmna-v0-1-0-released/
 dsq_thread_id:
   - "4540662881"
 instant_articles_submission_id:

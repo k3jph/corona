@@ -5,7 +5,7 @@ date: 2015-10-28T11:12:12-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3162
-permalink: /2015/10/28/richard-henry-lee-was-not-dr-strangelove
+permalink: /2015/10/28/richard-henry-lee-was-not-dr-strangelove/
 dsq_thread_id:
   - "4265781259"
 featured-image: strangelove.jpg

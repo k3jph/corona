@@ -5,7 +5,7 @@ date: 2016-02-16T20:54:37-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3832
-permalink: /2016/02/16/sleep-with-one-eye-open
+permalink: /2016/02/16/sleep-with-one-eye-open/
 dsq_thread_id:
   - "4585787889"
 featured-image: irc-screenshot.png

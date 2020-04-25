@@ -5,7 +5,7 @@ date: 2015-08-18T23:44:59-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2484
-permalink: /2015/08/18/criticize-mars-one-but-dont-stand-in-their-way
+permalink: /2015/08/18/criticize-mars-one-but-dont-stand-in-their-way/
 dsq_thread_id:
   - "4045817413"
 featured-image: roadmap2023.jpg

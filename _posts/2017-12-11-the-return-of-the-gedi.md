@@ -5,7 +5,7 @@ date: 2017-12-11T19:08:15-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5845
-permalink: /2017/12/11/the-return-of-the-gedi
+permalink: /2017/12/11/the-return-of-the-gedi/
 featured-image: the-return-of-the-gedi.jpg
 categories:
   - Blog

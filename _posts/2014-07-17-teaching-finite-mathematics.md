@@ -5,7 +5,7 @@ date: 2014-07-17T09:43:16-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1387
-permalink: /2014/07/17/teaching-finite-mathematics
+permalink: /2014/07/17/teaching-finite-mathematics/
 dsq_thread_id:
   - "2851247808"
 categories:

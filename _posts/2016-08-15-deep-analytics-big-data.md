@@ -5,7 +5,7 @@ date: 2016-08-15T23:05:15-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4382
-permalink: /2016/08/15/deep-analytics-big-data
+permalink: /2016/08/15/deep-analytics-big-data/
 dsq_thread_id:
   - "5068970260"
 featured-image: deep-analytics-big-data.jpg

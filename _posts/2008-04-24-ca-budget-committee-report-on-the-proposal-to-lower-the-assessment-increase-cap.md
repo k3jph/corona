@@ -5,7 +5,7 @@ date: 2008-04-24T19:30:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3107
-permalink: /2008/04/24/ca-budget-committee-report-on-the-proposal-to-lower-the-assessment-increase-cap
+permalink: /2008/04/24/ca-budget-committee-report-on-the-proposal-to-lower-the-assessment-increase-cap/
 dsq_thread_id:
   - "5917276891"
 categories:

@@ -5,7 +5,7 @@ date: 2017-10-07T08:04:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5607
-permalink: /2017/10/07/wont-someone-please-think-sushi
+permalink: /2017/10/07/wont-someone-please-think-sushi/
 featured-image: wont-someone-please-think-sushi.jpg
 categories:
   - Blog

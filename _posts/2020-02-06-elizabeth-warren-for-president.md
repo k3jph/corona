@@ -5,7 +5,7 @@ date: 2020-02-06T19:45:13-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7261
-permalink: /2020/02/06/elizabeth-warren-for-president
+permalink: /2020/02/06/elizabeth-warren-for-president/
 featured-image: warren-plan-for-that.png
 categories:
   - Blog

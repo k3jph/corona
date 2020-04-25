@@ -5,7 +5,7 @@ date: 2014-04-08T23:28:51-04:00
 author: James Howard
 layout: post
 guid: http://www.jameshoward.us/?p=1124
-permalink: /2014/04/08/the-national-science-foundation-finds-ignorance
+permalink: /2014/04/08/the-national-science-foundation-finds-ignorance/
 dsq_thread_id:
   - "2597602020"
 categories:

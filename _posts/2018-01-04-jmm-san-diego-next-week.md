@@ -5,7 +5,7 @@ date: 2018-01-04T22:30:59-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5951
-permalink: /2018/01/04/jmm-san-diego-next-week
+permalink: /2018/01/04/jmm-san-diego-next-week/
 featured-image: jmm-san-diego-next-week.jpg
 categories:
   - Blog

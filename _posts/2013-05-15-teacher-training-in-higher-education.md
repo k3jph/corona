@@ -5,7 +5,7 @@ date: 2013-05-15T21:57:21-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2013/05/15/teacher-training-in-higher-education/
-permalink: /2013/05/15/teacher-training-in-higher-education
+permalink: /2013/05/15/teacher-training-in-higher-education/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/50523629637/teacher-training-in-higher-education
 tumblr_howardjp_id:

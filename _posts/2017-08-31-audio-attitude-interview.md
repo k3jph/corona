@@ -5,7 +5,7 @@ date: 2017-08-31T18:15:51-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5442
-permalink: /2017/08/31/audio-attitude-interview
+permalink: /2017/08/31/audio-attitude-interview/
 featured-image: audio-attitude-interview.jpg
 categories:
   - News

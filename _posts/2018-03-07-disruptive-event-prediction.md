@@ -5,7 +5,7 @@ date: 2018-03-07T12:13:07-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6205
-permalink: /2018/03/07/disruptive-event-prediction
+permalink: /2018/03/07/disruptive-event-prediction/
 featured-image: disruptive-event-prediction.jpg
 categories:
   - News

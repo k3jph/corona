@@ -5,7 +5,7 @@ date: 2015-10-27T08:38:14-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3150
-permalink: /2015/10/27/probability-at-scale-and-kic-8462852
+permalink: /2015/10/27/probability-at-scale-and-kic-8462852/
 dsq_thread_id:
   - "4264043106"
 featured-image: Ringworld.jpg

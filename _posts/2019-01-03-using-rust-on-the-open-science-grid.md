@@ -5,7 +5,7 @@ date: 2019-01-03T07:52:12-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6681
-permalink: /2019/01/03/using-rust-on-the-open-science-grid
+permalink: /2019/01/03/using-rust-on-the-open-science-grid/
 featured-image: using-rust-on-the-open-science-grid.jpg
 categories:
   - Blog

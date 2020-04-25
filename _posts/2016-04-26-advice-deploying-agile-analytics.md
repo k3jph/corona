@@ -5,7 +5,7 @@ date: 2016-04-26T17:06:19-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3918
-permalink: /2016/04/26/advice-deploying-agile-analytics
+permalink: /2016/04/26/advice-deploying-agile-analytics/
 dsq_thread_id:
   - "4779317280"
 ampforwp_custom_content_editor_checkbox:

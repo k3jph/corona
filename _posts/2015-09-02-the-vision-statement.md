@@ -5,7 +5,7 @@ date: 2015-09-02T07:01:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2680
-permalink: /2015/09/02/the-vision-statement
+permalink: /2015/09/02/the-vision-statement/
 dsq_thread_id:
   - "4088966834"
 onesignal_meta_box_present:

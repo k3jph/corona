@@ -5,7 +5,7 @@ date: 2017-02-03T19:09:45-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4727
-permalink: /2017/02/03/regulatory-reduction-benefit-cost-analysis
+permalink: /2017/02/03/regulatory-reduction-benefit-cost-analysis/
 dsq_thread_id:
   - "5520022896"
 featured-image: regulatory-reduction-benefit-cost-analysis.jpg

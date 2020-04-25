@@ -5,7 +5,7 @@ date: 2016-04-25T17:23:42-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3985
-permalink: /2016/04/25/chernobyls-liquidators
+permalink: /2016/04/25/chernobyls-liquidators/
 dsq_thread_id:
   - "4776551446"
 instant_articles_submission_id:

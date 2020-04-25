@@ -5,7 +5,7 @@ date: 2017-08-18T07:07:05-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5374
-permalink: /2017/08/18/note-outer-space-treaty
+permalink: /2017/08/18/note-outer-space-treaty/
 featured-image: note-outer-space-treaty.jpg
 categories:
   - Blog

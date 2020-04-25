@@ -5,7 +5,7 @@ date: 2016-04-20T07:31:18-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3993
-permalink: /2016/04/20/love-note-kermit
+permalink: /2016/04/20/love-note-kermit/
 dsq_thread_id:
   - "4760673208"
 instant_articles_submission_id:

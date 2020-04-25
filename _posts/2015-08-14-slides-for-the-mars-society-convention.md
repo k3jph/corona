@@ -5,7 +5,7 @@ date: 2015-08-14T14:30:22-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2418
-permalink: /2015/08/14/slides-for-the-mars-society-convention
+permalink: /2015/08/14/slides-for-the-mars-society-convention/
 dsq_thread_id:
   - "4033166567"
 featured-image: Planning-for-Martian-Polity.png

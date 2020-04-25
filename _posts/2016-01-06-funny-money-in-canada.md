@@ -5,7 +5,7 @@ date: 2016-01-06T08:28:25-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3566
-permalink: /2016/01/06/funny-money-in-canada
+permalink: /2016/01/06/funny-money-in-canada/
 dsq_thread_id:
   - "4466733648"
 featured-image: currency-cad.png

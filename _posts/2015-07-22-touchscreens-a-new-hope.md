@@ -5,7 +5,7 @@ date: 2015-07-22T08:39:47-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2300
-permalink: /2015/07/22/touchscreens-a-new-hope
+permalink: /2015/07/22/touchscreens-a-new-hope/
 dsq_thread_id:
   - "3959390499"
 instant_articles_submission_id:

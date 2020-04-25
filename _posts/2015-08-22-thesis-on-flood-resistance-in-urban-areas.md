@@ -5,7 +5,7 @@ date: 2015-08-22T10:28:47-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2522
-permalink: /2015/08/22/thesis-on-flood-resistance-in-urban-areas
+permalink: /2015/08/22/thesis-on-flood-resistance-in-urban-areas/
 dsq_thread_id:
   - "4056633171"
 instant_articles_submission_id:

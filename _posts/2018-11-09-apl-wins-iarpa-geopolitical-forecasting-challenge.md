@@ -5,7 +5,7 @@ date: 2018-11-09T09:48:17-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6530
-permalink: /2018/11/09/apl-wins-iarpa-geopolitical-forecasting-challenge
+permalink: /2018/11/09/apl-wins-iarpa-geopolitical-forecasting-challenge/
 featured-image: apl-wins-iarpa-geopolitical-forecasting-challenge.jpg
 categories:
   - News

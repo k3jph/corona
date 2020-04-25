@@ -5,7 +5,7 @@ date: 2018-07-09T11:28:31-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6370
-permalink: /2018/07/09/interview-in-the-extra-mile
+permalink: /2018/07/09/interview-in-the-extra-mile/
 featured-image: interview-in-the-extra-mile.jpg
 categories:
   - News

@@ -5,7 +5,7 @@ date: 2016-03-12T21:59:44-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3894
-permalink: /2016/03/12/observation-central-bank-coordination
+permalink: /2016/03/12/observation-central-bank-coordination/
 dsq_thread_id:
   - "4657794717"
 featured-image: 1024px-BIZ_Basel.jpg

@@ -5,7 +5,7 @@ date: 2017-05-26T16:13:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5029
-permalink: /2017/05/26/the-flood-insurance-purchase-requirement
+permalink: /2017/05/26/the-flood-insurance-purchase-requirement/
 instant_articles_submission_id:
   - "430870370612418"
 dsq_thread_id:

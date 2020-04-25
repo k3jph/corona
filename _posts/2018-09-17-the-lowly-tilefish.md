@@ -5,7 +5,7 @@ date: 2018-09-17T19:08:39-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6463
-permalink: /2018/09/17/the-lowly-tilefish
+permalink: /2018/09/17/the-lowly-tilefish/
 featured-image: the-lowly-tilefish.jpg
 categories:
   - Blog

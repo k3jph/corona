@@ -5,7 +5,7 @@ date: 2017-07-28T07:00:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5243
-permalink: /2017/07/28/precedent-cap-trade-success
+permalink: /2017/07/28/precedent-cap-trade-success/
 featured-image: precedent-cap-trade-success-download.jpg
 categories:
   - Blog

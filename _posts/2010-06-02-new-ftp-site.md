@@ -5,7 +5,7 @@ date: 2010-06-02T10:29:00-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/06/02/new-ftp-site/
-permalink: /2010/06/02/new-ftp-site
+permalink: /2010/06/02/new-ftp-site/
 dsq_thread_id:
   - "2268152272"
 tumblr_howardjp_permalink:

@@ -5,7 +5,7 @@ date: 2015-12-25T08:23:29-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3489
-permalink: /2015/12/25/a-tyvek-christmas-miracle
+permalink: /2015/12/25/a-tyvek-christmas-miracle/
 dsq_thread_id:
   - "4432962541"
 featured-image: tyvek-painting-banner-840x300.png

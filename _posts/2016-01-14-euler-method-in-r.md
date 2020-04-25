@@ -5,7 +5,7 @@ date: 2016-01-14T21:52:33-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3704
-permalink: /2016/01/14/euler-method-in-r
+permalink: /2016/01/14/euler-method-in-r/
 dsq_thread_id:
   - "4493535013"
 featured-image: Euler_method.svg_.png

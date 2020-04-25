@@ -5,7 +5,7 @@ date: 2015-06-11T18:42:44-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2175
-permalink: /2015/06/11/only-evil-genius-spontaneously-arises
+permalink: /2015/06/11/only-evil-genius-spontaneously-arises/
 dsq_thread_id:
   - "3841456388"
 featured-image: o-GOODWILLHUNTING-facebook.jpg

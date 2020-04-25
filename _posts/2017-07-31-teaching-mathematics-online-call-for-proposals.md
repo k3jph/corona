@@ -5,7 +5,7 @@ date: 2017-07-31T07:38:25-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5260
-permalink: /2017/07/31/teaching-mathematics-online-call-for-proposals
+permalink: /2017/07/31/teaching-mathematics-online-call-for-proposals/
 featured-image: teaching-mathematics-online-call-for-proposals.jpg
 categories:
   - News

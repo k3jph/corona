@@ -5,7 +5,7 @@ date: 2009-03-23T21:19:20-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3033
-permalink: /2009/03/23/fitch-affirms-cas-aa-credit-rating
+permalink: /2009/03/23/fitch-affirms-cas-aa-credit-rating/
 dsq_thread_id:
   - "4225946761"
 categories:

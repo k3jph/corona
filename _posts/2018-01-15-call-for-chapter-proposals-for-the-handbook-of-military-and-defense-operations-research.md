@@ -5,7 +5,7 @@ date: 2018-01-15T21:40:52-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5990
-permalink: /2018/01/15/call-for-chapter-proposals-for-the-handbook-of-military-and-defense-operations-research
+permalink: /2018/01/15/call-for-chapter-proposals-for-the-handbook-of-military-and-defense-operations-research/
 featured-image: call-for-chapter-proposals-for-the-handbook-of-military-and-defense-operations-research.jpg
 categories:
   - News

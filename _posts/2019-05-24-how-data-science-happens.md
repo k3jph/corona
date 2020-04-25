@@ -5,7 +5,7 @@ date: 2019-05-24T20:01:23-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6970
-permalink: /2019/05/24/how-data-science-happens
+permalink: /2019/05/24/how-data-science-happens/
 featured-image: how-data-science-happens.jpg
 categories:
   - Blog

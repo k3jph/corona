@@ -5,7 +5,7 @@ date: 2015-12-04T07:21:52-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3290
-permalink: /2015/12/04/pigeon-flocks-for-decision-science
+permalink: /2015/12/04/pigeon-flocks-for-decision-science/
 dsq_thread_id:
   - "4375005790"
 ampforwp_custom_content_editor_checkbox:

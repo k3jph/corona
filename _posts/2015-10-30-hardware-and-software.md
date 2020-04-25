@@ -5,7 +5,7 @@ date: 2015-10-30T10:27:52-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3119
-permalink: /2015/10/30/hardware-and-software
+permalink: /2015/10/30/hardware-and-software/
 dsq_thread_id:
   - "4274521812"
 instant_articles_submission_id:

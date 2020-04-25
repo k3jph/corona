@@ -5,7 +5,7 @@ date: 2016-03-29T17:26:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3914
-permalink: /2016/03/29/learn-flood-insurance-renting
+permalink: /2016/03/29/learn-flood-insurance-renting/
 dsq_thread_id:
   - "4703776656"
 featured-image: flooded-homes.jpg

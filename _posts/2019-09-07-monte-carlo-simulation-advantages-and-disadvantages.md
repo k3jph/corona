@@ -5,7 +5,7 @@ date: 2019-09-07T14:35:51-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7085
-permalink: /2019/09/07/monte-carlo-simulation-advantages-and-disadvantages
+permalink: /2019/09/07/monte-carlo-simulation-advantages-and-disadvantages/
 featured-image: ahh-monte-carlo.jpg
 categories:
   - Blog

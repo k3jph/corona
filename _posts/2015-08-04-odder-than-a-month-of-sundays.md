@@ -5,7 +5,7 @@ date: 2015-08-04T22:07:15-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2374
-permalink: /2015/08/04/odder-than-a-month-of-sundays
+permalink: /2015/08/04/odder-than-a-month-of-sundays/
 dsq_thread_id:
   - "4004052900"
 featured-image: FB_IMG_1438645098896.jpg

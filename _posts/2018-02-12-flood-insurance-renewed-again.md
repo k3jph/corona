@@ -5,7 +5,7 @@ date: 2018-02-12T20:47:06-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6154
-permalink: /2018/02/12/flood-insurance-renewed-again
+permalink: /2018/02/12/flood-insurance-renewed-again/
 featured-image: flood-insurance-renewed-again.jpg
 categories:
   - Blog

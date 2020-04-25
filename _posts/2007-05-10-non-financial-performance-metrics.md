@@ -5,7 +5,7 @@ date: 2007-05-10T19:30:31-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3580
-permalink: /2007/05/10/non-financial-performance-metrics
+permalink: /2007/05/10/non-financial-performance-metrics/
 dsq_thread_id:
   - "4465400639"
 categories:

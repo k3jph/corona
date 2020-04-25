@@ -5,7 +5,7 @@ date: 2015-12-08T07:21:10-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3312
-permalink: /2015/12/08/gun-violence-expensive-internalize-costs
+permalink: /2015/12/08/gun-violence-expensive-internalize-costs/
 dsq_thread_id:
   - "4384940945"
 featured-image: bullets.png

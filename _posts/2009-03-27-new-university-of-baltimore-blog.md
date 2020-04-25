@@ -5,7 +5,7 @@ date: 2009-03-27T13:00:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3030
-permalink: /2009/03/27/new-university-of-baltimore-blog
+permalink: /2009/03/27/new-university-of-baltimore-blog/
 dsq_thread_id:
   - "5029776165"
 categories:

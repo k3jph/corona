@@ -5,7 +5,7 @@ date: 2016-05-31T23:59:12-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4098
-permalink: /2016/05/31/things-make-go-hmm-brookings-edition
+permalink: /2016/05/31/things-make-go-hmm-brookings-edition/
 dsq_thread_id:
   - "4874597297"
 ampforwp_custom_content_editor_checkbox:

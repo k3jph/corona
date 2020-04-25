@@ -5,7 +5,7 @@ date: 2015-12-23T11:11:31-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3426
-permalink: /2015/12/23/drone-hobbyists-need-to-calm-down-about-registration
+permalink: /2015/12/23/drone-hobbyists-need-to-calm-down-about-registration/
 dsq_thread_id:
   - "4428453719"
 featured-image: dronemoon.png

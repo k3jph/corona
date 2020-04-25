@@ -5,7 +5,7 @@ date: 2015-08-01T08:22:49-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2353
-permalink: /2015/08/01/review-of-constitutional-calculus-by-jeff-suzuki
+permalink: /2015/08/01/review-of-constitutional-calculus-by-jeff-suzuki/
 dsq_thread_id:
   - "3992938047"
 categories:

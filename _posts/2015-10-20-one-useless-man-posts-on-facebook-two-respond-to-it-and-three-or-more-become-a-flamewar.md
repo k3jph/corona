@@ -5,7 +5,7 @@ date: 2015-10-20T10:34:29-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3096
-permalink: /2015/10/20/one-useless-man-posts-on-facebook-two-respond-to-it-and-three-or-more-become-a-flamewar
+permalink: /2015/10/20/one-useless-man-posts-on-facebook-two-respond-to-it-and-three-or-more-become-a-flamewar/
 dsq_thread_id:
   - "4242686844"
 featured-image: 12079418_966865920022031_5646514052243389516_n.jpg

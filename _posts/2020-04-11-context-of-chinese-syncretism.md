@@ -5,7 +5,7 @@ date: 2020-04-11T23:11:00-04:00
 author: James Howard
 layout: post
 guid: context-of-chinese-syncretism
-permalink: /2020/04/11/context-of-chinese-syncretism
+permalink: /2020/04/11/context-of-chinese-syncretism/
 featured-image: context-of-chinese-syncretism.jpg
 categories:
   - Blog

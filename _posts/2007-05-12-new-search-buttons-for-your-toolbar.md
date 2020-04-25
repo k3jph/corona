@@ -5,7 +5,7 @@ date: 2007-05-12T22:16:32-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3577
-permalink: /2007/05/12/new-search-buttons-for-your-toolbar
+permalink: /2007/05/12/new-search-buttons-for-your-toolbar/
 dsq_thread_id:
   - "4465392292"
 categories:

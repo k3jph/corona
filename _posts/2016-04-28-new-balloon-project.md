@@ -5,7 +5,7 @@ date: 2016-04-28T23:28:43-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4039
-permalink: /2016/04/28/new-balloon-project
+permalink: /2016/04/28/new-balloon-project/
 dsq_thread_id:
   - "4785754966"
 featured-image: Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg

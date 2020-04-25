@@ -5,7 +5,7 @@ date: 2015-09-30T09:37:47-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2605
-permalink: /2015/09/30/like-water-mars
+permalink: /2015/09/30/like-water-mars/
 dsq_thread_id:
   - "4207268516"
 featured-image: marswaterstreaks.jpg

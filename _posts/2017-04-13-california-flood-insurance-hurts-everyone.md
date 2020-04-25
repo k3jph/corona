@@ -5,7 +5,7 @@ date: 2017-04-13T20:54:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4869
-permalink: /2017/04/13/california-flood-insurance-hurts-everyone
+permalink: /2017/04/13/california-flood-insurance-hurts-everyone/
 dsq_thread_id:
   - "5724100419"
 featured-image: california-flood-insurance-hurts-everyone.jpg

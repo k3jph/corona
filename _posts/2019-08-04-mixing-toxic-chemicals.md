@@ -5,7 +5,7 @@ date: 2019-08-04T11:22:39-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6550
-permalink: /2019/08/04/mixing-toxic-chemicals
+permalink: /2019/08/04/mixing-toxic-chemicals/
 featured-image: mixing-toxic-chemicals.jpg
 categories:
   - Blog

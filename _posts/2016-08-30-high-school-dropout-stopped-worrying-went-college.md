@@ -5,7 +5,7 @@ date: 2016-08-30T22:23:21-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4411
-permalink: /2016/08/30/high-school-dropout-stopped-worrying-went-college
+permalink: /2016/08/30/high-school-dropout-stopped-worrying-went-college/
 dsq_thread_id:
   - "5107804046"
 featured-image: being-a-high-school-dropout-16x9.jpg

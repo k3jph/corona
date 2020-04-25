@@ -5,7 +5,7 @@ date: 2015-10-14T13:34:42-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3007
-permalink: /2015/10/14/illinois-discovers-land-cover-increases-flooding
+permalink: /2015/10/14/illinois-discovers-land-cover-increases-flooding/
 dsq_thread_id:
   - "4222548213"
 instant_articles_submission_id:

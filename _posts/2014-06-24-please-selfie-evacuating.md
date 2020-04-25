@@ -5,7 +5,7 @@ date: 2014-06-24T09:18:31-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1350
-permalink: /2014/06/24/please-selfie-evacuating
+permalink: /2014/06/24/please-selfie-evacuating/
 dsq_thread_id:
   - "2791429863"
 categories:

@@ -5,7 +5,7 @@ date: 2014-06-30T10:12:00-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=1359
-permalink: /2014/06/30/airplane-crushed-water-bottle
+permalink: /2014/06/30/airplane-crushed-water-bottle/
 dsq_thread_id:
   - "2805222777"
 categories:

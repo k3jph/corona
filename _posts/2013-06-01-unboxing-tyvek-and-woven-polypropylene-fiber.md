@@ -5,7 +5,7 @@ date: 2013-06-01T03:07:53-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/
-permalink: /2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber
+permalink: /2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/51853364600/unboxing-tyvek-and-woven-polypropylene-fiber
 tumblr_howardjp_id:

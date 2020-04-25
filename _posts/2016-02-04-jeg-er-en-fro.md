@@ -5,7 +5,7 @@ date: 2016-02-04T22:51:28-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3759
-permalink: /2016/02/04/jeg-er-en-fro
+permalink: /2016/02/04/jeg-er-en-fro/
 snap_MYURL:
   - ""
 snapEdIT:

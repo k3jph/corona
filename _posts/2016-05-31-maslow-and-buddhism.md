@@ -5,7 +5,7 @@ date: 2016-05-31T20:32:29-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4107
-permalink: /2016/05/31/maslow-and-buddhism
+permalink: /2016/05/31/maslow-and-buddhism/
 dsq_thread_id:
   - "4873580695"
 instant_articles_submission_id:

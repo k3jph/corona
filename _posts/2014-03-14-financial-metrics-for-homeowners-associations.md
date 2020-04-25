@@ -5,7 +5,7 @@ date: 2014-03-14T14:44:15-04:00
 author: James Howard
 layout: post
 guid: http://www.jameshoward.us/?p=945
-permalink: /2014/03/14/financial-metrics-for-homeowners-associations
+permalink: /2014/03/14/financial-metrics-for-homeowners-associations/
 featured-image: DSC_0115-1.jpg
 dsq_thread_id:
   - "2431238706"

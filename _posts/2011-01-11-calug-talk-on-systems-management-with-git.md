@@ -5,7 +5,7 @@ date: 2011-01-11T03:46:24-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2011/01/11/calug-talk-on-systems-management-with-git/
-permalink: /2011/01/11/calug-talk-on-systems-management-with-git
+permalink: /2011/01/11/calug-talk-on-systems-management-with-git/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/2693567617/calug-talk-on-systems-management-with-git
 tumblr_howardjp_id:

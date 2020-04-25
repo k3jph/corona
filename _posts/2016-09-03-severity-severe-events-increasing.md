@@ -5,7 +5,7 @@ date: 2016-09-03T12:15:47-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4423
-permalink: /2016/09/03/severity-severe-events-increasing
+permalink: /2016/09/03/severity-severe-events-increasing/
 dsq_thread_id:
   - "5116784962"
 featured-image: the-severity-of-severe-events-is-increasing.jpg

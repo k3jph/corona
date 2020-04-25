@@ -5,7 +5,7 @@ date: 2015-11-10T18:39:42-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3209
-permalink: /2015/11/10/social-benefits-of-voluntary-buyouts-following-flooding
+permalink: /2015/11/10/social-benefits-of-voluntary-buyouts-following-flooding/
 dsq_thread_id:
   - "4307529677"
 featured-image: cedar-rapidsfloods.gif

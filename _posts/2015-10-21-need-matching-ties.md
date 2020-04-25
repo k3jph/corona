@@ -5,7 +5,7 @@ date: 2015-10-21T16:05:35-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2908
-permalink: /2015/10/21/need-matching-ties
+permalink: /2015/10/21/need-matching-ties/
 dsq_thread_id:
   - "4246734445"
 featured-image: 1509204_1239854196035589_4994731678827953650_n.jpg

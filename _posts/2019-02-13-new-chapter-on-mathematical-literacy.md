@@ -5,7 +5,7 @@ date: 2019-02-13T13:22:50-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6854
-permalink: /2019/02/13/new-chapter-on-mathematical-literacy
+permalink: /2019/02/13/new-chapter-on-mathematical-literacy/
 featured-image: new-chapter-on-mathematical-literacy.jpeg
 categories:
   - News

@@ -5,7 +5,7 @@ date: 2019-10-06T18:30:06-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7136
-permalink: /2019/10/06/bracewell-was-awesome
+permalink: /2019/10/06/bracewell-was-awesome/
 featured-image: bracewell-was-awesome.jpeg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2015-04-13T19:05:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2016
-permalink: /2015/04/13/maryland-lottery-proceeds-dont-pay-for-education
+permalink: /2015/04/13/maryland-lottery-proceeds-dont-pay-for-education/
 dsq_thread_id:
   - "3679275458"
 featured-image: maryland-lottery.png

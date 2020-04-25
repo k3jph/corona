@@ -5,7 +5,7 @@ date: 2014-04-02T20:28:11-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/?p=832
-permalink: /2014/04/02/a-theorem-on-the-consumer-surplus
+permalink: /2014/04/02/a-theorem-on-the-consumer-surplus/
 categories:
   - Blog
 tags:

@@ -5,7 +5,7 @@ date: 2017-08-24T06:35:28-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5423
-permalink: /2017/08/24/confederate-soldiers-not-united-states-veterans
+permalink: /2017/08/24/confederate-soldiers-not-united-states-veterans/
 featured-image: confederate-soldiers-not-united-states-veterans.jpg
 categories:
   - Blog

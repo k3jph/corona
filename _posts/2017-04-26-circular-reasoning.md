@@ -5,7 +5,7 @@ date: 2017-04-26T06:52:07-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4881
-permalink: /2017/04/26/circular-reasoning
+permalink: /2017/04/26/circular-reasoning/
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:

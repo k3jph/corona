@@ -5,7 +5,7 @@ date: 2008-02-13T13:38:07-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3221
-permalink: /2008/02/13/columbia-association-budget-committee-minutes-january-30-2008
+permalink: /2008/02/13/columbia-association-budget-committee-minutes-january-30-2008/
 dsq_thread_id:
   - "4318488557"
 categories:

@@ -5,7 +5,7 @@ date: 2017-12-30T07:20:15-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5900
-permalink: /2017/12/30/new-way-teaching-math
+permalink: /2017/12/30/new-way-teaching-math/
 featured-image: new-way-teaching-math.jpg
 categories:
   - Blog

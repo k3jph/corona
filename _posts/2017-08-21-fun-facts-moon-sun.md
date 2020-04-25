@@ -5,7 +5,7 @@ date: 2017-08-21T06:58:09-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5388
-permalink: /2017/08/21/fun-facts-moon-sun
+permalink: /2017/08/21/fun-facts-moon-sun/
 featured-image: fun-facts-moon-sun.jpg
 categories:
   - Blog

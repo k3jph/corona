@@ -5,7 +5,7 @@ date: 2009-07-15T03:30:04-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/07/15/the-mta-and-underprovision-of-services/
-permalink: /2009/07/15/the-mta-and-underprovision-of-services
+permalink: /2009/07/15/the-mta-and-underprovision-of-services/
 dsq_thread_id:
   - "2268169913"
 tumblr_howardjp_id:

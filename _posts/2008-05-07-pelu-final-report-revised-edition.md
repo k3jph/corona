@@ -5,7 +5,7 @@ date: 2008-05-07T20:07:23-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3099
-permalink: /2008/05/07/pelu-final-report-revised-edition
+permalink: /2008/05/07/pelu-final-report-revised-edition/
 categories:
   - Blog
 tags:

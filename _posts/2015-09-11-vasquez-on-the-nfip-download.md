@@ -5,7 +5,7 @@ date: 2015-09-11T10:11:44-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2784
-permalink: /2015/09/11/vasquez-on-the-nfip-download
+permalink: /2015/09/11/vasquez-on-the-nfip-download/
 dsq_thread_id:
   - "4119783983"
 featured-image: cedarrapids.png

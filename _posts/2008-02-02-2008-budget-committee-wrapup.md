@@ -5,7 +5,7 @@ date: 2008-02-02T16:16:33-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3246
-permalink: /2008/02/02/2008-budget-committee-wrapup
+permalink: /2008/02/02/2008-budget-committee-wrapup/
 dsq_thread_id:
   - "4341410889"
 categories:

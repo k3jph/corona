@@ -5,7 +5,7 @@ date: 2016-11-28T21:56:51-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4345
-permalink: /2016/11/28/goes-around-comes-around-teaching-edition
+permalink: /2016/11/28/goes-around-comes-around-teaching-edition/
 instant_articles_submission_id:
   - "212702252507886"
 dsq_thread_id:

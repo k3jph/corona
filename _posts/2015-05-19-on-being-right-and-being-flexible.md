@@ -5,7 +5,7 @@ date: 2015-05-19T19:48:19-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2125
-permalink: /2015/05/19/on-being-right-and-being-flexible
+permalink: /2015/05/19/on-being-right-and-being-flexible/
 dsq_thread_id:
   - "3778234288"
 instant_articles_submission_id:

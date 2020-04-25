@@ -5,7 +5,7 @@ date: 2017-02-04T11:25:26-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4709
-permalink: /2017/02/04/syllabus-finite-mathematics
+permalink: /2017/02/04/syllabus-finite-mathematics/
 instant_articles_submission_id:
   - "189445094868976"
 dsq_thread_id:

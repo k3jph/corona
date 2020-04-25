@@ -5,7 +5,7 @@ date: 2015-07-23T18:15:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2335
-permalink: /2015/07/23/building-an-fm-beacon
+permalink: /2015/07/23/building-an-fm-beacon/
 dsq_thread_id:
   - "3964416122"
 featured-image: 20150723_165144.jpg

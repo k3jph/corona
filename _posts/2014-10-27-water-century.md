@@ -5,7 +5,7 @@ date: 2014-10-27T17:56:17-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1466
-permalink: /2014/10/27/water-century
+permalink: /2014/10/27/water-century/
 featured-image: calif-drought.jpg
 dsq_thread_id:
   - "3163088706"

@@ -5,7 +5,7 @@ date: 2015-07-30T07:34:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2346
-permalink: /2015/07/30/comments-on-logarithmic-measurements
+permalink: /2015/07/30/comments-on-logarithmic-measurements/
 dsq_thread_id:
   - "3986168677"
 ampforwp_custom_content_editor_checkbox:

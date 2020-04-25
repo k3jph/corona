@@ -5,7 +5,7 @@ date: 2008-04-08T19:08:44-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3115
-permalink: /2008/04/08/draft-pelu-considerations
+permalink: /2008/04/08/draft-pelu-considerations/
 categories:
   - Blog
 tags:

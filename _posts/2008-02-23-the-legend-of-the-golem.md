@@ -5,7 +5,7 @@ date: 2008-02-23T02:58:47-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3189
-permalink: /2008/02/23/the-legend-of-the-golem
+permalink: /2008/02/23/the-legend-of-the-golem/
 dsq_thread_id:
   - "4473964448"
 featured-image: legend-golem.jpg

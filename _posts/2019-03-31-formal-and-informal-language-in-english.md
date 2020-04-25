@@ -5,7 +5,7 @@ date: 2019-03-31T10:48:01-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6900
-permalink: /2019/03/31/formal-and-informal-language-in-english
+permalink: /2019/03/31/formal-and-informal-language-in-english/
 featured-image: people-2570596_1920.jpg
 categories:
   - Blog

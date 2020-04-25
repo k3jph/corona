@@ -5,7 +5,7 @@ date: 2009-03-12T21:24:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3078
-permalink: /2009/03/12/on-shining-my-shoes
+permalink: /2009/03/12/on-shining-my-shoes/
 categories:
   - Blog
 tags:

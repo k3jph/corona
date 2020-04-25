@@ -5,7 +5,7 @@ date: 2015-12-24T12:25:49-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3482
-permalink: /2015/12/24/soundex-in-phonics
+permalink: /2015/12/24/soundex-in-phonics/
 dsq_thread_id:
   - "4431232134"
 ampforwp_custom_content_editor_checkbox:

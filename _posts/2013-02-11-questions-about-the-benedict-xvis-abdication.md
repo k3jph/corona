@@ -5,7 +5,7 @@ date: 2013-02-11T20:39:53-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2992
-permalink: /2013/02/11/questions-about-the-benedict-xvis-abdication
+permalink: /2013/02/11/questions-about-the-benedict-xvis-abdication/
 dsq_thread_id:
   - "4215168116"
 categories:

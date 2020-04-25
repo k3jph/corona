@@ -5,7 +5,7 @@ date: 2015-02-09T19:34:26-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1812
-permalink: /2015/02/09/public-financial-management-week-3
+permalink: /2015/02/09/public-financial-management-week-3/
 dsq_thread_id:
   - "3501147820"
 categories:

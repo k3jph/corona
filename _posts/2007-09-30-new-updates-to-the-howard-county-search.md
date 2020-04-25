@@ -5,7 +5,7 @@ date: 2007-09-30T16:28:41-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3393
-permalink: /2007/09/30/new-updates-to-the-howard-county-search
+permalink: /2007/09/30/new-updates-to-the-howard-county-search/
 dsq_thread_id:
   - "4404653623"
 categories:

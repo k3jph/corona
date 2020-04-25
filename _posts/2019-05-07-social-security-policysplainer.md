@@ -5,7 +5,7 @@ date: 2019-05-07T09:49:22-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6945
-permalink: /2019/05/07/social-security-policysplainer
+permalink: /2019/05/07/social-security-policysplainer/
 featured-image: social-security-policysplainer.jpg
 categories:
   - Blog

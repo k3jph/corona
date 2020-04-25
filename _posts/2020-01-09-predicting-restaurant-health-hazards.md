@@ -5,7 +5,7 @@ date: 2020-01-09T09:33:33-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7240
-permalink: /2020/01/09/predicting-restaurant-health-hazards
+permalink: /2020/01/09/predicting-restaurant-health-hazards/
 featured-image: predicting-restaurant-health-hazards.png
 categories:
   - News

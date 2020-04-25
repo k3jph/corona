@@ -5,7 +5,7 @@ date: 2018-12-07T07:03:08-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6598
-permalink: /2018/12/07/sewage-sludge-down-on-the-farm
+permalink: /2018/12/07/sewage-sludge-down-on-the-farm/
 featured-image: sewage-sludge-down-on-the-farm.jpg
 categories:
   - Blog

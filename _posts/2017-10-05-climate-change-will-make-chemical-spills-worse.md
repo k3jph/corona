@@ -5,7 +5,7 @@ date: 2017-10-05T07:27:05-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5604
-permalink: /2017/10/05/climate-change-will-make-chemical-spills-worse
+permalink: /2017/10/05/climate-change-will-make-chemical-spills-worse/
 featured-image: climate-change-will-make-chemical-spills-worse.jpg
 categories:
   - Blog

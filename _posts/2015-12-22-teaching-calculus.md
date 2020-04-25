@@ -5,7 +5,7 @@ date: 2015-12-22T19:02:10-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3422
-permalink: /2015/12/22/teaching-calculus
+permalink: /2015/12/22/teaching-calculus/
 dsq_thread_id:
   - "4426627396"
 featured-image: calcrealpeople.jpg

@@ -5,7 +5,7 @@ date: 2016-04-13T06:59:53-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3951
-permalink: /2016/04/13/listen-talk-data-science-kfnx
+permalink: /2016/04/13/listen-talk-data-science-kfnx/
 dsq_thread_id:
   - "4733449503"
 featured-image: radio-studio.jpg

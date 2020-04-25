@@ -5,7 +5,7 @@ date: 2015-12-01T19:10:26-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3275
-permalink: /2015/12/01/numerical-analysis-in-r-at-data-community-dc
+permalink: /2015/12/01/numerical-analysis-in-r-at-data-community-dc/
 dsq_thread_id:
   - "4364733000"
 ampforwp_custom_content_editor_checkbox:

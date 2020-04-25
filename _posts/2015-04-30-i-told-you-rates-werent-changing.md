@@ -5,7 +5,7 @@ date: 2015-04-30T21:24:48-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2058
-permalink: /2015/04/30/i-told-you-rates-werent-changing
+permalink: /2015/04/30/i-told-you-rates-werent-changing/
 dsq_thread_id:
   - "3726892910"
 featured-image: federalreserve.png

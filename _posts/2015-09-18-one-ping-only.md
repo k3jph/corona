@@ -5,7 +5,7 @@ date: 2015-09-18T07:11:37-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2853
-permalink: /2015/09/18/one-ping-only
+permalink: /2015/09/18/one-ping-only/
 dsq_thread_id:
   - "4141327871"
 categories:

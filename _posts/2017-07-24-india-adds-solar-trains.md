@@ -5,7 +5,7 @@ date: 2017-07-24T07:07:44-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5201
-permalink: /2017/07/24/india-adds-solar-trains
+permalink: /2017/07/24/india-adds-solar-trains/
 
 dsq_thread_id:
   - "6012709967"

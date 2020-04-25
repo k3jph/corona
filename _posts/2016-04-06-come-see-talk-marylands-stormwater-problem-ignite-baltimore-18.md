@@ -5,7 +5,7 @@ date: 2016-04-06T08:59:57-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3911
-permalink: /2016/04/06/come-see-talk-marylands-stormwater-problem-ignite-baltimore-18
+permalink: /2016/04/06/come-see-talk-marylands-stormwater-problem-ignite-baltimore-18/
 dsq_thread_id:
   - "4726424464"
 featured-image: ibshirt.jpg

@@ -5,7 +5,7 @@ date: 2017-07-27T13:01:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5246
-permalink: /2017/07/27/the-problem-with-offering-flood-insurance-subsidies
+permalink: /2017/07/27/the-problem-with-offering-flood-insurance-subsidies/
 dsq_thread_id:
   - "6020749414"
 featured-image: the-problem-with-offering-flood-insurance-subsidies.jpg

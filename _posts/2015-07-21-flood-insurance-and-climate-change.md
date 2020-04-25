@@ -5,7 +5,7 @@ date: 2015-07-21T08:26:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2298
-permalink: /2015/07/21/flood-insurance-and-climate-change
+permalink: /2015/07/21/flood-insurance-and-climate-change/
 dsq_thread_id:
   - "3954535747"
 featured-image: 177378324_1ec42a417a_o.jpg

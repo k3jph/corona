@@ -5,7 +5,7 @@ date: 2016-06-10T17:48:51-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4160
-permalink: /2016/06/10/howard-county-schools-sick
+permalink: /2016/06/10/howard-county-schools-sick/
 dsq_thread_id:
   - "4900754910"
 featured-image: hcpss-cover.png

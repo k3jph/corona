@@ -5,7 +5,7 @@ date: 2008-02-22T03:50:45-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3194
-permalink: /2008/02/22/the-outlaw-bank-a-wild-ride-into-the-secret-heart-of-bcci
+permalink: /2008/02/22/the-outlaw-bank-a-wild-ride-into-the-secret-heart-of-bcci/
 dsq_thread_id:
   - "4293897638"
 categories:

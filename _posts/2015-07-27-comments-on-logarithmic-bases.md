@@ -5,7 +5,7 @@ date: 2015-07-27T20:36:08-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2339
-permalink: /2015/07/27/comments-on-logarithmic-bases
+permalink: /2015/07/27/comments-on-logarithmic-bases/
 dsq_thread_id:
   - "3977728221"
 ampforwp_custom_content_editor_checkbox:

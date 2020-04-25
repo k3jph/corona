@@ -5,7 +5,7 @@ date: 2017-01-04T07:21:18-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4681
-permalink: /2017/01/04/journal-standards-accreditation
+permalink: /2017/01/04/journal-standards-accreditation/
 dsq_thread_id:
   - "5433347050"
 featured-image: journal-standards-accreditation.jpg

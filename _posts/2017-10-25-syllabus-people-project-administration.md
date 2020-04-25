@@ -5,7 +5,7 @@ date: 2017-10-25T07:55:53-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5626
-permalink: /2017/10/25/syllabus-people-project-administration
+permalink: /2017/10/25/syllabus-people-project-administration/
 featured-image: syllabus-people-project-administration.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2020-04-25T12:57:00-04:00
 author: James Howard
 layout: post
 guid: the-hongwu-emperors-land-reforms
-permalink: /2020/04/25/the-hongwu-emperors-land-reforms
+permalink: /2020/04/25/the-hongwu-emperors-land-reforms/
 featured-image: the-hongwu-emperors-land-reforms.jpg
 categories:
   - Blog

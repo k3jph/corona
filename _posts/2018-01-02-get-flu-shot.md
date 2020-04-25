@@ -5,7 +5,7 @@ date: 2018-01-02T07:33:23-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5924
-permalink: /2018/01/02/get-flu-shot
+permalink: /2018/01/02/get-flu-shot/
 featured-image: get-flu-shot.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2019-02-24T19:53:13-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6858
-permalink: /2019/02/24/gradient-fields-forever
+permalink: /2019/02/24/gradient-fields-forever/
 
 featured-image: gradient-fields-forever.jpg
 categories:

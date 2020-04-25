@@ -5,7 +5,7 @@ date: 2018-07-10T07:36:46-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6374
-permalink: /2018/07/10/teaching-project-management-this-fall
+permalink: /2018/07/10/teaching-project-management-this-fall/
 featured-image: teaching-project-management-this-fall.jpg
 categories:
   - Blog

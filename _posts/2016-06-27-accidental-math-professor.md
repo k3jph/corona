@@ -5,7 +5,7 @@ date: 2016-06-27T07:04:44-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4224
-permalink: /2016/06/27/accidental-math-professor
+permalink: /2016/06/27/accidental-math-professor/
 dsq_thread_id:
   - "4940213132"
 featured-image: accidental-math-professor.jpg

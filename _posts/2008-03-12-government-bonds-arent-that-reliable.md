@@ -5,7 +5,7 @@ date: 2008-03-12T10:57:22-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3137
-permalink: /2008/03/12/government-bonds-arent-that-reliable
+permalink: /2008/03/12/government-bonds-arent-that-reliable/
 dsq_thread_id:
   - "4247421536"
 categories:

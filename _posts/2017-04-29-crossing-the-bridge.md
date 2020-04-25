@@ -5,7 +5,7 @@ date: 2017-04-29T07:59:03-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4872
-permalink: /2017/04/29/crossing-the-bridge
+permalink: /2017/04/29/crossing-the-bridge/
 instant_articles_submission_id:
   - "284273628690471"
 dsq_thread_id:

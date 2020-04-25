@@ -5,7 +5,7 @@ date: 2014-10-31T09:01:01-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1474
-permalink: /2014/10/31/nfip-florida
+permalink: /2014/10/31/nfip-florida/
 featured-image: 1024px-Hurricane_Isaac_by_Night.jpeg
 dsq_thread_id:
   - "3174684299"

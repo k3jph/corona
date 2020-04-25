@@ -5,7 +5,7 @@ date: 2017-08-28T07:21:25-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5431
-permalink: /2017/08/28/comments-moon-treaty
+permalink: /2017/08/28/comments-moon-treaty/
 featured-image: comments-moon-treaty.jpg
 categories:
   - Blog

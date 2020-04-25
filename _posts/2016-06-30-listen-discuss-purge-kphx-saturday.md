@@ -5,7 +5,7 @@ date: 2016-06-30T06:45:16-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4254
-permalink: /2016/06/30/listen-discuss-purge-kphx-saturday
+permalink: /2016/06/30/listen-discuss-purge-kphx-saturday/
 dsq_thread_id:
   - "4950353356"
 featured-image: listen-discuss-purge-kphx-saturday.jpg

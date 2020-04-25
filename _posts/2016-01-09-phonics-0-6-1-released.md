@@ -5,7 +5,7 @@ date: 2016-01-09T07:43:01-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3651
-permalink: /2016/01/09/phonics-0-6-1-released
+permalink: /2016/01/09/phonics-0-6-1-released/
 dsq_thread_id:
   - "4476078277"
 ampforwp_custom_content_editor_checkbox:

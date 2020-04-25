@@ -5,7 +5,7 @@ date: 2015-07-29T08:29:00-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2343
-permalink: /2015/07/29/the-value-of-working-code
+permalink: /2015/07/29/the-value-of-working-code/
 dsq_thread_id:
   - "3982921938"
 ampforwp_custom_content_editor_checkbox:

@@ -5,7 +5,7 @@ date: 2015-02-10T19:12:53-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1814
-permalink: /2015/02/10/lost-rating-went
+permalink: /2015/02/10/lost-rating-went/
 dsq_thread_id:
   - "3504553703"
 categories:

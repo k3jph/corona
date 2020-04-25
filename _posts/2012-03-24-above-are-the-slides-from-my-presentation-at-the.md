@@ -5,7 +5,7 @@ date: 2012-03-24T12:58:00-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2012/03/24/above-are-the-slides-from-my-presentation-at-the/
-permalink: /2012/03/24/above-are-the-slides-from-my-presentation-at-the
+permalink: /2012/03/24/above-are-the-slides-from-my-presentation-at-the/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/30316249233/above-are-the-slides-from-my-presentation-at-the
 tumblr_jhresearchlog_id:

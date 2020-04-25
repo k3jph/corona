@@ -5,7 +5,7 @@ date: 2016-07-01T06:55:03-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4233
-permalink: /2016/07/01/someone-will-win-probably-wont
+permalink: /2016/07/01/someone-will-win-probably-wont/
 dsq_thread_id:
   - "4953002025"
 featured-image: someone-will-win-and-it-probably-wont-be-you.jpg

@@ -5,7 +5,7 @@ date: 2016-02-18T18:54:16-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3838
-permalink: /2016/02/18/tylers-paper-on-the-advantages-of-sustainable-mitigation
+permalink: /2016/02/18/tylers-paper-on-the-advantages-of-sustainable-mitigation/
 dsq_thread_id:
   - "4591757433"
 featured-image: 1024px-Wall_in_kalpakkam.jpg

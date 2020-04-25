@@ -5,7 +5,7 @@ date: 2009-11-25T03:42:44-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2009/11/25/freegrep-is-now-at-github/
-permalink: /2009/11/25/freegrep-is-now-at-github
+permalink: /2009/11/25/freegrep-is-now-at-github/
 dsq_thread_id:
   - "2492969275"
 tumblr_howardjp_permalink:

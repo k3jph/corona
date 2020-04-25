@@ -5,7 +5,7 @@ date: 2014-04-16T21:10:00-04:00
 author: James Howard
 layout: post
 guid: http://www.jameshoward.us/?p=1141
-permalink: /2014/04/16/one-step-closer-to-ending-open-enrollment
+permalink: /2014/04/16/one-step-closer-to-ending-open-enrollment/
 dsq_thread_id:
   - "2617696473"
 categories:

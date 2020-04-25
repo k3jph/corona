@@ -5,7 +5,7 @@ date: 2018-11-18T09:47:53-05:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6556
-permalink: /2018/11/18/howard-county-and-everyone-else-needs-the-plastic-bag-tax
+permalink: /2018/11/18/howard-county-and-everyone-else-needs-the-plastic-bag-tax/
 featured-image: howard-county-and-everyone-else-needs-the-plastic-bag-tax.jpg
 categories:
   - Blog

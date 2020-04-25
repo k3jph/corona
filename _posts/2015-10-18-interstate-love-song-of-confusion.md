@@ -5,7 +5,7 @@ date: 2015-10-18T08:55:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3037
-permalink: /2015/10/18/interstate-love-song-of-confusion
+permalink: /2015/10/18/interstate-love-song-of-confusion/
 dsq_thread_id:
   - "4225981795"
 featured-image: I70and29.png

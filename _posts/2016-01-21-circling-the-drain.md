@@ -5,7 +5,7 @@ date: 2016-01-21T20:36:31-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3731
-permalink: /2016/01/21/circling-the-drain
+permalink: /2016/01/21/circling-the-drain/
 dsq_thread_id:
   - "4512281094"
 ampforwp_custom_content_editor:

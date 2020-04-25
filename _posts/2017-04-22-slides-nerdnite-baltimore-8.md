@@ -5,7 +5,7 @@ date: 2017-04-22T20:35:26-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4878
-permalink: /2017/04/22/slides-nerdnite-baltimore-8
+permalink: /2017/04/22/slides-nerdnite-baltimore-8/
 instant_articles_submission_id:
   - "1634921046536379"
 dsq_thread_id:

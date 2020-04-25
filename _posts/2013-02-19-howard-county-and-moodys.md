@@ -5,7 +5,7 @@ date: 2013-02-19T01:22:19-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2013/02/19/howard-county-and-moodys/
-permalink: /2013/02/19/howard-county-and-moodys
+permalink: /2013/02/19/howard-county-and-moodys/
 dsq_thread_id:
   - "2271807216"
 tumblr_howardjp_permalink:

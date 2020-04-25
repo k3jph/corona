@@ -5,7 +5,7 @@ date: 2015-09-17T09:12:17-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2847
-permalink: /2015/09/17/take-a-left-at-albuquerque
+permalink: /2015/09/17/take-a-left-at-albuquerque/
 dsq_thread_id:
   - "4133323994"
 featured-image: 610px-Pioneer10-plaque_tilt.jpg

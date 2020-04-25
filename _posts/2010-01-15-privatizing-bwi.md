@@ -5,7 +5,7 @@ date: 2010-01-15T21:28:00-05:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2010/01/15/privatizing-bwi/
-permalink: /2010/01/15/privatizing-bwi
+permalink: /2010/01/15/privatizing-bwi/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/336284342/privatizing-bwi
 tumblr_howardjp_id:

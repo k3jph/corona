@@ -5,7 +5,7 @@ date: 2015-04-18T10:36:10-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2032
-permalink: /2015/04/18/is-anybody-there-does-anybody-care
+permalink: /2015/04/18/is-anybody-there-does-anybody-care/
 dsq_thread_id:
   - "3692131106"
 featured-image: 13310082333_941f7a998c_o.jpg

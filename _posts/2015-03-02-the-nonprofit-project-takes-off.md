@@ -5,7 +5,7 @@ date: 2015-03-02T19:31:25-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1877
-permalink: /2015/03/02/the-nonprofit-project-takes-off
+permalink: /2015/03/02/the-nonprofit-project-takes-off/
 dsq_thread_id:
   - "3562129240"
 featured-image: 5231765066_405ca16a91_b.jpg

@@ -5,7 +5,7 @@ date: 2015-09-16T07:58:25-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2843
-permalink: /2015/09/16/tradecraft-primer-cia
+permalink: /2015/09/16/tradecraft-primer-cia/
 dsq_thread_id:
   - "4133293308"
 featured-image: Relationship_of_data_information_and_intelligence.png

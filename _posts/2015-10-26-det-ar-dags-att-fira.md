@@ -5,7 +5,7 @@ date: 2015-10-26T18:02:27-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3158
-permalink: /2015/10/26/det-ar-dags-att-fira
+permalink: /2015/10/26/det-ar-dags-att-fira/
 dsq_thread_id:
   - "4262260520"
 featured-image: swedish-tree.png

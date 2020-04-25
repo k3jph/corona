@@ -5,7 +5,7 @@ date: 2015-04-27T22:48:04-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2053
-permalink: /2015/04/27/green-beelievers-update
+permalink: /2015/04/27/green-beelievers-update/
 dsq_thread_id:
   - "3718390882"
 featured-image: baltimore-skyline.png

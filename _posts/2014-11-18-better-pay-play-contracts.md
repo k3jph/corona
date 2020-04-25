@@ -5,7 +5,7 @@ date: 2014-11-18T20:50:46-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1646
-permalink: /2014/11/18/better-pay-play-contracts
+permalink: /2014/11/18/better-pay-play-contracts/
 featured-image: 13859755804_3f99bf33c8_z.jpg
 categories:
   - Blog

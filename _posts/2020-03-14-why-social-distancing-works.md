@@ -5,7 +5,7 @@ date: 2020-03-14T12:49:44-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7321
-permalink: /2020/03/14/why-social-distancing-works
+permalink: /2020/03/14/why-social-distancing-works/
 featured-image: why-social-distancing-works.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2018-10-04T09:16:39-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6475
-permalink: /2018/10/04/a-story-of-food-bringing-us-together
+permalink: /2018/10/04/a-story-of-food-bringing-us-together/
 featured-image: a-story-of-food-bringing-us-together.jpg
 categories:
   - Blog

@@ -5,7 +5,7 @@ date: 2009-04-10T21:37:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3018
-permalink: /2009/04/10/mass-transit-alternatives-for-columbians
+permalink: /2009/04/10/mass-transit-alternatives-for-columbians/
 dsq_thread_id:
   - "4222575892"
 categories:

@@ -5,7 +5,7 @@ date: 2015-09-15T06:14:10-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2836
-permalink: /2015/09/15/i-remember-berenstain-as-berenstain
+permalink: /2015/09/15/i-remember-berenstain-as-berenstain/
 dsq_thread_id:
   - "4130187754"
 featured-image: 640.jpg

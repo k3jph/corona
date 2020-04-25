@@ -5,7 +5,7 @@ date: 2019-09-30T10:27:00-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7123
-permalink: /2019/09/30/jhu-apl-wins-award-for-innovation
+permalink: /2019/09/30/jhu-apl-wins-award-for-innovation/
 featured-image: jhu-apl-wins-award-for-innovation.jpg
 categories:
   - News

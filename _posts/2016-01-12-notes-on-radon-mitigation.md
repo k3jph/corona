@@ -5,7 +5,7 @@ date: 2016-01-12T17:29:38-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3697
-permalink: /2016/01/12/notes-on-radon-mitigation
+permalink: /2016/01/12/notes-on-radon-mitigation/
 dsq_thread_id:
   - "4485758148"
 instant_articles_submission_id:

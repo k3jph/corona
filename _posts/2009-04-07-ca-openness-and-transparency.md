@@ -5,7 +5,7 @@ date: 2009-04-07T18:44:03-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3020
-permalink: /2009/04/07/ca-openness-and-transparency
+permalink: /2009/04/07/ca-openness-and-transparency/
 dsq_thread_id:
   - "4222604803"
 categories:

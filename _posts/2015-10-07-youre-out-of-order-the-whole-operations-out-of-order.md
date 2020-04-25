@@ -5,7 +5,7 @@ date: 2015-10-07T16:50:12-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2952
-permalink: /2015/10/07/youre-out-of-order-the-whole-operations-out-of-order
+permalink: /2015/10/07/youre-out-of-order-the-whole-operations-out-of-order/
 dsq_thread_id:
   - "4203857212"
 featured-image: maxresdefault.jpg

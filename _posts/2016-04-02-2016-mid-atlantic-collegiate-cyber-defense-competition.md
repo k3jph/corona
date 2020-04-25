@@ -5,7 +5,7 @@ date: 2016-04-02T17:32:40-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3929
-permalink: /2016/04/02/2016-mid-atlantic-collegiate-cyber-defense-competition
+permalink: /2016/04/02/2016-mid-atlantic-collegiate-cyber-defense-competition/
 geo_latitude:
   - "39.1645203"
 geo_longitude:

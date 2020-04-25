@@ -5,7 +5,7 @@ date: 2009-03-31T04:50:46-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3028
-permalink: /2009/03/31/join-my-facebook-page
+permalink: /2009/03/31/join-my-facebook-page/
 dsq_thread_id:
   - "4225938177"
 categories:

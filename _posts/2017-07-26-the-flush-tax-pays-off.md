@@ -5,7 +5,7 @@ date: 2017-07-26T06:52:20-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5235
-permalink: /2017/07/26/the-flush-tax-pays-off
+permalink: /2017/07/26/the-flush-tax-pays-off/
 dsq_thread_id:
   - "6017325433"
 featured-image: the-flush-tax-pays-off.jpg

@@ -5,7 +5,7 @@ date: 2015-03-05T21:03:38-05:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1672
-permalink: /2015/03/05/ashamed-die-won-victory-humanity
+permalink: /2015/03/05/ashamed-die-won-victory-humanity/
 dsq_thread_id:
   - "3571500389"
 featured-image: AnitochHall.png

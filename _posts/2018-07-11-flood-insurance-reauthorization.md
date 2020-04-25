@@ -5,7 +5,7 @@ date: 2018-07-11T07:48:38-04:00
 author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6380
-permalink: /2018/07/11/flood-insurance-reauthorization
+permalink: /2018/07/11/flood-insurance-reauthorization/
 featured-image: flood-insurance-reauthorization.jpg
 categories:
   - Blog

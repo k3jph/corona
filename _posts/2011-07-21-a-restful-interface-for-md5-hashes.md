@@ -5,7 +5,7 @@ date: 2011-07-21T22:56:01-04:00
 author: James Howard
 layout: post
 guid: http://beta.jameshoward.us/2011/07/21/a-restful-interface-for-md5-hashes/
-permalink: /2011/07/21/a-restful-interface-for-md5-hashes
+permalink: /2011/07/21/a-restful-interface-for-md5-hashes/
 dsq_thread_id:
   - "2268134979"
 tumblr_howardjp_permalink:

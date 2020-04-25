@@ -5,7 +5,7 @@ date: 2015-08-28T07:45:14-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2633
-permalink: /2015/08/28/benefits-and-costs
+permalink: /2015/08/28/benefits-and-costs/
 dsq_thread_id:
   - "4075011614"
 featured-image: 500px-Scale_of_justice_2.svg_.png

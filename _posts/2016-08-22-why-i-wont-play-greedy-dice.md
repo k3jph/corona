@@ -5,7 +5,7 @@ date: 2016-08-22T20:24:26-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4397
-permalink: /2016/08/22/why-i-wont-play-greedy-dice
+permalink: /2016/08/22/why-i-wont-play-greedy-dice/
 dsq_thread_id:
   - "5087161137"
 featured-image: why-i-wont-play-greedy-dice.jpg

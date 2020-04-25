@@ -5,7 +5,7 @@ date: 2016-06-28T07:18:05-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4198
-permalink: /2016/06/28/brexit-versus-texit
+permalink: /2016/06/28/brexit-versus-texit/
 dsq_thread_id:
   - "4944851273"
 featured-image: battle-stirling-bridge.jpg
