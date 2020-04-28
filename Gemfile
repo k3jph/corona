@@ -1,11 +1,13 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-gist"
-gem "jekyll-paginate"
-gem "jekyll-redirect-from"
-gem "jekyll-scholar"
-gem "jekyll-footnotes"
-gem "jekyll-seo-tag"
-gem "rake"
-gem "stringex"
+group :jekyll_plugins do
+  gem "jekyll"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
+  gem "jekyll-footnotes"
+  gem "jekyll-seo-tag"
+  gem "rake"
+  gem "stringex"
+  gem 'jekyll-archives'
+  gem "jekyll-paginate-v2"
+end

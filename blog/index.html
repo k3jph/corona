@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Home
+title: Blog
+menu-order: 1
+menu-label: Blog
+pagination:
+  enabled: true
 ---
 
+<div class="page">
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      {% if page.featured-image != null %}
-        {% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
-      {% endif %}
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
@@ -22,19 +24,39 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
+{% if paginator.total_pages > 1 %}
+<ul class="jh-Pagination-list">
+  {% if paginator.first_page %}
+  <li class="jh-Pagination-item-first">
+    <a class="jh-Pagination-link" href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+  </li>
   {% endif %}
+
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <li class="jh-Pagination-item">
+    <a class="jh-Pagination-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lsaquo;</a>
+  </li>
   {% endif %}
+
+  {% if paginator.page_trail %}
+  {% for trail in paginator.page_trail %}
+  <li {% if page.url == trail.path %}class="jh-Pagination-item--selected" {% else %}class="jh-Pagination-item" {% endif %} >
+    <a class="jh-Pagination-link" href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}">{{ trail.num }}</a>
+  </li>
+  {% endfor %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <li class="jh-Pagination-item">
+    <a class="jh-Pagination-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rsaquo;</a>
+  </li>
+  {% endif %}
+
+  {% if paginator.last_page %}
+  <li class="jh-Pagination-item">
+    <a class="jh-Pagination-link" href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
 </div>

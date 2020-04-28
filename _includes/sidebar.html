@@ -4,8 +4,14 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item" style="margin-left: auto; margin-right: auto;">
-    <a href="{{ site.url }}"><img src="/assets/images/jhoward-greenglow.jpg" alt="Me at the 2017 Howard County Library Evening in the Stacks" width="200px" /></a>
+  <div class="sidebar-item" style="padding-top: 2rem; padding-bottom: 1rem;">
+    <a href="{{ site.url }}"><img style="margin-left: auto; margin-right: auto;" src="/assets/images/jhoward-greenglow.jpg" alt="Me at the 2017 Howard County Library Evening in the Stacks" width="200px" /></a>
+  </div>
+
+  <div class="sidebar-item" style="text-align: center; padding-top: 0px; padding-bottom: 1rem;">
+    <form action="/search" method="get">
+      <input type="search" id="sidebar-search" name="q" placeholder="Search..." width="300px">
+    </form>
   </div>
 
   <nav class="sidebar-nav">

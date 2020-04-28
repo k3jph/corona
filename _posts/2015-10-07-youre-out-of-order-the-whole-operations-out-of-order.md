@@ -1,6 +1,6 @@
 ---
 id: 2952
-title: 'You&#8217;re out of order! The whole operation&#8217;s out of order!'
+title: "You're out of order! The whole operation's out of order!"
 date: 2015-10-07T16:50:12-04:00
 author: James Howard
 layout: post

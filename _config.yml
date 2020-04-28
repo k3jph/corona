@@ -14,16 +14,39 @@ author:
 
 # Gems
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-scholar
   - jekyll-seo-tag
   - jekyll/footnotes
-  
+
+exclude: ["Rakefile", "Main Website.code-workspace", ".jekyll-cache"]
+
 # Pagination
-paginate:            10
-permalink:           pretty
-paginate_path:       '/blog/page/:num/'
+autopages:
+  enabled: false
+  tags: 
+    layouts: 
+      - tag.html
+     # - autopage_collections_tags.html
+     # - autopage_tags.html
+    enabled: true
+
+# This site uses the pretty permalink structure, this renders all urls with a slash / at the end and 
+# no file endings, I guess that is considered pretty :)
+permalink: pretty
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
 
 # Custom vars
 version:             1.1.0
@@ -35,3 +58,8 @@ scholar:
 
 # Iframely!
 iframely-key:       176ff6184ababb980170f6037497fb6a
+
+algolia:
+  application_id:       GI59X4R5CO
+  index_name:           jekyll-jameshoward-us
+  search_only_api_key:  867898ddd747a87edb66f2a825909281

@@ -2,15 +2,6 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
-## -- Rsync Deploy config -- ##
-# Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
-ssh_port       = "22"
-document_root  = "~/website.com/"
-rsync_delete   = false
-rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "push"
-
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
 
@@ -26,6 +17,9 @@ themes_dir      = ".themes"   # directory for blog files
 new_post_ext    = "markdown"  # default new post file extension when using the new_post task
 new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 server_port     = "4000"      # port for preview server eg. localhost:4000
+
+## Angolia Configuration
+algolia_api_key = "05104752f01ce6568f2bc0e44da0e9bb"
 
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
   puts '## Set the codepage to 65001 for Windows machines'
@@ -168,8 +162,13 @@ task :isolate, :filename do |t, args|
   end
 end
 
+desc "Build the Angolia database."
+task :algoliabuild do
+  ALGOLIA_API_KEY=algolia_api_key bundle exec jekyll algolia
+end
+
 desc "Move all stashed posts back into the posts directory, ready for site generation."
-task :integrate do
+task :integrate, :algoliabuild do
   FileUtils.mv Dir.glob("#{source_dir}/#{stash_dir}/*.*"), "#{source_dir}/#{posts_dir}/"
 end
 

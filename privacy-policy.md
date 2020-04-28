@@ -5,8 +5,6 @@ date: 2016-07-05T16:33:01-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=4285
-menu2-order:   20
-menu2-label:   Privacy Policy
 ---
 Your privacy is important to me.
 
