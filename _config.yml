@@ -18,8 +18,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll/footnotes
+  - jekyll-algolia
 
-exclude: ["Rakefile", "Main Website.code-workspace", ".jekyll-cache"]
+exclude: ["Rakefile", "Main Website.code-workspace", ".jekyll-cache", ".gitignore", "_deploy"]
 
 # Pagination
 autopages:

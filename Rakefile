@@ -6,7 +6,7 @@ require "stringex"
 deploy_branch  = "master"
 
 ## -- Misc Configs -- ##
-
+deploy_default  = "push"
 public_dir      = "_site"    # compiled site directory
 source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')

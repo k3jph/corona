@@ -1,6 +1,6 @@
 ---
 id: 513
-title: 'Income isn&#039;t just about more education, quality matters, too'
+title: "Income isn't just about more education, quality matters, too"
 date: 2013-05-18T00:43:07-04:00
 author: James Howard
 layout: post
