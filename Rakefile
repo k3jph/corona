@@ -163,12 +163,12 @@ task :isolate, :filename do |t, args|
 end
 
 desc "Build the Angolia database."
-task :algoliabuild do
-  ALGOLIA_API_KEY=algolia_api_key bundle exec jekyll algolia
+task :algolia do
+  Bundler.with_unbundled_env { system "env ALGOLIA_API_KEY=#{algolia_api_key} bundle exec jekyll algolia" }
 end
 
 desc "Move all stashed posts back into the posts directory, ready for site generation."
-task :integrate, :algoliabuild do
+task :integrate do
   FileUtils.mv Dir.glob("#{source_dir}/#{stash_dir}/*.*"), "#{source_dir}/#{posts_dir}/"
 end
 
