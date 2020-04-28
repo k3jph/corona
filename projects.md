@@ -33,7 +33,7 @@ for the Coursera Internet of Things capstone course.
    cap="The first page of the Jutlandic Law originally from 1241 in Codex Holmiensis"
    alt="The first page of the Jutlandic Law originally from 1241 in Codex Holmiensis" %}
 
-[_Danish Language Resources_](/dansk) is an interactive document
+[_Danish Language Resources_](/swedish-language-resources) is an interactive document
 that collects resources for English speakers who are learning the
 Danish language.  I started learning
 [Danish](http://en.wikipedia.org/wiki/Danish_language) through
@@ -53,7 +53,7 @@ material.
    cap="Sheet number 21 from the Early Westrogothic law" 
    alt="Sheet number 21 from the Early Westrogothic law" %}
 
-[_Swedish Language Resources_](/svenska) is an interactive document
+[_Swedish Language Resources_](/swedish-language-resources) is an interactive document
 that collects resources for English speakers who are learning the
 Swedish language. After I finished the Danish language course on
 Duolingo, I really wanted to keep my streak up.  I've since lost
