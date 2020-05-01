@@ -150,12 +150,13 @@ ul ul {
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
-  display: block;
-  padding: 1rem;
-  border: 1px solid #eee;
-  height: 7rem;
-  margin-left: auto;
-  margin-right: auto;
+  min-height: 7rem;
+  max-height: 7rem;
+  border: none;
+}
+
+.pagination-item-text {
+  margin: auto;
 }
 
 .pager {

@@ -21,15 +21,17 @@ layout: default
   </span>
 </div>
 
+<!--
 <div class="pagination">
   {% if page.previous %}
-  <a class="pagination-item older" href="{{ page.previous.url | absolute_url }}">{{ page.previous.title }}</a>
+  <a class="pagination-item older" href="{{ page.previous.url | absolute_url }}">&laquo;{{ page.previous.title }}</a>
   {% else %}
   <span class="pagination-item older">Previous</span>
   {% endif %}
   {% if page.next %}
-  <a class="pagination-item newer" href="{{ page.next.url | absolute_url }}">{{ page.next.title }}</a>
+  <a class="pagination-item newer" href="{{ page.next.url | absolute_url }}">{{ page.next.title }}&raquo;</a>
   {% else %}
   <span class="pagination-item newer">Next</span>
   {% endif %}
 </div>
+-->
