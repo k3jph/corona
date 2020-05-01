@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Tags
+title: Most Common Tags
 permalink: /tag
 description: A tag cloud of all posts on JamesHoward.us
 ---
