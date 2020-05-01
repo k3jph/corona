@@ -20,17 +20,33 @@ plugins:
   - jekyll/footnotes
   - jekyll-algolia
 
-exclude: ["Rakefile", "Main Website.code-workspace", ".jekyll-cache", ".gitignore", "_deploy"]
+exclude: 
+  - .gitignore
+  - .jekyll-cache
+  - deploy
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - "Main Website.code-workspace"
 
 # Pagination
 autopages:
-  enabled: false
+  enabled: true
   tags: 
     layouts: 
       - tag.html
-     # - autopage_collections_tags.html
-     # - autopage_tags.html
     enabled: true
+    slugify:
+      mode: 'ascii'
+  categories:
+    enabled: false
+    layouts:
+      - autopage_cat.html
+  collections:
+    enabled: false
+    slugify:
+      mode: 'ascii'
+      cased: true
 
 # This site uses the pretty permalink structure, this renders all urls with a slash / at the end and 
 # no file endings, I guess that is considered pretty :)

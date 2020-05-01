@@ -9,6 +9,16 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+
+  <span class="post-tags">
+    {% if page.tags.size > 0 %}
+      Tag{% if page.tags.size > 1 %}s{% endif %}:
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name | slugify }}"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+      {% endfor %}
+    {% endif %}
+  </span>
 </div>
 
 <div class="pagination">

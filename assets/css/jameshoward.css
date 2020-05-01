@@ -48,6 +48,14 @@ blockquote cite {
   padding-right: 0px;
 }
 
+/* Meta data line below post title */
+.post-tags {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #808080;
+}
+
 /* Lists */
 ul ul {
   margin-top: 0;
@@ -249,4 +257,8 @@ a[class^=jh-] {
 .jh-Pagination-item--selected .jh-Pagination-link:focus,
 .jh-Pagination-item--selected .jh-Pagination-link:hover {
     color: #fff
+}
+
+.tag-cloud {
+  text-align: center;
 }
