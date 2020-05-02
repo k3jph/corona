@@ -13,7 +13,7 @@ instant_articles_submission_id:
 categories:
   - Blog
 tags:
-  - .net
+  - DotNET
   - business
   - computer science
   - information technology

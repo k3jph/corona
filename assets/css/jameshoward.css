@@ -56,6 +56,14 @@ blockquote cite {
   color: #808080;
 }
 
+/* Meta data line below post title */
+.post-date {
+  display: inline;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
 /* Lists */
 ul ul {
   margin-top: 0;

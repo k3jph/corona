@@ -14,7 +14,6 @@ author:
 
 # Gems
 plugins:
-  - jekyll-paginate-v2
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll/footnotes
@@ -30,41 +29,9 @@ exclude:
   - "Main Website.code-workspace"
   - Rakefile
 
-# Pagination
-autopages:
-  enabled: true
-  tags: 
-    layouts: 
-      - tag.html
-    enabled: true
-    slugify:
-      mode: 'ascii'
-  categories:
-    enabled: false
-    layouts:
-      - autopage_cat.html
-  collections:
-    enabled: false
-    slugify:
-      mode: 'ascii'
-      cased: true
-
 # This site uses the pretty permalink structure, this renders all urls with a slash / at the end and 
 # no file endings, I guess that is considered pretty :)
 permalink: pretty
-
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title | :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail: 
-    before: 3
-    after: 3
 
 # Custom vars
 version:             1.1.0

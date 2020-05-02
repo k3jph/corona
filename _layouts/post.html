@@ -15,7 +15,7 @@ layout: default
       Tag{% if page.tags.size > 1 %}s{% endif %}:
       {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name | slugify }}"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+        <a href="/tag#{{ tag_name | slugify }}"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
       {% endfor %}
     {% endif %}
   </span>
