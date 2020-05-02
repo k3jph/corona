@@ -15,9 +15,6 @@
   <link rel="icon" href="{{ '/assets/images/jhoward-greenglow-192x192.jpeg' | absolute_url }}" sizes="192x192" />
   <link rel="apple-touch-icon" href="{{ '/assets/images/jhoward-greenglow-300x300.jpeg' | absolute_url }}" />
 
-  {% include twittercards.html %}
-  {% include og.html %}
-
   <title>
     {% if page.title == null %}
       {{ site.title }} | {{ site.tagline }}
@@ -47,4 +44,5 @@
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}" />
 
+  {% seo %}
 </head>

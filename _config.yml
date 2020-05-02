@@ -12,6 +12,24 @@ author:
   url:               'https://jameshoward.us'
   email:             'jh@jameshoward.us'
 
+twitter:
+  username: k3jph
+  card: summary
+
+facebook:
+  app_id: 364480777048278
+
+logo: /assets/images/jhoward-greenglow.jpg
+
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/k3jph
+    - https://www.facebook.com/k3jph
+    - https://www.linkedin.com/in/k3jph
+    - https://github.com/k3jph
+    - https://keybase.io/howardjp
+
 # Gems
 plugins:
   - jekyll-redirect-from
