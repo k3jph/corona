@@ -23,11 +23,12 @@ plugins:
 exclude: 
   - .gitignore
   - .jekyll-cache
+  - _bibliography
   - deploy
   - Gemfile
   - Gemfile.lock
-  - Rakefile
   - "Main Website.code-workspace"
+  - Rakefile
 
 # Pagination
 autopages:
