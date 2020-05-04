@@ -5,6 +5,8 @@ permalink: /tag
 description: The topics on JamesHoward.us
 sitemap:
   exclude:      yes
+redirect_from:
+  - /tags
 ---
 
 <div class="page">
