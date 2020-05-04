@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3979
 permalink: /2016/04/22/notes-variscite-dart-mx6-gpio-interface/
 dsq_thread_id:
   - "4762052093"
-featured-image: VAR-DVK-DT6_Evaluation_Kit.jpg
+image: VAR-DVK-DT6_Evaluation_Kit.jpg
 categories:
   - Blog
 tags:

@@ -14,7 +14,7 @@ dsq_thread_id:
   - "2262929804"
 bpxl_layout:
   - left
-featured-image: tumblr_maknpsqHTA1rejfwpo1_1280.png
+image: tumblr_maknpsqHTA1rejfwpo1_1280.png
 categories:
   - Blog
 tags:

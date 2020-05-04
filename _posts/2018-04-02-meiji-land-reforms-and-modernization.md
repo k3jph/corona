@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6280
 permalink: /2018/04/02/meiji-land-reforms-and-modernization/
-featured-image: meiji-land-reforms-and-modernization-in-japan.jpg
+image: meiji-land-reforms-and-modernization-in-japan.jpg
 categories:
   - Blog
 tags:

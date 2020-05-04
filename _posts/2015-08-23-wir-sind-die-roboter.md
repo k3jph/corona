@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4057325576"
 instant_articles_submission_id:
   - "1235468696566534"
-featured-image: Robocop.jpg
+image: Robocop.jpg
 categories:
   - Blog
 tags:

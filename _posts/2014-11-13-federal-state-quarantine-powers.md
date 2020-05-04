@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1606
 permalink: /2014/11/13/federal-state-quarantine-powers/
-featured-image: 5322817686_0c670bdaa6_z.jpg
+image: 5322817686_0c670bdaa6_z.jpg
 dsq_thread_id:
   - "3219081630"
 categories:

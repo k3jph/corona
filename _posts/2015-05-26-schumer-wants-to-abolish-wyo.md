@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2131
 permalink: /2015/05/26/schumer-wants-to-abolish-wyo/
 dsq_thread_id:
   - "3796071699"
-featured-image: schumer.png
+image: schumer.png
 categories:
   - Blog
 tags:

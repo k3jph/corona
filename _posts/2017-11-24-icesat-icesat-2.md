@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5699
 permalink: /2017/11/24/icesat-icesat-2/
-featured-image: icesat2-hqprint.jpg
+image: icesat2-hqprint.jpg
 categories:
   - Blog
 tags:

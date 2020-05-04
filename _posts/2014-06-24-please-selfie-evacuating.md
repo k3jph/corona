@@ -13,7 +13,7 @@ categories:
 tags:
   - disaster management
   - social media
-featured-image: earthquake-run-for-cover-before-facebook.jpg
+image: earthquake-run-for-cover-before-facebook.jpg
 ---
 
 I've done this before:

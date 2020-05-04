@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2802
 permalink: /2015/09/14/planning-for-martian-polity-now-on-youtube/
 dsq_thread_id:
   - "4126501368"
-featured-image: mars-talk-cover.png
+image: mars-talk-cover.png
 categories:
   - Blog
 tags:

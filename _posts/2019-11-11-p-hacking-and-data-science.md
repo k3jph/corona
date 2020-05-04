@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7171
 permalink: /2019/11/11/p-hacking-and-data-science/
-featured-image: p-hacking-and-data-science.jpg
+image: p-hacking-and-data-science.jpg
 categories:
   - Blog
 tags:

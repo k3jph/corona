@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7255
 permalink: /2020/02/11/charter-review-commission-public-hearing/
-featured-image: charter-review-commission-public-hearing.png
+image: charter-review-commission-public-hearing.png
 categories:
   - Blog
 tags:

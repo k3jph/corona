@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5431
 permalink: /2017/08/28/comments-moon-treaty/
-featured-image: comments-moon-treaty.jpg
+image: comments-moon-treaty.jpg
 categories:
   - Blog
 tags:

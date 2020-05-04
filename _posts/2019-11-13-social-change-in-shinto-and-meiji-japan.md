@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7177
 permalink: /2019/11/13/social-change-in-shinto-and-meiji-japan/
-featured-image: social-change-in-shinto-and-meiji-japan.jpg
+image: social-change-in-shinto-and-meiji-japan.jpg
 categories:
   - Blog
 tags:

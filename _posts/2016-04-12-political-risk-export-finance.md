@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3966
 permalink: /2016/04/12/political-risk-export-finance/
 dsq_thread_id:
   - "4742052025"
-featured-image: boeing-plant.jpg
+image: boeing-plant.jpg
 categories:
   - Blog
 tags:

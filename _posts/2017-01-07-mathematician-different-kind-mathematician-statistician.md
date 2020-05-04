@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4691
 permalink: /2017/01/07/mathematician-different-kind-mathematician-statistician/
 dsq_thread_id:
   - "5444014491"
-featured-image: mathematician-different-kind-mathematician-statistician.jpg
+image: mathematician-different-kind-mathematician-statistician.jpg
 categories:
   - Blog
 tags:

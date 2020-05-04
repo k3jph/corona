@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4327
 permalink: /2016/07/28/tax-incremental-financing-downtown-columbia/
 dsq_thread_id:
   - "5022750216"
-featured-image: tax-incremental-financing-and-downtown-columbia.jpg
+image: tax-incremental-financing-and-downtown-columbia.jpg
 categories:
   - Blog
 tags:

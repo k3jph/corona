@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4917661012"
 instant_articles_submission_id:
   - "605125346339405"
-featured-image: buddhist-meditation-modern-science.jpg
+image: buddhist-meditation-modern-science.jpg
 categories:
   - Blog
 tags:

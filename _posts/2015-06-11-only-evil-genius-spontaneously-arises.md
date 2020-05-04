@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2175
 permalink: /2015/06/11/only-evil-genius-spontaneously-arises/
 dsq_thread_id:
   - "3841456388"
-featured-image: o-GOODWILLHUNTING-facebook.jpg
+image: o-GOODWILLHUNTING-facebook.jpg
 categories:
   - Blog
 tags:

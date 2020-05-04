@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3600
 permalink: /2016/01/07/talking-smack/
 dsq_thread_id:
   - "4469473634"
-featured-image: smack-study.png
+image: smack-study.png
 categories:
   - Blog
 tags:

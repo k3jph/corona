@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "1778211042498628"
-featured-image: unshaved-yaks.png
+image: unshaved-yaks.png
 categories:
   - Blog
 tags:

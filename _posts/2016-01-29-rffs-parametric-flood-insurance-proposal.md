@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3720
 permalink: /2016/01/29/rffs-parametric-flood-insurance-proposal/
 dsq_thread_id:
   - "4533607009"
-featured-image: sf-earthquake.png
+image: sf-earthquake.png
 categories:
   - Blog
 tags:

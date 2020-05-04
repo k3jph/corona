@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3798
 permalink: /2016/02/10/code-coverage-counterexamples/
 dsq_thread_id:
   - "4569179037"
-featured-image: 8445190520_6830cb2c1e_k.jpg
+image: 8445190520_6830cb2c1e_k.jpg
 categories:
   - Blog
 tags:

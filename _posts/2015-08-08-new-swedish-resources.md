@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=2389
 permalink: /2015/08/08/new-swedish-resources/
-featured-image: svmeatballs.png
+image: svmeatballs.png
 categories:
   - Blog
 tags:

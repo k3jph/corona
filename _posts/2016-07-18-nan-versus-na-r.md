@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "204056390074161"
-featured-image: divid-by-zero.jpg
+image: divid-by-zero.jpg
 categories:
   - Blog
 tags:

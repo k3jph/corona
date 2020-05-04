@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7113
 permalink: /2019/09/24/blockchain-basics-for-program-managers/
-featured-image: blockchain-basics-for-program-managers.jpg
+image: blockchain-basics-for-program-managers.jpg
 categories:
   - News
 tags:

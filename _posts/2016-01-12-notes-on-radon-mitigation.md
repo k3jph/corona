@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4485758148"
 instant_articles_submission_id:
   - "690595747803159"
-featured-image: radonkits.png
+image: radonkits.png
 categories:
   - Blog
 tags:

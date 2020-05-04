@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4103
 permalink: /2016/05/29/flood-insurance-profits-maybe-not/
 dsq_thread_id:
   - "4867600013"
-featured-image: budgeting.png
+image: budgeting.png
 categories:
   - Blog
 tags:

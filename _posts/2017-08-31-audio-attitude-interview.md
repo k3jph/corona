@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5442
 permalink: /2017/08/31/audio-attitude-interview/
-featured-image: audio-attitude-interview.jpg
+image: audio-attitude-interview.jpg
 categories:
   - News
 tags:

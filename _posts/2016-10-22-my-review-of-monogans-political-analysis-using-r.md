@@ -12,7 +12,7 @@ instant_articles_submission_id:
   - "1777233292528611"
 dsq_thread_id:
   - "5246070967"
-featured-image: my-review-of-monogans-political-analysis-using-r.jpg
+image: my-review-of-monogans-political-analysis-using-r.jpg
 categories:
   - Blog
 tags:

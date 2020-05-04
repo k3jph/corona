@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4110
 permalink: /2016/06/01/cell-phones-still-dont-cause-cancer/
 dsq_thread_id:
   - "4874706820"
-featured-image: cell-hands.png
+image: cell-hands.png
 categories:
   - Blog
 tags:

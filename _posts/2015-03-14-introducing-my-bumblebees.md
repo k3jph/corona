@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1929
 permalink: /2015/03/14/introducing-my-bumblebees/
 dsq_thread_id:
   - "3595225297"
-featured-image: Bumblebees.png
+image: Bumblebees.png
 categories:
   - Blog
 tags:

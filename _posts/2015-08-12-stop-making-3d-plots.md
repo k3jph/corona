@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2407
 permalink: /2015/08/12/stop-making-3d-plots/
 dsq_thread_id:
   - "4025721114"
-featured-image: XKCD-Self-Description.png
+image: XKCD-Self-Description.png
 categories:
   - Blog
 tags:

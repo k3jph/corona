@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5392
 permalink: /2017/08/23/no-maryland-flag-not-racist-roots/
-featured-image: no-the-maryland-flag-does-not-have-racist-roots.jpg
+image: no-the-maryland-flag-does-not-have-racist-roots.jpg
 categories:
   - Blog
 tags:

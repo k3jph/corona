@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1890
 permalink: /2015/03/03/an-individual-mandate-for-flood-insurance/
 dsq_thread_id:
   - "3565317774"
-featured-image: nzflood.png
+image: nzflood.png
 categories:
   - Blog
 tags:

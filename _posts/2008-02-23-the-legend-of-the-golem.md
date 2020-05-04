@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3189
 permalink: /2008/02/23/the-legend-of-the-golem/
 dsq_thread_id:
   - "4473964448"
-featured-image: legend-golem.jpg
+image: legend-golem.jpg
 categories:
   - Blog
 tags:

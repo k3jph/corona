@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3691
 permalink: /2016/01/19/an-inconvenient-poop/
 dsq_thread_id:
   - "4506223376"
-featured-image: hogfarm.png
+image: hogfarm.png
 categories:
   - Blog
 tags:

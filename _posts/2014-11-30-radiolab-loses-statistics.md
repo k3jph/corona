@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1673
 permalink: /2014/11/30/radiolab-loses-statistics/
-featured-image: coinflip.png
+image: coinflip.png
 dsq_thread_id:
   - "3277316953"
 categories:

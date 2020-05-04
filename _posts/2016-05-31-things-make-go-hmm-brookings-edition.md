@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "981512278651245"
-featured-image: correlation.png
+image: correlation.png
 categories:
   - Blog
 tags:

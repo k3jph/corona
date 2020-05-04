@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4247
 permalink: /2016/07/03/runaway-trolley-never-coming-back/
 dsq_thread_id:
   - "4957433829"
-featured-image: trolly-problem.jpg
+image: trolly-problem.jpg
 categories:
   - Blog
 tags:

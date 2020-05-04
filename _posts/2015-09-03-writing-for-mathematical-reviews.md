@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2689
 permalink: /2015/09/03/writing-for-mathematical-reviews/
 dsq_thread_id:
   - "4088978408"
-featured-image: mr-titlepage.png
+image: mr-titlepage.png
 categories:
   - Blog
 tags:

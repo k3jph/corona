@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1672
 permalink: /2015/03/05/ashamed-die-won-victory-humanity/
 dsq_thread_id:
   - "3571500389"
-featured-image: AnitochHall.png
+image: AnitochHall.png
 categories:
   - Blog
 tags:

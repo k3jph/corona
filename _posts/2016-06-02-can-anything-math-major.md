@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4122
 permalink: /2016/06/02/can-anything-math-major/
 dsq_thread_id:
   - "4877645429"
-featured-image: graduation-995042_1280.jpg
+image: graduation-995042_1280.jpg
 categories:
   - Blog
 tags:

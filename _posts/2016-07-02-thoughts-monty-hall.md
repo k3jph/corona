@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4242
 permalink: /2016/07/02/thoughts-monty-hall/
 dsq_thread_id:
   - "4955381871"
-featured-image: 800px-Monty_open_door.svg_.png
+image: 800px-Monty_open_door.svg_.png
 categories:
   - Blog
 tags:

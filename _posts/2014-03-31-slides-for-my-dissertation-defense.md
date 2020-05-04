@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3807
 permalink: /2014/03/31/slides-for-my-dissertation-defense/
 dsq_thread_id:
   - "4575006082"
-featured-image: NFIP-dissertation-defense-slides-cover.png
+image: NFIP-dissertation-defense-slides-cover.png
 categories:
   - Blog
 tags:

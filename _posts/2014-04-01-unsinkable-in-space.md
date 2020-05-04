@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://www.jameshoward.us/?p=976
 permalink: /2014/04/01/unsinkable-in-space/
-featured-image: Gemini31.jpg
+image: Gemini31.jpg
 dsq_thread_id:
   - "2578927941"
 categories:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1466
 permalink: /2014/10/27/water-century/
-featured-image: calif-drought.jpg
+image: calif-drought.jpg
 dsq_thread_id:
   - "3163088706"
 categories:

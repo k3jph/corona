@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2253
 permalink: /2015/06/29/beware-of-zombie-agencies/
 dsq_thread_id:
   - "3890757148"
-featured-image: 8057582620_f159b2cf6a_k.jpg
+image: 8057582620_f159b2cf6a_k.jpg
 categories:
   - Blog
 tags:

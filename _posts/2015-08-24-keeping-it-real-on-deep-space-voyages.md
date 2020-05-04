@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2600
 permalink: /2015/08/24/keeping-it-real-on-deep-space-voyages/
 dsq_thread_id:
   - "4060671900"
-featured-image: Preparing_an_EEG_recording_node_full_image_2.jpg
+image: Preparing_an_EEG_recording_node_full_image_2.jpg
 categories:
   - Blog
 tags:

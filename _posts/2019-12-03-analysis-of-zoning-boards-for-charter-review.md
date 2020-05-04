@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7196
 permalink: /2019/12/03/analysis-of-zoning-boards-for-charter-review/
-featured-image: analysis-of-zoning-boards-for-charter-review.png
+image: analysis-of-zoning-boards-for-charter-review.png
 categories:
   - Blog
 tags:

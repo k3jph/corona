@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "255070978307187"
 dsq_thread_id:
   - "5906436836"
-featured-image: computational-methods-numerical-analysis-now-cover.png
+image: computational-methods-numerical-analysis-now-cover.png
 categories:
   - News
 tags:

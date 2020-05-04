@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5128
 permalink: /2017/07/03/notes-wastewater-treatment/
 dsq_thread_id:
   - "5956429584"
-featured-image: notes-wastewater-treatment.jpg
+image: notes-wastewater-treatment.jpg
 categories:
   - Blog
 tags:

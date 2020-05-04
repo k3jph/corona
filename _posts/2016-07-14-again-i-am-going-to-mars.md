@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4302
 permalink: /2016/07/14/again-i-am-going-to-mars/
 dsq_thread_id:
   - "4986600311"
-featured-image: marssocietyposter_wlogo.jpg
+image: marssocietyposter_wlogo.jpg
 categories:
   - Blog
 tags:

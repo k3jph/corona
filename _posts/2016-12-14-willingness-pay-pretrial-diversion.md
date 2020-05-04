@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "190514601412149"
 dsq_thread_id:
   - "5379831302"
-featured-image: willingness-pay-pretrial-diversion.jpg
+image: willingness-pay-pretrial-diversion.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6516
 permalink: /2018/11/05/second-thoughts-on-the-blockchain-revolution/
-featured-image: second-thoughts-on-the-blockchain-revolution.png
+image: second-thoughts-on-the-blockchain-revolution.png
 categories:
   - News
 tags:

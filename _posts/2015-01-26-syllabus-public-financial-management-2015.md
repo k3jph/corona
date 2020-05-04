@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1758
 permalink: /2015/01/26/syllabus-public-financial-management-2015/
-featured-image: 7143277339_119f20d696_z.jpg
+image: 7143277339_119f20d696_z.jpg
 dsq_thread_id:
   - "3457928219"
 categories:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4620
 permalink: /2016/12/13/is-sewing-engineering/
 dsq_thread_id:
   - "5376118191"
-featured-image: is-sewing-engineering.jpg
+image: is-sewing-engineering.jpg
 categories:
   - Blog
 tags:

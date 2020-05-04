@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3762
 permalink: /2016/02/02/epa-course-for-local-governments-on-climate-change/
 dsq_thread_id:
   - "4545472960"
-featured-image: lakehume-4percent.png
+image: lakehume-4percent.png
 categories:
   - Blog
 tags:

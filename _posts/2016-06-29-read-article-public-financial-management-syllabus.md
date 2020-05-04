@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4238
 permalink: /2016/06/29/read-article-public-financial-management-syllabus/
 dsq_thread_id:
   - "4947640037"
-featured-image: read-article-public-financial-management-syllabus.jpg
+image: read-article-public-financial-management-syllabus.jpg
 categories:
   - News
 tags:

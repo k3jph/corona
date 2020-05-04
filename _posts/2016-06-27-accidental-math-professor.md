@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4224
 permalink: /2016/06/27/accidental-math-professor/
 dsq_thread_id:
   - "4940213132"
-featured-image: accidental-math-professor.jpg
+image: accidental-math-professor.jpg
 categories:
   - Blog
 tags:

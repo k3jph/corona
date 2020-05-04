@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "298498370602960"
 dsq_thread_id:
   - "5877715723"
-featured-image: presidential-tax-returns-and-filing-requirements.jpg
+image: presidential-tax-returns-and-filing-requirements.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "1503071699752227"
 dsq_thread_id:
   - "5912816071"
-featured-image: model-thinking-when-all-models-are-wrong.jpg
+image: model-thinking-when-all-models-are-wrong.jpg
 categories:
   - Blog
 tags:

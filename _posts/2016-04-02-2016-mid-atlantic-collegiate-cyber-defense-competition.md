@@ -14,7 +14,7 @@ geo_public:
   - "1"
 dsq_thread_id:
   - "4715507051"
-featured-image: red-team-rocks.jpg
+image: red-team-rocks.jpg
 categories:
   - Blog
 tags:

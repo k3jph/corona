@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4364733000"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: datacommunity-dc.png
+image: datacommunity-dc.png
 categories:
   - Blog
 tags:

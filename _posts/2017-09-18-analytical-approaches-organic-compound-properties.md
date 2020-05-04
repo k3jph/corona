@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5554
 permalink: /2017/09/18/analytical-approaches-organic-compound-properties/
-featured-image: analytical-approaches-estimating-organic-compound-properties.jpg
+image: analytical-approaches-estimating-organic-compound-properties.jpg
 categories:
   - Blog
 tags:

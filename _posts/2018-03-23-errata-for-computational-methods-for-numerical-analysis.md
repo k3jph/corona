@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6244
 permalink: /2018/03/23/errata-for-computational-methods-for-numerical-analysis/
-featured-image: errata-for-computational-methods-for-numerical-analysis.jpg
+image: errata-for-computational-methods-for-numerical-analysis.jpg
 categories:
   - Blog
 tags:

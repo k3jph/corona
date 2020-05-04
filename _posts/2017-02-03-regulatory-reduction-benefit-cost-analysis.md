@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4727
 permalink: /2017/02/03/regulatory-reduction-benefit-cost-analysis/
 dsq_thread_id:
   - "5520022896"
-featured-image: regulatory-reduction-benefit-cost-analysis.jpg
+image: regulatory-reduction-benefit-cost-analysis.jpg
 categories:
   - Blog
 tags:

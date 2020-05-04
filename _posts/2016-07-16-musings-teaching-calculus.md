@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4316
 permalink: /2016/07/16/musings-teaching-calculus/
 dsq_thread_id:
   - "4991436071"
-featured-image: musings-on-teaching-calculus-again.jpg
+image: musings-on-teaching-calculus-again.jpg
 categories:
   - Blog
 tags:

@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "388313441561547"
-featured-image: 4036266347_9862579d68_b.jpg
+image: 4036266347_9862579d68_b.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7299
 permalink: /2020/02/25/the-handbook-for-military-and-defense-operations-research-has-been-published/
-featured-image: the-handbook-for-military-and-defense-operations-research-has-been-published.jpg
+image: the-handbook-for-military-and-defense-operations-research-has-been-published.jpg
 categories:
   - News
 tags:

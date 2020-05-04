@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2259
 permalink: /2015/07/01/georgia-neese-clark-for-the-20/
 dsq_thread_id:
   - "3896377757"
-featured-image: Georgia_Neese_Clark_cph.3f05813.jpg
+image: Georgia_Neese_Clark_cph.3f05813.jpg
 categories:
   - Blog
 tags:

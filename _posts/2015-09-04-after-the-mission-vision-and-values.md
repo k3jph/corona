@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2725
 permalink: /2015/09/04/after-the-mission-vision-and-values/
 dsq_thread_id:
   - "4095001537"
-featured-image: goal.png
+image: goal.png
 categories:
   - Blog
 tags:

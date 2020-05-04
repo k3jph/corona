@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "648451722027091"
 dsq_thread_id:
   - "5555321140"
-featured-image: frozen-1187920_1280.jpg
+image: frozen-1187920_1280.jpg
 categories:
   - Blog
 tags:

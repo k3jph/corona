@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "196407977430608"
 dsq_thread_id:
   - "5382635806"
-featured-image: blockchains-explained.jpg
+image: blockchains-explained.jpg
 categories:
   - Blog
 tags:

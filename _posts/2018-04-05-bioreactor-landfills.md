@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6288
 permalink: /2018/04/05/bioreactor-landfills/
-featured-image: bioreactor-landfills.jpg
+image: bioreactor-landfills.jpg
 categories:
   - Blog
 tags:

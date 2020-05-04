@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6764
 permalink: /2019/01/21/blockchain-applications-for-distributed-data/
-featured-image: blockchain-applications-for-distributed-data-imx.jpg
+image: blockchain-applications-for-distributed-data-imx.jpg
 categories:
   - News
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2822
 permalink: /2015/06/02/reforming-the-nfip/
 dsq_thread_id:
   - "4127021546"
-featured-image: flood-cover.png
+image: flood-cover.png
 categories:
   - Blog
 tags:

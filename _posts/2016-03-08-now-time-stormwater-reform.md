@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3875
 permalink: /2016/03/08/now-time-stormwater-reform/
 dsq_thread_id:
   - "4645896445"
-featured-image: 361667885_8e2da8fa96_b.jpg
+image: 361667885_8e2da8fa96_b.jpg
 categories:
   - Blog
 tags:

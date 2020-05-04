@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7085
 permalink: /2019/09/07/monte-carlo-simulation-advantages-and-disadvantages/
-featured-image: ahh-monte-carlo.jpg
+image: ahh-monte-carlo.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "235330783611074"
 dsq_thread_id:
   - "5787295530"
-featured-image: new-court-decision-flood-insurance.jpg
+image: new-court-decision-flood-insurance.jpg
 categories:
   - Blog
 tags:

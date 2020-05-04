@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "1786745951638198"
 dsq_thread_id:
   - "5808982227"
-featured-image: bumblebees-back-theyre-bad.jpg
+image: bumblebees-back-theyre-bad.jpg
 categories:
   - News
 tags:

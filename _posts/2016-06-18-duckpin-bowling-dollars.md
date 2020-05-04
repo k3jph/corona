@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4168
 permalink: /2016/06/18/duckpin-bowling-dollars/
 dsq_thread_id:
   - "4920009045"
-featured-image: bowling-duckpin-dollars.jpg
+image: bowling-duckpin-dollars.jpg
 categories:
   - Blog
 tags:

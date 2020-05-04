@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3894
 permalink: /2016/03/12/observation-central-bank-coordination/
 dsq_thread_id:
   - "4657794717"
-featured-image: 1024px-BIZ_Basel.jpg
+image: 1024px-BIZ_Basel.jpg
 categories:
   - Blog
 tags:

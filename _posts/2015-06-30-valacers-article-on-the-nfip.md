@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2257
 permalink: /2015/06/30/valacers-article-on-the-nfip/
 dsq_thread_id:
   - "3893849072"
-featured-image: 2594326010_71c309e890_o.jpg
+image: 2594326010_71c309e890_o.jpg
 categories:
   - Blog
 tags:

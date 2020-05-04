@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5192
 permalink: /2017/07/12/comments-on-rpn/
 dsq_thread_id:
   - "5984890517"
-featured-image: comments-on-rpn.jpg
+image: comments-on-rpn.jpg
 categories:
   - Blog
 tags:

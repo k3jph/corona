@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6413
 permalink: /2018/08/07/identity-and-trust-in-healthcare-it/
-featured-image: hospital-1822457_1920.jpg
+image: hospital-1822457_1920.jpg
 categories:
   - News
 tags:

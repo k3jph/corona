@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5845
 permalink: /2017/12/11/the-return-of-the-gedi/
-featured-image: the-return-of-the-gedi.jpg
+image: the-return-of-the-gedi.jpg
 categories:
   - Blog
 tags:

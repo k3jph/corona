@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7186
 permalink: /2019/11/20/creating-a-two-phase-clock-almost/
-featured-image: creating-a-two-phase-clock-almost.jpg
+image: creating-a-two-phase-clock-almost.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=3752
 permalink: /2016/01/24/my-robot-or-announcing-dc-closings/
-featured-image: snowcapitol.png
+image: snowcapitol.png
 categories:
   - Blog
 tags:

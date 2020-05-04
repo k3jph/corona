@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7336
 permalink: /2020/03/27/confucianism-in-the-time-of-coronavirus/
-featured-image: confucianism-in-the-time-of-coronavirus.jpg
+image: confucianism-in-the-time-of-coronavirus.jpg
 categories:
   - Blog
 tags:

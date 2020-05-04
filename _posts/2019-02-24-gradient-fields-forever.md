@@ -7,7 +7,7 @@ layout: post
 guid: http://jameshoward.us/?p=6858
 permalink: /2019/02/24/gradient-fields-forever/
 
-featured-image: gradient-fields-forever.jpg
+image: gradient-fields-forever.jpg
 categories:
   - Blog
 tags:

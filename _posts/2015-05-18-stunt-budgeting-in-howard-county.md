@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2121
 permalink: /2015/05/18/stunt-budgeting-in-howard-county/
 dsq_thread_id:
   - "3775262597"
-featured-image: budgeting.png
+image: budgeting.png
 categories:
   - Blog
 tags:

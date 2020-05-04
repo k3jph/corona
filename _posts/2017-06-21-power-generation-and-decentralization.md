@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5927031286"
 instant_articles_submission_id:
   - "1045985422198238"
-featured-image: power-generation-and-decentralization.jpg
+image: power-generation-and-decentralization.jpg
 categories:
   - Blog
 tags:

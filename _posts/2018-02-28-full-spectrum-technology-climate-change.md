@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6195
 permalink: /2018/02/28/full-spectrum-technology-climate-change/
-featured-image: full-spectrum-technology.jpg
+image: full-spectrum-technology.jpg
 categories:
   - Blog
 tags:

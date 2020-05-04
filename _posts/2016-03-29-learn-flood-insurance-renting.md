@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3914
 permalink: /2016/03/29/learn-flood-insurance-renting/
 dsq_thread_id:
   - "4703776656"
-featured-image: flooded-homes.jpg
+image: flooded-homes.jpg
 categories:
   - Blog
 tags:

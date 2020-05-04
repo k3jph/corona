@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5342
 permalink: /2017/08/11/effects-rising-temperatures/
-featured-image: effects-rising-temperatures.jpg
+image: effects-rising-temperatures.jpg
 categories:
   - Blog
 tags:

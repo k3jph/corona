@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2141
 permalink: /2015/05/29/jeg-har-besejret-det-danske-dygtighed-trae/
 dsq_thread_id:
   - "3805632759"
-featured-image: danish-conquer1.png
+image: danish-conquer1.png
 categories:
   - Blog
 tags:

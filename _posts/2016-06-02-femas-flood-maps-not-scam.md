@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4141
 permalink: /2016/06/02/femas-flood-maps-not-scam/
 dsq_thread_id:
   - "4879503934"
-featured-image: anchorman.jpg
+image: anchorman.jpg
 categories:
   - Blog
 tags:

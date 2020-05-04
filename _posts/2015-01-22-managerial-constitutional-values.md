@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1730
 permalink: /2015/01/22/managerial-constitutional-values/
 dsq_thread_id:
   - "3447183070"
-featured-image: 4249886990_107e92c466_b.jpg
+image: 4249886990_107e92c466_b.jpg
 categories:
   - Blog
 tags:

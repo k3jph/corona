@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2298
 permalink: /2015/07/21/flood-insurance-and-climate-change/
 dsq_thread_id:
   - "3954535747"
-featured-image: 177378324_1ec42a417a_o.jpg
+image: 177378324_1ec42a417a_o.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4353
 permalink: /2016/07/29/learn-prepare-tsunami/
 dsq_thread_id:
   - "5025558234"
-featured-image: learn-prepare-tsunami-1.jpg
+image: learn-prepare-tsunami-1.jpg
 categories:
   - News
 tags:

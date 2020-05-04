@@ -9,7 +9,7 @@ permalink: /2017/07/24/india-adds-solar-trains/
 
 dsq_thread_id:
   - "6012709967"
-featured-image: india-adds-solar-trains.jpg
+image: india-adds-solar-trains.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4375005790"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: Flock_of_pigeons_Regents_Park_-_geograph.org_.uk_-_1370466.jpg
+image: Flock_of_pigeons_Regents_Park_-_geograph.org_.uk_-_1370466.jpg
 categories:
   - Blog
 tags:

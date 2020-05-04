@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6347
 permalink: /2018/06/12/wireless-market-consolidation-and-the-last-mile/
-featured-image: wireless-market-consolidation-and-the-last-mile.jpg
+image: wireless-market-consolidation-and-the-last-mile.jpg
 categories:
   - Blog
 tags:

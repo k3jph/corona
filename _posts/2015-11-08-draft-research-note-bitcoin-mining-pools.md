@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3183
 permalink: /2015/11/08/draft-research-note-bitcoin-mining-pools/
 dsq_thread_id:
   - "4301025698"
-featured-image: 9484489496_b6a28de91d_z.jpg
+image: 9484489496_b6a28de91d_z.jpg
 categories:
   - Blog
 tags:

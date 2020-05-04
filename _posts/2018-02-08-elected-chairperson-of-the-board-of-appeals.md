@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6130
 permalink: /2018/02/08/elected-chairperson-of-the-board-of-appeals/
-featured-image: elected-chairperson-of-the-board-of-appeals.jpg
+image: elected-chairperson-of-the-board-of-appeals.jpg
 categories:
   - News
 tags:

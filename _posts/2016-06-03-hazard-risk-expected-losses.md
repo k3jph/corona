@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4134
 permalink: /2016/06/03/hazard-risk-expected-losses/
 dsq_thread_id:
   - "4880575973"
-featured-image: roulette.png
+image: roulette.png
 categories:
   - Blog
 tags:

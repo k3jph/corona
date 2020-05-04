@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5211
 permalink: /2017/07/21/ensuring-water-security/
 dsq_thread_id:
   - "6004632258"
-featured-image: ensuring-water-security.jpg
+image: ensuring-water-security.jpg
 categories:
   - Blog
 tags:

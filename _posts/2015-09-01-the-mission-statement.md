@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2644
 permalink: /2015/09/01/the-mission-statement/
 dsq_thread_id:
   - "4073803672"
-featured-image: missionstatment.png
+image: missionstatment.png
 categories:
   - Blog
 tags:

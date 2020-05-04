@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6526
 permalink: /2018/11/11/parallelized-implementation-of-bootci-for-dcchoice/
-featured-image: parallelized-implementation-of-bootci-for-dcchoice.jpg
+image: parallelized-implementation-of-bootci-for-dcchoice.jpg
 categories:
   - Blog
 tags:

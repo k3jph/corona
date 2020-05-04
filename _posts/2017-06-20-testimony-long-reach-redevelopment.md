@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5925180687"
 instant_articles_submission_id:
   - "229973897511787"
-featured-image: testimony-long-reach-redevelopment.jpg
+image: testimony-long-reach-redevelopment.jpg
 categories:
   - Blog
 tags:

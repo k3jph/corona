@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6903
 permalink: /2019/04/02/piedmont-hydrogeology/
-featured-image: fields-837660_1280.jpg
+image: fields-837660_1280.jpg
 categories:
   - Blog
 tags:

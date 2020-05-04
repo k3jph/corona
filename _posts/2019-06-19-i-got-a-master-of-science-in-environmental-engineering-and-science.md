@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6987
 permalink: /2019/06/19/i-got-a-master-of-science-in-environmental-engineering-and-science/
-featured-image: JHU-MS-EES-diploma-blog.png
+image: JHU-MS-EES-diploma-blog.png
 categories:
   - Blog
 tags:

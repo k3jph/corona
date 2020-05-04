@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4390
 permalink: /2016/08/17/public-economics-and-gps/
 dsq_thread_id:
   - "5074213317"
-featured-image: public-economics-and-gps.jpg
+image: public-economics-and-gps.jpg
 categories:
   - Blog
 tags:

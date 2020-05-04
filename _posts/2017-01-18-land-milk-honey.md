@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "925551367579001"
 dsq_thread_id:
   - "5474636454"
-featured-image: land-milk-honey.jpg
+image: land-milk-honey.jpg
 categories:
   - Blog
 tags:

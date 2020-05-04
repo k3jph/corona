@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5632
 permalink: /2017/10/28/bald-eagles-bioaccumulation/
-featured-image: bald-eagles-bioaccumulation.jpg
+image: bald-eagles-bioaccumulation.jpg
 categories:
   - Blog
 tags:

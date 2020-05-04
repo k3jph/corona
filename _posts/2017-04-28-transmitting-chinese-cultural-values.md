@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "642027185983127"
 dsq_thread_id:
   - "5767340601"
-featured-image: transmitting-chinese-cultural-values.jpg
+image: transmitting-chinese-cultural-values.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3172
 permalink: /2015/11/02/my-candidacy-for-umucs-academic-advisory-board/
 dsq_thread_id:
   - "4284260347"
-featured-image: umuc-img.jpg
+image: umuc-img.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3650910441"
 instant_articles_submission_id:
   - "434225463618268"
-featured-image: oldgaspump.png
+image: oldgaspump.png
 categories:
   - Blog
 tags:

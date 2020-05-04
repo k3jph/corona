@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3336
 permalink: /2015/12/12/how-we-externalize-other-life-risks/
 dsq_thread_id:
   - "4396532455"
-featured-image: car-accident.png
+image: car-accident.png
 categories:
   - Blog
 tags:

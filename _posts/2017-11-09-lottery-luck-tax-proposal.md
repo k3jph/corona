@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5656
 permalink: /2017/11/09/lottery-luck-tax-proposal/
-featured-image: lottery-luck.jpg
+image: lottery-luck.jpg
 categories:
   - Blog
 tags:

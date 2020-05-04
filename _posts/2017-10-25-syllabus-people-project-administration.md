@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5626
 permalink: /2017/10/25/syllabus-people-project-administration/
-featured-image: syllabus-people-project-administration.jpg
+image: syllabus-people-project-administration.jpg
 categories:
   - Blog
 tags:

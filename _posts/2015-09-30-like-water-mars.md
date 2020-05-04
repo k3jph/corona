@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2605
 permalink: /2015/09/30/like-water-mars/
 dsq_thread_id:
   - "4207268516"
-featured-image: marswaterstreaks.jpg
+image: marswaterstreaks.jpg
 categories:
   - Blog
 tags:

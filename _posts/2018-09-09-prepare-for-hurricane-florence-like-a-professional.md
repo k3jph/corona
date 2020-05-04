@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6457
 permalink: /2018/09/09/prepare-for-hurricane-florence-like-a-professional/
-featured-image: prepare-for-hurricane-florence-like-a-professional.jpg
+image: prepare-for-hurricane-florence-like-a-professional.jpg
 categories:
   - Blog
 tags:

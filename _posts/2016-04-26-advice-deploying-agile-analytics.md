@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4779317280"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: facelesshead.jpg
+image: facelesshead.jpg
 categories:
   - Blog
 tags:

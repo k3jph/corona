@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6009
 permalink: /2018/01/24/data-search-theory/
-featured-image: data-search-theory.jpg
+image: data-search-theory.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3168
 permalink: /2015/11/06/decision-relative-risk/
 dsq_thread_id:
   - "4295364762"
-featured-image: 640px-Female_Emperor_Scorpion.jpg
+image: 640px-Female_Emperor_Scorpion.jpg
 categories:
   - Blog
 tags:

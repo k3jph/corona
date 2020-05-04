@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6396
 permalink: /2018/07/30/forecasting-artificial-earth-satellite-populations/
-featured-image: forecasting-artificial-earth-satellite-populations.jpg
+image: forecasting-artificial-earth-satellite-populations.jpg
 categories:
   - News
 tags:

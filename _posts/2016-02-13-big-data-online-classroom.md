@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "1405680322823352"
-featured-image: Big-Data-in-the-Online-Classroom.png
+image: Big-Data-in-the-Online-Classroom.png
 categories:
   - Blog
 tags:

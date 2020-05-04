@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3162
 permalink: /2015/10/28/richard-henry-lee-was-not-dr-strangelove/
 dsq_thread_id:
   - "4265781259"
-featured-image: strangelove.jpg
+image: strangelove.jpg
 categories:
   - Blog
 tags:

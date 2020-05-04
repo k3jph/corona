@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5900
 permalink: /2017/12/30/new-way-teaching-math/
-featured-image: new-way-teaching-math.jpg
+image: new-way-teaching-math.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7069
 permalink: /2019/08/21/jomon-and-yayoi-culture/
-featured-image: jomon-and-yayoi-culture.jpg
+image: jomon-and-yayoi-culture.jpg
 categories:
   - Blog
 tags:

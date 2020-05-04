@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2169
 permalink: /2015/07/31/gulf-professional-mathematicians-mathematics-students/
 dsq_thread_id:
   - "3984707585"
-featured-image: mathed.png
+image: mathed.png
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3620940706"
 instant_articles_submission_id:
   - "1833795843524439"
-featured-image: 15327728653_41aa769dd7_z.jpg
+image: 15327728653_41aa769dd7_z.jpg
 categories:
   - Blog
 tags:

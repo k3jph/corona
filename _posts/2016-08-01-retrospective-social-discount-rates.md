@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4357
 permalink: /2016/08/01/retrospective-social-discount-rates/
 dsq_thread_id:
   - "5031637074"
-featured-image: retrospective-social-discount-rates.jpg
+image: retrospective-social-discount-rates.jpg
 categories:
   - Blog
 tags:

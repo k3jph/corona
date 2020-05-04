@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3832
 permalink: /2016/02/16/sleep-with-one-eye-open/
 dsq_thread_id:
   - "4585787889"
-featured-image: irc-screenshot.png
+image: irc-screenshot.png
 categories:
   - Blog
 tags:

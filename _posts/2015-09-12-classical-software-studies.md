@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4121453330"
 instant_articles_submission_id:
   - "189113971551371"
-featured-image: MacPaint_2.0_screenshot.png
+image: MacPaint_2.0_screenshot.png
 categories:
   - Blog
 tags:

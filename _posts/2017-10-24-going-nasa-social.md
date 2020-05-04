@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5623
 permalink: /2017/10/24/going-nasa-social/
-featured-image: going-nasa-social.jpg
+image: going-nasa-social.jpg
 categories:
   - Blog
 tags:

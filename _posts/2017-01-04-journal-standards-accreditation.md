@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4681
 permalink: /2017/01/04/journal-standards-accreditation/
 dsq_thread_id:
   - "5433347050"
-featured-image: journal-standards-accreditation.jpg
+image: journal-standards-accreditation.jpg
 categories:
   - Blog
 tags:

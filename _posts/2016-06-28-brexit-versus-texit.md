@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4198
 permalink: /2016/06/28/brexit-versus-texit/
 dsq_thread_id:
   - "4944851273"
-featured-image: battle-stirling-bridge.jpg
+image: battle-stirling-bridge.jpg
 categories:
   - Blog
 tags:

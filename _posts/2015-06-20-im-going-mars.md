@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2214
 permalink: /2015/06/20/im-going-mars/
 dsq_thread_id:
   - "3863307354"
-featured-image: marscolony.png
+image: marscolony.png
 categories:
   - Blog
 tags:

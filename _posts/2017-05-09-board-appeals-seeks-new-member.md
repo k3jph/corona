@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "132673277279592"
 dsq_thread_id:
   - "5804003788"
-featured-image: banneker-room.jpg
+image: banneker-room.jpg
 categories:
   - Blog
 tags:

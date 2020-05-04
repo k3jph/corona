@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3320
 permalink: /2015/12/10/dont-cancel-for-flood-insurance-due-to-mitigation/
 dsq_thread_id:
   - "4391965874"
-featured-image: missourifloods.png
+image: missourifloods.png
 categories:
   - Blog
 tags:

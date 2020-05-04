@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4602853888"
 ampforwp_custom_content_editor_checkbox:
   - ""
-featured-image: newyorker-dandy.png
+image: newyorker-dandy.png
 categories:
   - Blog
 tags:

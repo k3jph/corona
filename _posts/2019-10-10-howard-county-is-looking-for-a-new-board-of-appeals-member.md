@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7147
 permalink: /2019/10/10/howard-county-is-looking-for-a-new-board-of-appeals-member/
-featured-image: howard-county-is-looking-for-a-new-board-of-appeals-member.jpg
+image: howard-county-is-looking-for-a-new-board-of-appeals-member.jpg
 categories:
   - Blog
 tags:

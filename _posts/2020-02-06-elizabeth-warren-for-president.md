@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7261
 permalink: /2020/02/06/elizabeth-warren-for-president/
-featured-image: warren-plan-for-that.png
+image: warren-plan-for-that.png
 categories:
   - Blog
 tags:

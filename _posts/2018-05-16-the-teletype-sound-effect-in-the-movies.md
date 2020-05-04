@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6318
 permalink: /2018/05/16/the-teletype-sound-effect-in-the-movies/
-featured-image: the-teletype-sound-effect-in-the-movies.png
+image: the-teletype-sound-effect-in-the-movies.png
 categories:
   - Blog
 tags:

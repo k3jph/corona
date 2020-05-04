@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4159655700"
 instant_articles_submission_id:
   - "1185409314880633"
-featured-image: Unix_history-simple.svg_.png
+image: Unix_history-simple.svg_.png
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "252994585111363"
 dsq_thread_id:
   - "5626673257"
-featured-image: gelmans-candy-weighing-demonstration.jpg
+image: gelmans-candy-weighing-demonstration.jpg
 categories:
   - Blog
 tags:

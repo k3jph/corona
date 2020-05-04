@@ -12,7 +12,7 @@ onesignal_meta_box_present:
   - "1"
 onesignal_send_notification:
   - ""
-featured-image: vision.png
+image: vision.png
 categories:
   - Blog
 tags:

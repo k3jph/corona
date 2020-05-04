@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4260
 permalink: /2016/07/20/not-teaching-calculus/
 dsq_thread_id:
   - "4999744138"
-featured-image: sextant-triangles.jpg
+image: sextant-triangles.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "1634921046536379"
 dsq_thread_id:
   - "5751099530"
-featured-image: nerd-nite-baltimore.jpg
+image: nerd-nite-baltimore.jpg
 categories:
   - News
 tags:

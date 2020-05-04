@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6864
 permalink: /2019/03/02/context-of-japanese-syncretism/
-featured-image: o-torii-3970153_1280.jpg
+image: o-torii-3970153_1280.jpg
 categories:
   - Blog
 tags:

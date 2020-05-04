@@ -5,7 +5,7 @@ date: 2017-09-06T13:02:26-04:00
 author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5467
-featured-image: irma-not-category-6.jpg
+image: irma-not-category-6.jpg
 permalink: /2017/09/06/irma-not-category-6/
 categories:
   - Blog

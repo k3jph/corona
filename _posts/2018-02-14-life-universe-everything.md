@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6163
 permalink: /2018/02/14/life-universe-everything/
-featured-image: life-universe-everything.jpg
+image: life-universe-everything.jpg
 categories:
   - Blog
 tags:

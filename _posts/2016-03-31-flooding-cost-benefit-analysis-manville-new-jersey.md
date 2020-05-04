@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3920
 permalink: /2016/03/31/flooding-cost-benefit-analysis-manville-new-jersey/
 dsq_thread_id:
   - "4708230287"
-featured-image: raritan-flooding.png
+image: raritan-flooding.png
 categories:
   - Blog
 tags:

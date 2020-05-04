@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1604
 permalink: /2014/11/12/water-life-water-business/
-featured-image: 5622947662_ea0812b3d6_z.jpg
+image: 5622947662_ea0812b3d6_z.jpg
 dsq_thread_id:
   - "3219045551"
 categories:

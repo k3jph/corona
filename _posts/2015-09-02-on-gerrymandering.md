@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2684
 permalink: /2015/09/02/on-gerrymandering/
 dsq_thread_id:
   - "4088972883"
-featured-image: henderson-residence.png
+image: henderson-residence.png
 categories:
   - Blog
 tags:

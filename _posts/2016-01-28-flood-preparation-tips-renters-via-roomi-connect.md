@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3821
 permalink: /2016/01/28/flood-preparation-tips-renters-via-roomi-connect/
 dsq_thread_id:
   - "4594367622"
-featured-image: room-6flood.jpg
+image: room-6flood.jpg
 categories:
   - Blog
 tags:

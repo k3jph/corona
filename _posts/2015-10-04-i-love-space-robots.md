@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2936
 permalink: /2015/10/04/i-love-space-robots/
 dsq_thread_id:
   - "4193779774"
-featured-image: the-martian-600x450.jpg
+image: the-martian-600x450.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2216
 permalink: /2015/06/21/im-going-to-mathfest/
 dsq_thread_id:
   - "3866794654"
-featured-image: mathfest2015banner.gif
+image: mathfest2015banner.gif
 categories:
   - Blog
 tags:

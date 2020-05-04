@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5132
 permalink: /2017/07/05/structure-space-corps/
 dsq_thread_id:
   - "5965513658"
-featured-image: structure-space-corps.jpg
+image: structure-space-corps.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2911
 permalink: /2015/09/29/voting-ice-cream-and-the-classroom/
 dsq_thread_id:
   - "4178173855"
-featured-image: ballotboxes.png
+image: ballotboxes.png
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4844
 permalink: /2017/04/05/nerd-nite-baltimore/
 dsq_thread_id:
   - "5699816086"
-featured-image: nerd-nite-baltimore.jpg
+image: nerd-nite-baltimore.jpg
 categories:
   - Blog
 tags:

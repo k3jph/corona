@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4233
 permalink: /2016/07/01/someone-will-win-probably-wont/
 dsq_thread_id:
   - "4953002025"
-featured-image: someone-will-win-and-it-probably-wont-be-you.jpg
+image: someone-will-win-and-it-probably-wont-be-you.jpg
 categories:
   - News
 tags:

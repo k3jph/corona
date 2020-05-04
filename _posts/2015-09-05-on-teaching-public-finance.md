@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2730
 permalink: /2015/09/05/on-teaching-public-finance/
 dsq_thread_id:
   - "4095019589"
-featured-image: ubalt.jpg
+image: ubalt.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4160
 permalink: /2016/06/10/howard-county-schools-sick/
 dsq_thread_id:
   - "4900754910"
-featured-image: hcpss-cover.png
+image: hcpss-cover.png
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2154
 permalink: /2015/06/02/better-extra-credit/
 dsq_thread_id:
   - "3816340543"
-featured-image: businessmath.png
+image: businessmath.png
 categories:
   - Blog
 tags:

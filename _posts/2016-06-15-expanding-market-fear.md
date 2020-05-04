@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4176
 permalink: /2016/06/15/expanding-market-fear/
 dsq_thread_id:
   - "4912122930"
-featured-image: pillbottles-840x400.png
+image: pillbottles-840x400.png
 categories:
   - Blog
 tags:

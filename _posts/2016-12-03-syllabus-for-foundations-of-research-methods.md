@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "556017014589407"
 dsq_thread_id:
   - "5352375767"
-featured-image: syllabus-for-foundations-of-research-methods.jpg
+image: syllabus-for-foundations-of-research-methods.jpg
 categories:
   - Blog
 tags:

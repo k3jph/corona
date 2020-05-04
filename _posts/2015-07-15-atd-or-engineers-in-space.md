@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2279
 permalink: /2015/07/15/atd-or-engineers-in-space/
 dsq_thread_id:
   - "3938461841"
-featured-image: 20150715_210628.jpg
+image: 20150715_210628.jpg
 categories:
   - Blog
 tags:

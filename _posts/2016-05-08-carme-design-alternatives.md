@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4070
 permalink: /2016/05/08/carme-design-alternatives/
 dsq_thread_id:
   - "4811750318"
-featured-image: Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg
+image: Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg
 categories:
   - Blog
 tags:

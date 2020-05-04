@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "839963229474956"
 dsq_thread_id:
   - "5607789117"
-featured-image: syllabus-intermediate-algebra.jpg
+image: syllabus-intermediate-algebra.jpg
 categories:
   - Blog
 tags:

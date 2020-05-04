@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6893
 permalink: /2019/03/12/groundwater-recharge-in-old-cemeteries/
-featured-image: groundwater-recharge-in-old-cemeteries.jpg
+image: groundwater-recharge-in-old-cemeteries.jpg
 categories:
   - Blog
 tags:

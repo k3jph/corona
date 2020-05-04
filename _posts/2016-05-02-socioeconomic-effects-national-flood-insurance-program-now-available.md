@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4006
 permalink: /2016/05/02/socioeconomic-effects-national-flood-insurance-program-now-available/
 dsq_thread_id:
   - "4795304727"
-featured-image: se-nfip-announce-banner.png
+image: se-nfip-announce-banner.png
 categories:
   - News
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7314
 permalink: /2020/03/02/proposed-charter-review-recommendations/
-featured-image: charter-review-commission-public-hearing.png
+image: charter-review-commission-public-hearing.png
 categories:
   - Blog
 tags:

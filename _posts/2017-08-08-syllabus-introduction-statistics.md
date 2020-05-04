@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5326
 permalink: /2017/08/08/syllabus-introduction-statistics/
-featured-image: syllabus-introduction-statistics.jpg
+image: syllabus-introduction-statistics.jpg
 categories:
   - Blog
 tags:

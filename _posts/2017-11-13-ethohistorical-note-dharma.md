@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5665
 permalink: /2017/11/13/ethohistorical-note-dharma/
-featured-image: ethohistorical-note-dharma.jpg
+image: ethohistorical-note-dharma.jpg
 categories:
   - Blog
 tags:

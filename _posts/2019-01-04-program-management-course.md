@@ -7,7 +7,7 @@ layout: post
 guid: http://jameshoward.us/?p=6716
 permalink: /2019/01/04/program-management-course/
 
-featured-image: program-management-course.jpg
+image: program-management-course.jpg
 categories:
   - Blog
 tags:

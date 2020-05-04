@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3608
 permalink: /2016/01/11/iceland-on-mars/
 dsq_thread_id:
   - "4482598820"
-featured-image: terraforming-mars.png
+image: terraforming-mars.png
 categories:
   - Blog
 tags:

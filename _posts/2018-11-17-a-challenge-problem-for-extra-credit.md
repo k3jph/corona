@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6552
 permalink: /2018/11/17/a-challenge-problem-for-extra-credit/
-featured-image: a-challenge-problem-for-extra-credit.jpg
+image: a-challenge-problem-for-extra-credit.jpg
 categories:
   - Blog
 tags:

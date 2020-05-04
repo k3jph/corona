@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "1672832446349415"
 dsq_thread_id:
   - "5142495634"
-featured-image: these-people-are-not-qualified-to-give-opinions.jpg
+image: these-people-are-not-qualified-to-give-opinions.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4074
 permalink: /2016/05/23/its-on-the-syllabus/
 dsq_thread_id:
   - "4852489120"
-featured-image: syllabus.png
+image: syllabus.png
 categories:
   - Blog
 tags:

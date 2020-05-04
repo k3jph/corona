@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3503
 permalink: /2015/12/27/phonics-is-now-on-cran/
 dsq_thread_id:
   - "4439241541"
-featured-image: anotheryak.png
+image: anotheryak.png
 categories:
   - Blog
 tags:

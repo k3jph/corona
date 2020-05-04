@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6945
 permalink: /2019/05/07/social-security-policysplainer/
-featured-image: social-security-policysplainer.jpg
+image: social-security-policysplainer.jpg
 categories:
   - Blog
 tags:

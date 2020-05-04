@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6500
 permalink: /2018/10/29/freshwater-risks-from-algae-blooms/
-featured-image: freshwater-risks-from-algae-blooms.jpg
+image: freshwater-risks-from-algae-blooms.jpg
 categories:
   - Blog
 tags:

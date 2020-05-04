@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4115
 permalink: /2016/06/08/critical-information-acquisition/
 dsq_thread_id:
   - "4895258977"
-featured-image: 4124425733_f143f51284_b.jpg
+image: 4124425733_f143f51284_b.jpg
 categories:
   - Blog
 tags:

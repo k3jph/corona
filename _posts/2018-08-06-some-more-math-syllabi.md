@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6409
 permalink: /2018/08/06/some-more-math-syllabi/
-featured-image: some-more-math-syllabi.jpg
+image: some-more-math-syllabi.jpg
 categories:
   - Blog
 tags:
