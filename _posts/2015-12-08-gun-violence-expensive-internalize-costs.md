@@ -26,7 +26,7 @@ Over the weekend, I [estimated the economic costs of (only) the deaths attribute
 
 Because nobody associated with the transaction bears more than a _de minimis_ amount of the cost associated with an externality, that costs does not factor into the utility estimation made when purchasing a product.  That's one reason why we impose special taxes on things, to force the original parties to a transaction to pay for, or internalize the costs.  In other words, we want people to stop and think, "Is it really worth spending this much on this thing when I see the full cost?"
 
-The obviously solution here is to tax something, but the obvious answer isn't guns, but rather ammunition.  Guns are not perishable.  They can be reused many times, over many lifetimes.  Ammunition cannot, generally.  You get one shot per round, as it were.  So let's tax that.  The first blush approach to taxation is to impose the full cost of the externality on the entire market.  I can't find the amount of ammunition sold in the United States, but I do know there's about [12 billion rounds](https://www.oxfam.org/en/pressroom/pressreleases/2012-05-30/ammunition-trade-tops-4-billion-yet-little-regulation-control-and) produced each year, worldwide.  So let's just assume these all come to the United States.[1.  This has the effect of lowering the estimated tax.]
+The obviously solution here is to tax something, but the obvious answer isn't guns, but rather ammunition.  Guns are not perishable.  They can be reused many times, over many lifetimes.  Ammunition cannot, generally.  You get one shot per round, as it were.  So let's tax that.  The first blush approach to taxation is to impose the full cost of the externality on the entire market.  I can't find the amount of ammunition sold in the United States, but I do know there's about [12 billion rounds](https://www.oxfam.org/en/pressroom/pressreleases/2012-05-30/ammunition-trade-tops-4-billion-yet-little-regulation-control-and) produced each year, worldwide.  So let's just assume these all come to the United States.[^lower]
 
 There's already, in the United States, [an 11 percent tax on ammunition collected by the ATF](http://www.forbes.com/sites/danielfisher/2013/04/09/the-bullet-bubble-is-ammo-the-next-bitcoin-or-gold-in-the-1970s/).  That is not much at all, though it is greater than sales tax.  Dividing $111 billion by 12 billion leads to an even $9.25 per round.  
 
@@ -37,5 +37,7 @@ As high as this number is, several analytical decisions here push this number do
 Of course, this is hardly an original idea.  
 
 {% include youtube.html id="OuX-nFmL0II" %}
+
+[^lower]: This has the effect of lowering the estimated tax.
 
 _Image by [U.S. Army Environmental Command / Flickr](https://www.flickr.com/photos/armyenvironmental/3552296540)._

@@ -23,7 +23,7 @@ tags:
 ---
 On May 3rd, this article ran in the [Hamilton Journal-News](http://www.journal-news.com/news/news/local-govt-politics/hamilton-fights-federal-government-on-flood-hazard/nrGfR/).
 
-Long and short is, local business owner Mike Day was quoted as saying, "It just seems to be one more government-intrusive cost that I would have to end up paying because someone deems it necessary, that has probably never stepped foot on this street."{% fn %} 
+Long and short is, local business owner Mike Day was quoted as saying, "It just seems to be one more government-intrusive cost that I would have to end up paying because someone deems it necessary, that has probably never stepped foot on this street."[^disclosure]
 
 The quote bothered me enough, that I posted it on Facebook leading to some commentary.  
 
@@ -37,10 +37,7 @@ Well, it escalated quickly, and here's a photo from this afternoon, three blocks
    cap="It's four feet of water in some places (Butler County Sheriff's Office)"
    alt="It's four feet of water in some places (Butler County Sheriff's Office)" %}
 
-{% footnotes %}
-  {% fnbody %}
-    Full disclosure: I spent some years in Hamilton, Ohio, and am pretty sure Mike Day was a member of my high school class.
-   {% endfnbody %}
-{% endfootnotes %}
+[^disclosure]: Full disclosure: I spent some years in Hamilton, Ohio, and am 
+pretty sure Mike Day was a member of my high school class.
 
 _Image stolen from_ Anchorman.

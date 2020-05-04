@@ -36,7 +36,7 @@ despite the fact one is a local community college, on is a major
 state university, and one is an Ivy League school.  Now, obviously,
 each offers different programs and has different reputations.  And
 that's okay, too.  In practice, this mostly means that your calculus
-class will[1. Probably.] transfer from school to school and you
+class will, probably, transfer from school to school and you
 won't have to take it again if you transfer.  But that's beside the
 point.
 

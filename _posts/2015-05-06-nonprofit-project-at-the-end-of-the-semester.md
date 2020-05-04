@@ -37,8 +37,10 @@ If this is accurate, it does need the help.  So we decided to wait on the result
 
 {% include figure.html image="baltimore-riot-photo.jpg" alt="Where does one find a gas mask in Baltimore, anyway? (Algerina Perna / The Baltimore Sun)" cap="Where does one find a gas mask in Baltimore, anyway? (Algerina Perna / The Baltimore Sun)" %}
 
-Without addressing the underlying social, political, and economic issues here,[1.  Which are important and the reasons I originally specified the nonprofit had to benefit Baltimore.] the events of the end of April completely disrupted the semester and the project.  We lost a week of class.  I do not expect the city was processing this sort of routine applications during this period, either.  
+Without addressing the underlying social, political, and economic issues here,[^benefit] the events of the end of April completely disrupted the semester and the project.  We lost a week of class.  I do not expect the city was processing this sort of routine applications during this period, either.  
 
 Last night was the last class session and we still have not heard from the city.  I asked who was interested in continuing the project.  There was a tepid response, generally, but 2-3 students wanted to carry on.  And that's fantastic.  We are going to keep waiting on the city and plan to have a meetup for the 3-4 of us in late May or early June.  Hopefully, we will have gotten our greenspace adoption in order by then and we can start planning a fundraiser.  
 
 For my own part, the critical lesson I learned is about organizing the project in the classroom.  Student feedback leaned heavily in the direction of picking the project for them (or a short-list).  I really wanted to avoid this because I did not want to place the students into service of my vision, but instead their own.  But that may be unavoidable.  We wasted the first several weeks just trying to figure out what to do and that burnt us overall.  So if I teach this class again, we will have a short-list or possibly a predetermined project.
+
+[^benefit]: Which are important and the reasons I originally specified the nonprofit had to benefit Baltimore.

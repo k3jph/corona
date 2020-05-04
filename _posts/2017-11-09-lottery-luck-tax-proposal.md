@@ -33,14 +33,10 @@ entities.  Under [the proposed
 change](https://www.bloomberg.com/view/articles/2017-09-28/the-trump-tax-reform-s-pass-through-boondoggle),
 pass-through income would only be taxed at 25%, regardless of
 bracket.  So our lottery winner pays $39.6 million in taxes, unless
-the winner pays $100 to start an LLC,{% fn %}
+the winner pays $100 to start an LLC,[^fees]
 then the tax bill is only $25 million.  A small $100
 dollar investment yields an immediate return of $14.6 million.
 
 That's one lucky lottery winner.
 
-{% footnotes %}
-  {% fnbody %}
-    Fees vary depending on state...
-   {% endfnbody %}
-{% endfootnotes %}
+[^fees]: Fees vary depending on state...

@@ -20,11 +20,11 @@ tags:
   - public financial management
   - statistics
 ---
-This morning, I watched an episode of [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) from last November.[1. I am no longer sure what verb tense this is.] [2. I was really bored on the treadmill.]  This episode, investigating state lotteries, explained how lotteries are sold to the public by showing how they fund schools.  It's long, but watch it if you haven't:
+This morning, I watched an episode of [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) from last November.[^tense] [^treadmill]  This episode, investigating state lotteries, explained how lotteries are sold to the public by showing how they fund schools.  It's long, but watch it if you haven't:
 
 {% include youtube.html id="9PK-netuhHA" %}
 
-But we live in Maryland, and we cannot be so altruistic.  Last term, in [Public Administration and Public Finance](/teaching/public-affairs), I asked my students where the money from the Maryland Lottery went.  After paying winners, that is.  All responded to pay for education.  I told them it went to the [Maryland Stadium Authority](http://www.mdstad.com/).  To looks of shock, I said, "It's printed right on the ticket but at least you're not buying them."  They all reached into their bags and wallets and looked.[3. It seems it is no longer printed there.]
+But we live in Maryland, and we cannot be so altruistic.  Last term, in [Public Administration and Public Finance](/teaching/public-affairs), I asked my students where the money from the Maryland Lottery went.  After paying winners, that is.  All responded to pay for education.  I told them it went to the [Maryland Stadium Authority](http://www.mdstad.com/).  To looks of shock, I said, "It's printed right on the ticket but at least you're not buying them."  They all reached into their bags and wallets and looked.[^gone]
 
 But that's not all.  Let's look at where the money goes.  After paying winners, that is.
 
@@ -40,3 +40,7 @@ How will lines 2 and 3 change this?  The Maryland Veterans Trust Fund is an agen
 Finally, a paltry $20 million will pay for new school construction in Baltimore.  Not operating costs.  Not teachers.  And not supplies.  Construction.  Money that goes to wealthy and education professionals, not into education itself.  Not that Baltimore doesn't need school construction.  But so does the rest of the state.
 
 That's not on the priority list, even after we underwrite major league sports for another $20 million.
+
+[^tense]: I am no longer sure what verb tense this is.
+[^treadmill]: I was really bored on the treadmill.
+[^gone]: It seems it is no longer printed there.

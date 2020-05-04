@@ -20,7 +20,7 @@ tags:
 ---
 I'm a bit behind the curve, but there's a a coming change to the
 Mega Millions interstate lottery game.  Of course, as a statistics
-nerd,{% fn %} [I've
+nerd,[^statsgram] [I've
 talked about the lottery before](/tag/lottery/).  So when I got
 this on my Facebook page, I was all into it:
 
@@ -72,8 +72,4 @@ Now, it turns out whether or not this is better is up to your own
 outlook.  But, as it is, [your chances of winning are still about
 the same as the snowball](/2016/07/01/someone-will-win-probably-wont/).
 
-{% footnotes %}
-  {% fnbody %}
-    If stats were a drug, I'd sell it by the gram.
-   {% endfnbody %}
-{% endfootnotes %}
+[^statsgram]: If stats were a drug, I'd sell it by the gram.

@@ -159,7 +159,7 @@ Senate, just the opposite of the analysis in the case of the House
 of Representatives.
 
 This all takes us to the election of the President and 
-Vice-President.{% fn %}  Any states organizing a presidential
+Vice-President.[^vptitle] Any states organizing a presidential
 election and holding a meeting of electors would presumably publish
 results. Electors' meetings for each state are held within the state
 and the results forwarded to Congress. The official count happens
@@ -219,9 +219,5 @@ incorrect torture
 memos](http://www.nytimes.com/ref/international/24MEMO-GUIDE.html).  So
 now I am questioning my logic.
 
-{% footnotes %}
-  {% fnbody %}
-As an aside, the title of the "Vice-President" actually has a hyphen in
+[^vptitle]: As an aside, the title of the "Vice-President" actually has a hyphen in
 it. Get it right, people.
-   {% endfnbody %}
-{% endfootnotes %}

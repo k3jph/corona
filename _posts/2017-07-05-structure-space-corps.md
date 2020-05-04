@@ -73,8 +73,7 @@ I understand where they are coming from, I disagree, is that the
 parallel isn't there yet.  It's actually worth asking why the Army,
 Navy, Marine Corps, and Air Force are distinct from each other.  It
 doesn't have to do with where they operate.  It has to do with how
-they operate.[1.  Which is somewhat dictated by where, but work
-with me here.]
+they operate.[^where]
 
 There's an old joke about how an army and a navy are different: How
 do you get 6000 sailors to turn left?  Turn the wheel.  It underlies
@@ -99,3 +98,5 @@ Until the model of space flight moves forward, and I hope it does,
 the idea of a space navy will stay on the pages of space opera.
 But when the Defense Department goes to space, the Air Force model
 is probably the best, for now.
+
+[^where]: Which is somewhat dictated by where, but work with me here.

@@ -38,7 +38,7 @@ authorities](http://ohioportauthorities.com/)), does not mean it
 is not the right answer, here.  TIFs are very good at connecting
 the costs of capital-intensive public works with the principal
 beneficiaries of those works.  All of this goes back to basic
-economic theory.  Government is very good[1. Work with me here.]
+economic theory.  Government is very good
 at providing public goods, those goods that where everyone benefits
 regardless of how others use the service.  At the local level, the
 classic example is public safety through policing.  And those are

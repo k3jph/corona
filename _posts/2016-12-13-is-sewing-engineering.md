@@ -31,11 +31,7 @@ And I responded, "It is."  But that's only half the story.  As I
 post on a lot of different subjects, I usually like to make sure
 at least one of the tags for each post is a top-level subject and
 for a list, I like to use Wikipedia [Outline of Academic
-Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines).[1.
-As an aside, someone "cleaned up" the article recently, and it is
-not as good as it used to be.  The best revision before that seems
-to be [this
-one](https://en.wikipedia.org/w/index.php?title=Outline_of_academic_disciplines&oldid=741325045).]
+Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines).[^edits]
 So I figured that sewing would somehow or another fall under materials
 science or mechanical engineering.  I bring all this up because it
 highlights an important point.  Wikipedia generally reflects concensus
@@ -114,6 +110,11 @@ of basic crafting skills is really something we should be teaching
 as part of the core STEM/STEAM curriculum.  Especially because they
 provide critical thinking skills necessary to support later engineering
 and design development.
+
+[^edits]: As an aside, someone "cleaned up" the article recently, and it is
+not as good as it used to be.  The best revision before that seems
+to be [this
+one](https://en.wikipedia.org/w/index.php?title=Outline_of_academic_disciplines&oldid=741325045).
 
 _Image by [Counselling /
 Pixabay](https://pixabay.com/en/sewing-machine-foot-yarn-sew-1375795/)._

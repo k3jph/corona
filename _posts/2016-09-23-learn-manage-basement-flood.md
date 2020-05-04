@@ -25,9 +25,7 @@ writes in the _U.S. News and World Report_ about how to manage a
 basement flood and in this article, I talk about insurance, and how
 your basement can flood after a fire.  Head over to [_U.S. News_
 to read
-more](http://money.usnews.com/money/personal-finance/articles/2016-09-23/help-my-basement-is-flooded).[1.
-Why does _U.S. News_ return 403 to some browsers, blocking embedded
-links?]
+more](http://money.usnews.com/money/personal-finance/articles/2016-09-23/help-my-basement-is-flooded).
 
 Also, Geoff wrote a book on the [great flood of
 1913](https://en.wikipedia.org/wiki/Great_Flood_of_1913), which

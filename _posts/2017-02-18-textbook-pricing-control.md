@@ -68,18 +68,20 @@ verified it yet.
 
 Now, that's pretty blunt and it's important to understand that,
 like most subjects, public finance had not changed substantially
-enough to warrant not using the older textbook.[1.  There's a
-credible argument about public finance and health care, but that
-is also still in flux.]  I am not sure what the publisher, and for
+enough to warrant not using the older textbook.[^text] I am not
+sure what the publisher, and for
 that matter, the University, thinks of this strategy, but cutting
 nearly 90% off the price a textbook can be the make-or-break price
 for a student.  Especially since that is $300 dollars off in a class
-that cost only $2,377 to attend.[2.  Tuition and fees for three MPA
-credits in 2015-2016]
+that cost only $2,377 to attend.[^costs]
 
 The kicker, of course, is that I said this again the first night
 of class.  Most students, not noticing the email, had gone ahead
 and paid full freight.
+
+[^textbook]:  There's a credible argument about public finance and health
+care, but that is also still in flux.
+[^costs]: Tuition and fees for three MPA credits in 2015-2016
 
 _Image by [wohnai /
 Flickr](https://www.flickr.com/photos/13511355@N06/1375685165)._

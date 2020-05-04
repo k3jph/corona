@@ -111,7 +111,7 @@ have an incredible safety
 record](http://bigthink.com/ideafeed/googles-self-driving-car-is-ridiculously-safe),
 it may come to pass that a driverless car is forced into no-win
 situation and risk its own occupants or the occupants of another
-car.{% fn %}
+car.[^khan]
 It is important to recognize there is no correct answer to the
 trolley problem.  It is a thought experiment designed to elicit
 critical thinking.  If you encounter it in the real world, the
@@ -119,11 +119,7 @@ correct result is whatever you can live with.  However, seeing it
 come up in other contexts show where subtle variants can create
 interesting solutions that are distinct from each other.
 
-{% footnotes %}
-  {% fnbody %}
-    Also, yes, _Star Trek II_ again.
-   {% endfnbody %}
-{% endfootnotes %}
+[^khan]: Also, yes, _Star Trek II_ again.
 
 _Image by [Mike Knell / Wikimedia
 Commons](https://commons.wikimedia.org/wiki/File:Mattapan_Trolley_at_Capen_Street.jpg)._

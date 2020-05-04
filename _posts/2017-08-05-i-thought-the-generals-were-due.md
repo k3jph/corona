@@ -58,8 +58,7 @@ to 9 inclusive, and you pick 3 digits.  Let's further state the
 numbers must be in the correct order.  There are [latex]10^3 =
 1000[/latex] possible tickets.  If you play "123" once, your
 probability of winning is the 1 minus the probability of not winning
-[latex]1 - 999/1000 = 0.001[/latex].[1.  Yes, I know that's clumsy,
-but it keeps it simple for the next step.]  If you play the combination
+[latex]1 - 999/1000 = 0.001[/latex].[^clumsy]  If you play the combination
 a second time, your probability for the next draw is still 0.001
 but your probability of winning overall is [latex]1 - (999/1000)^2
 = 0.001999[/latex].  That's not quite 0.002, but close.  As you
@@ -107,3 +106,5 @@ machine-generated random ticket.  Whatever you do, never bet against
 the Harlem Globetrotters:
 
 {% include youtube.html id="s4GAj2v4BIE" %}
+
+[^clumsy]:  Yes, I know that's clumsy, but it keeps it simple for the next step.

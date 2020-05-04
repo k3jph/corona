@@ -16,7 +16,7 @@ tags:
   - mass shootings
   - TakeItDown
 ---
-[John Price writes here](https://medium.com/@thejohnprice/yes-you-re-a-racist-and-a-traitor-6c4bb12c5b63), in the wake of Charleston, that the Confederate flag is a flag of treason and terrorism, not heritage.[1.  Yes, I know it was the battle flag the [Army of Northern Virginia](https://en.wikipedia.org/wiki/Army_of_Northern_Virginia), but most people call it the Confederate flag because they are too stupid to know the difference.  Also, it was the [canton of the second and third national flags](https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America).  It doesn't matter; after all, what's in a name?  That which we call a Confederate flag, by any other name would smell as foul.]  It is no different from the ISIS flag.  It represents the worst of humanity and is only celebrated by those whose morality has failed them.
+[John Price writes here](https://medium.com/@thejohnprice/yes-you-re-a-racist-and-a-traitor-6c4bb12c5b63), in the wake of Charleston, that the Confederate flag is a flag of treason and terrorism, not heritage.[^flagnote]  It is no different from the ISIS flag.  It represents the worst of humanity and is only celebrated by those whose morality has failed them.
 
 Here in Howard County, there was an incident where some students flew a Confederate flag at a football game.  And it was clearly motivated by racism.  Of course, these poor and uneducated students were defended by some real low-lifes, much like we see in South Carolina today.
 
@@ -39,5 +39,7 @@ It shouldn't be that easy to get.  Unlike the Confederate flag wavers, and, fran
 [Walmart took a critical step here, today.](http://www.cnn.com/2015/06/22/politics/confederate-flag-walmart-south-carolina/)  Amazon should now prohibit items with Confederate flags from sale in its marketplace, including stopping third-party merchants from selling them.  Amazon already prohibits, [through a general policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=200277420), products "that promote or glorify hatred, violence, racial, sexual or religious intolerance or promote organizations with such views."  All they have to do is enforce the existing policy.
 
 This won't be the end of it, but decreasing sales will send a strong message about what we, as a society, approve of.
+
+[^flagnote]: Yes, I know it was the battle flag the [Army of Northern Virginia](https://en.wikipedia.org/wiki/Army_of_Northern_Virginia), but most people call it the Confederate flag because they are too stupid to know the difference.  Also, it was the [canton of the second and third national flags](https://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America).  It doesn't matter; after all, what's in a name?  That which we call a Confederate flag, by any other name would smell as foul.
 
 _Image by the [Southern Poverty Law Center](http://www.splcenter.org/)._

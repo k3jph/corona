@@ -38,9 +38,7 @@ that agency rulemaking be required to pass a benefit-cost test.
 That is, do the benefits outweigh the costs.
 
 Now, contrary to popular believe, governmental regulation is not
-meant to keep bureaucrats busy.[1.  Well, it might be at the state
-level.  For instance, Florida requires licensure for interior design.
-This, obviously, serves no useful purpose.]  Every Federal rulemaking
+meant to keep bureaucrats busy.[^florida]  Every Federal rulemaking
 since the 1980s has been shown to provide a greater benefit than
 its cost.  That's why we have rules regulating medication, but not
 herbal supplements.  You can't hurt yourself with them, there's no
@@ -56,6 +54,10 @@ That's an incredible hurdle to overcome.
 
 The Executive Order will not reduce the regulatory burden for anyone,
 just freeze it in place.
+
+[^florida]: Well, it might be at the state level.  For instance,
+Florida requires licensure for interior design. This, obviously,
+serves no useful purpose.
 
 _Image via the [Trump Executive Order
 Generator](http://hepwori.github.io/execorder/)._

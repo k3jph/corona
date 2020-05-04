@@ -68,12 +68,7 @@ at calling it.  You can listen to the full interview from NPR here:
 {% include iframely.html url="https://www.npr.org/player/embed/448980982/448980983" %}
 
 This is probably where this story might have ended.  But last night,
-through some convoluted logic,[1. Okay, for real, Ducky was insisting
-George Washington was an alien.  And I recalled that on [_Alien
-Nation_](https://en.wikipedia.org/wiki/Alien_Nation_(film)), the
-aliens were all named after famous people, so I looked to see if
-there was a George Washington so I could blow her mind.  Then, I
-recalled another show from about the same time...] I recalled a
+through some convoluted logic,[^aliennation] I recalled a
 late 1980s TV show called [_The War of the
 Worlds_](http://horrorfuel.com/2018/02/06/tv-series-review-war-worlds-complete-series/),
 following up on [the 1953 movie of the same
@@ -123,3 +118,10 @@ still an accomplishment.  I am going to guess it can go further
 back.
 
 _Image is the logo of the show._
+
+[^aliennation]: Okay, for real, Ducky was insisting
+George Washington was an alien.  And I recalled that on [_Alien
+Nation_](https://en.wikipedia.org/wiki/Alien_Nation_(film)), the
+aliens were all named after famous people, so I looked to see if
+there was a George Washington so I could blow her mind.  Then, I
+recalled another show from about the same time...

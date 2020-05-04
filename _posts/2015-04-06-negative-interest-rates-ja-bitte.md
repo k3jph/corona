@@ -22,7 +22,7 @@ I don't often talk macro, but when I do, it's on the Internet.  A friend asked m
 
 > Why would someone invest in a negative yielding bond over simply stashing the same money under a mattress?
 
-This was around the time the bund went went negative at the end of February.  See the chart above.  And it's a good question.  Let's start with the counterexample.  And just to simplify things, let's assume zero risk.[1. I also like to use point models for mass, now get off my lawn.]
+This was around the time the bund went went negative at the end of February.  See the chart above.  And it's a good question.  Let's start with the counterexample.  And just to simplify things, let's assume zero risk.[^lawn]
 
 Some bonds trade at a premium compared to their respective return.  This leads to a positive yield _vis-à-vis_ the stated interest rate.  That may be for a few different reasons.  If the interest rate is fixed, and the overall market has declined, then the fixed interest rate is worth more versus the rest of the market and will trade at a premium.  The traded value exceeds the expected return.
 
@@ -31,5 +31,7 @@ In the opposite case, if the yield on the overall market has gone up, then the f
 But why not stuff the money under the mattress, after all?  That's more nuanced.  Why don't people put money under the mattress in normal times?  Banks charge fees to maintain accounts and that is an effectively negative yield.  A few things come into play.  But the most important is you pay for safety.  The government felt safer than the mattress.  A burglar can't break into your house and take your bonds (they are electronically transferred).  But a burglar can take the contents of your house.  This safety is a critical point as the electronic reference is easier to carry and point around than a wheelbarrow full of cash.  Finally, having the money in the system means it is easy to spend when it is needed.  Bonds can be sold quickly and the proceeds dropped into accounts for spending.  
 
 [Forbes](http://www.forbes.com/sites/billgreiner/2015/03/12/nega-coups-and-the-implications-of-negative-interest-rates-on-the-global-economy/2/) has a great discussion of the implications of all this.
+
+[^lawn]: I also like to use point models for mass, now get off my lawn.
 
 _Image by The Financial Times._

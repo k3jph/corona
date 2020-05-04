@@ -31,7 +31,7 @@ We wanted something a touch more tangible.  We wanted to hear Morse code coming 
 
 But a pure CW wave is silent.  The squelch on the receiving radio opens, but there's nothing there, like if you picked up a dead line on a phone.  Modern radio receivers, generally, support [monochannel](https://en.wikipedia.org/wiki/Monaural) [FM](https://en.wikipedia.org/wiki/Frequency_modulation), on 70cm.  And FM radio is really easy.  Let's assume you want to broadcast at [102.7](http://www.webn.com).  That's 102.7MHz or 102,700,000 hertz.  If you want to send the tone 440 Hz, [middle A](https://en.wikipedia.org/wiki/A440_(pitch_standard)), you encode the signal by broadcasting at 102,700,000 + 440 Hz.  It's an analog form of frequency-shift keying.
 
-We can do that too, by changing the frequency of the transmitter.  We broadcast 100mW at 432.330Mhz with a shift of 300Hz (after trying several different options, we decided this sounded good).  The radio is controlled using the [RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead/) library and Morse generated using the [Morse library for Arduino](https://github.com/markfickett/arduinomorse) (which, because it is C++, even though it is designed for running an LED, can be extended to controlling a radio).[1.  Class-based inheritance: good programming practice, bad social policy.]  I have made the code available [via GitHub](https://github.com/howardjp/bronze-olive).  You can hear it in this video.
+We can do that too, by changing the frequency of the transmitter.  We broadcast 100mW at 432.330Mhz with a shift of 300Hz (after trying several different options, we decided this sounded good).  The radio is controlled using the [RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead/) library and Morse generated using the [Morse library for Arduino](https://github.com/markfickett/arduinomorse) (which, because it is C++, even though it is designed for running an LED, can be extended to controlling a radio).[^classes] I have made the code available [via GitHub](https://github.com/howardjp/bronze-olive).  You can hear it in this video.
 
 {% include youtube.html id="gnsdQhnmpgw" %}
 
@@ -42,3 +42,5 @@ Our next steps are to shrink the package.  Using standard Arduino components, we
 In the mean time, I'd like to remind you the space robots are here to protect you from the terrible secret of space:
 
 {% include youtube.html id="3_t2HDFM4nQ" %}
+
+[^classes]: Class-based inheritance: good programming practice, bad social policy.

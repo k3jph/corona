@@ -27,7 +27,7 @@ Like a boss, right as the [DSN](https://eyes.nasa.gov/dsn/dsn.html) showed a dow
 <center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Signal from New Horizons reads, &quot;+++ATD&quot; <a href="https://twitter.com/hashtag/plutoflyby?src=hash">#plutoflyby</a></p>&mdash; James P. Howard, II (@howardjp) <a href="https://twitter.com/howardjp/status/621120656344748033">July 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-In 2001, I worked for a company called Wavix and we were building ground terminals for uplink/downlink communications with a small satellite constellation we operated.[1. The only word in this sentence not an exaggeration is "small."]  It connected to a local PC to provide email services over the spacelink.  This, it turns out, was the coolest job I ever had.
+In 2001, I worked for a company called Wavix and we were building ground terminals for uplink/downlink communications with a small satellite constellation we operated.[^small]  It connected to a local PC to provide email services over the spacelink.  This, it turns out, was the coolest job I ever had.
 
 The terminal, the Stasia 906, was a StrongARM SBC running Linux.  There was a GPS receiver and an RF transmitter and receiver, all jammed inside a Pelican case.  
 
@@ -54,3 +54,5 @@ I was there for just about ten months before we ran out of money and everyone wa
 {% include figure.html image="20150715_202320.jpg" alt="Where does the fibre cable go in?" cap="Where does the fibre cable go in?" %}
 
 The pictures are my old development system.  The hardware should be fully functional.  Believe it or not, I acquired it on Ebay years after we went defunct.  The same one from my desk.
+
+[^small]: The only word in this sentence not an exaggeration is "small."

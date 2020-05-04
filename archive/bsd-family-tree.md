@@ -61,7 +61,7 @@ OpenBSD is also a highly portable operating system. This is mainly the influence
 
 # Apple's MacOS X and Darwin
 
-After leaving Apple Computer in the 1980s, Steve Jobs founded a new computer company, with a new mind set: NeXT.{% fn %}  NeXT's operating system, NeXTStep, was an object-oriented operating system based on Carnegie-Mellon's Mach microkernel architecture, which was in turn based on the 4.2BSD release from the University of California. On top of Mach, NeXT implemented a Unix-like operating system called NeXTStep and replaced MIT's X Windows System with a new graphical interface called Display Postscript. Display Postscript allowed for very fine control of the desktop and graphical environment, however it never caught on outside of NeXT systems.
+After leaving Apple Computer in the 1980s, Steve Jobs founded a new computer company, with a new mind set: NeXT.[^spelling]NeXT's operating system, NeXTStep, was an object-oriented operating system based on Carnegie-Mellon's Mach microkernel architecture, which was in turn based on the 4.2BSD release from the University of California. On top of Mach, NeXT implemented a Unix-like operating system called NeXTStep and replaced MIT's X Windows System with a new graphical interface called Display Postscript. Display Postscript allowed for very fine control of the desktop and graphical environment, however it never caught on outside of NeXT systems.
 
 NeXT eventually quit making hardware and implemented NeXTStep for other operating systems, changing the name to OpenStep. In 1997, after nearly ten years of separation, Apple and NeXT merged giving birth to the new Apple. Apple promised the new operating system would incorporate features and design aspects from NeXTStep. Throughout MacOS versions 8 and 9, minor changes reflecting the new NeXT-based heritage started appearing on the desktop. Apple promised the real goods would lie in MacOS X.
 
@@ -79,8 +79,4 @@ There is a high-powered version targeting the most demanding Internet applicatio
 
 Often decried, BSD's fragmentation has only helped it and its users in the quest for the most stable, portable, secure, or usable operating system available.
 
-{% footnotes %}
-  {% fnbody %}
-    There are many different capitalizations used for NeXT and their operating system NeXTStep, even in NeXT's documentation. The forms here seem to be the most common.
-   {% endfnbody %}
-{% endfootnotes %}
+[^spelling]: There are many different capitalizations used for NeXT and their operating system NeXTStep, even in NeXT's documentation. The forms here seem to be the most common.

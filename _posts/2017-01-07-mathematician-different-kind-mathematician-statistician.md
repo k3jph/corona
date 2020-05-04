@@ -25,8 +25,7 @@ other places, is also on the top of my resume.  And the second
 person had interviewed me.  And he asked me about it.
 
 It's not all that clever.  I stole it from an episode of _The
-Simpsons_.[1.  Also, you should note "Simpsons Quotes" is a skill
-listed on my LinkedIn profile.]  In season 5, in 1994, they aired
+Simpsons_.[^linkedin] In season 5, in 1994, they aired
 "Deep Space Homer."  This is, possibly, the most quoted episode of
 the series.  It's the origin of the famous "I, for one, welcome our
 new insect overlords" quote, which has since snowcloned into an
@@ -50,6 +49,9 @@ a different kind of mathematician and a statistician.
 You can see the clip here.
 
 {% include youtube.html id="c1cpA4M0Hgo" %}
+
+[^linkedin]:  Also, you should note "Simpsons Quotes" is a skill
+listed on my LinkedIn profile.
 
 _Image from 20th Century Fox via
 [Frinkiac](https://frinkiac.com/caption/S05E15/213095)._
