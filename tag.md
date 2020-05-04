@@ -8,12 +8,6 @@ sitemap:
 ---
 
 <div class="page">
-   <div class='tag-cloud'>
-      {% tag_cloud font-size: 50 - 300%, threshold: 10%}
-   </div>
-
-   <h1>All Posts by Tag</h1>
-
    {% comment %} Creates an empty array {% endcomment %}
    {% assign tags = "" | split:"" %}
 
@@ -21,6 +15,24 @@ sitemap:
    {% for t in site.tags %}
       {% assign tags = tags | push: t[0] %}
    {% endfor %}
+
+   {% assign n = tags | size %}
+   {% assign random_tags = tags | sample: n %}
+
+   <div class="tag-cloud">
+   {% for tag in random_tags %}
+      {% capture tagslug %}{{ tag | slugify }}{% endcapture %}
+      {% assign tagsize = site.tags[tag] | size %}
+      {% assign minposts = n | divided_by: 4 %}
+      {% if tagsize > 20 %}
+         <span style="font-size: {{ tagsize | times: 1000 | divided_by: site.tags.size | plus: 100 }}%">
+            <a href="#{{tagslug}}"><nobr>{{tag}}</nobr></a>  
+         </span>
+      {% endif %}
+   {% endfor %}
+   </div>
+
+   <h1>All Posts by Tag</h1>
 
    {% assign sorted_tags = tags | sort_natural %}
 
