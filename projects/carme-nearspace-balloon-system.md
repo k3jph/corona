@@ -5,7 +5,7 @@ date: 2016-04-28T23:26:33-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=4034
-featured-image: nearspace.png
+image: nearspace.png
 redirect_from:
   - /carme
   - /projects/carme

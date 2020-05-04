@@ -5,10 +5,9 @@ date: 2020-04-02T10:10:16-04:00
 author: James Howard
 layout: page
 guid: http://jameshoward.us/?page_id=7357
-featured-image: researchlibrary.png
+image: researchlibrary.png
 menu-order:     10
 menu-label:     Scholarship
-TODO:           Media List
 ---
 
 My dissertation research focused on the policy, economic, and social

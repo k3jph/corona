@@ -5,7 +5,7 @@ date: 2017-05-22T14:21:21-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=5022
-featured-image: virtual-bumblebees.jpg
+image: virtual-bumblebees.jpg
 ---
 This project provides a simple environment for modeling an artificial life construct called the _Virtual Bumblebees_.  The _Virtual Bumblebees_ is a two-dimensional cellular automaton where the full board updates each time step based on the prior board state and a limited list of rules.
 

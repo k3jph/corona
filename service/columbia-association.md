@@ -5,7 +5,7 @@ date: 2015-12-11T22:24:44-05:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=3352
-featured-image: columbia-lakeK.png
+image: columbia-lakeK.png
 ---
 In August, 2004, I was appointed to the Budget Committee. This committee of five was charged with reviewing the pilot two-year budget process, making a five-year analysis of the internal economic model, and to examine the long-term debt management policy of the corporation.
 
