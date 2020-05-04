@@ -65,3 +65,6 @@ algolia:
   application_id:       GI59X4R5CO
   index_name:           jekyll-jameshoward-us
   search_only_api_key:  867898ddd747a87edb66f2a825909281
+  # Exclude more files from indexing
+  files_to_exclude:
+    - tag.md
