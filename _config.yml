@@ -22,7 +22,7 @@ facebook:
 logo: /assets/images/jhoward-greenglow.jpg
 
 social:
-  name: Ben Balter
+  name: James P. Howard, II
   links:
     - https://twitter.com/k3jph
     - https://www.facebook.com/k3jph
@@ -39,12 +39,9 @@ plugins:
 exclude: 
   - .gitignore
   - .jekyll-cache
-  - _bibliography
-  - deploy
   - Gemfile
-  - Gemfile.lock
   - "Main Website.code-workspace"
-  - Rakefile
+  - vendor
 
 # This site uses the pretty permalink structure, this renders all urls with a slash / at the end and 
 # no file endings, I guess that is considered pretty :)
@@ -53,10 +50,6 @@ permalink: pretty
 # Custom vars
 version:             1.1.0
 google_analytics_id: UA-79581-8
-
-# Scholar settings
-scholar:
-  style: mla
 
 # Iframely!
 iframely-key:       176ff6184ababb980170f6037497fb6a
@@ -68,3 +61,4 @@ algolia:
   # Exclude more files from indexing
   files_to_exclude:
     - tag.md
+    - blog.md
