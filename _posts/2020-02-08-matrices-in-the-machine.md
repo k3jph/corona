@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7266
 permalink: /2020/02/08/matrices-in-the-machine/
-image: pattern-metal-pipes-grid-35543.jpg
+image: /assets/images/pattern-metal-pipes-grid-35543.jpg
 categories:
   - Blog
 tags:

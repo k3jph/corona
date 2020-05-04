@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3203
 permalink: /2015/12/05/gun-related-violence-recession/
 dsq_thread_id:
   - "4378300939"
-image: coffin.png
+image: /assets/images/coffin.png
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2831
 permalink: /2015/09/14/why-this-hammer-costs-435/
 dsq_thread_id:
   - "4129584463"
-image: ignite-hoco2-cover.png
+image: /assets/images/ignite-hoco2-cover.png
 categories:
   - Blog
 tags:

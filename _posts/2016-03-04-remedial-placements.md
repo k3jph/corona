@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3886
 permalink: /2016/03/04/remedial-placements/
 dsq_thread_id:
   - "4635045917"
-image: Algebraproblem.jpg
+image: /assets/images/Algebraproblem.jpg
 categories:
   - Blog
 tags:

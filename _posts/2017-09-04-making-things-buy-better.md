@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5447
 permalink: /2017/09/04/making-things-buy-better/
-image: making-things-buy-better.png
+image: /assets/images/making-things-buy-better.png
 categories:
   - Blog
 tags:

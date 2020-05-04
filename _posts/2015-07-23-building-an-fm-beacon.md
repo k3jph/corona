@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2335
 permalink: /2015/07/23/building-an-fm-beacon/
 dsq_thread_id:
   - "3964416122"
-image: 20150723_165144.jpg
+image: /assets/images/20150723_165144.jpg
 categories:
   - Blog
 tags:

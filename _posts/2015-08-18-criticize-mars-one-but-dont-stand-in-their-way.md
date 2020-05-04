@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2484
 permalink: /2015/08/18/criticize-mars-one-but-dont-stand-in-their-way/
 dsq_thread_id:
   - "4045817413"
-image: roadmap2023.jpg
+image: /assets/images/roadmap2023.jpg
 categories:
   - Blog
 tags:

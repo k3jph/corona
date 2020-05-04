@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3545
 permalink: /2015/12/29/review-on-government-run-disaster-risk-pools/
 dsq_thread_id:
   - "4445190873"
-image: volcano-holuhraun.png
+image: /assets/images/volcano-holuhraun.png
 categories:
   - Blog
 tags:

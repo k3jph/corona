@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "708480195997972"
-image: yak-994643_1280.jpg
+image: /assets/images/yak-994643_1280.jpg
 categories:
   - Blog
 tags:

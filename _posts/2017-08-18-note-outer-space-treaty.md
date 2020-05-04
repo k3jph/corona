@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5374
 permalink: /2017/08/18/note-outer-space-treaty/
-image: note-outer-space-treaty.jpg
+image: /assets/images/note-outer-space-treaty.jpg
 categories:
   - Blog
 tags:

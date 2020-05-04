@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5566
 permalink: /2017/09/25/music-festival-pollution-prevention/
-image: audience-1850022_1280.jpg
+image: /assets/images/audience-1850022_1280.jpg
 categories:
   - Blog
 tags:

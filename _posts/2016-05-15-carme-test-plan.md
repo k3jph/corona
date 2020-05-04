@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4086
 permalink: /2016/05/15/carme-test-plan/
 dsq_thread_id:
   - "4830130573"
-image: Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg
+image: /assets/images/Picture_taken_at_aprox._100000_feet_above_Oregon_by_Justin_Hamel_and_Chris_Thompson.jpg
 categories:
   - Blog
 tags:

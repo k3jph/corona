@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3792
 permalink: /2016/02/11/pennsylvanias-flood-insurance-exchange/
 dsq_thread_id:
   - "4571543609"
-image: flooding-branhower.png
+image: /assets/images/flooding-branhower.png
 categories:
   - Blog
 tags:

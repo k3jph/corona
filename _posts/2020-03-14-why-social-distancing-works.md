@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7321
 permalink: /2020/03/14/why-social-distancing-works/
-image: why-social-distancing-works.jpg
+image: /assets/images/why-social-distancing-works.jpg
 categories:
   - Blog
 tags:

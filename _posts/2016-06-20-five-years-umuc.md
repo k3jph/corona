@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4204
 permalink: /2016/06/20/five-years-umuc/
 dsq_thread_id:
   - "4926325880"
-image: umuc-certificate-appreciation-5.jpg
+image: /assets/images/umuc-certificate-appreciation-5.jpg
 categories:
   - Blog
 tags:

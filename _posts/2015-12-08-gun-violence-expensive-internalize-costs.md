@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3312
 permalink: /2015/12/08/gun-violence-expensive-internalize-costs/
 dsq_thread_id:
   - "4384940945"
-image: bullets.png
+image: /assets/images/bullets.png
 categories:
   - Blog
 tags:

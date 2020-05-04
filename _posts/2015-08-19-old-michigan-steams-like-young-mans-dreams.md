@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2507
 permalink: /2015/08/19/old-michigan-steams-like-young-mans-dreams/
 dsq_thread_id:
   - "4048606568"
-image: lakemichighan.png
+image: /assets/images/lakemichighan.png
 categories:
   - Blog
 tags:

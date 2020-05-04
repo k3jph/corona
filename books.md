@@ -5,7 +5,7 @@ date: 2015-09-30T15:57:20-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=2930
-image: books.jpg
+image: /assets/images/books.jpg
 menu-order:     90
 menu-label:     Books
 ---

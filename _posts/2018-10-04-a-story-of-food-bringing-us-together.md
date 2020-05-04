@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6475
 permalink: /2018/10/04/a-story-of-food-bringing-us-together/
-image: a-story-of-food-bringing-us-together.jpg
+image: /assets/images/a-story-of-food-bringing-us-together.jpg
 categories:
   - Blog
 tags:

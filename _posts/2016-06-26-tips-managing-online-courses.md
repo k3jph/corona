@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4218
 permalink: /2016/06/26/tips-managing-online-courses/
 dsq_thread_id:
   - "4940062840"
-image: tips-for-manging-online-courses.jpg
+image: /assets/images/tips-for-manging-online-courses.jpg
 categories:
   - News
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7041
 permalink: /2019/07/13/cache-of-old-syllabi/
-image: cache-of-old-syllabi.jpg
+image: /assets/images/cache-of-old-syllabi.jpg
 categories:
   - Blog
 tags:

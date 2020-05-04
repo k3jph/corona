@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6463
 permalink: /2018/09/17/the-lowly-tilefish/
-image: the-lowly-tilefish.jpg
+image: /assets/images/the-lowly-tilefish.jpg
 categories:
   - Blog
 tags:

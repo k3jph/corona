@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3233
 permalink: /2015/11/19/whistling-tuneby-the-seaside/
 dsq_thread_id:
   - "4333803566"
-image: beachdunes.png
+image: /assets/images/beachdunes.png
 categories:
   - Blog
 tags:

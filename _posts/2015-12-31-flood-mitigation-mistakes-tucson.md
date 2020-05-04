@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4470203941"
 instant_articles_submission_id:
   - "362871530781700"
-image: arizona-flood.png
+image: /assets/images/arizona-flood.png
 categories:
   - Blog
 tags:

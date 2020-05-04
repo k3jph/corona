@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5246
 permalink: /2017/07/27/the-problem-with-offering-flood-insurance-subsidies/
 dsq_thread_id:
   - "6020749414"
-image: the-problem-with-offering-flood-insurance-subsidies.jpg
+image: /assets/images/the-problem-with-offering-flood-insurance-subsidies.jpg
 categories:
   - Blog
 tags:

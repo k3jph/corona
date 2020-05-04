@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5348
 permalink: /2017/08/16/notes-solid-waste-reduction/
-image: notes-solid-waste-reduction.jpg
+image: /assets/images/notes-solid-waste-reduction.jpg
 categories:
   - Blog
 tags:

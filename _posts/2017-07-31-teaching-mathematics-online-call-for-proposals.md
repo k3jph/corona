@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5260
 permalink: /2017/07/31/teaching-mathematics-online-call-for-proposals/
-image: teaching-mathematics-online-call-for-proposals.jpg
+image: /assets/images/teaching-mathematics-online-call-for-proposals.jpg
 categories:
   - News
 tags:

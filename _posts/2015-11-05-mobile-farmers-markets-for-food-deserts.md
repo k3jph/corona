@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3177
 permalink: /2015/11/05/mobile-farmers-markets-for-food-deserts/
 dsq_thread_id:
   - "4292306221"
-image: farmersmarket.png
+image: /assets/images/farmersmarket.png
 categories:
   - Blog
 tags:

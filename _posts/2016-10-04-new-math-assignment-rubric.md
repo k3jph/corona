@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4450
 permalink: /2016/10/04/new-math-assignment-rubric/
 dsq_thread_id:
   - "5197424568"
-image: new-math-assignment-rubric.png
+image: /assets/images/new-math-assignment-rubric.png
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2825
 permalink: /2015/06/23/dont-let-the-ex-im-bank-expire/
 dsq_thread_id:
   - "4127049044"
-image: exim-cover.png
+image: /assets/images/exim-cover.png
 categories:
   - Blog
 tags:

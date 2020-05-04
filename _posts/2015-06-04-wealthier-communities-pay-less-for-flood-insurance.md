@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2159
 permalink: /2015/06/04/wealthier-communities-pay-less-for-flood-insurance/
 dsq_thread_id:
   - "3822231333"
-image: cedarrapids.png
+image: /assets/images/cedarrapids.png
 categories:
   - Blog
 tags:

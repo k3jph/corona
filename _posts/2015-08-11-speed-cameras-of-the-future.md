@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2404
 permalink: /2015/08/11/speed-cameras-of-the-future/
 dsq_thread_id:
   - "4022584821"
-image: trafficcamera.png
+image: /assets/images/trafficcamera.png
 categories:
   - Blog
 tags:

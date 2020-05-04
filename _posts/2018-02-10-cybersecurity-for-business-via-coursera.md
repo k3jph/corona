@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6139
 permalink: /2018/02/10/cybersecurity-for-business-via-coursera/
-image: cybersecurity-for-business-via-coursera.png
+image: /assets/images/cybersecurity-for-business-via-coursera.png
 categories:
   - Blog
 tags:

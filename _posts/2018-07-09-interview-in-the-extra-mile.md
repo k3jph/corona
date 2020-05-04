@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6370
 permalink: /2018/07/09/interview-in-the-extra-mile/
-image: interview-in-the-extra-mile.jpg
+image: /assets/images/interview-in-the-extra-mile.jpg
 categories:
   - News
 tags:

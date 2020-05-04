@@ -12,7 +12,7 @@ ampforwp_custom_content_editor_checkbox:
   - ""
 instant_articles_submission_id:
   - "397397467289696"
-image: yakblanket.png
+image: /assets/images/yakblanket.png
 categories:
   - Blog
 tags:

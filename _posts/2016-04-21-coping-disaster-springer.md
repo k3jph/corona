@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4764837050"
 instant_articles_submission_id:
   - "284584218670653"
-image: tsunami-sign.png
+image: /assets/images/tsunami-sign.png
 categories:
   - Blog
 tags:

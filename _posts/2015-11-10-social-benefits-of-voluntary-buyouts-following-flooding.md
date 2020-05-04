@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3209
 permalink: /2015/11/10/social-benefits-of-voluntary-buyouts-following-flooding/
 dsq_thread_id:
   - "4307529677"
-image: cedar-rapidsfloods.gif
+image: /assets/images/cedar-rapidsfloods.gif
 categories:
   - Blog
 tags:

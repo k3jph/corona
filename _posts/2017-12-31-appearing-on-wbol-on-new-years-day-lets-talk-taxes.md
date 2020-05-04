@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5906
 permalink: /2017/12/31/appearing-on-wbol-on-new-years-day-lets-talk-taxes/
-image: appearing-wbol-new-years-day-lets-talk-taxes.jpg
+image: /assets/images/appearing-wbol-new-years-day-lets-talk-taxes.jpg
 categories:
   - Blog
 tags:

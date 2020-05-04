@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5914
 permalink: /2018/01/01/video-patrick-hendersons-meet-people/
-image: video-patrick-hendersons-meet-people.jpg
+image: /assets/images/video-patrick-hendersons-meet-people.jpg
 categories:
   - News
 tags:

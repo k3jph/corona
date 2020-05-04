@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5205
 permalink: /2017/07/19/risks-from-fracking/
 dsq_thread_id:
   - "6000516547"
-image: risks-from-fracking.jpg
+image: /assets/images/risks-from-fracking.jpg
 categories:
   - Blog
 tags:

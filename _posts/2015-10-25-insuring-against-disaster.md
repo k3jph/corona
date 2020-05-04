@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3146
 permalink: /2015/10/25/insuring-against-disaster/
 dsq_thread_id:
   - "4258701517"
-image: disaster.png
+image: /assets/images/disaster.png
 categories:
   - Blog
 tags:

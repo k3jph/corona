@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4274521812"
 instant_articles_submission_id:
   - "1123619471088196"
-image: Turtle_draw.jpg
+image: /assets/images/Turtle_draw.jpg
 categories:
   - Blog
 tags:

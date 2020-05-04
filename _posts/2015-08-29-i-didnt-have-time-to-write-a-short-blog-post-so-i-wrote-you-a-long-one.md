@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2636
 permalink: /2015/08/29/i-didnt-have-time-to-write-a-short-blog-post-so-i-wrote-you-a-long-one/
 dsq_thread_id:
   - "4077947830"
-image: 2044819979_0c442bc242_b.jpg
+image: /assets/images/2044819979_0c442bc242_b.jpg
 categories:
   - Blog
 tags:

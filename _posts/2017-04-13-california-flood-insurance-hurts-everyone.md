@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4869
 permalink: /2017/04/13/california-flood-insurance-hurts-everyone/
 dsq_thread_id:
   - "5724100419"
-image: california-flood-insurance-hurts-everyone.jpg
+image: /assets/images/california-flood-insurance-hurts-everyone.jpg
 categories:
   - Blog
 tags:

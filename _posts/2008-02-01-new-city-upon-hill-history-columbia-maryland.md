@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3248
 permalink: /2008/02/01/new-city-upon-hill-history-columbia-maryland/
 dsq_thread_id:
   - "4341422358"
-image: newcitycover.jpg
+image: /assets/images/newcitycover.jpg
 categories:
   - Blog
 tags:

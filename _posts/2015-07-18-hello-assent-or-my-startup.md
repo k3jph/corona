@@ -10,7 +10,7 @@ dsq_thread_id:
   - "3946460335"
 instant_articles_submission_id:
   - "1702473683332573"
-image: AssentWordmark.png
+image: /assets/images/AssentWordmark.png
 categories:
   - Blog
 tags:

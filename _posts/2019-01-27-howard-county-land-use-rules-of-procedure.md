@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6774
 permalink: /2019/01/27/howard-county-land-use-rules-of-procedure/
-image: howard-county-land-use-rules-of-procedure.jpg
+image: /assets/images/howard-county-land-use-rules-of-procedure.jpg
 categories:
   - Blog
 tags:

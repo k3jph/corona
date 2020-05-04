@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4809
 permalink: /2017/03/03/data-science-restaurant-inspections/
 dsq_thread_id:
   - "5599847238"
-image: data-science-restaurant-inspections.jpg
+image: /assets/images/data-science-restaurant-inspections.jpg
 categories:
   - Blog
 tags:

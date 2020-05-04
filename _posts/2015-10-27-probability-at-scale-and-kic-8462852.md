@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3150
 permalink: /2015/10/27/probability-at-scale-and-kic-8462852/
 dsq_thread_id:
   - "4264043106"
-image: Ringworld.jpg
+image: /assets/images/Ringworld.jpg
 categories:
   - Blog
 tags:

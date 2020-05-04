@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4388044602"
 ampforwp_custom_content_editor_checkbox:
   - ""
-image: nair-840x500.png
+image: /assets/images/nair-840x500.png
 categories:
   - Blog
 tags:

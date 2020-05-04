@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3069
 permalink: /2015/10/17/applying-bayes-to-kic-8462852/
 dsq_thread_id:
   - "4233372164"
-image: Dyson_Bubble.png
+image: /assets/images/Dyson_Bubble.png
 categories:
   - Blog
 tags:

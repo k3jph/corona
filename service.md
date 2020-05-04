@@ -5,7 +5,7 @@ date: 2015-10-13T18:22:06-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=3003
-image: service-banner.png
+image: /assets/images/service-banner.png
 menu-order:     35
 menu-label:     Service
 ---

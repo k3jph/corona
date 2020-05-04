@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6538
 permalink: /2018/11/13/the-size-and-structure-of-the-howard-county-council/
-image: the-size-and-structure-of-the-howard-county-council.jpg
+image: /assets/images/the-size-and-structure-of-the-howard-county-council.jpg
 categories:
   - Blog
 tags:

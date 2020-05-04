@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "149016385570140"
 dsq_thread_id:
   - "4963312918"
-image: makinsters-lectures-eastern-philosophy.jpg
+image: /assets/images/makinsters-lectures-eastern-philosophy.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6978
 permalink: /2019/06/15/understanding-radioactive-exposure/
-image: understanding-radioactive-exposure.jpg
+image: /assets/images/understanding-radioactive-exposure.jpg
 categories:
   - Blog
 tags:

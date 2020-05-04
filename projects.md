@@ -5,7 +5,7 @@ date: 2016-04-28T23:26:12-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=4047
-image: toolkit.png
+image: /assets/images/toolkit.png
 menu-order:     40
 menu-label:     Projects
 ---

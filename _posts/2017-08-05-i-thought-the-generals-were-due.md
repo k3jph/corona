@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5310
 permalink: /2017/08/05/i-thought-the-generals-were-due/
 dsq_thread_id:
   - "6043034447"
-image: i-thought-the-generals-were-due.jpg
+image: /assets/images/i-thought-the-generals-were-due.jpg
 categories:
   - Blog
 tags:

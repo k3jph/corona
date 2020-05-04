@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5612
 permalink: /2017/10/18/compost-tea-clay-soils/
-image: compost-tea-on-clay-soils.jpg
+image: /assets/images/compost-tea-on-clay-soils.jpg
 categories:
   - Blog
 tags:

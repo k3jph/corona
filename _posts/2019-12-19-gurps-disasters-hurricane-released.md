@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7236
 permalink: /2019/12/19/gurps-disasters-hurricane-released/
-image: GURPS_Disasters_Hurricane-1.png
+image: /assets/images/GURPS_Disasters_Hurricane-1.png
 categories:
   - News
 tags:

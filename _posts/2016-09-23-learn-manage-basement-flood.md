@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "576964349140801"
 dsq_thread_id:
   - "5168587182"
-image: learn-manage-basement-flood.jpg
+image: /assets/images/learn-manage-basement-flood.jpg
 categories:
   - News
 tags:

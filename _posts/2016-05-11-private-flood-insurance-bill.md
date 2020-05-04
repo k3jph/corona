@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4028
 permalink: /2016/05/11/private-flood-insurance-bill/
 dsq_thread_id:
   - "4816083643"
-image: flood-642586_1280.jpg
+image: /assets/images/flood-642586_1280.jpg
 categories:
   - Blog
 tags:

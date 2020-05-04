@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3746
 permalink: /2016/02/29/wave-equation-r/
 dsq_thread_id:
   - "4622175208"
-image: violin.png
+image: /assets/images/violin.png
 categories:
   - Blog
 tags:

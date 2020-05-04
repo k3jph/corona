@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7046
 permalink: /2019/07/19/blowing-the-hatch/
-image: blowing-the-hatch.jpg
+image: /assets/images/blowing-the-hatch.jpg
 categories:
   - Blog
 tags:

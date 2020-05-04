@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6471
 permalink: /2018/10/03/rainfall-stationarity/
-image: rainfall-stationarity.jpg
+image: /assets/images/rainfall-stationarity.jpg
 categories:
   - Blog
 tags:

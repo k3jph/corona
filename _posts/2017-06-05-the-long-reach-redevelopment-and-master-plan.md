@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5042
 permalink: /2017/06/05/the-long-reach-redevelopment-and-master-plan/
-image: the-long-reach-redevelopment-and-master-plan.jpg
+image: /assets/images/the-long-reach-redevelopment-and-master-plan.jpg
 categories:
   - Blog
 tags:

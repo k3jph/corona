@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - "1331576380253217"
 dsq_thread_id:
   - "5761023143"
-image: circular-reasoning.jpg
+image: /assets/images/circular-reasoning.jpg
 categories:
   - Blog
 tags:

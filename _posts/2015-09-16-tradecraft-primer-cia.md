@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2843
 permalink: /2015/09/16/tradecraft-primer-cia/
 dsq_thread_id:
   - "4133293308"
-image: Relationship_of_data_information_and_intelligence.png
+image: /assets/images/Relationship_of_data_information_and_intelligence.png
 categories:
   - Blog
 tags:

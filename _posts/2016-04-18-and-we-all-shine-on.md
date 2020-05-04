@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3982
 permalink: /2016/04/18/and-we-all-shine-on/
 dsq_thread_id:
   - "4756436907"
-image: 959px-Near-stars-past-future-en.svg_.png
+image: /assets/images/959px-Near-stars-past-future-en.svg_.png
 categories:
   - Blog
 tags:

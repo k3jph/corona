@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: howard-county-council-redistricting
 permalink: /2020/05/01/howard-county-council-redistricting
-image: howard-county-council-redistricting.jpg
+image: /assets/images/howard-county-council-redistricting.jpg
 categories:
   - Blog
 tags:

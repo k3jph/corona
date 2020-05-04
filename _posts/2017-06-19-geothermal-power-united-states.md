@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "286637178466062"
 dsq_thread_id:
   - "5923438546"
-image: geothermal-power-united-states.jpg
+image: /assets/images/geothermal-power-united-states.jpg
 categories:
   - Blog
 tags:

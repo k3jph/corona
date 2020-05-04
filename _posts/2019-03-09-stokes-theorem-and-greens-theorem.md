@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6889
 permalink: /2019/03/09/stokes-theorem-and-greens-theorem/
-image: Surface_integral_illustration.svg.png
+image: /assets/images/Surface_integral_illustration.svg.png
 categories:
   - Blog
 tags:

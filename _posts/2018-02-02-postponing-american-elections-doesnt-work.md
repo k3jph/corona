@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6052
 permalink: /2018/02/02/postponing-american-elections-doesnt-work/
-image: postponing-american-elections-doesnt-work.jpg
+image: /assets/images/postponing-american-elections-doesnt-work.jpg
 categories:
   - Blog
 tags:

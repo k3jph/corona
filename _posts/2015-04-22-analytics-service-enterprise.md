@@ -12,7 +12,7 @@ instant_articles_submission_id:
   - "1596199063731306"
 ampforwp_custom_content_editor_checkbox:
   - ""
-image: AaaS-BCS.png
+image: /assets/images/AaaS-BCS.png
 categories:
   - Blog
 tags:

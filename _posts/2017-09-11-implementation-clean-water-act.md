@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5499
 permalink: /2017/09/11/implementation-clean-water-act/
-image: implementation-clean-water-act.jpg
+image: /assets/images/implementation-clean-water-act.jpg
 categories:
   - Blog
 tags:

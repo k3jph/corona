@@ -12,7 +12,7 @@ snapEdIT:
   - "1"
 dsq_thread_id:
   - "4552910794"
-image: jeg-er-en-fro.png
+image: /assets/images/jeg-er-en-fro.png
 categories:
   - Blog
 tags:

@@ -5,7 +5,7 @@ date: 2020-04-02T10:10:16-04:00
 author: James Howard
 layout: page
 guid: http://jameshoward.us/?page_id=7357
-image: researchlibrary.png
+image: /assets/images/researchlibrary.png
 menu-order:     10
 menu-label:     Scholarship
 ---

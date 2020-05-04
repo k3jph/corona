@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3871
 permalink: /2016/02/26/cheerleading-online-classroom/
 dsq_thread_id:
   - "4611569131"
-image: 7658219802_46bbb17722_o.jpg
+image: /assets/images/7658219802_46bbb17722_o.jpg
 categories:
   - Blog
 tags:

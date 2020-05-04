@@ -8,7 +8,7 @@ guid: http://www.jameshoward.us/?p=1197
 permalink: /2014/06/12/my-first-math-assignment-rubric/
 dsq_thread_id:
   - "2754327935"
-image: rubric-first.png
+image: /assets/images/rubric-first.png
 categories:
   - Blog
 tags:

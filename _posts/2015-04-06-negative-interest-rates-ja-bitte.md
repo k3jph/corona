@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2001
 permalink: /2015/04/06/negative-interest-rates-ja-bitte/
 dsq_thread_id:
   - "3660188619"
-image: bunds.png
+image: /assets/images/bunds.png
 categories:
   - Blog
 tags:

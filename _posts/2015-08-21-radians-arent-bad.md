@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2351
 permalink: /2015/08/21/radians-arent-bad/
 dsq_thread_id:
   - "4054915038"
-image: rings.png
+image: /assets/images/rings.png
 categories:
   - Blog
 tags:

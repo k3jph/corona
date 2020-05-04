@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5977
 permalink: /2018/01/12/audio-slides-talk-jmm/
-image: audio-and-slides-from-my-talk-at-jmm.jpg
+image: /assets/images/audio-and-slides-from-my-talk-at-jmm.jpg
 categories:
   - News
 tags:

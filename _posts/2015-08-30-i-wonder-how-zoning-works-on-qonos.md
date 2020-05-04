@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2626
 permalink: /2015/08/30/i-wonder-how-zoning-works-on-qonos/
 dsq_thread_id:
   - "4080721355"
-image: pirates-of-orion.png
+image: /assets/images/pirates-of-orion.png
 categories:
   - Blog
 tags:

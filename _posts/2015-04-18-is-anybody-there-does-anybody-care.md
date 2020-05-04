@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2032
 permalink: /2015/04/18/is-anybody-there-does-anybody-care/
 dsq_thread_id:
   - "3692131106"
-image: 13310082333_941f7a998c_o.jpg
+image: /assets/images/13310082333_941f7a998c_o.jpg
 categories:
   - Blog
 tags:

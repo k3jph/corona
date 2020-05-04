@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "212702252507886"
 dsq_thread_id:
   - "5339853923"
-image: goes-around-comes-around-teaching-edition.jpg
+image: /assets/images/goes-around-comes-around-teaching-edition.jpg
 categories:
   - Blog
 tags:

@@ -7,7 +7,7 @@ layout: page
 guid: https://jameshoward.us/?page_id=2902
 ampforwp-amp-on-off:
   - default
-image: freegrep.jpg
+image: /assets/images//assets/images/freegrep.jpg
 ---
 FreeGrep was developed primarily over the summer of 1999 as a BSD-licensed alternative to GNU Grep provided with [FreeBSD](https://www.freebsd.org/). This edition of grep relies on the local regular express (regex) facilities and provides services for searching compressed archives.
 

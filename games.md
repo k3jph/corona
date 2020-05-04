@@ -5,7 +5,7 @@ date: 2018-02-19T16:33:40-05:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=6181
-image: games-header.jpg
+image: /assets/images/games-header.jpg
 menu-order:     91
 menu-label:     Games
 ---

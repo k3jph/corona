@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6424
 permalink: /2018/08/11/do-you-mean-to-tell-me-this-sucker-is-nuclear/
-image: whoa-doc-do-you-mean-to-tell-me-this-sucker-is-nuclear-cover.jpg
+image: /assets/images/whoa-doc-do-you-mean-to-tell-me-this-sucker-is-nuclear-cover.jpg
 categories:
   - Blog
 tags:

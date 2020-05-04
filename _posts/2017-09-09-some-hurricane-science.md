@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5502
 permalink: /2017/09/09/some-hurricane-science/
-image: some-hurricane-science.jpg
+image: /assets/images/some-hurricane-science.jpg
 categories:
   - Blog
 tags:

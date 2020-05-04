@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4688
 permalink: /2017/01/05/behind-door-3/
 dsq_thread_id:
   - "5439826772"
-image: behind-door-3.jpg
+image: /assets/images/behind-door-3.jpg
 categories:
   - Blog
 tags:

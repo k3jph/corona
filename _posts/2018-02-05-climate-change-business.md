@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6104
 permalink: /2018/02/05/climate-change-business/
-image: climate-change-business.jpg
+image: /assets/images/climate-change-business.jpg
 categories:
   - Blog
 tags:

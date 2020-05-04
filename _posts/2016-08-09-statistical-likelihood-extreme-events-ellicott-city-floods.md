@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4368
 permalink: /2016/08/09/statistical-likelihood-extreme-events-ellicott-city-floods/
 dsq_thread_id:
   - "5053896451"
-image: statistical-likelihood-extreme-events-ellicott-city-floods.jpg
+image: /assets/images/statistical-likelihood-extreme-events-ellicott-city-floods.jpg
 categories:
   - Blog
 tags:

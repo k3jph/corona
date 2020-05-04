@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=1646
 permalink: /2014/11/18/better-pay-play-contracts/
-image: 13859755804_3f99bf33c8_z.jpg
+image: /assets/images/13859755804_3f99bf33c8_z.jpg
 categories:
   - Blog
 tags:

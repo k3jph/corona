@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=1965
 permalink: /2015/03/31/introducing-green-beelievers/
 dsq_thread_id:
   - "3644531471"
-image: Park.png
+image: /assets/images/Park.png
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5435
 permalink: /2017/08/29/listen-live-thursday-831/
-image: listen-live-thursday-831.jpg
+image: /assets/images/listen-live-thursday-831.jpg
 categories:
   - Blog
 tags:

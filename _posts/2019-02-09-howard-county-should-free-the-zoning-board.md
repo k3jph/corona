@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6839
 permalink: /2019/02/09/howard-county-should-free-the-zoning-board/
-image: howard-county-should-free-the-zoning-board.png
+image: /assets/images/howard-county-should-free-the-zoning-board.png
 categories:
   - Blog
 tags:

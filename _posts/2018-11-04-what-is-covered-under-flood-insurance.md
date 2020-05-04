@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6510
 permalink: /2018/11/04/what-is-covered-under-flood-insurance/
-image: what-is-covered-under-flood-insurance.jpg
+image: /assets/images/what-is-covered-under-flood-insurance.jpg
 categories:
   - News
 tags:

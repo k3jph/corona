@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3560
 permalink: /2016/01/05/reappointed-to-the-board-of-appeals/
 dsq_thread_id:
   - "4462146165"
-image: hoco-council-chambers.jpg
+image: /assets/images/hoco-council-chambers.jpg
 categories:
   - Blog
 tags:

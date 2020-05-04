@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5618
 permalink: /2017/10/23/maryland-defense-force-one-hundred-years/
-image: maryland-defense-force-one-hundred-years.jpg
+image: /assets/images/maryland-defense-force-one-hundred-years.jpg
 categories:
   - Blog
 tags:

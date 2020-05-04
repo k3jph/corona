@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6210
 permalink: /2018/03/02/values-trends-cybersecurity/
-image: values-trends-cybersecurity.jpg
+image: /assets/images/values-trends-cybersecurity.jpg
 categories:
   - News
 tags:

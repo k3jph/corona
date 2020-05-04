@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2016
 permalink: /2015/04/13/maryland-lottery-proceeds-dont-pay-for-education/
 dsq_thread_id:
   - "3679275458"
-image: maryland-lottery.png
+image: /assets/images/maryland-lottery.png
 categories:
   - Blog
 tags:

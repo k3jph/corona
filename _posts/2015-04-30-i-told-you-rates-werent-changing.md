@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2058
 permalink: /2015/04/30/i-told-you-rates-werent-changing/
 dsq_thread_id:
   - "3726892910"
-image: federalreserve.png
+image: /assets/images/federalreserve.png
 categories:
   - Blog
 tags:

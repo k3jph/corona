@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3158
 permalink: /2015/10/26/det-ar-dags-att-fira/
 dsq_thread_id:
   - "4262260520"
-image: swedish-tree.png
+image: /assets/images/swedish-tree.png
 categories:
   - Blog
 tags:

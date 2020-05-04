@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4760673208"
 instant_articles_submission_id:
   - "980958132048323"
-image: kermit.jpeg
+image: /assets/images/kermit.jpeg
 categories:
   - Blog
 tags:

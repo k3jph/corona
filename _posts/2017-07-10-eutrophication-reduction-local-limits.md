@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5150
 permalink: /2017/07/10/eutrophication-reduction-local-limits/
 dsq_thread_id:
   - "5968755625"
-image: eutrophication-reduction-local-limits.jpg
+image: /assets/images/eutrophication-reduction-local-limits.jpg
 categories:
   - Blog
 tags:

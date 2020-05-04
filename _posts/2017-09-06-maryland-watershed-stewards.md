@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5458
 permalink: /2017/09/06/maryland-watershed-stewards/
-image: maryland-watershed-stewards.jpg
+image: /assets/images/maryland-watershed-stewards.jpg
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7257
 permalink: /2020/02/05/zeroes-are-hard-to-find/
-image: zeroes-are-hard-to-find.jpg
+image: /assets/images/zeroes-are-hard-to-find.jpg
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2241
 permalink: /2015/06/23/cbos-analysis-ex-im-bank/
 dsq_thread_id:
   - "3870755442"
-image: freightcontainers.png
+image: /assets/images/freightcontainers.png
 categories:
   - Blog
 tags:

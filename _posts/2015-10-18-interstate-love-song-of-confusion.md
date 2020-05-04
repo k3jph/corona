@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3037
 permalink: /2015/10/18/interstate-love-song-of-confusion/
 dsq_thread_id:
   - "4225981795"
-image: I70and29.png
+image: /assets/images/I70and29.png
 categories:
   - Blog
 tags:

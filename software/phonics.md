@@ -5,7 +5,7 @@ date: 2015-09-20T18:06:31-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=2856
-image: phonics.jpg
+image: /assets/images/phonics.jpg
 ---
 
 This is the R package to support phonetic spelling algorithms in R. Several packages provide the Soundex algorithm.  However, other algorithms have been developed since Soundex that can also provide phonetic spelling and test phonetic similarity.

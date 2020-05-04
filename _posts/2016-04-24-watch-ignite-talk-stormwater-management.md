@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4021
 permalink: /2016/04/24/watch-ignite-talk-stormwater-management/
 dsq_thread_id:
   - "4773551294"
-image: ib18-solo.png
+image: /assets/images/ib18-solo.png
 categories:
   - Blog
 tags:

@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2267
 permalink: /2015/07/13/where-is-new-horizons-going/
 dsq_thread_id:
   - "3931610174"
-image: nh-pluto.jpg
+image: /assets/images/nh-pluto.jpg
 categories:
   - Blog
 tags:

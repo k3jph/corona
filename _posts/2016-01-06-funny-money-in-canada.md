@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3566
 permalink: /2016/01/06/funny-money-in-canada/
 dsq_thread_id:
   - "4466733648"
-image: currency-cad.png
+image: /assets/images/currency-cad.png
 categories:
   - Blog
 tags:

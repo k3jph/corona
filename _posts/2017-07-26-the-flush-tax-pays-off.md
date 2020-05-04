@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=5235
 permalink: /2017/07/26/the-flush-tax-pays-off/
 dsq_thread_id:
   - "6017325433"
-image: the-flush-tax-pays-off.jpg
+image: /assets/images/the-flush-tax-pays-off.jpg
 categories:
   - Blog
 tags:

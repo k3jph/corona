@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2470
 permalink: /2015/08/17/one-flew-over-the-cuckoos-egg/
 dsq_thread_id:
   - "4042093024"
-image: cuckoosegg.jpg
+image: /assets/images/cuckoosegg.jpg
 categories:
   - Blog
 tags:

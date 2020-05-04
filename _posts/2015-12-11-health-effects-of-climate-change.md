@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3328
 permalink: /2015/12/11/health-effects-of-climate-change/
 dsq_thread_id:
   - "4393654670"
-image: climatechangepoor.png
+image: /assets/images/climatechangepoor.png
 categories:
   - Blog
 tags:

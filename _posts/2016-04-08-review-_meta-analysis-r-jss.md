@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4730418947"
 ampforwp_custom_content_editor_checkbox:
   - ""
-image: meta-analysis-r.jpg
+image: /assets/images/meta-analysis-r.jpg
 categories:
   - Blog
 tags:

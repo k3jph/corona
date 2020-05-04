@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4186
 permalink: /2016/06/16/terrorism-policysplainer/
 dsq_thread_id:
   - "4914811579"
-image: terrorism-policysplainer.jpg
+image: /assets/images/terrorism-policysplainer.jpg
 categories:
   - Blog
 tags:

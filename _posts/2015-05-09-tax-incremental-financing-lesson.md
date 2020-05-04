@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2076
 permalink: /2015/05/09/tax-incremental-financing-lesson/
 dsq_thread_id:
   - "3748628433"
-image: TIF-coverpage.png
+image: /assets/images/TIF-coverpage.png
 categories:
   - Blog
 tags:

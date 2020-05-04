@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4216380829"
 instant_articles_submission_id:
   - "1539899926043055"
-image: columbia-sc-flooding.png
+image: /assets/images/columbia-sc-flooding.png
 categories:
   - Blog
 tags:

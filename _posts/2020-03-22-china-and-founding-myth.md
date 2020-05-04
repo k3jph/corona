@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7308
 permalink: /2020/03/22/china-and-founding-myth/
-image: china-and-founding-myth.jpg
+image: /assets/images/china-and-founding-myth.jpg
 categories:
   - Blog
 tags:

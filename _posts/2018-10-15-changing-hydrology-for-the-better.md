@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6480
 permalink: /2018/10/15/changing-hydrology-for-the-better/
-image: changing-hydrology-for-the-better.jpg
+image: /assets/images/changing-hydrology-for-the-better.jpg
 categories:
   - Blog
 tags:

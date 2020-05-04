@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6177
 permalink: /2018/02/19/data-science-overhype/
-image: data-science-overhype.jpg
+image: /assets/images/data-science-overhype.jpg
 categories:
   - News
 tags:

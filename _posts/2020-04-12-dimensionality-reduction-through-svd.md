@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: dimensionality-reduction-through-svd
 permalink: /2020/04/11/dimensionality-reduction-through-svd/
-image: dimensionality-reduction-through-svd.png
+image: /assets/images/dimensionality-reduction-through-svd.png
 categories:
   - Blog
 tags:

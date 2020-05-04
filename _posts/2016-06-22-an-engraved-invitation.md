@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4207
 permalink: /2016/06/22/an-engraved-invitation/
 dsq_thread_id:
   - "4930069596"
-image: handwriting.jpg
+image: /assets/images/handwriting.jpg
 categories:
   - Blog
 tags:

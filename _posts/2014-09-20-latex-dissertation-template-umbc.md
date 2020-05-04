@@ -8,7 +8,7 @@ guid: http://jameshoward.us/?p=1408
 permalink: /2014/09/20/latex-dissertation-template-umbc/
 dsq_thread_id:
   - "3037718518"
-image: 1898286_541285404792_914859516_n.jpg
+image: /assets/images/1898286_541285404792_914859516_n.jpg
 categories:
   - Blog
 tags:

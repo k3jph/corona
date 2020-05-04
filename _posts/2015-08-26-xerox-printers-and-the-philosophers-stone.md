@@ -10,7 +10,7 @@ dsq_thread_id:
   - "4068584456"
 instant_articles_submission_id:
   - "229525774151049"
-image: copierlego.png
+image: /assets/images/copierlego.png
 categories:
   - Blog
 tags:

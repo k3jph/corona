@@ -5,7 +5,7 @@ date: 2015-09-20T18:03:41-04:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=2858
-image: software-banner.png
+image: /assets/images/software-banner.png
 menu-order:     41
 menu-label:     Software
 ---

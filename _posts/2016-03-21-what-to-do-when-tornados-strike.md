@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3900
 permalink: /2016/03/21/what-to-do-when-tornados-strike/
 dsq_thread_id:
   - "4681846825"
-image: tornado-cover.png
+image: /assets/images/tornado-cover.png
 categories:
   - Blog
 tags:

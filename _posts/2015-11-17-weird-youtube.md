@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3228
 permalink: /2015/11/17/weird-youtube/
 dsq_thread_id:
   - "4328211413"
-image: solwayfirthspaceman.png
+image: /assets/images/solwayfirthspaceman.png
 categories:
   - Blog
 tags:

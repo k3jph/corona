@@ -5,7 +5,7 @@ date: 2015-12-12T13:52:04-05:00
 author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=3374
-image: thomas-viaduct.png
+image: /assets/images/thomas-viaduct.png
 ---
 ## Board of Appeals
 

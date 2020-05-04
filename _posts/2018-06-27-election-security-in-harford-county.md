@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6351
 permalink: /2018/06/27/election-security-in-harford-county/
-image: election-security-in-harford-county.jpg
+image: /assets/images/election-security-in-harford-county.jpg
 categories:
   - Blog
 tags:

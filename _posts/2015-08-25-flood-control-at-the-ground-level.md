@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2585
 permalink: /2015/08/25/flood-control-at-the-ground-level/
 dsq_thread_id:
   - "4065175012"
-image: DSC_0115-1.jpg
+image: /assets/images/DSC_0115-1.jpg
 categories:
   - Blog
 tags:

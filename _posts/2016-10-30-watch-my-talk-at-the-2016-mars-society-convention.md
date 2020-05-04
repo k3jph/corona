@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "1920152748220792"
 dsq_thread_id:
   - "5266328934"
-image: watch-my-talk-at-the-2016-mars-society-convention.jpg
+image: /assets/images/watch-my-talk-at-the-2016-mars-society-convention.jpg
 categories:
   - News
 tags:

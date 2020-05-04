@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3303
 permalink: /2015/12/15/volokh-conspiracy-maryland-state-guard/
 dsq_thread_id:
   - "4405635856"
-image: 5574092086_edb2fd2316_z.jpg
+image: /assets/images/5574092086_edb2fd2316_z.jpg
 categories:
   - Blog
 tags:

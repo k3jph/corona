@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3788
 permalink: /2016/02/12/zika-for-the-rest-of-us/
 dsq_thread_id:
   - "4574686551"
-image: mosquito.png
+image: /assets/images/mosquito.png
 categories:
   - Blog
 tags:

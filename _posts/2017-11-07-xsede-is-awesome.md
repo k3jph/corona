@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5642
 permalink: /2017/11/07/xsede-is-awesome/
-image: xsede-is-awesome.jpg
+image: /assets/images/xsede-is-awesome.jpg
 categories:
   - Blog
 tags:

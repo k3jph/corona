@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3700
 permalink: /2016/01/13/dont-take-the-annuity/
 dsq_thread_id:
   - "4487035949"
-image: pileofmoney.png
+image: /assets/images/pileofmoney.png
 categories:
   - Blog
 tags:

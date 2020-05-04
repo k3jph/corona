@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3258
 permalink: /2015/11/29/using-mathematics-real-world/
 dsq_thread_id:
   - "4361223150"
-image: assembly-line.png
+image: /assets/images/assembly-line.png
 categories:
   - Blog
 tags:

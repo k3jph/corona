@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5455
 permalink: /2017/09/28/democratic-norms-settlement-iceland/
-image: democratic-norms-settlement-iceland.jpg
+image: /assets/images/democratic-norms-settlement-iceland.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "430870370612418"
 dsq_thread_id:
   - "5853547055"
-image: the-flood-insurance-purchase-requirement.jpg
+image: /assets/images/the-flood-insurance-purchase-requirement.jpg
 categories:
   - Blog
 tags:

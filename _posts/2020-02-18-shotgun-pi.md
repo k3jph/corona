@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7277
 permalink: /2020/02/18/shotgun-pi/
-image: shotgun-pi.jpg
+image: /assets/images/shotgun-pi.jpg
 categories:
   - Blog
 tags:

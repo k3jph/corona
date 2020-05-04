@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4269
 permalink: /2016/07/04/listen-interview-purge-kphx/
 dsq_thread_id:
   - "4960917644"
-image: listen-discuss-purge-kphx-saturday.jpg
+image: /assets/images/listen-discuss-purge-kphx-saturday.jpg
 categories:
   - News
 tags:

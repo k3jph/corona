@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2654
 permalink: /2015/08/31/foiled-again/
 dsq_thread_id:
   - "4083605925"
-image: batmanrobin-foil.jpg
+image: /assets/images/batmanrobin-foil.jpg
 categories:
   - Blog
 tags:

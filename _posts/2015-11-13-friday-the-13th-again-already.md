@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3212
 permalink: /2015/11/13/friday-the-13th-again-already/
 dsq_thread_id:
   - "4313698931"
-image: 270007412_37c6fabf50_z.jpg
+image: /assets/images/270007412_37c6fabf50_z.jpg
 categories:
   - Blog
 tags:

@@ -10,7 +10,7 @@ instant_articles_submission_id:
   - "447187765656032"
 dsq_thread_id:
   - "5944651890"
-image: population-dynamics-better-future.jpg
+image: /assets/images/population-dynamics-better-future.jpg
 categories:
   - Blog
 tags:

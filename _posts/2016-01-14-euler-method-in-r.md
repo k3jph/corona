@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3704
 permalink: /2016/01/14/euler-method-in-r/
 dsq_thread_id:
   - "4493535013"
-image: Euler_method.svg_.png
+image: /assets/images/Euler_method.svg_.png
 categories:
   - Blog
 tags:

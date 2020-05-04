@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=7136
 permalink: /2019/10/06/bracewell-was-awesome/
-image: bracewell-was-awesome.jpeg
+image: /assets/images/bracewell-was-awesome.jpeg
 categories:
   - Blog
 tags:

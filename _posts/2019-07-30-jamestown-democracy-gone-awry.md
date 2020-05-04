@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5888
 permalink: /2019/07/30/jamestown-democracy-gone-awry/
-image: jamestown-democracy-gone-awry.jpg
+image: /assets/images/jamestown-democracy-gone-awry.jpg
 categories:
   - Blog
 tags:

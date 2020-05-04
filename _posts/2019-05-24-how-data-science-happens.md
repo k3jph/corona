@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6970
 permalink: /2019/05/24/how-data-science-happens/
-image: how-data-science-happens.jpg
+image: /assets/images/how-data-science-happens.jpg
 categories:
   - Blog
 tags:

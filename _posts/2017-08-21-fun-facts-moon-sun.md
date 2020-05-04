@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5388
 permalink: /2017/08/21/fun-facts-moon-sun/
-image: fun-facts-moon-sun.jpg
+image: /assets/images/fun-facts-moon-sun.jpg
 categories:
   - Blog
 tags:

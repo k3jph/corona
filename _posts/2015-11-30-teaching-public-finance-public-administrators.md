@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3261
 permalink: /2015/11/30/teaching-public-finance-public-administrators/
 dsq_thread_id:
   - "4364502324"
-image: nyse.png
+image: /assets/images/nyse.png
 categories:
   - Blog
 tags:

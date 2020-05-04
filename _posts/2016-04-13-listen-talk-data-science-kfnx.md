@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3951
 permalink: /2016/04/13/listen-talk-data-science-kfnx/
 dsq_thread_id:
   - "4733449503"
-image: radio-studio.jpg
+image: /assets/images/radio-studio.jpg
 categories:
   - Blog
 tags:

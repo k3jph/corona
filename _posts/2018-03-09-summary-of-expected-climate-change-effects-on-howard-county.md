@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=6218
 permalink: /2018/03/09/summary-of-expected-climate-change-effects-on-howard-county/
-image: summary-of-expected-climate-change-effects-on-howard-county.jpg
+image: /assets/images/summary-of-expected-climate-change-effects-on-howard-county.jpg
 categories:
   - Blog
 tags:

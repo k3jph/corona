@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3054
 permalink: /2015/10/16/illinoiss-junk-bonds/
 dsq_thread_id:
   - "4230524033"
-image: lottery-174132_1920.jpg
+image: /assets/images/lottery-174132_1920.jpg
 categories:
   - Blog
 tags:

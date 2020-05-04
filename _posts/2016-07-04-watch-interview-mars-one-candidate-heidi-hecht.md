@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4265
 permalink: /2016/07/04/watch-interview-mars-one-candidate-heidi-hecht/
 dsq_thread_id:
   - "4960885083"
-image: mars-interview.jpg
+image: /assets/images/mars-interview.jpg
 categories:
   - News
 tags:

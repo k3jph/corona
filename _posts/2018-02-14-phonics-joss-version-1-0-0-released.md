@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5817
 permalink: /2018/02/14/phonics-joss-version-1-0-0-released/
-image: phonics-joss-version-1-0-0-released.jpg
+image: /assets/images/phonics-joss-version-1-0-0-released.jpg
 categories:
   - News
 tags:

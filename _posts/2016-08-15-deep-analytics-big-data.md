@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=4382
 permalink: /2016/08/15/deep-analytics-big-data/
 dsq_thread_id:
   - "5068970260"
-image: deep-analytics-big-data.jpg
+image: /assets/images/deep-analytics-big-data.jpg
 categories:
   - News
 tags:

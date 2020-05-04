@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2138
 permalink: /2015/06/05/place-space-christianisation-sagas/
 dsq_thread_id:
   - "3824856482"
-image: islendabok.png
+image: /assets/images/islendabok.png
 categories:
   - Blog
 tags:

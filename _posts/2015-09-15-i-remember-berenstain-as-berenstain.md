@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2836
 permalink: /2015/09/15/i-remember-berenstain-as-berenstain/
 dsq_thread_id:
   - "4130187754"
-image: 640.jpg
+image: /assets/images/640.jpg
 categories:
   - Blog
 tags:

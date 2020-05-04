@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=4004
 permalink: /2017/12/28/unlocking-the-box/
-image: unlocking-the-box.jpg
+image: /assets/images/unlocking-the-box.jpg
 categories:
   - Blog
 tags:

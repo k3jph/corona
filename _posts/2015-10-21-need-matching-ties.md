@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2908
 permalink: /2015/10/21/need-matching-ties/
 dsq_thread_id:
   - "4246734445"
-image: 1509204_1239854196035589_4994731678827953650_n.jpg
+image: /assets/images/1509204_1239854196035589_4994731678827953650_n.jpg
 categories:
   - Blog
 tags:

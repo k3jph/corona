@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: https://jameshoward.us/?p=5877
 permalink: /2017/12/22/tax-bill-wont-create-jobs/
-image: tax-bill-wont-create-jobs.jpg
+image: /assets/images/tax-bill-wont-create-jobs.jpg
 categories:
   - Blog
 tags:

@@ -12,7 +12,7 @@ instant_articles_submission_id:
   - "728292460682404"
 ampforwp_custom_content_editor_checkbox:
   - ""
-image: flexible.png
+image: /assets/images/flexible.png
 categories:
   - Blog
 tags:

@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: the-challenge-of-assessment-and-evaluation-in-online-education
 permalink: /2020/04/24/the-challenge-of-assessment-and-evaluation-in-online-education/
-image: the-challenge-of-assessment-and-evaluation-in-online-education.jpg
+image: /assets/images/the-challenge-of-assessment-and-evaluation-in-online-education.jpg
 categories:
   - Blog
 tags:

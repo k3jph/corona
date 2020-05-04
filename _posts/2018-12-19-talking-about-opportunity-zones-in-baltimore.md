@@ -6,7 +6,7 @@ author: James Howard
 layout: post
 guid: http://jameshoward.us/?p=6648
 permalink: /2018/12/19/talking-about-opportunity-zones-in-baltimore/
-image: talking-about-opportunity-zones-in-baltimore.png
+image: /assets/images/talking-about-opportunity-zones-in-baltimore.png
 categories:
   - News
 tags:

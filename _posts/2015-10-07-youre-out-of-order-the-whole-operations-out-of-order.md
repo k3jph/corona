@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2952
 permalink: /2015/10/07/youre-out-of-order-the-whole-operations-out-of-order/
 dsq_thread_id:
   - "4203857212"
-image: maxresdefault.jpg
+image: /assets/images/maxresdefault.jpg
 categories:
   - Blog
 tags:

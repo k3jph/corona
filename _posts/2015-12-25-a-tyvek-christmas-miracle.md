@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=3489
 permalink: /2015/12/25/a-tyvek-christmas-miracle/
 dsq_thread_id:
   - "4432962541"
-image: tyvek-painting-banner-840x300.png
+image: /assets/images/tyvek-painting-banner-840x300.png
 categories:
   - Blog
 tags:

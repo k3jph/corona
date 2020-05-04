@@ -8,7 +8,7 @@ guid: https://jameshoward.us/?p=2932
 permalink: /2015/10/04/stop-being-so-irrational/
 dsq_thread_id:
   - "4193067570"
-image: 1024px-Real_number_line.svg_.png
+image: /assets/images/1024px-Real_number_line.svg_.png
 categories:
   - Blog
 tags:
