@@ -271,3 +271,28 @@ a[class^=jh-] {
 .tag-cloud {
   text-align: center;
 }
+
+@media print {
+  .container {
+    max-width: 80rem;
+  }
+  .social-icon {
+    display: none;
+  }
+  .masthead-title {
+    text-align: left;
+  }
+  .masthead-title small {
+    display: inline;
+  }
+  img {
+    max-width: 500px;
+  }
+  .post-tags {
+    display: none;
+  }
+}
+
+@page {
+  margin: 2.5cm;
+}
