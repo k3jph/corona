@@ -6,7 +6,8 @@
     <figure>
         {% if include.link != null %}<a href="{{ include.link }}">{% endif %}
         <img class="featured-img" src="{{ site.baseurl }}/assets/images/{{ include.image }}"
-          alt="{{ include.alt | default: 'no description' }}"/>
+          alt="{{ include.alt | default: 'no description' }}"
+        {% if include.load != null %}loading="lazy"{% else %}loading="{{ include.loading }}"{% endif %}/>
         {% if include.link != null %}</a>{% endif %}
         {% if include.cap != null %}
             <figcaption class="images-caption">{{ include.cap }}</figcaption>
