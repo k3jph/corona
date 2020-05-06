@@ -22,7 +22,7 @@ tags:
   - NFIP
   - research
 ---
-As I am slowly building out this website, I wanted to create a page dedicated to the work I have done on my dissertation and the work that has grown out of it. Searching for a name, I finally settled on "[Flood Studies](http://jameshoward.us/research/flood-studies/)." That name encompasses so much more than just the environmental economics or homeland security aspects of the NFIP. It also encompasses more than the contents of my dissertation which included environmental economics, sociology, and public finance.
+As I am slowly building out this website, I wanted to create a page dedicated to the work I have done on my dissertation and the work that has grown out of it. Searching for a name, I finally settled on "[Flood Studies](http://jameshoward.us/scholarship/)." That name encompasses so much more than just the environmental economics or homeland security aspects of the NFIP. It also encompasses more than the contents of my dissertation which included environmental economics, sociology, and public finance.
 
 So I propose a new interdisciplinary field called "flood studies."  This field already exists and does not have a name but it does have a unifying theme.  The field includes contributions from:
 

@@ -22,7 +22,7 @@ This morning, Thomas Leeper [writes in his blog about the redundancy of the syll
 
 >  That nearly all departments offer a similar set of courses and that each of those courses is nearly identical to its analogue at other institutions, reflects a relatively broad consensus over what “political science” is and what students ought to know after completing a degree in the field. Our individual efforts might suggest some fundamental creativity that breaks us away from that shared understanding of the discipline, but often such efforts lead us back to a hard core of disciplinary knowledge.
 
-He's right, but wrong at the same time.  First of all, there is no shortage of syllabi on the Internet you can crib from.  My own from my public administration courses [are available here](/teaching/public-affairs).[^syllabi]
+He's right, but wrong at the same time.  First of all, there is no shortage of syllabi on the Internet you can crib from.  My own from my public administration courses [are available here](/teaching).[^syllabi]
 
 For any given textbook, searching for the title and the word syllabus in Google should get you some solid hits.  It's probably a bit easier to hit in the hard sciences, where entire departments tend to put theirs online.  But there are enough professors out there sharing it shouldn't be a problem.
 

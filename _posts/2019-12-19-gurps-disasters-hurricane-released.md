@@ -64,7 +64,7 @@ So anyway, I was at the Steve Jackson Games website when I started
 browsing the catalog and noticed they wanted someone to write up
 how to game a hurricane. I didn't know much about roleplaying but
 [I do know
-hurricanes](https://jameshoward.us/scholarship/environmental-studies/). So
+hurricanes](https://jameshoward.us/scholarship/). So
 I sent them a pitch and here we are!
 
 You can buy the sourcebook from [Warehouse 23 today for six

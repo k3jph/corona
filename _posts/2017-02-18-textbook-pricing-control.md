@@ -28,7 +28,7 @@ resources that are freely available.  It's had some downsides, but
 the upside is there, too.
 
 When I taught [public finance for the University of
-Baltimore](/teaching/public-affairs/), I reviewed four or five
+Baltimore](/teaching/), I reviewed four or five
 textbooks and one was [head-and-shoulders above the
 rest](http://edu.cengage.co.uk/catalogue/product.aspx?isbn=1285173953).  Of
 course, it was also the most expensive.  It clocked in at $330 in 2015. 

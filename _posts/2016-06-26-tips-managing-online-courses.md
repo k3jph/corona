@@ -22,7 +22,7 @@ I gave an interview to Shannon Lee of [Learn How to
 Become](http://www.learnhowtobecome.org), a website providing
 resources for students interested in landing the perfect career.
 The article, about how to succeed in online education, is based on
-my experiences teaching for [UMUC](/teaching/mathematics) for the
+my experiences teaching for [UMUC](/teaching) for the
 last few years!  Read more at [Learn How to Become](http://www.learnhowtobecome.org/online-universities-and-colleges/).
 
 _Image by [Sage Ross / Wikimedia

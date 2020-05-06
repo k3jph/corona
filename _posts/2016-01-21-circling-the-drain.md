@@ -27,7 +27,7 @@ tags:
   - stormwater management
   - water resources policy
 ---
-On Tuesday night, the Howard County Council heard testimony for a proposal to eliminate the Stormwater Management Fee.  I have stayed out of this debate, which has now raged on for a couple of years.  But that doesn't make sense since I kind of [know a lot about water policy](/research/environmental-policy) and I have [taught a lot of public finance](/teaching/public-affairs).  This kind of seems right up my alley.  So it's time to talk about it.
+On Tuesday night, the Howard County Council heard testimony for a proposal to eliminate the Stormwater Management Fee.  I have stayed out of this debate, which has now raged on for a couple of years.  But that doesn't make sense since I kind of [know a lot about water policy](/scholarship) and I have [taught a lot of public finance](/teaching).  This kind of seems right up my alley.  So it's time to talk about it.
 
 Right now, the fee is applied to all properties in Howard County based on what percentage of their land is covered with impervious surfaces.  Surfaces are, basically, roofs and pavement, though esoteric options exist.  As we know from [decades of floodplain management experience](http://water.usgs.gov/edu/impervious.html), water doesn't penetrate into impervious surfaces and when it does  runoff to grass or a pervious surface, the ground does not usually have the capacity to absorb excess runoff.  For once-in-a-lifetime storms, this is unavoidable.  But next to, say, a parking lot, every rainfall is a once-in-a-lifetime storm event.  Most recently, we have seen [in Illinois how buildout have moved the floodplain](https://jameshoward.us/2015/10/14/illinois-discovers-land-cover-increases-flooding/), and not away from people.  
 

@@ -29,4 +29,4 @@ that I have not posted before:
 
 Also, while I was at it, I posted my syllabus for this summer's
 [research methods course at Penn
-State](https://jameshoward.us/teaching/public-affairs/).
+State](https://jameshoward.us/teaching/).
