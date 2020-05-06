@@ -26,8 +26,8 @@ redirect_from:
       {% capture tagslug %}{{ tag | slugify }}{% endcapture %}
       {% assign tagsize = site.tags[tag] | size %}
       {% assign minposts = n | divided_by: 4 %}
-      {% if tagsize > 20 %}
-         <span style="font-size: {{ tagsize | times: 1000 | divided_by: site.tags.size | plus: 100 }}%">
+      {% if tagsize > 12 %}
+         <span style="font-size: {{ tagsize | times: 1000 | divided_by: site.tags.size | plus: 60 }}%">
             <a href="#{{tagslug}}"><nobr>{{tag}}</nobr></a>  
          </span>
       {% endif %}
