@@ -32,8 +32,10 @@ I have taught undergraduate mathematics at the [University of Maryland Global Ca
     *   [Summer 2015 (OL1) Syllabus](/assets/docs/MATH-106-Summer-2015-OL1.pdf)
     *   [Spring 2015 (OL4) Syllabus](/assets/docs/MATH-106-Spring-2015-OL4.pdf)
     *   [Fall 2014 (OL4) Syllabus](/assets/docs/MATH-106-Fall-2014-OL4.pdf)
-*   **MATH 107 College Algebra** A gentle introduction college-level algebra including equations, inequalities, graphing, and polynomial and exponential equations.
-    *   [Spring 2019 (OL4) Syllabus](/assets/docs/MATH-107-Spring-2019-OL4.pdf)
+*   **MATH 107 College Algebra** A gentle introduction college-level algebra including equations, inequalities, graphing, and polynomial and exponential equations. MATH-107-Spring-2020-OL1.pdf
+    *   [Spring 2020 (OL1) Syllabus](/assets/docs/MATH-107-Spring-2020-OL1.pdf)
+    *   [Fall 2019 (OL4) Syllabus](/assets/docs/MATH-107-Fall-2019-OL4.pdf)
+    *   [Fall 2019 (OL4) Syllabus](/assets/docs/MATH-107-Fall-2019-OL1.pdf)
     *   [Spring 2019 (OL1) Syllabus](/assets/docs/MATH-107-Spring-2019-OL1.pdf)
     *   [Summer 2018 (OL3) Syllabus](/assets/docs/UMUC-MATH107-Summer-2018-OL3-Syllabus.pdf)
     *   [Summer 2018 (OL1) Syllabus](/assets/docs/UMUC-MATH107-Summer-2018-OL1-Syllabus.pdf)
@@ -61,6 +63,8 @@ I have also taught other courses from the mathematics program:
 Finally, I have taught courses from our statistics program. We are now down to just STAT 200, but we previously had an array of thematically-linked statistics classes for business, social science, and computer science:
 
 *   **STAT 200 Introduction to Statistics** This is an introduction to applied statistics. Probability, t-tests, and [latex]\chi^2[/latex]-tests are introduced. Application areas are broadly selected from across many different fields.
+STAT-200-Spring-2020-OL4.pdf
+    *   [Spring 2020 (OL4) Syllabus](/assets/docs/STAT-200-Spring-2020-OL4.pdf)
     *   [Fall 2017 (OL1) Syllabus](/assets/docs/STAT200-Syllabus-Fall-2017-OL1.pdf)
 *   **STAT 230 Introductory Business Statistics** This is is essentially the same as STAT 200, but the examples are drawn primarily from business settings and include production and finance problems. This class has since been discontinued in favor of STAT 200, above, as a generalized statistics course.
 
@@ -86,6 +90,7 @@ In the spring of 2017, I started occasionally teaching in the [Master of Science
 In the fall of 2018, I was invited to cover a course for the [Penn State master of public administration program](https://harrisburg.psu.edu/public-affairs/public-administration/master-public-administration).
 
 *   **PADM 503 Research Methods** Like MSA 600 at Central Michigan, this course covers the basic research process with a specific application to public management. One interesting feature of this course is an explicit SPSS knowledge requirement.
+    *   [Spring 2020 Syllabus](/assets/docs/PADM-503-Spring-2020.pdf)
     *   [Summer 2019 Syllabus](/assets/docs/PADM-503-Summer-2019.pdf)
     *   [Fall 2018 Syllabus](/assets/docs/PADM503-Syllabus-Fall2018.pdf)
 
