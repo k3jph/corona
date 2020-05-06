@@ -24,7 +24,7 @@ In my spare time, I serve Howard County, Maryland, as [a member of the Board of
 
 * Ph.D., Public Policy, [University of Maryland Baltimore County](https://publicpolicy.umbc.edu/)
     * C.Phil., Public Policy
-* M.S., Environmental Engineering and Science, the [Johns Hopkins](https://engineering.jhu.edu/) [University](https://ehe.jhu.edu/)
+* M.S., Environmental Engineering and Science, the [Johns Hopkins University](https://ehe.jhu.edu/)
 * M.P.A., Public Policy and Administration, [University of Baltimore](http://www.ubalt.edu/cpa/about-the-college/schools/school-of-public-and-international-affairs/index.cfm)
 * B.S., Mathematics, [University of Maryland, College Park](https://www-math.umd.edu/)
     * College Park Scholars Citation, [International Studies](https://scholars.umd.edu/programs/is)
