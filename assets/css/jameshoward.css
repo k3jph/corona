@@ -285,9 +285,6 @@ a[class^=jh-] {
   .masthead-title small {
     display: inline;
   }
-  img {
-    max-width: 500px;
-  }
   .post-tags {
     display: none;
   }
