@@ -20,6 +20,10 @@ search.addWidgets([
         showSubmit: true,
     }),
 
+    instantsearch.widgets.poweredBy({
+        container: '#powered-by',
+    }),
+    
     instantsearch.widgets.hits({
         container: '#hits',
         transformItems: function (items) {
