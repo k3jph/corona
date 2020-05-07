@@ -1,6 +1,6 @@
 ---
 id: 508
-title: 'My letter in Significance Magazine&#8230;'
+title: "My letter in Significance Magazine..."
 date: 2013-08-21T21:03:00-04:00
 author: James Howard
 layout: post

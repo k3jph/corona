@@ -1,6 +1,6 @@
 ---
 id: 6154
-title: 'Flood Insurance Renewed&#8230;Again'
+title: "Flood Insurance Renewed...Again"
 date: 2018-02-12T20:47:06-05:00
 author: James Howard
 layout: post

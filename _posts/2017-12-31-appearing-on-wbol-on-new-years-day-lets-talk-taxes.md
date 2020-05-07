@@ -1,6 +1,6 @@
 ---
 id: 5906
-title: 'Appearing on WBOL on New Year&#8217;s Day, Let&#8217;s Talk Taxes'
+title: "Appearing on WBOL on New Year's Day, Let's Talk Taxes"
 date: 2017-12-31T14:23:58-05:00
 author: James Howard
 layout: post

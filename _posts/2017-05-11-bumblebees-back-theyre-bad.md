@@ -1,6 +1,6 @@
 ---
 id: 5000
-title: 'The Bumblebees are Back, and They&#8217;re Bad!'
+title: "The Bumblebees are Back, and They're Bad!"
 date: 2017-05-11T20:51:27-04:00
 author: James Howard
 layout: post

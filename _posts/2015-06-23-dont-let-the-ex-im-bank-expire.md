@@ -1,6 +1,6 @@
 ---
 id: 2825
-title: 'Don&#8217;t Let the Ex-Im Bank Expire'
+title: "Don't Let the Ex-Im Bank Expire"
 date: 2015-06-23T12:16:00-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3137
-title: 'Government Bonds Aren&#8217;t That Reliable'
+title: "Government Bonds Aren't That Reliable"
 date: 2008-03-12T10:57:22-04:00
 author: James Howard
 layout: post

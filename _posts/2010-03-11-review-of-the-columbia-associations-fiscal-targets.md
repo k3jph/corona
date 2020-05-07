@@ -1,6 +1,6 @@
 ---
 id: 684
-title: 'Review of the Columbia Association&#8217;s Fiscal Targets'
+title: "Review of the Columbia Association's Fiscal Targets"
 date: 2010-03-11T01:11:49-05:00
 author: James Howard
 layout: post

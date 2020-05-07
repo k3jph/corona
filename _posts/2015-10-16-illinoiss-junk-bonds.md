@@ -1,6 +1,6 @@
 ---
 id: 3054
-title: 'Illinois&#8217;s Junk Bonds'
+title: "Illinois's Junk Bonds"
 date: 2015-10-16T08:27:24-04:00
 author: James Howard
 layout: post

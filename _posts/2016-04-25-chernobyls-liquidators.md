@@ -1,6 +1,6 @@
 ---
 id: 3985
-title: 'Chernobyl&#8217;s Liquidators'
+title: "Chernobyl's Liquidators"
 date: 2016-04-25T17:23:42-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2484
-title: 'Criticize Mars One, but Don&#8217;t Stand in Their Way'
+title: "Criticize Mars One, but Don't Stand in Their Way"
 date: 2015-08-18T23:44:59-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2470
-title: 'One Flew Over the Cuckoo&#8217;s Egg'
+title: "One Flew Over the Cuckoo's Egg"
 date: 2015-08-17T18:12:16-04:00
 author: James Howard
 layout: post

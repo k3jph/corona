@@ -1,6 +1,6 @@
 ---
 id: 2257
-title: 'Valacer&#8217;s Article on the NFIP'
+title: "Valacer's Article on the NFIP"
 date: 2015-06-30T22:16:28-04:00
 author: James Howard
 layout: post

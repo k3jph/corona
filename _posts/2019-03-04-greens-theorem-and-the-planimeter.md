@@ -1,6 +1,6 @@
 ---
 id: 6868
-title: 'Green&#8217;s Theorem and the Planimeter'
+title: "Green's Theorem and the Planimeter"
 date: 2019-03-04T07:19:31-05:00
 author: James Howard
 layout: post

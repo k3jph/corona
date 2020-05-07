@@ -1,6 +1,6 @@
 ---
 id: 6889
-title: 'Stokes&#8217; Theorem and Green&#8217;s Theorem'
+title: "Stokes' Theorem and Green's Theorem"
 date: 2019-03-09T18:37:36-05:00
 author: James Howard
 layout: post

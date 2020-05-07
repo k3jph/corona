@@ -1,6 +1,6 @@
 ---
 id: 2210
-title: 'Don&#8217;t Kill the Mac'
+title: "Don't Kill the Mac"
 date: 2015-06-18T18:33:54-04:00
 author: James Howard
 layout: post

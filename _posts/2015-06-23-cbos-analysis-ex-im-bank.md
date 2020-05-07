@@ -1,6 +1,6 @@
 ---
 id: 2241
-title: 'CBO&#8217;s Analysis of Ex-Im Bank'
+title: "CBO's Analysis of Ex-Im Bank"
 date: 2015-06-23T09:52:59-04:00
 author: James Howard
 layout: post

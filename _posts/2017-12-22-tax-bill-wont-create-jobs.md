@@ -1,6 +1,6 @@
 ---
 id: 5877
-title: 'How The Tax Bill Won&#8217;t Create Jobs'
+title: "How The Tax Bill Won't Create Jobs"
 date: 2017-12-22T20:31:21-05:00
 author: James Howard
 layout: post

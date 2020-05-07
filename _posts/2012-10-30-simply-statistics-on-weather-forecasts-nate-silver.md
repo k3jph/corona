@@ -1,6 +1,6 @@
 ---
 id: 440
-title: 'Simply Statistics: On weather forecasts, Nate Silver, and the politicization of statistical illiteracy'
+title: "Simply Statistics: On weather forecasts, Nate Silver, and the politicization of statistical illiteracy"
 date: 2012-10-30T20:59:27-04:00
 author: James Howard
 layout: post

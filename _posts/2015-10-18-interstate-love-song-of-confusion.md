@@ -1,6 +1,6 @@
 ---
 id: 3037
-title: 'Interstate Love Song&#8230;of Confusion'
+title: "Interstate Love Song...of Confusion"
 date: 2015-10-18T08:55:46-04:00
 author: James Howard
 layout: post

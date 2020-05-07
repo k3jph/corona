@@ -1,6 +1,6 @@
 ---
 id: 5607
-title: 'Won&#8217;t Someone Please Think of the Sushi?'
+title: "Won't Someone Please Think of the Sushi?"
 date: 2017-10-07T08:04:07-04:00
 author: James Howard
 layout: post

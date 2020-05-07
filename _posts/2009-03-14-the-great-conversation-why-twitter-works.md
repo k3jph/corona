@@ -1,6 +1,6 @@
 ---
 id: 3076
-title: 'The Great Conversation:  Why Twitter Works'
+title: "The Great Conversation:  Why Twitter Works"
 date: 2009-03-14T18:24:35-04:00
 author: James Howard
 layout: post

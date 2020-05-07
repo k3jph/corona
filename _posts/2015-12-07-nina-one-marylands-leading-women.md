@@ -1,6 +1,6 @@
 ---
 id: 3288
-title: 'Nina is one of Maryland&#8217;s Leading Women'
+title: "Nina is one of Maryland's Leading Women"
 date: 2015-12-07T17:30:21-05:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 7171
-title: '[latex]p[/latex]-hacking and Data Science'
+title: "[latex]p[/latex]-hacking and Data Science"
 date: 2019-11-11T10:06:54-05:00
 author: James Howard
 layout: post

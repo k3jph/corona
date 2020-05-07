@@ -1,6 +1,6 @@
 ---
 id: 2300
-title: 'Touchscreens: A New Hope'
+title: "Touchscreens: A New Hope"
 date: 2015-07-22T08:39:47-04:00
 author: James Howard
 layout: post

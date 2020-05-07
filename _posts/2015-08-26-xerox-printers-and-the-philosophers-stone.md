@@ -1,6 +1,6 @@
 ---
 id: 2607
-title: 'Xerox Printers and the Philosopher&#8217;s Stone'
+title: "Xerox Printers and the Philosopher's Stone"
 date: 2015-08-26T08:49:49-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4269
-title: 'Listen to My Interview About &#8220;the Purge&#8221; on KPHX'
+title: 'Listen to My Interview About "the Purge" on KPHX'
 date: 2016-07-04T18:17:10-04:00
 author: James Howard
 layout: post

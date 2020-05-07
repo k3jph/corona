@@ -1,6 +1,6 @@
 ---
 id: 4828
-title: 'Gelman&#8217;s Candy Weighing Demonstration'
+title: "Gelman's Candy Weighing Demonstration"
 date: 2017-03-12T17:31:41-04:00
 author: James Howard
 layout: post

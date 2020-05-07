@@ -1,6 +1,6 @@
 ---
 id: 2992
-title: 'Questions about the Benedict XVI&#8217;s abdication'
+title: "Questions about the Benedict XVI's abdication"
 date: 2013-02-11T20:39:53-05:00
 author: James Howard
 layout: post

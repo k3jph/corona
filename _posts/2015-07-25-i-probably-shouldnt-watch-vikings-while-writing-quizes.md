@@ -1,6 +1,6 @@
 ---
 id: 2319
-title: 'I probably shouldn&#8217;t watch Vikings while writing quizes'
+title: "I probably shouldn't watch Vikings while writing quizes"
 date: 2015-07-25T09:46:14-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2214
-title: 'So I&#8217;m Going to Mars&#8230;'
+title: "So I'm Going to Mars..."
 date: 2015-06-20T07:01:32-04:00
 author: James Howard
 layout: post

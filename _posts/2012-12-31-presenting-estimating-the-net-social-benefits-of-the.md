@@ -1,6 +1,6 @@
 ---
 id: 438
-title: 'Presenting &quot;Estimating the Net Social Benefits of the NFIP&quot; at the Benefit-Cost Society Conference in Februrary'
+title: "Presenting &quot;Estimating the Net Social Benefits of the NFIP&quot; at the Benefit-Cost Society Conference in Februrary"
 date: 2012-12-31T22:26:36-05:00
 author: James Howard
 layout: post

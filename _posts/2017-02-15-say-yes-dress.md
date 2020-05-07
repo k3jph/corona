@@ -1,6 +1,6 @@
 ---
 id: 4762
-title: 'Say &#8220;Yes&#8221; to the Dress'
+title: 'Say "Yes" to the Dress'
 date: 2017-02-15T19:41:53-05:00
 author: James Howard
 layout: post

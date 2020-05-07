@@ -1,6 +1,6 @@
 ---
 id: 2636
-title: 'I didn&#8217;t have time to write a short blog post, so I wrote you a long one'
+title: "I didn't have time to write a short blog post, so I wrote you a long one"
 date: 2015-08-29T08:00:34-04:00
 author: James Howard
 layout: post

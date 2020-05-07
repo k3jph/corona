@@ -1,6 +1,6 @@
 ---
 id: 4110
-title: 'Cell Phones Still Don&#8217;t Cause Cancer'
+title: "Cell Phones Still Don't Cause Cancer"
 date: 2016-06-01T07:42:40-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 945
-title: 'Financial Metrics for Homeowners&#8217; Associations'
+title: "Financial Metrics for Homeowners' Associations"
 date: 2014-03-14T14:44:15-04:00
 author: James Howard
 layout: post

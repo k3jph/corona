@@ -1,6 +1,6 @@
 ---
 id: 3225
-title: 'Empire on the Hudson: Entrepreneurial Vision and Political Power at the Port of New York Authority'
+title: "Empire on the Hudson: Entrepreneurial Vision and Political Power at the Port of New York Authority"
 date: 2008-02-10T07:39:59-05:00
 author: James Howard
 layout: post

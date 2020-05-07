@@ -1,6 +1,6 @@
 ---
 id: 7186
-title: 'Creating a Two-Phase Clock&#8230;Almost'
+title: "Creating a Two-Phase Clock...Almost"
 date: 2019-11-20T11:19:24-05:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4342
-title: 'My Review of Monogan&#8217;s Political Analysis Using R'
+title: "My Review of Monogan's Political Analysis Using R"
 date: 2016-10-22T20:04:11-04:00
 author: James Howard
 layout: post

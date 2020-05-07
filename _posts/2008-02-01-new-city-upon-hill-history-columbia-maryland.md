@@ -1,6 +1,6 @@
 ---
 id: 3248
-title: 'New City Upon a Hill: A History of Columbia, Maryland'
+title: "New City Upon a Hill: A History of Columbia, Maryland"
 date: 2008-02-01T19:14:33-05:00
 author: James Howard
 layout: post

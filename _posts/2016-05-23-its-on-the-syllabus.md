@@ -1,6 +1,6 @@
 ---
 id: 4074
-title: 'It&#8217;s on the Syllabus'
+title: "It's on the Syllabus"
 date: 2016-05-23T21:46:39-04:00
 author: James Howard
 layout: post

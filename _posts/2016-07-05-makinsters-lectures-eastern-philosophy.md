@@ -1,6 +1,6 @@
 ---
 id: 4278
-title: 'Makinster&#8217;s Lectures on Eastern Philosophy'
+title: "Makinster's Lectures on Eastern Philosophy"
 date: 2016-07-05T16:17:15-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 7236
-title: 'GURPS Disasters: Hurricane released!'
+title: "GURPS Disasters: Hurricane released!"
 date: 2019-12-19T20:34:38-05:00
 author: James Howard
 layout: post

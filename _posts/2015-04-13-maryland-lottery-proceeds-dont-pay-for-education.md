@@ -1,6 +1,6 @@
 ---
 id: 2016
-title: 'Maryland Lottery Proceeds Don&#8217;t Pay for Education'
+title: "Maryland Lottery Proceeds Don't Pay for Education"
 date: 2015-04-13T19:05:07-04:00
 author: James Howard
 layout: post

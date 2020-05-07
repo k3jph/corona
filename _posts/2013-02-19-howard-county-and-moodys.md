@@ -1,6 +1,6 @@
 ---
 id: 516
-title: 'Howard County and Moody&#039;s'
+title: "Howard County and Moody's"
 date: 2013-02-19T01:22:19-05:00
 author: James Howard
 layout: post

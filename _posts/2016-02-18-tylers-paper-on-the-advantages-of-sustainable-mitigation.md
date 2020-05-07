@@ -1,6 +1,6 @@
 ---
 id: 3838
-title: 'Tyler&#8217;s Paper on the Advantages of Sustainable Mitigation'
+title: "Tyler's Paper on the Advantages of Sustainable Mitigation"
 date: 2016-02-18T18:54:16-05:00
 author: James Howard
 layout: post

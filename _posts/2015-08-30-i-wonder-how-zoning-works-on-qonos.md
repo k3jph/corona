@@ -1,6 +1,6 @@
 ---
 id: 2626
-title: 'I wonder how zoning works on Qo&#8217;noS'
+title: "I wonder how zoning works on Qo'noS"
 date: 2015-08-30T08:34:28-04:00
 author: James Howard
 layout: post

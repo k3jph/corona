@@ -1,6 +1,6 @@
 ---
 id: 4397
-title: 'Why I Won&#8217;t Play Greedy Dice'
+title: "Why I Won't Play Greedy Dice"
 date: 2016-08-22T20:24:26-04:00
 author: James Howard
 layout: post

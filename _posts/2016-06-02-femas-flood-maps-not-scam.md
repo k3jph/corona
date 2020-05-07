@@ -1,6 +1,6 @@
 ---
 id: 4141
-title: 'FEMA&#8217;s Flood Maps Are Not a Scam'
+title: "FEMA's Flood Maps Are Not a Scam"
 date: 2016-06-02T22:06:30-04:00
 author: James Howard
 layout: post

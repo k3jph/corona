@@ -1,6 +1,6 @@
 ---
 id: 2351
-title: 'Radians Aren&#8217;t So Bad'
+title: "Radians Aren't So Bad"
 date: 2015-08-21T17:39:41-04:00
 author: James Howard
 layout: post

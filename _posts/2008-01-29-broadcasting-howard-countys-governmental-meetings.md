@@ -1,6 +1,6 @@
 ---
 id: 3343
-title: 'Broadcasting Howard County&#8217;s Governmental Meetings'
+title: "Broadcasting Howard County's Governmental Meetings"
 date: 2008-01-29T20:22:48-05:00
 author: James Howard
 layout: post

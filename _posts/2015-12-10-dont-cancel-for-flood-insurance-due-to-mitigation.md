@@ -1,6 +1,6 @@
 ---
 id: 3320
-title: 'Don&#8217;t Cancel Flood Insurance due to Mitigation'
+title: "Don't Cancel Flood Insurance due to Mitigation"
 date: 2015-12-10T08:05:03-05:00
 author: James Howard
 layout: post

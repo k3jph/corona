@@ -1,6 +1,6 @@
 ---
 id: 1670
-title: 'Public Goods Often Aren&#8217;t'
+title: "Public Goods Often Aren't"
 date: 2014-12-02T06:32:43-05:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2216
-title: 'I&#8217;m Going to MathFest&#8230;'
+title: "I'm Going to MathFest..."
 date: 2015-06-21T09:58:13-04:00
 author: James Howard
 layout: post

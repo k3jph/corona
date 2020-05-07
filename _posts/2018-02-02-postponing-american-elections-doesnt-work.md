@@ -1,6 +1,6 @@
 ---
 id: 6052
-title: 'Postponing American Elections Doesn&#8217;t Work'
+title: "Postponing American Elections Doesn't Work"
 date: 2018-02-02T22:18:58-05:00
 author: James Howard
 layout: post

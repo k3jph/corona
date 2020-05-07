@@ -1,6 +1,6 @@
 ---
 id: 1646
-title: 'It&#8217;s better than pay-for-play contracts'
+title: "It's better than pay-for-play contracts"
 date: 2014-11-18T20:50:46-05:00
 author: James Howard
 layout: post

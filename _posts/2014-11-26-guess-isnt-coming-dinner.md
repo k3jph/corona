@@ -1,6 +1,6 @@
 ---
 id: 1667
-title: 'Guess who (isn&#8217;t) coming to dinner'
+title: "Guess who (isn't) coming to dinner"
 date: 2014-11-26T16:26:20-05:00
 author: James Howard
 layout: post

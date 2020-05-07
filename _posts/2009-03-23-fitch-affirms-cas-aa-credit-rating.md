@@ -1,6 +1,6 @@
 ---
 id: 3033
-title: 'Fitch Affirms CA&#8217;s AA Credit Rating'
+title: "Fitch Affirms CA's AA Credit Rating"
 date: 2009-03-23T21:19:20-04:00
 author: James Howard
 layout: post

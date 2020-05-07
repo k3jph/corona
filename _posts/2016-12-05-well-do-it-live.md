@@ -1,6 +1,6 @@
 ---
 id: 4532
-title: 'We&#8217;ll Do It Live!'
+title: "We'll Do It Live!"
 date: 2016-12-05T21:43:17-05:00
 author: James Howard
 layout: post

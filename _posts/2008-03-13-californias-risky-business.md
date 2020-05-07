@@ -1,6 +1,6 @@
 ---
 id: 3136
-title: 'California&#8217;s risky business'
+title: "California's risky business"
 date: 2008-03-13T10:15:45-04:00
 author: James Howard
 layout: post

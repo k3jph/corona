@@ -1,6 +1,6 @@
 ---
 id: 2058
-title: 'I Told You Rates Weren&#8217;t Changing'
+title: "I Told You Rates Weren't Changing"
 date: 2015-04-30T21:24:48-04:00
 author: James Howard
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3700
-title: 'Don&#8217;t Take the Annuity'
+title: "Don't Take the Annuity"
 date: 2016-01-13T06:02:30-05:00
 author: James Howard
 layout: post

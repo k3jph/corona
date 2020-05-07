@@ -1,6 +1,6 @@
 ---
 id: 3792
-title: 'Pennsylvania&#8217;s Flood Insurance Exchange'
+title: "Pennsylvania's Flood Insurance Exchange"
 date: 2016-02-11T16:49:11-05:00
 author: James Howard
 layout: post

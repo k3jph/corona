@@ -1,6 +1,6 @@
 ---
 id: 4302
-title: 'Again, I am Going to Mars&#8230;'
+title: "Again, I am Going to Mars..."
 date: 2016-07-14T20:10:33-04:00
 author: James Howard
 layout: post
