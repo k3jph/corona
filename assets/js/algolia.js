@@ -1,8 +1,11 @@
+---
+    layout: null
+---
 /* global instantsearch algoliasearch */
 
 const search = instantsearch({
-    indexName: 'jekyll-jameshoward-us',
-    searchClient: algoliasearch('GI59X4R5CO', '867898ddd747a87edb66f2a825909281'),
+    indexName: '{{ site.algolia.index_name }}',
+    searchClient: algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}'),
 
     searchFunction: function (helper) {
         if (helper.state.query) {
@@ -11,6 +14,7 @@ const search = instantsearch({
     },
 });
 
+{% raw %}
 search.addWidgets([
     instantsearch.widgets.searchBox({
         container: '#searchbox',
@@ -61,3 +65,4 @@ if (typeof searchQuery !== 'undefined' && searchQuery !== 'undefined') {
     search.helper.setQuery(searchQuery); 
     search.helper.search();
 }
+{% endraw %}
