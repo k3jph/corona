@@ -10,6 +10,32 @@ menu-order:     90
 menu-label:     Books
 ---
 
+## Teaching and Learning Mathematics Online
+### Edited with John F. Beyers
+
+{% include figure.html image="tlmo-cover-300px.jpg"
+   placement="right" link="/tlmo" width="40%"
+   alt="Teaching and Learning Mathematics Online book cover" %}
+
+Online education has grown to be a major component of the higher
+education market in both the United States and worldwide. Students
+take entire degree programs online or selected courses online for
+convenience. In addition, many instructors have adopted online
+resources to support face-to-face instruction, either as a supplement
+or through flipping-the-classroom, which pushes most instruction
+outside the traditional classroom. Teaching and learning online
+introduces a number of complications ranging from effective assessment
+to managing student engagement. In mathematics and statistics
+courses, these complications emphasize already existing difficulties
+in working with students with math anxiety, the abstractness of the
+material, and notation. We will bridge these issues and present
+meaningful solutions for teaching and learning mathematics online.
+
+This book is co-edited with [John F.
+Beyers](https://www.linkedin.com/in/john-beyers-ph-d-8948a59/),
+program chair for mathematics and statistics at the [University of
+Maryland Global Campus](http://www.umuc.edu/).
+
 ## Handbook of Military and Defense Operations Research
 ### Edited with Natalie M. Scala
 
@@ -75,29 +101,3 @@ NFIP and FMA programs. Sensitivity analysis is conducted on all
 results. Presented through each component of the analysis are models
 usable by others for extending and revising the analysis, or applying
 to other programs.
-
-## Teaching and Learning Mathematics Online
-### Edited with John F. Beyers
-
-{% include figure.html image="tlmo-cover-300px.jpg"
-   placement="right" link="/tlmo" width="40%"
-   alt="Teaching and Learning Mathematics Online book cover" %}
-
-Online education has grown to be a major component of the higher
-education market in both the United States and worldwide. Students
-take entire degree programs online or selected courses online for
-convenience. In addition, many instructors have adopted online
-resources to support face-to-face instruction, either as a supplement
-or through flipping-the-classroom, which pushes most instruction
-outside the traditional classroom. Teaching and learning online
-introduces a number of complications ranging from effective assessment
-to managing student engagement. In mathematics and statistics
-courses, these complications emphasize already existing difficulties
-in working with students with math anxiety, the abstractness of the
-material, and notation. We will bridge these issues and present
-meaningful solutions for teaching and learning mathematics online.
-
-This book is co-edited with [John F.
-Beyers](https://www.linkedin.com/in/john-beyers-ph-d-8948a59/),
-program chair for mathematics and statistics at the [University of
-Maryland Global Campus](http://www.umuc.edu/).
