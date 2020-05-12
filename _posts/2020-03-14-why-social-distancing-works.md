@@ -49,7 +49,7 @@ Using the picture above, I have labeled 2 points, [latex]t_{\alpha}[/latex]
 and [latex]t_{\beta}[/latex], as the two points where the unmitigated
 curve crosses the dashed line. The dashed line can actually be any
 value, it is just the hospital carrying capacity in this plot. If
-that represents [latex]n_\star[/latex] people who are infected,
+that represents [latex]n^\star[/latex] people who are infected,
 then we can expect in the unmitigated case, those [latex]n^\star[/latex]
 people to get [latex]n^\star \times R_0[/latex] people infected in
 the next time step, [latex]t_{\alpha+1}[/latex]. At
