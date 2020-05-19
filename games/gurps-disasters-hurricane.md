@@ -31,7 +31,14 @@ puts the "story" in "stormy!"
 ## Links
 
 *   [Warehouse 23](http://www.warehouse23.com/products/gurps-disasters-hurricane)
+*   [DriveThruRPG](https://www.drivethrurpg.com/product/310259/)
 *   [RPGGeek](https://rpggeek.com/rpgitem/296637/hurricane)
+
+## Campaigns
+
+* [Storm Audrea](https://trynser.fandom.com/wiki/Storm_Audrea) --
+  Audrea hit Delctra's Cauldron Borough in Michael Lee Viviano's
+  extraordinary [Trynser City](https://trynser.fandom.com/wiki/Citadel%27s_Reach).
 
 ## Related Posts
 
