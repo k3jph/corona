@@ -11,7 +11,7 @@ categories:
   - News
 tags:
   - environmental studies
-  - flood studies
+  - flood insurance
   - Hurricane Harvey
   - NFIP
 ---

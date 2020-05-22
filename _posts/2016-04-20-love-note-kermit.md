@@ -21,7 +21,6 @@ tags:
   - history
   - Intel Galileo
   - Raspberry Pi
-  - software development
   - software engineering
   - systems science
   - telecommunications

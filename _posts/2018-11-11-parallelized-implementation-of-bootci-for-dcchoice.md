@@ -17,6 +17,7 @@ tags:
   - R
   - rstats
   - willingness to pay
+  - SciServer
 ---
 I've been helping a small team work on some willingness-to-pay
 analysis using double-bounded choice survey data. I'll post more

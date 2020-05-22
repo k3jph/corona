@@ -15,14 +15,13 @@ dsq_thread_id:
 categories:
   - Blog
 tags:
-  - coursera
+  - Coursera
   - higher education
   - math education
   - mathematics
   - MOOC
   - teaching
   - UMGC
-  - UMUC
 ---
 I started teaching at the [University of Maryland University College](http://www.umuc.edu) (UMUC), a distance education institution, in the spring term of 2011. Someone from UMUC had emailed asking if I'd be interesting in teaching there in the spring of 2010. I followed up and following an interview, was given an adjunct appointment (adjunct instructor) in what was then called the School of Undergraduate Studies (now called the Undergraduate School). I teach in the mathematics and statistics group, mostly freshman mathematics courses such as finite mathematics, college algebra, and trigonometry.
 

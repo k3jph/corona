@@ -11,8 +11,7 @@ categories:
   - Blog
 tags:
   - climate change
-  - Earth science
-  - environmental chemistry
+  - environmental science
   - environmental studies
   - industrial pollution
 ---

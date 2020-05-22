@@ -16,7 +16,6 @@ tags:
   - statistics
   - teaching
   - UMGC
-  - UMUC
 ---
 Last night, I submitted the grades for the summer session of MATH 106, Finite Mathematics, at [UMUC](http://www.umuc.edu). Teaching Finite Mathematics is kind of a mixed bag and this term, was my first hybrid 106 session. So I began the first night with a warning to my students that this would be the worst class they would ever take. It is an eight-week class and we cover several broad topics pretty quickly:
 

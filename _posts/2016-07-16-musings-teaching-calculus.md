@@ -18,7 +18,6 @@ tags:
   - math education
   - mathematics
   - UMGC
-  - UMUC
 ---
 I am teaching calculus again this fall after a few months off from
 teaching.  This will be interesting.  Last spring I taught calculus

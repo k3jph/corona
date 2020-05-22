@@ -21,7 +21,6 @@ tags:
   - DOS
   - embedded systems
   - programming
-  - software development
   - software engineering
   - systems science
 ---

@@ -19,7 +19,6 @@ tags:
   - mathematics
   - syllabi
   - UMGC
-  - UMUC
 ---
 I don't usually post my math syllabi, but I have realized this is
 probably a bad habit.  Or a good habit I don't have.  Or something.

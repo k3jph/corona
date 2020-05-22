@@ -14,7 +14,6 @@ tags:
   - syllabi
   - teaching
   - UMGC
-  - UMUC
 ---
 I recently happened upon a cache of old syllabi [for my math courses
 going to back to the](/teaching) fall of 2014. As these syllabi are

@@ -17,7 +17,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 It's from back in April, but Confessions of a Community College Dean has a [great post on extra credit](http://suburbdad.blogspot.com/2015/04/can-i-do-something-for-extra-credit.html). This is a great outline for why I don't like offering extra credit in my classes.  It's inherently inequitable.  And very difficult to administer.
 

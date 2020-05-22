@@ -16,7 +16,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 [Two years after I wrote my big grading
 rubric](/2014/06/12/my-first-math-assignment-rubric/) in our

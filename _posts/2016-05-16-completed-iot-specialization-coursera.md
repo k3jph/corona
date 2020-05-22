@@ -21,7 +21,6 @@ tags:
   - GPS
   - Raspberry Pi
   - RF engineering
-  - software development
   - software engineering
   - space robots
   - systems engineering

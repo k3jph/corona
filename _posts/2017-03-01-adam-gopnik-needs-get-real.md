@@ -16,7 +16,6 @@ tags:
   - human computer interaction
   - metaphysics
   - philosophy
-  - social science
 ---
 Adam Gopnik has a strange essay in _The New Yorker_, suggesting
 that the confluence of unusual events confirms the simulation

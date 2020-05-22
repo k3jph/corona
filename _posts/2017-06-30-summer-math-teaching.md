@@ -19,7 +19,6 @@ tags:
   - mathematics
   - syllabi
   - UMGC
-  - UMUC
 ---
 Trying to post more of my mathematics syllabi online, I have two
 sections of [MATH

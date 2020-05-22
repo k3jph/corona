@@ -17,7 +17,6 @@ tags:
   - mathematics
   - northern studies
   - UMGC
-  - UMUC
   - Vikings
 ---
 1. Mr. Lothbrok has $10,000 to invest in two types of mutual funds, Normandy High-Yield Fund, and Normandy Equity Fund. The High-Yield fund gives an annual yield of 6%, while the Equity fund earns 10%. Mr. Lothbrok would like to invest at least $5000 in the High-Yield fund and at least $2000 in the Equity fund. How much money should he invest in each to maximize his annual Yield, and what is the maximum yield?

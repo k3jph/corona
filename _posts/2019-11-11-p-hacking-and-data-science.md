@@ -10,7 +10,7 @@ image: /assets/images/p-hacking-and-data-science.jpg
 categories:
   - Blog
 tags:
-  - busines
+  - business
   - data science
   - statistics
 ---

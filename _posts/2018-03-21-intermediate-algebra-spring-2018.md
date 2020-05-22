@@ -14,7 +14,6 @@ tags:
   - math education
   - mathematics
   - UMGC
-  - UMUC
 ---
 Well, I may be [running a campaign for delegate right
 now](https://jameshoward.md), but I still am teaching mathematics,

@@ -16,7 +16,6 @@ categories:
 tags:
   - computer science
   - operating systems
-  - software development
   - software engineering
   - systems science
   - technology

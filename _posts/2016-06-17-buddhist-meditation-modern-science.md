@@ -14,8 +14,8 @@ image: /assets/images/buddhist-meditation-modern-science.jpg
 categories:
   - Blog
 tags:
-  - Buddhism
-  - coursera
+  - Buddhist studies
+  - Coursera
   - developmental psychology
   - eastern philosophy
   - Hinduism

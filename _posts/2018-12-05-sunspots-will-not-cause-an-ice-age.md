@@ -14,6 +14,7 @@ tags:
   - environmental studies
   - heliophysics
   - solar cycle
+  - SciServer
 ---
 I grew up in this small town in Ohio called Hamilton. [I've talked
 about it here,

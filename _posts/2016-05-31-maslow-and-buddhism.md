@@ -14,8 +14,8 @@ image: /assets/images/GoldenBuddhas.png
 categories:
   - Blog
 tags:
-  - Buddhism
-  - coursera
+  - Buddhist studies
+  - Coursera
   - developmental psychology
   - eastern philosophy
 ---

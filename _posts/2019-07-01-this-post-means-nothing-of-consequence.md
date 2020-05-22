@@ -11,7 +11,6 @@ categories:
 tags:
   - teaching
   - UMGC
-  - UMUC
 ---
 Effective today, I received a promotion at the [University of
 Maryland Global Campus](https://www.umuc.edu/), which until yesterday,

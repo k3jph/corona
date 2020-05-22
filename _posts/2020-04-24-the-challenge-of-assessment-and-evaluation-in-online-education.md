@@ -10,7 +10,7 @@ image: /assets/images/the-challenge-of-assessment-and-evaluation-in-online-educa
 categories:
   - Blog
 tags:
-  - COVID 19
+  - COVID-19
   - online education
   - mathematics education
   - statistics 

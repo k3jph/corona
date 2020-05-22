@@ -16,7 +16,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 I was doing an interview recently on how much mathematics is necessary
 for a graduate.  This is all sort of prompted by Andrew Hacker's

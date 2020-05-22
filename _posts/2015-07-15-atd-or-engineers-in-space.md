@@ -14,7 +14,6 @@ categories:
 tags:
   - computer science
   - history
-  - software development
   - software engineering
   - space
   - space robots

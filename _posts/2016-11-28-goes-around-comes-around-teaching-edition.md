@@ -20,7 +20,6 @@ tags:
   - research methods
   - teaching
   - UMGC
-  - UMUC
 ---
 This spring, I will be teaching something a bit different.  I will
 still be teaching mathematics online for UMUC, but I will also be

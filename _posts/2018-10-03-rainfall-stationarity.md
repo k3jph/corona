@@ -11,7 +11,6 @@ categories:
   - Blog
 tags:
   - environmental studies
-  - flood studies
   - meteorology
   - rainfall
   - statistics

@@ -21,7 +21,6 @@ tags:
   - research
   - scientific computing
   - systems science
-  - virtual ants
   - virtual bumblebees
 ---
 During the 1980s, [some researchers abandoned top-down artificial intelligence](http://en.wikipedia.org/wiki/AI_winter) in favor of a bottom-up approach.  One of these bottom up approaches became the field of [artificial life](http://en.wikipedia.org/wiki/Artificial_life).  In 1992 or 1993, I checked out [Artificial Life by Steven Levy](http://www.amazon.com/Artificial-Life-Frontier-Computers-Biology/dp/0679743898) from the [Lane Public Library](http://www.lanepl.org).  In his book, Levy describes much of the research on artificial life to date, including the works of [Stephen Wolfram](http://www.stephenwolfram.com/) and [Christopher Langton](http://en.wikipedia.org/wiki/Christopher_Langton), in a pleasant and accessible way (for a twelve-year old).  

@@ -14,19 +14,14 @@ categories:
 tags:
   - behavioural economics
   - cognitive psychology
-  - ethics
-  - futures studies
   - media studies
-  - meta ethics
+  - meta-ethics
   - moral psychology
   - normative ethics
-  - public affairs
   - public choice
-  - public economics
   - science fiction
   - Star Trek
   - thought experiments
-  - utilitarianism
 ---
 The trolley problem is a relatively standard problem in ethics that
 arose from Phillipa Foot in 1967:

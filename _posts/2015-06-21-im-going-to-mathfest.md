@@ -22,7 +22,6 @@ tags:
   - research
   - scientific computing
   - systems science
-  - virtual ants
   - virtual bumblebees
 ---
 This August, I will be speaking about my [Virtual Bumblebees](http://bumblebees.jameshoward.us). Here's the abstract:

@@ -18,7 +18,6 @@ tags:
   - public affairs education
   - teaching
   - UMGC
-  - UMUC
   - University of Baltimore
 ---
 NPR's [article is the latest in a series](http://www.npr.org/sections/ed/2015/11/10/453986816/how-to-get-students-to-stop-using-their-cellphones-in-class) that asks how professors deal with cellphones and laptops in the classroom.  I don't include anything in my syllabi about it, but I usually make a brief announcement on the first class of the semester explaining my policy.

@@ -16,7 +16,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 
 Grading can be a difficult proposition.  In a math course, the mechanics of a solution, meaning the correct addition and subtraction, may be correct.  However, a student may have misapplied a solution or not correctly understood the application of the mechanics to the problem in question.  As a result, it can be better to grade these different aspects differently.  In a writing course, this would be akin to grading spelling and grammar separately from organization of the argument.

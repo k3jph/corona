@@ -17,7 +17,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 I have taught online for UMUC since 2010.  And I quickly learned to explain that I was more like a class cheerleader than the class professor.  In the online classroom, the student must guide their own way through the material.  That's one of the reasons the syllabus has to be rock solid; there's less opportunity for the professor to step in and expand or correct via voice.
 

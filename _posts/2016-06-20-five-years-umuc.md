@@ -16,7 +16,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 
 At the door, when I got home, this evening, UMUC had sent a nice certificate celebrating my fifth year teaching there.

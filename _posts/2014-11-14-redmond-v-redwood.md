@@ -21,7 +21,6 @@ tags:
   - Java
   - Microsfot
   - Oracle
-  - software development
   - software engineering
   - systems science
   - technology

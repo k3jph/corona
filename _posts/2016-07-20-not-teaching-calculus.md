@@ -19,7 +19,6 @@ tags:
   - teaching
   - trigonometry
   - UMGC
-  - UMUC
 ---
 Well, no sooner had I posted my note about teaching calculus again
 this fall when UMUC changed my schedule.  This is not unusual for

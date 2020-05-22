@@ -15,7 +15,6 @@ tags:
   - mathematics
   - TLMO
   - UMGC
-  - UMUC
 ---
 I am happy to announce that [John F.
 Beyers](https://www.linkedin.com/in/john-beyers-ph-d-8948a59/), of

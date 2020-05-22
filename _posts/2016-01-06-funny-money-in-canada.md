@@ -15,7 +15,7 @@ tags:
   - Canada
   - consumer economics
   - financial economics
-  - monetary economics
+  - monetary policy
   - public affairs
   - public economics
 ---

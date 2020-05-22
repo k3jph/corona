@@ -20,7 +20,6 @@ tags:
   - math education
   - mathematics
   - UMGC
-  - UMUC
 ---
 I nominated myself, this evening, for the new [Academic Advisory Board](http://www.umuc.edu/umucfuture/) at the [University of Maryland University College](http://www.umuc.edu).  See my statement, here:
 

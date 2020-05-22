@@ -15,7 +15,6 @@ tags:
   - mathematics
   - pedagogy
   - UMGC
-  - UMUC
 ---
 I am teaching [Finite
 Mathematics](https://www.umuc.edu/academic-programs/course-information.cfm?course=math106)

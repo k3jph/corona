@@ -10,8 +10,6 @@ image: /assets/images/making-things-buy-better.png
 categories:
   - Blog
 tags:
-  - Earth science
-  - environmental chemistry
   - environmental science
   - environmental studies
   - neurology

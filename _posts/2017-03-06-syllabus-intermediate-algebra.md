@@ -19,7 +19,6 @@ tags:
   - math education
   - mathematics
   - UMGC
-  - UMUC
 ---
 I am teaching intermediate algebra this spring and I wanted to post
 the syllabus and give a bit of a comment here.  You can find the

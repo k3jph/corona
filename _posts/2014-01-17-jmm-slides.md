@@ -15,7 +15,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 
 [Check out my slides](http://jmm2014.jameshoward.us) from my talk at the 2014 Joint Mathematics Meeting.

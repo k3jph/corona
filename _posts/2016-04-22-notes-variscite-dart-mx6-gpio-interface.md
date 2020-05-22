@@ -18,7 +18,6 @@ tags:
   - embedded systems
   - GPIO
   - linux
-  - software development
   - software engineering
   - systems science
   - Variscite DART-MX6

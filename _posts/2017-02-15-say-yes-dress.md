@@ -19,7 +19,6 @@ tags:
   - mathematics
   - sewing
   - UMGC
-  - UMUC
 ---
 One thing I am sure my students hate is that I don't give extra
 credit.  I've [talked about this before](/2015/06/02/better-extra-credit/),

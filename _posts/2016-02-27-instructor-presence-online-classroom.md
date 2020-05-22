@@ -17,7 +17,6 @@ tags:
   - mathematics
   - teaching
   - UMGC
-  - UMUC
 ---
 I think instructor presence is critical to student engagement, for all the obvious reasons.  I've occasionally had students connect with me on LinkedIn or Twitter, those are passive engagements.  I once, in a face-to-face class, had a student post on my Facebook wall, during class.[^ec]
 

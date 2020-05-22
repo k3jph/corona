@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Blog
 tags:
-  - web development
-  - webservices
+  - website
+  - meta
 ---
 
 I don't update much, but the feed should display whatever I do.  The feeds are fixed, thanks to some help from [PHPWebhosting.com](http://www.phpwebhosting.com) and [Google](http://www.google.com).

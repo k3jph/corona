@@ -18,7 +18,6 @@ tags:
   - computer science
   - enterprise architecture
   - information technology
-  - software development
   - software engineering
   - startup
   - systems science

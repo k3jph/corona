@@ -18,11 +18,9 @@ tags:
   - information technology
   - Internet Explorer
   - Microsfot
-  - software development
   - software engineering
   - systems science
   - technology
-  - web development
 ---
 Microsoft is [renaming Internet Explorer](http://www.theverge.com/2015/3/17/8230631/microsoft-is-killing-off-the-internet-explorer-brand).  From the article:
 

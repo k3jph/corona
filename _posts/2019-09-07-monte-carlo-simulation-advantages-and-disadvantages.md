@@ -14,6 +14,7 @@ tags:
   - probability
   - simulation
   - statistics
+  - SciServer
 ---
 There are a number of advantages and disadvantages to Monte Carlo
 simulation (MCS). First of all, though, we need to understand what

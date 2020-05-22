@@ -14,7 +14,6 @@ tags:
   - north Germanic languages
   - northern studies
   - resources
-  - sla
   - Swedish
 ---
 I have put together a brief [list of Swedish language](/svenska), similar to the [Danish list](/dansk).  Nothing serious yet, but will probably add more as time goes on.

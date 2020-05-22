@@ -14,7 +14,7 @@ image: /assets/images/makinsters-lectures-eastern-philosophy.jpg
 categories:
   - Blog
 tags:
-  - Buddhism
+  - Buddhist studies
   - eastern philosophy
   - Hinduism
   - religion

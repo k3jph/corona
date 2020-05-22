@@ -23,7 +23,6 @@ tags:
   - teaching
   - technology
   - UMGC
-  - UMUC
 ---
 , I spoke at the APPAM spring conference on using Trello to manage my classroom. I describe the process of using Trello as a one-person Kanban board and how this works for my class delivery. I forgot to post the slides, so here they are!
 

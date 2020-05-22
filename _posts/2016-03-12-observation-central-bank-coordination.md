@@ -14,10 +14,8 @@ categories:
 tags:
   - central banking
   - international affairs
-  - international finance
   - international organizations
-  - international trade
-  - monetary economics
+  - monetary policy
   - public affairs
 ---
 There's an interesting story about a typo and an electronic robbery from the [Bangladesh Bank](https://www.bb.org.bd/).  Basically, a bunch of hackers issued fake transfer orders for the Bangladesh Bank account at the [New York Fed](https://www.newyorkfed.org/).  We'll toss it to Reuters for the details:

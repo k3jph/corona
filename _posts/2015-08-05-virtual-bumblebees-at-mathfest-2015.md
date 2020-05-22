@@ -19,7 +19,6 @@ tags:
   - mathematics
   - scientific computing
   - systems science
-  - virtual ants
   - virtual bumblebees
 ---
 If everything is going according to plan, and then just as I posted this, I started my MathFest presentation.  [You can download the slides here.](/assets/docs/Virtual-Bumblebees-MathFest2015.pptx)  The PowerPoint file contains several embedded videos, so it is quite large.  You can see a static rendition of the slides here:

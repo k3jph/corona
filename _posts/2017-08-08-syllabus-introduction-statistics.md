@@ -15,7 +15,6 @@ tags:
   - statistics
   - TLMO
   - UMGC
-  - UMUC
 ---
 I am teaching statistics this fall.  I have taught statistics before,
 but it will be a bit different this year.  Historically (and I do

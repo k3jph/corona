@@ -12,12 +12,11 @@ image: /assets/images/pirates-of-orion.png
 categories:
   - Blog
 tags:
-  - cool story bro
   - Howard County
   - land use
   - PELU
-  - SciFi
   - Star Trek
+  - science fiction
 ---
 I don't often blog about land use, for obvious reasons, but here we go.  I've been slowly going through _[Star Trek: The Animated Series](http://en.memory-alpha.wikia.com/wiki/Star_Trek:_The_Animated_Series)_, currently free for Amazon Prime members.  I remember watching a few of these episodes, mostly ["The Ambergris Element"](http://en.memory-alpha.wikia.com/wiki/The_Ambergris_Element_(episode)) and ["The Slaver Weapon"](http://en.memory-alpha.wikia.com/wiki/The_Slaver_Weapon_(episode)), as a kid.  I think Nickelodeon aired episodes in the mid-1980s.  But somewhere, I remember watching these two.
 

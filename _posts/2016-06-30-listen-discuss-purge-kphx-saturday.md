@@ -16,7 +16,7 @@ tags:
   - ethics
   - horror
   - media studies
-  - meta ethics
+  - meta-ethics
   - moral psychology
   - normative ethics
   - radio

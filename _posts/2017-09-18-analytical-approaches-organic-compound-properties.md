@@ -12,7 +12,7 @@ categories:
 tags:
   - analytical chemistry
   - data science
-  - environmental chemistry
+  - environmental science
   - machine learning
   - mathematics
   - organic chemistry

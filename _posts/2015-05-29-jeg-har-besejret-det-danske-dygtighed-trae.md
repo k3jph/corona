@@ -16,7 +16,6 @@ tags:
   - Duolingo
   - north Germanic languages
   - northern studies
-  - sla
 ---
 After just over five months of study, I have completed the [Danish Duolingo](https://www.duolingo.com/course/da/en/Learn-Danish-Online) course. I had played with Duolingo before, but in December the Danish course was added to the Android app, and I started. There are more than 70 skills with 350-450 some lessons to learn. I usually accomplished this by doing 3-4 per day on the train ride home. My streak (consecutive days meeting the target studying) is 151. Let's assume the first dozen or so were actually spent playing with German. So that's like 140-odd hours of study.
 

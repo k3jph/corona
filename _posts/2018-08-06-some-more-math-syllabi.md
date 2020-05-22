@@ -14,7 +14,6 @@ tags:
   - math education
   - mathematics
   - UMGC
-  - UMUC
 ---
 
 I have taught two sections of college algebra at

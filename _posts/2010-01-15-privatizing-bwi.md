@@ -15,7 +15,7 @@ dsq_thread_id:
 categories:
   - Blog
 tags:
-  - bwi
+  - BWI
   - economics
   - Maryland
   - transportation policy
