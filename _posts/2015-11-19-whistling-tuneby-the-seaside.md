@@ -2,7 +2,7 @@
 id: 3233
 title: Whistling tunes we hide in the dunes by the seaside
 date: 2015-11-19T09:19:28-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3233
 permalink: /2015/11/19/whistling-tuneby-the-seaside/

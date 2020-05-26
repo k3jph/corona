@@ -2,7 +2,7 @@
 id: 5246
 title: The Problem with Offering Flood Insurance Subsidies
 date: 2017-07-27T13:01:40-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5246
 permalink: /2017/07/27/the-problem-with-offering-flood-insurance-subsidies/

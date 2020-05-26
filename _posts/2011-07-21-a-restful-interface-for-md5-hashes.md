@@ -2,7 +2,7 @@
 id: 660
 title: A RESTful interface for MD5 hashes
 date: 2011-07-21T22:56:01-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2011/07/21/a-restful-interface-for-md5-hashes/
 permalink: /2011/07/21/a-restful-interface-for-md5-hashes/

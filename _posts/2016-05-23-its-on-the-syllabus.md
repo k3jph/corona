@@ -2,7 +2,7 @@
 id: 4074
 title: "It's on the Syllabus"
 date: 2016-05-23T21:46:39-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4074
 permalink: /2016/05/23/its-on-the-syllabus/

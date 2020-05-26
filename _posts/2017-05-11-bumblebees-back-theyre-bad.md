@@ -2,7 +2,7 @@
 id: 5000
 title: "The Bumblebees are Back, and They're Bad!"
 date: 2017-05-11T20:51:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5000
 permalink: /2017/05/11/bumblebees-back-theyre-bad/

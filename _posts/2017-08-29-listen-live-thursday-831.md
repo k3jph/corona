@@ -2,7 +2,7 @@
 id: 5435
 title: Listen Live on Thursday, 8/31
 date: 2017-08-29T07:25:30-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5435
 permalink: /2017/08/29/listen-live-thursday-831/

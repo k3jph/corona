@@ -2,7 +2,7 @@
 id: 2802
 title: Planning for Martian Polity now on YouTube
 date: 2015-09-14T08:22:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2802
 permalink: /2015/09/14/planning-for-martian-polity-now-on-youtube/

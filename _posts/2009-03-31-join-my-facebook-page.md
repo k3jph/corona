@@ -2,7 +2,7 @@
 id: 3028
 title: Join My Facebook Page
 date: 2009-03-31T04:50:46-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3028
 permalink: /2009/03/31/join-my-facebook-page/

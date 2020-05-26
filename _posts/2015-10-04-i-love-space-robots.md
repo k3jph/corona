@@ -2,7 +2,7 @@
 id: 2936
 title: '"I love space robots!"'
 date: 2015-10-04T15:42:26-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2936
 permalink: /2015/10/04/i-love-space-robots/

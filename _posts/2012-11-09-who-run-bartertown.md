@@ -2,7 +2,7 @@
 id: 539
 title: Who run Bartertown?
 date: 2012-11-09T23:26:14-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/11/09/who-run-bartertown/
 permalink: /2012/11/09/who-run-bartertown/

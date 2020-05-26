@@ -2,7 +2,7 @@
 id: 4311
 title: NaN versus NA in R
 date: 2016-07-18T06:51:53-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4311
 permalink: /2016/07/18/nan-versus-na-r/

@@ -2,7 +2,7 @@
 id: 5243
 title: Precedent for Cap-and-Trade Success
 date: 2017-07-28T07:00:07-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5243
 permalink: /2017/07/28/precedent-cap-trade-success/

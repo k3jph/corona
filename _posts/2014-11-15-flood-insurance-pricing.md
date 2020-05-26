@@ -2,7 +2,7 @@
 id: 1619
 title: Flood Insurance Pricing
 date: 2014-11-15T09:34:41-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1619
 permalink: /2014/11/15/flood-insurance-pricing/

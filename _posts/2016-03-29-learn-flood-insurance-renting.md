@@ -2,7 +2,7 @@
 id: 3914
 title: Learn About Flood Insurance When Renting
 date: 2016-03-29T17:26:40-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3914
 permalink: /2016/03/29/learn-flood-insurance-renting/

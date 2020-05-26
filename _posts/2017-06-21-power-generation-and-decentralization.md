@@ -2,7 +2,7 @@
 id: 5091
 title: Power Generation and Decentralization
 date: 2017-06-21T07:37:04-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5091
 permalink: /2017/06/21/power-generation-and-decentralization/

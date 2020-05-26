@@ -2,7 +2,7 @@
 id: 4889
 title: Transmitting Chinese Cultural Values
 date: 2017-04-28T06:05:45-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4889
 permalink: /2017/04/28/transmitting-chinese-cultural-values/

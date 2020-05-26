@@ -2,7 +2,7 @@
 id: 3385
 title: Follow-up Letter on Non-Disclosure Agreements
 date: 2007-11-13T21:24:43-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3385
 permalink: /2007/11/13/follow-up-letter-on-non-disclosure-agreements/

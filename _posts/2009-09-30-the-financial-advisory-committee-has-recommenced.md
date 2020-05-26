@@ -2,7 +2,7 @@
 id: 700
 title: The Financial Advisory Committee has Recommenced
 date: 2009-09-30T08:49:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2009/09/30/the-financial-advisory-committee-has-recommenced/
 permalink: /2009/09/30/the-financial-advisory-committee-has-recommenced/

@@ -2,7 +2,7 @@
 id: 1404
 title: "Fall 2014: Public Finance and Public Administration"
 date: 2014-08-28T17:15:43-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=1404
 permalink: /2014/08/28/fall-2014-public-finance-public-administration/

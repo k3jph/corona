@@ -2,7 +2,7 @@
 id: 1165
 title: Using Agile Methods for Course Management and Delivery
 date: 2014-06-09T23:13:41-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://www.jameshoward.us/?p=1165
 permalink: /2014/06/09/using-agile-methods-for-course-management-and-delivery/

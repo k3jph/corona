@@ -2,7 +2,7 @@
 id: 2343
 title: The Value of Working Code
 date: 2015-07-29T08:29:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2343
 permalink: /2015/07/29/the-value-of-working-code/

@@ -2,7 +2,7 @@
 id: 7069
 title: Jomon and Yayoi Culture
 date: 2019-08-21T07:44:51-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7069
 permalink: /2019/08/21/jomon-and-yayoi-culture/

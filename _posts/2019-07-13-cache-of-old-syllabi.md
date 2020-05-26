@@ -2,7 +2,7 @@
 id: 7041
 title: Cache of Old Syllabi
 date: 2019-07-13T12:00:32-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7041
 permalink: /2019/07/13/cache-of-old-syllabi/

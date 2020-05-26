@@ -2,7 +2,7 @@
 id: 2381
 title: Virtual Bumblebees at MathFest 2015
 date: 2015-08-05T02:00:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2381
 permalink: /2015/08/05/virtual-bumblebees-at-mathfest-2015/

@@ -2,7 +2,7 @@
 id: 4443
 title: Learn How to Manage a Basement Flood
 date: 2016-09-23T21:07:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4443
 permalink: /2016/09/23/learn-manage-basement-flood/

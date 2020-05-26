@@ -2,7 +2,7 @@
 id: 1850
 title: Teaching for UMUC
 date: 2015-02-23T18:23:25-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1850
 permalink: /2015/02/23/umuc-adjunct-assistant-professor/

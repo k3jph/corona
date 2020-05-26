@@ -2,7 +2,7 @@
 id: 3482
 title: Soundex in Phonics
 date: 2015-12-24T12:25:49-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3482
 permalink: /2015/12/24/soundex-in-phonics/

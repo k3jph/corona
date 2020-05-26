@@ -2,7 +2,7 @@
 id: 2270
 title: Hello Assent, or My Startup
 date: 2015-07-18T08:44:18-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2270
 permalink: /2015/07/18/hello-assent-or-my-startup/

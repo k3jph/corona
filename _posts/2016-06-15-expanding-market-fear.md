@@ -2,7 +2,7 @@
 id: 4176
 title: Expanding the Market Through Fear
 date: 2016-06-15T08:01:04-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4176
 permalink: /2016/06/15/expanding-market-fear/

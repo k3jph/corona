@@ -2,7 +2,7 @@
 id: 5298
 title: Halloween Changes to Mega Millions Scare Some
 date: 2017-08-04T07:41:21-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5298
 permalink: /2017/08/04/halloween-changes-mega-millions-scare/

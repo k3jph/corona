@@ -2,7 +2,7 @@
 id: 3422
 title: Teaching Calculus
 date: 2015-12-22T19:02:10-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3422
 permalink: /2015/12/22/teaching-calculus/

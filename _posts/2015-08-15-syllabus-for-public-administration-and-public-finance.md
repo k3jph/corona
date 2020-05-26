@@ -2,7 +2,7 @@
 id: 2426
 title: Syllabus for Public Administration and Public Finance
 date: 2015-08-15T08:12:59-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2426
 permalink: /2015/08/15/syllabus-for-public-administration-and-public-finance/

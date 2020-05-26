@@ -2,7 +2,7 @@
 id: 3393
 title: New Updates to the Howard County Search
 date: 2007-09-30T16:28:41-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3393
 permalink: /2007/09/30/new-updates-to-the-howard-county-search/

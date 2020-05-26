@@ -2,7 +2,7 @@
 id: 3119
 title: Hardware and Software
 date: 2015-10-30T10:27:52-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3119
 permalink: /2015/10/30/hardware-and-software/

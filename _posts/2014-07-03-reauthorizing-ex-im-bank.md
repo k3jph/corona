@@ -2,7 +2,7 @@
 id: 1381
 title: Reauthorizing the Ex-Im Bank
 date: 2014-07-03T10:24:44-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=1381
 permalink: /2014/07/03/reauthorizing-ex-im-bank/

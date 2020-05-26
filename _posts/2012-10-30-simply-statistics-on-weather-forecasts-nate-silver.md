@@ -2,7 +2,7 @@
 id: 440
 title: "Simply Statistics: On weather forecasts, Nate Silver, and the politicization of statistical illiteracy"
 date: 2012-10-30T20:59:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/10/30/simply-statistics-on-weather-forecasts-nate-silver/
 permalink: /2012/10/30/simply-statistics-on-weather-forecasts-nate-silver/

@@ -2,7 +2,7 @@
 id: 1942
 title: Comments on Renaming Internet Explorer
 date: 2015-03-19T13:46:23-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1942
 permalink: /2015/03/19/comments-on-renaming-internet-explorer/

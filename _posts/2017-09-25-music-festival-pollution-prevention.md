@@ -2,7 +2,7 @@
 id: 5566
 title: Music Festival Pollution Prevention
 date: 2017-09-25T06:53:35-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5566
 permalink: /2017/09/25/music-festival-pollution-prevention/

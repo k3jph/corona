@@ -2,7 +2,7 @@
 id: 5029
 title: The Flood Insurance Purchase Requirement
 date: 2017-05-26T16:13:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5029
 permalink: /2017/05/26/the-flood-insurance-purchase-requirement/

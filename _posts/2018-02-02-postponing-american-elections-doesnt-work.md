@@ -2,7 +2,7 @@
 id: 6052
 title: "Postponing American Elections Doesn't Work"
 date: 2018-02-02T22:18:58-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6052
 permalink: /2018/02/02/postponing-american-elections-doesnt-work/

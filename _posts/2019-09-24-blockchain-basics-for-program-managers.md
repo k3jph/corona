@@ -2,7 +2,7 @@
 id: 7113
 title: Blockchain Basics for Program Managers
 date: 2019-09-24T08:42:31-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7113
 permalink: /2019/09/24/blockchain-basics-for-program-managers/

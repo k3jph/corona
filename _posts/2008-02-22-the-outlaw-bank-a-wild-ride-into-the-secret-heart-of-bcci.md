@@ -2,7 +2,7 @@
 id: 3194
 title: "The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI"
 date: 2008-02-22T03:50:45-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3194
 permalink: /2008/02/22/the-outlaw-bank-a-wild-ride-into-the-secret-heart-of-bcci/

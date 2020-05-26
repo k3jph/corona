@@ -2,7 +2,7 @@
 id: 5604
 title: Climate Change Will Make Chemical Spills Worse
 date: 2017-10-05T07:27:05-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5604
 permalink: /2017/10/05/climate-change-will-make-chemical-spills-worse/

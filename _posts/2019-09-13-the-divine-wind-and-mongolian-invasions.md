@@ -2,7 +2,7 @@
 id: 7097
 title: The Divine Wind and Mongolian Invasions
 date: 2019-09-13T20:59:19-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7097
 permalink: /2019/09/13/the-divine-wind-and-mongolian-invasions/

@@ -2,7 +2,7 @@
 id: 3774
 title: CMNA v0.1.0 Released
 date: 2016-01-31T23:24:46-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3774
 permalink: /2016/01/31/cmna-v0-1-0-released/

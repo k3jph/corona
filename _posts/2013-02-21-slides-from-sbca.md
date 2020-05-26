@@ -2,7 +2,7 @@
 id: 3816
 title: Slides from SBCA
 date: 2013-02-21T21:44:08-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3816
 permalink: /2013/02/21/slides-from-sbca/

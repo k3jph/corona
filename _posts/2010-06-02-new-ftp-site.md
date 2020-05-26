@@ -2,7 +2,7 @@
 id: 679
 title: New FTP Site
 date: 2010-06-02T10:29:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/06/02/new-ftp-site/
 permalink: /2010/06/02/new-ftp-site/

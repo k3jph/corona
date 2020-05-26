@@ -2,7 +2,7 @@
 id: 3580
 title: Non-financial performance metrics
 date: 2007-05-10T19:30:31-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3580
 permalink: /2007/05/10/non-financial-performance-metrics/

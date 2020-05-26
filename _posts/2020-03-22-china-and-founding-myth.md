@@ -2,7 +2,7 @@
 id: 7308
 title: China and Founding Myth
 date: 2020-03-22T18:45:12-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7308
 permalink: /2020/03/22/china-and-founding-myth/

@@ -2,7 +2,7 @@
 id: 3894
 title: An Observation on Central Bank Coordination
 date: 2016-03-12T21:59:44-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3894
 permalink: /2016/03/12/observation-central-bank-coordination/

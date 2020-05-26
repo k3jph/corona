@@ -2,7 +2,7 @@
 id: 4875
 title: Students and Customers
 date: 2017-04-24T07:16:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4875
 permalink: /2017/04/24/students-and-customers/

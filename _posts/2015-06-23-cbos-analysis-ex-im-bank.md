@@ -2,7 +2,7 @@
 id: 2241
 title: "CBO's Analysis of Ex-Im Bank"
 date: 2015-06-23T09:52:59-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2241
 permalink: /2015/06/23/cbos-analysis-ex-im-bank/

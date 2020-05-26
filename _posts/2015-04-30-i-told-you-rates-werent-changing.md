@@ -2,7 +2,7 @@
 id: 2058
 title: "I Told You Rates Weren't Changing"
 date: 2015-04-30T21:24:48-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2058
 permalink: /2015/04/30/i-told-you-rates-werent-changing/

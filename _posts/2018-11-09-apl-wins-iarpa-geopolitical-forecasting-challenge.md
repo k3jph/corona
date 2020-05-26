@@ -2,7 +2,7 @@
 id: 6530
 title: APL Wins IARPA Geopolitical Forecasting Challenge
 date: 2018-11-09T09:48:17-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6530
 permalink: /2018/11/09/apl-wins-iarpa-geopolitical-forecasting-challenge/

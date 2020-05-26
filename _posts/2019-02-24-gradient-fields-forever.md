@@ -2,7 +2,7 @@
 id: 6858
 title: Gradient Fields Forever
 date: 2019-02-24T19:53:13-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6858
 permalink: /2019/02/24/gradient-fields-forever/

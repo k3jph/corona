@@ -2,7 +2,7 @@
 id: 7046
 title: Blowing the Hatch
 date: 2019-07-19T12:22:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7046
 permalink: /2019/07/19/blowing-the-hatch/

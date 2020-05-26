@@ -2,7 +2,7 @@
 id: 5710
 title: County Council Seeks New Member for Board of Appeals
 date: 2017-11-28T15:36:39-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5710
 permalink: /2017/11/28/county-council-seeks-new-member-board-appeals/

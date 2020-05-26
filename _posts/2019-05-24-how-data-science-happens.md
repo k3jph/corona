@@ -2,7 +2,7 @@
 id: 6970
 title: How Data Science Happens
 date: 2019-05-24T20:01:23-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6970
 permalink: /2019/05/24/how-data-science-happens/

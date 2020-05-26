@@ -2,7 +2,7 @@
 id: 1929
 title: Introducing My Bumblebees
 date: 2015-03-14T13:59:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1929
 permalink: /2015/03/14/introducing-my-bumblebees/

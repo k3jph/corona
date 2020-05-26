@@ -2,7 +2,7 @@
 id: 3130
 title: PELU Public Hearing on Land Use Planning Process
 date: 2008-03-27T06:16:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3130
 permalink: /2008/03/27/pelu-public-hearing-on-land-use-planning-process/

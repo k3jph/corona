@@ -2,7 +2,7 @@
 id: 2932
 title: Stop being so irrational
 date: 2015-10-04T10:54:18-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2932
 permalink: /2015/10/04/stop-being-so-irrational/

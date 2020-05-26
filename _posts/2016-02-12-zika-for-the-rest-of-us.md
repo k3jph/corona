@@ -2,7 +2,7 @@
 id: 3788
 title: Zika For the Rest of Us
 date: 2016-02-12T16:49:36-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3788
 permalink: /2016/02/12/zika-for-the-rest-of-us/

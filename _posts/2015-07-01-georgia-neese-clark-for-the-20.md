@@ -2,7 +2,7 @@
 id: 2259
 title: Georgia Neese Clark for the $20
 date: 2015-07-01T18:45:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2259
 permalink: /2015/07/01/georgia-neese-clark-for-the-20/

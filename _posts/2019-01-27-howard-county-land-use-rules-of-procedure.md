@@ -2,7 +2,7 @@
 id: 6774
 title: Howard County Land Use Rules of Procedure
 date: 2019-01-27T19:32:09-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6774
 permalink: /2019/01/27/howard-county-land-use-rules-of-procedure/

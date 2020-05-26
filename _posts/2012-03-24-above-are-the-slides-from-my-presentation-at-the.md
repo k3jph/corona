@@ -2,7 +2,7 @@
 id: 444
 title: Measuring the Impacts of the National Flood Insurance Program
 date: 2012-03-24T12:58:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/03/24/above-are-the-slides-from-my-presentation-at-the/
 permalink: /2012/03/24/above-are-the-slides-from-my-presentation-at-the/

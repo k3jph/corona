@@ -2,7 +2,7 @@
 id: 3566
 title: Funny Money in Canada
 date: 2016-01-06T08:28:25-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3566
 permalink: /2016/01/06/funny-money-in-canada/

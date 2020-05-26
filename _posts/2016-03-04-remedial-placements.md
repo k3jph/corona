@@ -2,7 +2,7 @@
 id: 3886
 title: Remedial Placements
 date: 2016-03-04T18:46:59-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3886
 permalink: /2016/03/04/remedial-placements/

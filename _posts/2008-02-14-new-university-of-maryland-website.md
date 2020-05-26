@@ -2,7 +2,7 @@
 id: 3219
 title: New University of Maryland Website
 date: 2008-02-14T06:03:42-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3219
 permalink: /2008/02/14/new-university-of-maryland-website/

@@ -2,7 +2,7 @@
 id: 661
 title: The MacOS X open(1) Command
 date: 2011-03-23T01:23:12-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2011/03/23/the-macos-x-open-1-command/
 permalink: /2011/03/23/the-macos-x-open-1-command/

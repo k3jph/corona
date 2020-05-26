@@ -2,7 +2,7 @@
 id: 4238
 title: 'Read My Article, "Public Financial Management" in Syllabus'
 date: 2016-06-29T07:09:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4238
 permalink: /2016/06/29/read-article-public-financial-management-syllabus/

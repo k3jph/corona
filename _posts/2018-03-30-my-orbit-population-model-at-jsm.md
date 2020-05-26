@@ -2,7 +2,7 @@
 id: 6273
 title: My Orbit Population Model at JSM
 date: 2018-03-30T08:12:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6273
 permalink: /2018/03/30/my-orbit-population-model-at-jsm/

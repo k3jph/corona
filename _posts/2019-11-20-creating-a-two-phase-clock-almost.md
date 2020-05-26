@@ -2,7 +2,7 @@
 id: 7186
 title: "Creating a Two-Phase Clock...Almost"
 date: 2019-11-20T11:19:24-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7186
 permalink: /2019/11/20/creating-a-two-phase-clock-almost/

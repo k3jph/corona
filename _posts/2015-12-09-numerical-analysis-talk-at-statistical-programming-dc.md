@@ -2,7 +2,7 @@
 id: 3325
 title: Numerical Analysis talk at Statistical Programming DC
 date: 2015-12-09T00:01:55-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3325
 permalink: /2015/12/09/numerical-analysis-talk-at-statistical-programming-dc/

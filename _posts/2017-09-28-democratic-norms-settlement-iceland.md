@@ -2,7 +2,7 @@
 id: 5455
 title: Democratic Norms and the Settlement of Iceland
 date: 2017-09-28T07:15:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5455
 permalink: /2017/09/28/democratic-norms-settlement-iceland/

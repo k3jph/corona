@@ -2,7 +2,7 @@
 id: 1730
 title: Managerial and Constitutional Values
 date: 2015-01-22T22:23:43-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1730
 permalink: /2015/01/22/managerial-constitutional-values/

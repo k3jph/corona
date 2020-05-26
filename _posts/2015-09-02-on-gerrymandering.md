@@ -2,7 +2,7 @@
 id: 2684
 title: On Gerrymandering
 date: 2015-09-02T13:38:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2684
 permalink: /2015/09/02/on-gerrymandering/

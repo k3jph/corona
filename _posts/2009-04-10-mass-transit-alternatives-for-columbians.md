@@ -2,7 +2,7 @@
 id: 3018
 title: Mass Transit Alternatives for Columbians
 date: 2009-04-10T21:37:40-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3018
 permalink: /2009/04/10/mass-transit-alternatives-for-columbians/

@@ -2,7 +2,7 @@
 id: 6903
 title: Piedmont Hydrogeology
 date: 2019-04-02T06:38:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6903
 permalink: /2019/04/02/piedmont-hydrogeology/

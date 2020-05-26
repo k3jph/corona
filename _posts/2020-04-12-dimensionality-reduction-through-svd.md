@@ -2,7 +2,7 @@
 id: dimensionality-reduction-through-svd
 title: Dimensionality Reduction Through SVD
 date: 2020-04-12T20:11:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: dimensionality-reduction-through-svd
 permalink: /2020/04/11/dimensionality-reduction-through-svd/

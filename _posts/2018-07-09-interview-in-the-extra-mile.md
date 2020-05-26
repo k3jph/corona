@@ -2,7 +2,7 @@
 id: 6370
 title: Interview in the Extra Mile
 date: 2018-07-09T11:28:31-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6370
 permalink: /2018/07/09/interview-in-the-extra-mile/

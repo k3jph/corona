@@ -2,7 +2,7 @@
 id: 1444
 title: Big Data for Locals
 date: 2014-10-20T20:37:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1444
 permalink: /2014/10/20/big-data-locals/

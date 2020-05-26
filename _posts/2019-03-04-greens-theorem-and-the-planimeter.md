@@ -2,7 +2,7 @@
 id: 6868
 title: "Green's Theorem and the Planimeter"
 date: 2019-03-04T07:19:31-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6868
 permalink: /2019/03/04/greens-theorem-and-the-planimeter/

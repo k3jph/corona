@@ -2,7 +2,7 @@
 id: 682
 title: Shell Script for Remember the Milk
 date: 2010-04-16T23:00:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/04/16/shell-script-for-remember-the-milk/
 permalink: /2010/04/16/shell-script-for-remember-the-milk/

@@ -2,7 +2,7 @@
 id: 3037
 title: "Interstate Love Song...of Confusion"
 date: 2015-10-18T08:55:46-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3037
 permalink: /2015/10/18/interstate-love-song-of-confusion/

@@ -2,7 +2,7 @@
 id: 3189
 title: The Legend of the Golem
 date: 2008-02-23T02:58:47-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3189
 permalink: /2008/02/23/the-legend-of-the-golem/

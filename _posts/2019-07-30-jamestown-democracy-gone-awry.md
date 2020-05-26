@@ -2,7 +2,7 @@
 id: 5888
 title: Jamestown, Democracy Gone Awry
 date: 2019-07-30T09:39:35-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5888
 permalink: /2019/07/30/jamestown-democracy-gone-awry/

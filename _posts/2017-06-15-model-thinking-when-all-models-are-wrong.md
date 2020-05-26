@@ -2,7 +2,7 @@
 id: 5066
 title: Model Thinking When All Models are Wrong
 date: 2017-06-15T07:27:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5066
 permalink: /2017/06/15/model-thinking-when-all-models-are-wrong/

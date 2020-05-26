@@ -2,7 +2,7 @@
 id: 693
 title: Source Code for LX, a Link Shortener
 date: 2009-12-16T22:54:43-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2009/12/16/source-code-for-lx-a-link-shortener/
 permalink: /2009/12/16/source-code-for-lx-a-link-shortener/

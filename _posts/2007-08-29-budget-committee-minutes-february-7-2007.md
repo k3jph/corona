@@ -2,7 +2,7 @@
 id: 3403
 title: Budget Committee minutes, February 7, 2007
 date: 2007-08-29T19:37:10-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3403
 permalink: /2007/08/29/budget-committee-minutes-february-7-2007/

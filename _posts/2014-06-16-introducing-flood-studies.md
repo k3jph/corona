@@ -2,7 +2,7 @@
 id: 1227
 title: Introducing Flood Studies
 date: 2014-06-16T10:31:24-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=1227
 permalink: /2014/06/16/introducing-flood-studies/

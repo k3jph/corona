@@ -2,7 +2,7 @@
 id: 3851
 title: Notes on Expected Papal Life Spans
 date: 2016-02-25T08:02:47-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3851
 permalink: /2016/02/25/notes-expected-papal-life-spans/

@@ -2,7 +2,7 @@
 id: 3697
 title: Notes on Radon Mitigation
 date: 2016-01-12T17:29:38-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3697
 permalink: /2016/01/12/notes-on-radon-mitigation/

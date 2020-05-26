@@ -2,7 +2,7 @@
 id: 6488
 title: Landfills Should Not Pollute the Air and Water
 date: 2018-10-25T20:20:57-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6488
 permalink: /2018/10/25/landfills-should-not-pollute-the-air-and-water/

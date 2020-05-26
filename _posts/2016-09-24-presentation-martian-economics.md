@@ -2,7 +2,7 @@
 id: 4447
 title: My Presentation on Martian Economics
 date: 2016-09-24T11:39:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4447
 permalink: /2016/09/24/presentation-martian-economics/

@@ -2,7 +2,7 @@
 id: 4353
 title: Learn How to Prepare for a Tsunami
 date: 2016-07-29T21:53:50-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4353
 permalink: /2016/07/29/learn-prepare-tsunami/

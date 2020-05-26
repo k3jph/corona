@@ -2,7 +2,7 @@
 id: 3854
 title: Jimmy Butler is a Communist and Other Cold War Cartoons
 date: 2016-02-22T19:12:48-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3854
 permalink: /2016/02/22/jimmy-butler-communist-cold-war-cartoons/

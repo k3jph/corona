@@ -2,7 +2,7 @@
 id: 504
 title: JMM Slides
 date: 2014-01-17T14:13:21-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/?p=504
 permalink: /2014/01/17/jmm-slides/

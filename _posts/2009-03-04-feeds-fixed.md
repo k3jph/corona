@@ -2,7 +2,7 @@
 id: 3080
 title: Feeds Fixed!
 date: 2009-03-04T00:58:26-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3080
 permalink: /2009/03/04/feeds-fixed/

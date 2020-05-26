@@ -2,7 +2,7 @@
 id: 7261
 title: Elizabeth Warren for President
 date: 2020-02-06T19:45:13-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7261
 permalink: /2020/02/06/elizabeth-warren-for-president/

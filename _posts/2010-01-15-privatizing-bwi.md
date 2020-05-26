@@ -2,7 +2,7 @@
 id: 691
 title: Privatizing BWI
 date: 2010-01-15T21:28:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/01/15/privatizing-bwi/
 permalink: /2010/01/15/privatizing-bwi/

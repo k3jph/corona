@@ -2,7 +2,7 @@
 id: 4368
 title: Statistical Likelihood of Extreme Events and the Ellicott City Floods
 date: 2016-08-09T22:44:05-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4368
 permalink: /2016/08/09/statistical-likelihood-extreme-events-ellicott-city-floods/

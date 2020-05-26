@@ -2,7 +2,7 @@
 id: 6556
 title: Howard County, and Everyone Else, Needs the Plastic Bag Tax
 date: 2018-11-18T09:47:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6556
 permalink: /2018/11/18/howard-county-and-everyone-else-needs-the-plastic-bag-tax/

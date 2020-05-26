@@ -2,7 +2,7 @@
 id: 2335
 title: Building an FM Beacon
 date: 2015-07-23T18:15:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2335
 permalink: /2015/07/23/building-an-fm-beacon/

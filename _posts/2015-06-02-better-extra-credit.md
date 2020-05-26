@@ -2,7 +2,7 @@
 id: 2154
 title: Better Extra Credit
 date: 2015-06-02T20:28:53-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2154
 permalink: /2015/06/02/better-extra-credit/

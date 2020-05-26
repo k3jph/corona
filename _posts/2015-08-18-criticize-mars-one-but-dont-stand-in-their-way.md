@@ -2,7 +2,7 @@
 id: 2484
 title: "Criticize Mars One, but Don't Stand in Their Way"
 date: 2015-08-18T23:44:59-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2484
 permalink: /2015/08/18/criticize-mars-one-but-dont-stand-in-their-way/

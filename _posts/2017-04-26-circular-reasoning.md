@@ -2,7 +2,7 @@
 id: 4881
 title: Circular Reasoning
 date: 2017-04-26T06:52:07-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4881
 permalink: /2017/04/26/circular-reasoning/

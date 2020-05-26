@@ -2,7 +2,7 @@
 id: 2654
 title: FOILed again!
 date: 2015-08-31T08:22:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2654
 permalink: /2015/08/31/foiled-again/

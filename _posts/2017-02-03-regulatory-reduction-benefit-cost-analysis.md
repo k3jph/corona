@@ -2,7 +2,7 @@
 id: 4727
 title: Regulatory Reduction and Benefit-Cost Analysis
 date: 2017-02-03T19:09:45-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4727
 permalink: /2017/02/03/regulatory-reduction-benefit-cost-analysis/

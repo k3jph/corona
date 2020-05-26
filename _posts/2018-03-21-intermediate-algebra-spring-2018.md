@@ -2,7 +2,7 @@
 id: 6241
 title: Intermediate Algebra, Spring 2018
 date: 2018-03-21T19:09:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6241
 permalink: /2018/03/21/intermediate-algebra-spring-2018/

@@ -2,7 +2,7 @@
 id: 2741
 title: How Many Floating Point Numbers are There?
 date: 2015-09-09T08:42:43-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2741
 permalink: /2015/09/09/how-many-floating-point-numbers-are-there/

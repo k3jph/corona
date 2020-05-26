@@ -2,7 +2,7 @@
 id: 450
 title: Touchscreen HCI Disorder
 date: 2012-01-05T23:03:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/01/05/touchscreen-hci-disorder/
 permalink: /2012/01/05/touchscreen-hci-disorder/

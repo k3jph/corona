@@ -2,7 +2,7 @@
 id: 4260
 title: So I Am Not Teaching Calculus After All
 date: 2016-07-20T06:23:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4260
 permalink: /2016/07/20/not-teaching-calculus/

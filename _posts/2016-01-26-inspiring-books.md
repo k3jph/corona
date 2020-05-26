@@ -2,7 +2,7 @@
 id: 3755
 title: Inspiring Books
 date: 2016-01-26T20:03:05-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3755
 permalink: /2016/01/26/inspiring-books/

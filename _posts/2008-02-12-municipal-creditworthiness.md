@@ -2,7 +2,7 @@
 id: 3223
 title: Municipal Creditworthiness
 date: 2008-02-12T18:30:18-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3223
 permalink: /2008/02/12/municipal-creditworthiness/

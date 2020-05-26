@@ -2,7 +2,7 @@
 id: 2141
 title: Jeg har besejret det danske dygtighed træ!
 date: 2015-05-29T21:55:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2141
 permalink: /2015/05/29/jeg-har-besejret-det-danske-dygtighed-trae/

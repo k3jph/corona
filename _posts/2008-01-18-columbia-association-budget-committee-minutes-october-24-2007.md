@@ -2,7 +2,7 @@
 id: 3357
 title: Columbia Association Budget Committee Minutes (October 24, 2007)
 date: 2008-01-18T18:21:45-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3357
 permalink: /2008/01/18/columbia-association-budget-committee-minutes-october-24-2007/

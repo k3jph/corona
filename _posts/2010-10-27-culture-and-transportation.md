@@ -2,7 +2,7 @@
 id: 674
 title: Culture and Transportation
 date: 2010-10-27T01:26:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/10/27/culture-and-transportation/
 permalink: /2010/10/27/culture-and-transportation/

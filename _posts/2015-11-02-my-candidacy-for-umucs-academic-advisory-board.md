@@ -2,7 +2,7 @@
 id: 3172
 title: "My Candidacy for UMUC's Academic Advisory Board"
 date: 2015-11-02T17:21:02-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3172
 permalink: /2015/11/02/my-candidacy-for-umucs-academic-advisory-board/

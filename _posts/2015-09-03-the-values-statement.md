@@ -2,7 +2,7 @@
 id: 2693
 title: The Values Statement
 date: 2015-09-03T14:17:41-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2693
 permalink: /2015/09/03/the-values-statement/

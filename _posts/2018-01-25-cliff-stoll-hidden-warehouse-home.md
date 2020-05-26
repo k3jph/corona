@@ -2,7 +2,7 @@
 id: 6023
 title: Cliff Stoll Has a Hidden Warehouse Under His Home!
 date: 2018-01-25T12:26:08-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6023
 permalink: /2018/01/25/cliff-stoll-hidden-warehouse-home/

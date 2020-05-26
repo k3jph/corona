@@ -2,7 +2,7 @@
 id: 5442
 title: Audio from The Attitude Interview
 date: 2017-08-31T18:15:51-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5442
 permalink: /2017/08/31/audio-attitude-interview/

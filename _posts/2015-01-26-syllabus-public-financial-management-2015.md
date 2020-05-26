@@ -2,7 +2,7 @@
 id: 1758
 title: Syllabus for Public Financial Management, 2015
 date: 2015-01-26T16:42:12-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1758
 permalink: /2015/01/26/syllabus-public-financial-management-2015/

@@ -2,7 +2,7 @@
 id: 1604
 title: Water for Life, Water for Business
 date: 2014-11-12T18:31:13-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1604
 permalink: /2014/11/12/water-life-water-business/

@@ -2,7 +2,7 @@
 id: 4122
 title: You Can Do Anything as a Math Major
 date: 2016-06-02T07:20:56-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4122
 permalink: /2016/06/02/can-anything-math-major/

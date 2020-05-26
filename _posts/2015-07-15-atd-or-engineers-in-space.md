@@ -2,7 +2,7 @@
 id: 2279
 title: +++ATD, or Engineers, in SPACE!
 date: 2015-07-15T21:16:25-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2279
 permalink: /2015/07/15/atd-or-engineers-in-space/

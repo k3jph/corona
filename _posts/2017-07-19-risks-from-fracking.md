@@ -2,7 +2,7 @@
 id: 5205
 title: Risks from Fracking
 date: 2017-07-19T07:01:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5205
 permalink: /2017/07/19/risks-from-fracking/

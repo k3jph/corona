@@ -2,7 +2,7 @@
 id: 1779
 title: Team Tracking with Trello
 date: 2015-01-29T20:31:49-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1779
 permalink: /2015/01/29/team-tracking-trello/

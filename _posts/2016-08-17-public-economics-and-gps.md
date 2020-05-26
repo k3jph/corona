@@ -2,7 +2,7 @@
 id: 4390
 title: Public Economics and GPS
 date: 2016-08-17T21:11:58-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4390
 permalink: /2016/08/17/public-economics-and-gps/

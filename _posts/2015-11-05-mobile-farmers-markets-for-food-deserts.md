@@ -2,7 +2,7 @@
 id: 3177
 title: Mobile Farmers Markets for Food Deserts
 date: 2015-11-05T09:54:10-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3177
 permalink: /2015/11/05/mobile-farmers-markets-for-food-deserts/

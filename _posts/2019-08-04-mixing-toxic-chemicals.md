@@ -2,7 +2,7 @@
 id: 6550
 title: Mixing Toxic Chemicals
 date: 2019-08-04T11:22:39-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6550
 permalink: /2019/08/04/mixing-toxic-chemicals/

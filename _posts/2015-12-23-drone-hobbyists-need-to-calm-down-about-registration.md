@@ -2,7 +2,7 @@
 id: 3426
 title: Drone Hobbyists Need to Calm Down About Registration
 date: 2015-12-23T11:11:31-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3426
 permalink: /2015/12/23/drone-hobbyists-need-to-calm-down-about-registration/

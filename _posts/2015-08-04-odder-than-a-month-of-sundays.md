@@ -2,7 +2,7 @@
 id: 2374
 title: Odder than a Month of Sundays
 date: 2015-08-04T22:07:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2374
 permalink: /2015/08/04/odder-than-a-month-of-sundays/

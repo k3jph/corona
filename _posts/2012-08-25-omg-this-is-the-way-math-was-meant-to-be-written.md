@@ -2,7 +2,7 @@
 id: 625
 title: OMG, this is the way math was meant to be written
 date: 2012-08-25T22:45:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/08/25/omg-this-is-the-way-math-was-meant-to-be-written/
 permalink: /2012/08/25/omg-this-is-the-way-math-was-meant-to-be-written/

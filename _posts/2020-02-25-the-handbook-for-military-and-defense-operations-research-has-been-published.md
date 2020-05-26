@@ -2,7 +2,7 @@
 id: 7299
 title: The Handbook for Military and Defense Operations Research has been published
 date: 2020-02-25T15:38:06-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7299
 permalink: /2020/02/25/the-handbook-for-military-and-defense-operations-research-has-been-published/

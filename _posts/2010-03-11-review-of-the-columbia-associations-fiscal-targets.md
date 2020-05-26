@@ -2,7 +2,7 @@
 id: 684
 title: "Review of the Columbia Association's Fiscal Targets"
 date: 2010-03-11T01:11:49-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/03/11/review-of-the-columbia-associations-fiscal-targets/
 permalink: /2010/03/11/review-of-the-columbia-associations-fiscal-targets/

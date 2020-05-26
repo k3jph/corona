@@ -2,7 +2,7 @@
 id: 441
 title: Flood Insurance Claims
 date: 2012-09-19T00:52:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/09/19/histogram-of-nfip-claims-from-1996-to-2010-in-2010/
 permalink: /2012/09/19/histogram-of-nfip-claims-from-1996-to-2010-in-2010/

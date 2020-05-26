@@ -2,7 +2,7 @@
 id: 3794
 title: Solar-Powered Trains
 date: 2016-02-09T16:40:47-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3794
 permalink: /2016/02/09/solar-powered-trains/

@@ -2,7 +2,7 @@
 id: 5326
 title: Syllabus for Introduction to Statistics
 date: 2017-08-08T21:59:01-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5326
 permalink: /2017/08/08/syllabus-introduction-statistics/

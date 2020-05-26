@@ -2,7 +2,7 @@
 id: 4327
 title: Tax-Incremental Financing and Downtown Columbia
 date: 2016-07-28T20:44:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4327
 permalink: /2016/07/28/tax-incremental-financing-downtown-columbia/

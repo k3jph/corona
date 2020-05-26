@@ -2,7 +2,7 @@
 id: 2725
 title: After the Mission, Vision, and Values
 date: 2015-09-04T08:42:31-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2725
 permalink: /2015/09/04/after-the-mission-vision-and-values/

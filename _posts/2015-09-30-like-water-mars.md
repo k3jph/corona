@@ -2,7 +2,7 @@
 id: 2605
 title: Like Water for Mars
 date: 2015-09-30T09:37:47-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2605
 permalink: /2015/09/30/like-water-mars/

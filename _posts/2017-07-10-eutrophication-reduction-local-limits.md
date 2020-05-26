@@ -2,7 +2,7 @@
 id: 5150
 title: Eutrophication Reduction Through Local Limits
 date: 2017-07-10T07:26:46-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5150
 permalink: /2017/07/10/eutrophication-reduction-local-limits/

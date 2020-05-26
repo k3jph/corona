@@ -2,7 +2,7 @@
 id: 2847
 title: Take a Left at Albuquerque
 date: 2015-09-17T09:12:17-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2847
 permalink: /2015/09/17/take-a-left-at-albuquerque/

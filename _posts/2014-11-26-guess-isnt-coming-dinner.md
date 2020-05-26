@@ -2,7 +2,7 @@
 id: 1667
 title: "Guess who (isn't) coming to dinner"
 date: 2014-11-26T16:26:20-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1667
 permalink: /2014/11/26/guess-isnt-coming-dinner/

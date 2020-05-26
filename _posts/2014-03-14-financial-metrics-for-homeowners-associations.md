@@ -2,7 +2,7 @@
 id: 945
 title: "Financial Metrics for Homeowners' Associations"
 date: 2014-03-14T14:44:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://www.jameshoward.us/?p=945
 permalink: /2014/03/14/financial-metrics-for-homeowners-associations/

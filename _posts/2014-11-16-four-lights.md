@@ -2,7 +2,7 @@
 id: 1636
 title: There are four lights!
 date: 2014-11-16T08:40:48-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1636
 permalink: /2014/11/16/four-lights/

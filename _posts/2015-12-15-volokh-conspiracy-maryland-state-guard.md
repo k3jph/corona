@@ -2,7 +2,7 @@
 id: 3303
 title: Volokh Conspiracy on the Maryland State Guard
 date: 2015-12-15T07:06:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3303
 permalink: /2015/12/15/volokh-conspiracy-maryland-state-guard/

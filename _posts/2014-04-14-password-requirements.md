@@ -2,7 +2,7 @@
 id: 1135
 title: Password Requirements
 date: 2014-04-14T19:55:55-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://www.jameshoward.us/?p=1135
 permalink: /2014/04/14/password-requirements/

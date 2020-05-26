@@ -2,7 +2,7 @@
 id: 6876
 title: Howard County Charter Review
 date: 2019-03-05T20:18:22-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6876
 permalink: /2019/03/05/howard-county-charter-review/

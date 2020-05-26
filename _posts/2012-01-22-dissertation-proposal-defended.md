@@ -2,7 +2,7 @@
 id: 447
 title: Dissertation Proposal Defended
 date: 2012-01-22T03:15:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/01/22/dissertation-proposal-defended/
 permalink: /2012/01/22/dissertation-proposal-defended/

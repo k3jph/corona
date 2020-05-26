@@ -2,7 +2,7 @@
 id: 1877
 title: The Nonprofit Project Takes Off
 date: 2015-03-02T19:31:25-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1877
 permalink: /2015/03/02/the-nonprofit-project-takes-off/

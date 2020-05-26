@@ -2,7 +2,7 @@
 id: 4204
 title: Five Years at UMUC
 date: 2016-06-20T21:36:10-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4204
 permalink: /2016/06/20/five-years-umuc/

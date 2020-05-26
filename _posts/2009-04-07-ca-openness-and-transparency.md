@@ -2,7 +2,7 @@
 id: 3020
 title: CA Openness and Transparency
 date: 2009-04-07T18:44:03-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3020
 permalink: /2009/04/07/ca-openness-and-transparency/

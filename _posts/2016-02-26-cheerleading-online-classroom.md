@@ -2,7 +2,7 @@
 id: 3871
 title: Cheerleading the Online Classroom
 date: 2016-02-26T09:41:40-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3871
 permalink: /2016/02/26/cheerleading-online-classroom/

@@ -2,7 +2,7 @@
 id: 1335
 title: Review of the INFORMS Analytics Maturity Model
 date: 2014-06-22T11:00:51-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=1335
 permalink: /2014/06/22/review-informs-analytics-maturity-model/

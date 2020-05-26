@@ -2,7 +2,7 @@
 id: 2300
 title: "Touchscreens: A New Hope"
 date: 2015-07-22T08:39:47-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2300
 permalink: /2015/07/22/touchscreens-a-new-hope/

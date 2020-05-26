@@ -2,7 +2,7 @@
 id: 3396
 title: Playing fair with Geometry
 date: 2015-12-17T21:10:24-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3396
 permalink: /2015/12/17/playing-fair-geometry/

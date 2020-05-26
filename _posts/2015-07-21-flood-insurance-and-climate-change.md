@@ -2,7 +2,7 @@
 id: 2298
 title: Flood Insurance and Climate Change
 date: 2015-07-21T08:26:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2298
 permalink: /2015/07/21/flood-insurance-and-climate-change/

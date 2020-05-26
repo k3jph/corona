@@ -2,7 +2,7 @@
 id: 3812
 title: Dissertation Proposal Defense Slides
 date: 2012-01-20T21:32:16-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3812
 permalink: /2012/01/20/dissertation-proposal-defense-slides/

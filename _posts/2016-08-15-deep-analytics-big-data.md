@@ -2,7 +2,7 @@
 id: 4382
 title: Deep Analytics and Big Data
 date: 2016-08-15T23:05:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4382
 permalink: /2016/08/15/deep-analytics-big-data/

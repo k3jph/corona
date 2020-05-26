@@ -2,7 +2,7 @@
 id: 6347
 title: Wireless Market Consolidation and the Last Mile
 date: 2018-06-12T08:50:46-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6347
 permalink: /2018/06/12/wireless-market-consolidation-and-the-last-mile/

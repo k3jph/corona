@@ -2,7 +2,7 @@
 id: 6390
 title: Nanotechnology on Your Face
 date: 2018-07-12T06:50:14-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6390
 permalink: /2018/07/12/nanotechnology-on-your-face/

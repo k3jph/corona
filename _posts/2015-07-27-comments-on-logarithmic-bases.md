@@ -2,7 +2,7 @@
 id: 2339
 title: Comments on Logarithmic Bases
 date: 2015-07-27T20:36:08-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2339
 permalink: /2015/07/27/comments-on-logarithmic-bases/

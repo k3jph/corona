@@ -2,7 +2,7 @@
 id: 4254
 title: Listen to Me Discuss The Purge on KPHX This Saturday
 date: 2016-06-30T06:45:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4254
 permalink: /2016/06/30/listen-discuss-purge-kphx-saturday/

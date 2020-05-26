@@ -2,7 +2,7 @@
 id: 4995
 title: The Board of Appeals Seeks a New Member
 date: 2017-05-09T17:53:04-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4995
 permalink: /2017/05/09/board-appeals-seeks-new-member/

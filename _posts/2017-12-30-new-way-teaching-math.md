@@ -2,7 +2,7 @@
 id: 5900
 title: A New Way of Teaching Math
 date: 2017-12-30T07:20:15-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5900
 permalink: /2017/12/30/new-way-teaching-math/

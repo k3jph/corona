@@ -2,7 +2,7 @@
 id: 4207
 title: An Engraved Invitation
 date: 2016-06-22T07:39:40-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4207
 permalink: /2016/06/22/an-engraved-invitation/

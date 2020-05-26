@@ -2,7 +2,7 @@
 id: 1387
 title: Teaching Finite Mathematics
 date: 2014-07-17T09:43:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=1387
 permalink: /2014/07/17/teaching-finite-mathematics/

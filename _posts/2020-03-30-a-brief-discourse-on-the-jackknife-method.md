@@ -2,7 +2,7 @@
 id: 7339
 title: A Brief Discourse on the Jackknife Method
 date: 2020-03-30T20:44:30-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7339
 permalink: /2020/03/30/a-brief-discourse-on-the-jackknife-method/

@@ -2,7 +2,7 @@
 id: 5458
 title: Maryland Watershed Stewards
 date: 2017-09-06T06:55:27-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5458
 permalink: /2017/09/06/maryland-watershed-stewards/

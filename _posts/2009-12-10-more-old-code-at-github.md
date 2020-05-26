@@ -2,7 +2,7 @@
 id: 694
 title: More Old Code at GitHub
 date: 2009-12-10T01:09:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2009/12/10/more-old-code-at-github/
 permalink: /2009/12/10/more-old-code-at-github/

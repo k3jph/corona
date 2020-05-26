@@ -2,7 +2,7 @@
 id: 2964
 title: University of Baltimore Blog Continues
 date: 2009-06-02T17:52:56-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2964
 permalink: /2009/06/02/university-of-baltimore-blog-continues/

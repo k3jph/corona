@@ -2,7 +2,7 @@
 id: 446
 title: Fiscal Year CPI Indicators
 date: 2012-01-28T13:01:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/01/28/fiscal-year-cpi-indicators/
 permalink: /2012/01/28/fiscal-year-cpi-indicators/

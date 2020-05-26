@@ -2,7 +2,7 @@
 id: 4345
 title: What Goes Around Comes Around, Teaching Edition
 date: 2016-11-28T21:56:51-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4345
 permalink: /2016/11/28/goes-around-comes-around-teaching-edition/

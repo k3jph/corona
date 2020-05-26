@@ -2,7 +2,7 @@
 id: 1474
 title: The NFIP and Florida
 date: 2014-10-31T09:01:01-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1474
 permalink: /2014/10/31/nfip-florida/

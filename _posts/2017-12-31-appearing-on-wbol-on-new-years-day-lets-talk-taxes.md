@@ -2,7 +2,7 @@
 id: 5906
 title: "Appearing on WBOL on New Year's Day, Let's Talk Taxes"
 date: 2017-12-31T14:23:58-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5906
 permalink: /2017/12/31/appearing-on-wbol-on-new-years-day-lets-talk-taxes/

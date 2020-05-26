@@ -2,7 +2,7 @@
 id: 686
 title: Working with Mediawiki
 date: 2010-02-01T16:13:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/02/01/working-with-mediawiki/
 permalink: /2010/02/01/working-with-mediawiki/

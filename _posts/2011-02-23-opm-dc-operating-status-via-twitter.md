@@ -2,7 +2,7 @@
 id: 669
 title: OPM DC Operating Status via Twitter
 date: 2011-02-23T13:08:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2011/02/23/opm-dc-operating-status-via-twitter/
 permalink: /2011/02/23/opm-dc-operating-status-via-twitter/

@@ -2,7 +2,7 @@
 id: 2036
 title: Matrix Row Echelon Form in R
 date: 2015-04-20T18:43:56-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2036
 permalink: /2015/04/20/matrix-row-echelon-form-in-r/

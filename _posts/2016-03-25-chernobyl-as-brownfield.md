@@ -2,7 +2,7 @@
 id: 3908
 title: Chernobyl as Brownfield
 date: 2016-03-25T08:06:18-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3908
 permalink: /2016/03/25/chernobyl-as-brownfield/

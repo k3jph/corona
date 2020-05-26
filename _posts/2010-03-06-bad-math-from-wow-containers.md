@@ -2,7 +2,7 @@
 id: 685
 title: Bad Math from Wow Containers
 date: 2010-03-06T20:09:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/03/06/bad-math-from-wow-containers/
 permalink: /2010/03/06/bad-math-from-wow-containers/

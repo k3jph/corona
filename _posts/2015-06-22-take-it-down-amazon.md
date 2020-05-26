@@ -2,7 +2,7 @@
 id: 2233
 title: Take It Down, Amazon
 date: 2015-06-22T21:14:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2233
 permalink: /2015/06/22/take-it-down-amazon/

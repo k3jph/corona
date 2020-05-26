@@ -2,7 +2,7 @@
 id: 3133
 title: CA Budget Committee Called Back
 date: 2008-03-05T18:21:46-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3133
 permalink: /2008/03/05/ca-budget-committee-called-back/

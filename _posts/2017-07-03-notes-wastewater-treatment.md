@@ -2,7 +2,7 @@
 id: 5128
 title: Notes on Wastewater Treatment
 date: 2017-07-03T07:51:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5128
 permalink: /2017/07/03/notes-wastewater-treatment/

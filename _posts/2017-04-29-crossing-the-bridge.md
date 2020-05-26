@@ -2,7 +2,7 @@
 id: 4872
 title: Crossing the Bridge
 date: 2017-04-29T07:59:03-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4872
 permalink: /2017/04/29/crossing-the-bridge/

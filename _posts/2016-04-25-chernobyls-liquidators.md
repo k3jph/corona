@@ -2,7 +2,7 @@
 id: 3985
 title: "Chernobyl's Liquidators"
 date: 2016-04-25T17:23:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3985
 permalink: /2016/04/25/chernobyls-liquidators/

@@ -2,7 +2,7 @@
 id: 3781
 title: Historical Social Discount Rates
 date: 2016-02-08T21:16:44-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3781
 permalink: /2016/02/08/historical-social-discount-rates/

@@ -2,7 +2,7 @@
 id: 3054
 title: "Illinois's Junk Bonds"
 date: 2015-10-16T08:27:24-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3054
 permalink: /2015/10/16/illinoiss-junk-bonds/

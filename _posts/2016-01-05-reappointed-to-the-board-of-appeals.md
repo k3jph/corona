@@ -2,7 +2,7 @@
 id: 3560
 title: Reappointed to the Howard County Board of Appeals
 date: 2016-01-05T08:06:34-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3560
 permalink: /2016/01/05/reappointed-to-the-board-of-appeals/

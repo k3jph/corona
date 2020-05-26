@@ -2,7 +2,7 @@
 id: 3571
 title: Welcome back to Mediawiki
 date: 2007-06-12T20:00:34-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3571
 permalink: /2007/06/12/welcome-back-to-mediawiki/

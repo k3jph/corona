@@ -2,7 +2,7 @@
 id: 4961
 title: The New Long Reach Village Center
 date: 2017-05-02T20:21:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4961
 permalink: /2017/05/02/new-long-reach-village-center/

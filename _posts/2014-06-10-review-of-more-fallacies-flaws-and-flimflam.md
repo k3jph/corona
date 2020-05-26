@@ -2,7 +2,7 @@
 id: 1176
 title: Review of More Fallacies, Flaws and Flimflam
 date: 2014-06-10T12:36:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://www.jameshoward.us/?p=1176
 permalink: /2014/06/10/review-of-more-fallacies-flaws-and-flimflam/

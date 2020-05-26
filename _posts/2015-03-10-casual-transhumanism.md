@@ -2,7 +2,7 @@
 id: 1919
 title: Casual Transhumanism
 date: 2015-03-10T18:42:14-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1919
 permalink: /2015/03/10/casual-transhumanism/

@@ -2,7 +2,7 @@
 id: 2893
 title: Caverphone, NYSIIS, and StatCan Added to Phonics Package
 date: 2015-09-27T23:56:03-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2893
 permalink: /2015/09/27/caverphone-nysiis-and-statcan-added-to-phonics-package/

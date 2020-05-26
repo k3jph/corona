@@ -2,7 +2,7 @@
 id: 1187
 title: My First Chess Game
 date: 2014-06-10T20:15:30-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://www.jameshoward.us/?p=1187
 permalink: /2014/06/10/my-first-chess-game/

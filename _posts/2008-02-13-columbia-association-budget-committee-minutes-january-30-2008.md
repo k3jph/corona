@@ -2,7 +2,7 @@
 id: 3221
 title: Columbia Association Budget Committee Minutes (January 30, 2008)
 date: 2008-02-13T13:38:07-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3221
 permalink: /2008/02/13/columbia-association-budget-committee-minutes-january-30-2008/

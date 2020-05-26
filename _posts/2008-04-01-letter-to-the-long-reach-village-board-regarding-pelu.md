@@ -2,7 +2,7 @@
 id: 3125
 title: Letter to the Long Reach Village Board Regarding PELU
 date: 2008-04-01T20:30:28-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3125
 permalink: /2008/04/01/letter-to-the-long-reach-village-board-regarding-pelu/

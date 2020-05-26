@@ -2,7 +2,7 @@
 id: 2418
 title: Slides for the Mars Society Convention
 date: 2015-08-14T14:30:22-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2418
 permalink: /2015/08/14/slides-for-the-mars-society-convention/

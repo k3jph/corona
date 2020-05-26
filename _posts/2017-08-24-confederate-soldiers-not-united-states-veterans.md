@@ -2,7 +2,7 @@
 id: 5423
 title: Confederate Soldiers Were Not United States Veterans
 date: 2017-08-24T06:35:28-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5423
 permalink: /2017/08/24/confederate-soldiers-not-united-states-veterans/

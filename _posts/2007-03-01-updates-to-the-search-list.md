@@ -2,7 +2,7 @@
 id: 3682
 title: Updates to the Search List
 date: 2007-03-01T19:59:27-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3682
 permalink: /2007/03/01/updates-to-the-search-list/

@@ -2,7 +2,7 @@
 id: 6566
 title: Sunspots Will Not Cause an Ice Age
 date: 2018-12-05T12:43:36-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6566
 permalink: /2018/12/05/sunspots-will-not-cause-an-ice-age/

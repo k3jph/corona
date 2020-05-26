@@ -2,7 +2,7 @@
 id: 5374
 title: A Note on the Outer Space Treaty
 date: 2017-08-18T07:07:05-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5374
 permalink: /2017/08/18/note-outer-space-treaty/

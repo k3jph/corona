@@ -2,7 +2,7 @@
 id: 1646
 title: "It's better than pay-for-play contracts"
 date: 2014-11-18T20:50:46-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1646
 permalink: /2014/11/18/better-pay-play-contracts/

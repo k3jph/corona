@@ -2,7 +2,7 @@
 id: 5132
 title: The Structure of a Space Corps
 date: 2017-07-05T07:40:55-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5132
 permalink: /2017/07/05/structure-space-corps/

@@ -2,7 +2,7 @@
 id: 4070
 title: Carme Design Alternatives
 date: 2016-05-08T22:52:04-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4070
 permalink: /2016/05/08/carme-design-alternatives/

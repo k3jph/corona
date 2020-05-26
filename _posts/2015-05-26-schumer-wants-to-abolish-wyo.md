@@ -2,7 +2,7 @@
 id: 2131
 title: Schumer Wants to Abolish WYO
 date: 2015-05-26T18:03:48-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2131
 permalink: /2015/05/26/schumer-wants-to-abolish-wyo/

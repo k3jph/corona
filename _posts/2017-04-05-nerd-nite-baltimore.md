@@ -2,7 +2,7 @@
 id: 4844
 title: Nerd Nite Baltimore!
 date: 2017-04-05T21:17:50-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4844
 permalink: /2017/04/05/nerd-nite-baltimore/

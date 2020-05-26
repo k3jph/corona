@@ -2,7 +2,7 @@
 id: 5845
 title: The Return of the GEDI
 date: 2017-12-11T19:08:15-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5845
 permalink: /2017/12/11/the-return-of-the-gedi/

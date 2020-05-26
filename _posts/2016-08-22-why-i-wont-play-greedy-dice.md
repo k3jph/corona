@@ -2,7 +2,7 @@
 id: 4397
 title: "Why I Won't Play Greedy Dice"
 date: 2016-08-22T20:24:26-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4397
 permalink: /2016/08/22/why-i-wont-play-greedy-dice/

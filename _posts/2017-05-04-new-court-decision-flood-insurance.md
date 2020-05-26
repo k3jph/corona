@@ -2,7 +2,7 @@
 id: 4991
 title: New Court Decision on Flood Insurance
 date: 2017-05-04T21:16:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4991
 permalink: /2017/05/04/new-court-decision-flood-insurance/

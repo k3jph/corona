@@ -2,7 +2,7 @@
 id: 3237
 title: New PELU Task Force Blog
 date: 2008-01-10T19:10:33-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3237
 permalink: /2008/01/10/new-pelu-task-force-blog/

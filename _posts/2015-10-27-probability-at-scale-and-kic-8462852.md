@@ -2,7 +2,7 @@
 id: 3150
 title: Probability at Scale and KIC 8462852
 date: 2015-10-27T08:38:14-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3150
 permalink: /2015/10/27/probability-at-scale-and-kic-8462852/

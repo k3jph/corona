@@ -2,7 +2,7 @@
 id: 6889
 title: "Stokes' Theorem and Green's Theorem"
 date: 2019-03-09T18:37:36-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6889
 permalink: /2019/03/09/stokes-theorem-and-greens-theorem/

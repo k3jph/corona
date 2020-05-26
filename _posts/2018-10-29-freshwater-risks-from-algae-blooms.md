@@ -2,7 +2,7 @@
 id: 6500
 title: Freshwater Risks from Algae Blooms
 date: 2018-10-29T19:56:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6500
 permalink: /2018/10/29/freshwater-risks-from-algae-blooms/

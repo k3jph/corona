@@ -2,7 +2,7 @@
 id: 6258
 title: Shrinky Dinks for Custom Tokens, or How I Learned to Stop Worrying and Love My Little Pony
 date: 2018-03-28T21:00:56-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6258
 permalink: /2018/03/28/shrinky-dinks-for-custom-tokens-or-how-i-learned-to-stop-worrying-and-love-my-little-pony/

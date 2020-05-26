@@ -2,7 +2,7 @@
 id: 3104
 title: PELU Final Report
 date: 2008-05-05T17:21:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3104
 permalink: /2008/05/05/pelu-final-report/

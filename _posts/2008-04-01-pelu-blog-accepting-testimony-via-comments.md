@@ -2,7 +2,7 @@
 id: 3128
 title: PELU Blog Accepting Testimony via Comments
 date: 2008-04-01T20:00:21-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3128
 permalink: /2008/04/01/pelu-blog-accepting-testimony-via-comments/

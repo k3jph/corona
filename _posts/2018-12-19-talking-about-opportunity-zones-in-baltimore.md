@@ -2,7 +2,7 @@
 id: 6648
 title: Talking About Opportunity Zones in Baltimore
 date: 2018-12-19T09:25:42-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6648
 permalink: /2018/12/19/talking-about-opportunity-zones-in-baltimore/

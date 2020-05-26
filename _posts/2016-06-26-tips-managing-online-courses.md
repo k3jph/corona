@@ -2,7 +2,7 @@
 id: 4218
 title: Tips For Managing Online Courses
 date: 2016-06-26T10:51:04-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4218
 permalink: /2016/06/26/tips-managing-online-courses/

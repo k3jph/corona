@@ -2,7 +2,7 @@
 id: 3312
 title: Gun Violence is Expensive, So Internalize the Costs
 date: 2015-12-08T07:21:10-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3312
 permalink: /2015/12/08/gun-violence-expensive-internalize-costs/

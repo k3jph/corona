@@ -2,7 +2,7 @@
 id: 4004
 title: Unlocking the Box
 date: 2017-12-28T22:01:44-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4004
 permalink: /2017/12/28/unlocking-the-box/

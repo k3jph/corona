@@ -2,7 +2,7 @@
 id: 4696
 title: The Land of Milk and Honey
 date: 2017-01-18T21:00:27-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4696
 permalink: /2017/01/18/land-milk-honey/

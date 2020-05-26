@@ -2,7 +2,7 @@
 id: 6835
 title: A Note on Kanji and Hànzì
 date: 2019-02-07T20:58:38-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6835
 permalink: /2019/02/07/a-note-on-kanji-and-hanzi/

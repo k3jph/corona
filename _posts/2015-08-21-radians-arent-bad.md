@@ -2,7 +2,7 @@
 id: 2351
 title: "Radians Aren't So Bad"
 date: 2015-08-21T17:39:41-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2351
 permalink: /2015/08/21/radians-arent-bad/

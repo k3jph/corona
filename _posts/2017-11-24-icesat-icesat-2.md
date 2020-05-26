@@ -2,7 +2,7 @@
 id: 5699
 title: ICESat and ICEsat-2
 date: 2017-11-24T18:53:54-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5699
 permalink: /2017/11/24/icesat-icesat-2/

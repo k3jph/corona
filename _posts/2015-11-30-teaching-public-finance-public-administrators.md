@@ -2,7 +2,7 @@
 id: 3261
 title: On teaching public finance to public administrators
 date: 2015-11-30T19:49:14-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3261
 permalink: /2015/11/30/teaching-public-finance-public-administrators/

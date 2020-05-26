@@ -2,7 +2,7 @@
 id: 3704
 title: Euler Method in R for the Initial Value Problem
 date: 2016-01-14T21:52:33-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3704
 permalink: /2016/01/14/euler-method-in-r/

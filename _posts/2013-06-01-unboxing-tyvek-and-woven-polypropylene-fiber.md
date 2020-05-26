@@ -2,7 +2,7 @@
 id: 510
 title: Unboxing Tyvek and Woven Polypropylene Fiber
 date: 2013-06-01T03:07:53-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/
 permalink: /2013/06/01/unboxing-tyvek-and-woven-polypropylene-fiber/

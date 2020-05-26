@@ -2,7 +2,7 @@
 id: 4278
 title: "Makinster's Lectures on Eastern Philosophy"
 date: 2016-07-05T16:17:15-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4278
 permalink: /2016/07/05/makinsters-lectures-eastern-philosophy/

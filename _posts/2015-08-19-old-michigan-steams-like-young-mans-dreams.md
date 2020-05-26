@@ -2,7 +2,7 @@
 id: 2507
 title: "Old Michigan Steams Like a Young Man's Dreams"
 date: 2015-08-19T18:23:03-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2507
 permalink: /2015/08/19/old-michigan-steams-like-young-mans-dreams/

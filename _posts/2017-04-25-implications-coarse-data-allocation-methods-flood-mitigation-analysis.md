@@ -2,7 +2,7 @@
 id: 4893
 title: Implications of Coarse Data Allocation Methods for Flood Mitigation Analysis
 date: 2017-04-25T07:22:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4893
 permalink: /2017/04/25/implications-coarse-data-allocation-methods-flood-mitigation-analysis/

@@ -2,7 +2,7 @@
 id: 5467
 title: Irma is Not Category 6, but Could be
 date: 2017-09-06T13:02:26-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5467
 image: /assets/images/irma-not-category-6.jpg

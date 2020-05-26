@@ -2,7 +2,7 @@
 id: 3600
 title: Talking SMACK
 date: 2016-01-07T05:36:03-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3600
 permalink: /2016/01/07/talking-smack/

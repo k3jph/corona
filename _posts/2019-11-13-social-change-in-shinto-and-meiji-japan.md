@@ -2,7 +2,7 @@
 id: 7177
 title: Social Change in Shinto and Meiji Japan
 date: 2019-11-13T08:33:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7177
 permalink: /2019/11/13/social-change-in-shinto-and-meiji-japan/

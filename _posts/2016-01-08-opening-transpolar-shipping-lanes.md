@@ -2,7 +2,7 @@
 id: 3418
 title: Opening Transpolar Shipping Lanes
 date: 2016-01-08T07:28:09-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3418
 permalink: /2016/01/08/opening-transpolar-shipping-lanes/

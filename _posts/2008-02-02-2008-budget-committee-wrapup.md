@@ -2,7 +2,7 @@
 id: 3246
 title: 2008 Budget Committee Wrapup
 date: 2008-02-02T16:16:33-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3246
 permalink: /2008/02/02/2008-budget-committee-wrapup/

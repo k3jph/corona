@@ -2,7 +2,7 @@
 id: 7240
 title: Predicting Restaurant Health Hazards
 date: 2020-01-09T09:33:33-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7240
 permalink: /2020/01/09/predicting-restaurant-health-hazards/

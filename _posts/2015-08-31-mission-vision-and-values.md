@@ -2,7 +2,7 @@
 id: 2639
 title: Mission, Vision, and Values
 date: 2015-08-31T12:07:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2639
 permalink: /2015/08/31/mission-vision-and-values/

@@ -2,7 +2,7 @@
 id: 7277
 title: Shotgun Pi
 date: 2020-02-18T09:59:08-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7277
 permalink: /2020/02/18/shotgun-pi/

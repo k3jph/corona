@@ -2,7 +2,7 @@
 id: 3290
 title: Pigeon Flocks for Decision Science
 date: 2015-12-04T07:21:52-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3290
 permalink: /2015/12/04/pigeon-flocks-for-decision-science/

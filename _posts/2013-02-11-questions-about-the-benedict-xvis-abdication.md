@@ -2,7 +2,7 @@
 id: 2992
 title: "Questions about the Benedict XVI's abdication"
 date: 2013-02-11T20:39:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2992
 permalink: /2013/02/11/questions-about-the-benedict-xvis-abdication/

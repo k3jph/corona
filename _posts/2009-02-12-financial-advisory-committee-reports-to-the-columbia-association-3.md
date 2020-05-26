@@ -2,7 +2,7 @@
 id: 3082
 title: Financial Advisory Committee Reports to the Columbia Association (3)
 date: 2009-02-12T21:36:11-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3082
 permalink: /2009/02/12/financial-advisory-committee-reports-to-the-columbia-association-3/

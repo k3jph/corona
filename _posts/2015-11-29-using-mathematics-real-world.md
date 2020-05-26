@@ -2,7 +2,7 @@
 id: 3258
 title: On using mathematics in the real world
 date: 2015-11-29T16:28:03-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3258
 permalink: /2015/11/29/using-mathematics-real-world/

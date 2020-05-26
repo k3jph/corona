@@ -2,7 +2,7 @@
 id: 4086
 title: Carme Test Plan
 date: 2016-05-15T22:49:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4086
 permalink: /2016/05/15/carme-test-plan/

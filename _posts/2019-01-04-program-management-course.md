@@ -2,7 +2,7 @@
 id: 6716
 title: Program Management Course
 date: 2019-01-04T07:36:37-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6716
 permalink: /2019/01/04/program-management-course/

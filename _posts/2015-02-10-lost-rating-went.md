@@ -2,7 +2,7 @@
 id: 1814
 title: I lost and my rating went up?
 date: 2015-02-10T19:12:53-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1814
 permalink: /2015/02/10/lost-rating-went/

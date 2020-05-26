@@ -2,7 +2,7 @@
 id: 4115
 title: Critical Information Acquisition
 date: 2016-06-08T19:30:32-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4115
 permalink: /2016/06/08/critical-information-acquisition/

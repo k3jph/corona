@@ -2,7 +2,7 @@
 id: 7257
 title: Zeroes Are Hard to Find
 date: 2020-02-05T12:16:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7257
 permalink: /2020/02/05/zeroes-are-hard-to-find/

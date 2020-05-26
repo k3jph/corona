@@ -2,7 +2,7 @@
 id: 2853
 title: One Ping Only
 date: 2015-09-18T07:11:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2853
 permalink: /2015/09/18/one-ping-only/

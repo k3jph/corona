@@ -2,7 +2,7 @@
 id: 3183
 title: Draft research note on Bitcoin mining pools
 date: 2015-11-08T12:52:15-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3183
 permalink: /2015/11/08/draft-research-note-bitcoin-mining-pools/

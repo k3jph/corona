@@ -2,7 +2,7 @@
 id: 3015
 title: Greening the Columbia Association
 date: 2009-04-16T22:17:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3015
 permalink: /2009/04/16/greening-the-columbia-association/

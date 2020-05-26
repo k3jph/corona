@@ -2,7 +2,7 @@
 id: 676
 title: FreeGrep Now Standard in Minix
 date: 2010-06-23T18:29:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/06/23/freegrep-now-standard-in-minix/
 permalink: /2010/06/23/freegrep-now-standard-in-minix/

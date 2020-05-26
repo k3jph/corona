@@ -2,7 +2,7 @@
 id: 5665
 title: Ethohistorical Note on Dharma
 date: 2017-11-13T07:16:50-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5665
 permalink: /2017/11/13/ethohistorical-note-dharma/

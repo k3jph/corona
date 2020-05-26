@@ -2,7 +2,7 @@
 id: 2680
 title: The Vision Statement
 date: 2015-09-02T07:01:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2680
 permalink: /2015/09/02/the-vision-statement/

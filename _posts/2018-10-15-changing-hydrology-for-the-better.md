@@ -2,7 +2,7 @@
 id: 6480
 title: Changing Hydrology for the Better
 date: 2018-10-15T20:51:40-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6480
 permalink: /2018/10/15/changing-hydrology-for-the-better/

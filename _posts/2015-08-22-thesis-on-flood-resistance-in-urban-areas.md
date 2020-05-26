@@ -2,7 +2,7 @@
 id: 2522
 title: Thesis on Flood Resistance in Urban Areas
 date: 2015-08-22T10:28:47-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2522
 permalink: /2015/08/22/thesis-on-flood-resistance-in-urban-areas/

@@ -2,7 +2,7 @@
 id: 3911
 title: "Come see my talk on Maryland's stormwater problem at Ignite Baltimore #18"
 date: 2016-04-06T08:59:57-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3911
 permalink: /2016/04/06/come-see-talk-marylands-stormwater-problem-ignite-baltimore-18/

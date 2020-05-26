@@ -2,7 +2,7 @@
 id: 5977
 title: Audio and Slides from My Talk at JMM
 date: 2018-01-12T15:52:23-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5977
 permalink: /2018/01/12/audio-slides-talk-jmm/

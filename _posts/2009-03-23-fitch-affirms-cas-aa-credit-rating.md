@@ -2,7 +2,7 @@
 id: 3033
 title: "Fitch Affirms CA's AA Credit Rating"
 date: 2009-03-23T21:19:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3033
 permalink: /2009/03/23/fitch-affirms-cas-aa-credit-rating/

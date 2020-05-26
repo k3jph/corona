@@ -2,7 +2,7 @@
 id: 4186
 title: Terrorism Policysplainer
 date: 2016-06-16T06:50:23-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4186
 permalink: /2016/06/16/terrorism-policysplainer/

@@ -2,7 +2,7 @@
 id: 4357
 title: Retrospective Social Discount Rates
 date: 2016-08-01T12:29:14-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4357
 permalink: /2016/08/01/retrospective-social-discount-rates/

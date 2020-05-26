@@ -2,7 +2,7 @@
 id: 4709
 title: Syllabus for Finite Mathematics
 date: 2017-02-04T11:25:26-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4709
 permalink: /2017/02/04/syllabus-finite-mathematics/

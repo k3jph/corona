@@ -2,7 +2,7 @@
 id: 2831
 title: Why This Hammer Costs $435
 date: 2015-09-14T15:45:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2831
 permalink: /2015/09/14/why-this-hammer-costs-435/

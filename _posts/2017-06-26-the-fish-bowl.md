@@ -2,7 +2,7 @@
 id: 5114
 title: The Fish Bowl
 date: 2017-06-26T06:50:10-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5114
 permalink: /2017/06/26/the-fish-bowl/

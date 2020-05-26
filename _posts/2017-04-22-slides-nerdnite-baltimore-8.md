@@ -2,7 +2,7 @@
 id: 4878
 title: Slides from NerdNite Baltimore 8
 date: 2017-04-22T20:35:26-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4878
 permalink: /2017/04/22/slides-nerdnite-baltimore-8/

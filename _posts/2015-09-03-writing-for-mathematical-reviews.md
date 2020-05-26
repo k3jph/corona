@@ -2,7 +2,7 @@
 id: 2689
 title: Writing for Mathematical Reviews
 date: 2015-09-03T09:06:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2689
 permalink: /2015/09/03/writing-for-mathematical-reviews/

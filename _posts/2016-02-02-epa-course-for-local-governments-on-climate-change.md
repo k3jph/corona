@@ -2,7 +2,7 @@
 id: 3762
 title: EPA Course for Local Governments on Climate Change
 date: 2016-02-02T08:47:56-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3762
 permalink: /2016/02/02/epa-course-for-local-governments-on-climate-change/

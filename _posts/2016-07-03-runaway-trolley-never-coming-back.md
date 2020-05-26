@@ -2,7 +2,7 @@
 id: 4247
 title: Runaway Trolley, Never Coming Back
 date: 2016-07-03T07:15:12-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4247
 permalink: /2016/07/03/runaway-trolley-never-coming-back/

@@ -2,7 +2,7 @@
 id: 3094
 title: Budget Committee Renamed
 date: 2008-08-28T22:19:34-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3094
 permalink: /2008/08/28/budget-committee-renamed/

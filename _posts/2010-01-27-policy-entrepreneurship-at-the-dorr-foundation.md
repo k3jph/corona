@@ -2,7 +2,7 @@
 id: 688
 title: Policy Entrepreneurship at the Dorr Foundation
 date: 2010-01-27T09:26:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/01/27/policy-entrepreneurship-at-the-dorr-foundation/
 permalink: /2010/01/27/policy-entrepreneurship-at-the-dorr-foundation/

@@ -2,7 +2,7 @@
 id: 671
 title: CALUG Talk on Systems Management with Git
 date: 2011-01-11T03:46:24-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2011/01/11/calug-talk-on-systems-management-with-git/
 permalink: /2011/01/11/calug-talk-on-systems-management-with-git/

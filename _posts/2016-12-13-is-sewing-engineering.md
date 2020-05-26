@@ -2,7 +2,7 @@
 id: 4620
 title: Is Sewing Engineering?
 date: 2016-12-13T07:03:38-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4620
 permalink: /2016/12/13/is-sewing-engineering/

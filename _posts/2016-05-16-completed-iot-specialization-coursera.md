@@ -2,7 +2,7 @@
 id: 4092
 title: I completed the IoT Specialization on Coursera
 date: 2016-05-16T21:54:35-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4092
 permalink: /2016/05/16/completed-iot-specialization-coursera/

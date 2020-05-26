@@ -2,7 +2,7 @@
 id: 3920
 title: Flooding and Cost-Benefit Analysis in Manville, New Jersey
 date: 2016-03-31T07:09:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3920
 permalink: /2016/03/31/flooding-cost-benefit-analysis-manville-new-jersey/

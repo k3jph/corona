@@ -2,7 +2,7 @@
 id: 2125
 title: On Being Right and Being Flexible
 date: 2015-05-19T19:48:19-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2125
 permalink: /2015/05/19/on-being-right-and-being-flexible/

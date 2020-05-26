@@ -2,7 +2,7 @@
 id: 5642
 title: XSEDE is Awesome
 date: 2017-11-07T21:39:37-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5642
 permalink: /2017/11/07/xsede-is-awesome/

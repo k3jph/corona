@@ -2,7 +2,7 @@
 id: 6864
 title: Context of Japanese Syncretism
 date: 2019-03-02T11:41:24-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6864
 permalink: /2019/03/02/context-of-japanese-syncretism/

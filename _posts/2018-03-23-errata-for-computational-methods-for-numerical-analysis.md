@@ -2,7 +2,7 @@
 id: 6244
 title: Errata for Computational Methods for Numerical Analysis
 date: 2018-03-23T07:49:22-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6244
 permalink: /2018/03/23/errata-for-computational-methods-for-numerical-analysis/

@@ -2,7 +2,7 @@
 id: 4427
 title: These People are Not Qualified to Give Opinions
 date: 2016-09-13T20:26:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4427
 permalink: /2016/09/13/people-not-qualified-give-opinions/

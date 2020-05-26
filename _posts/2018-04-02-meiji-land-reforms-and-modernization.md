@@ -2,7 +2,7 @@
 id: 6280
 title: Meiji Land Reforms and Modernization
 date: 2018-04-02T07:46:45-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6280
 permalink: /2018/04/02/meiji-land-reforms-and-modernization/

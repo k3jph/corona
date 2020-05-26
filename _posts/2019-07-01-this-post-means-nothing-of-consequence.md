@@ -2,7 +2,7 @@
 id: 7015
 title: This Post Means Nothing of Consequence
 date: 2019-07-01T07:35:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7015
 permalink: /2019/07/01/this-post-means-nothing-of-consequence/

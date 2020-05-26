@@ -2,7 +2,7 @@
 id: 3186
 title: Letter to the Columbia Association on the Availability of the Budget Committee during the Spring of 2008
 date: 2008-03-03T22:19:51-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3186
 permalink: /2008/03/03/letter-to-the-columbia-association-on-the-availability-of-the-budget-committee-during-the-spring-of-2008/

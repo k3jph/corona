@@ -2,7 +2,7 @@
 id: 2088
 title: Economic Effects of the Ex-Im Bank
 date: 2015-05-10T20:45:38-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2088
 permalink: /2015/05/10/economic-effects-of-the-ex-im-bank/

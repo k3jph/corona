@@ -2,7 +2,7 @@
 id: 5235
 title: The Flush Tax Pays Off
 date: 2017-07-26T06:52:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5235
 permalink: /2017/07/26/the-flush-tax-pays-off/

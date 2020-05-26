@@ -2,7 +2,7 @@
 id: 5623
 title: Going to NASA Social!
 date: 2017-10-24T07:35:09-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5623
 permalink: /2017/10/24/going-nasa-social/

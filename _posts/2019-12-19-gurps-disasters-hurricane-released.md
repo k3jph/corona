@@ -2,7 +2,7 @@
 id: 7236
 title: "GURPS Disasters: Hurricane released!"
 date: 2019-12-19T20:34:38-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7236
 permalink: /2019/12/19/gurps-disasters-hurricane-released/

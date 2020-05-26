@@ -2,7 +2,7 @@
 id: 2911
 title: Voting, Ice Cream, and the Classroom
 date: 2015-09-29T16:50:05-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2911
 permalink: /2015/09/29/voting-ice-cream-and-the-classroom/

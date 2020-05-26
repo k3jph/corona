@@ -2,7 +2,7 @@
 id: 3945
 title: Review of Meta-Analysis with R in JSS
 date: 2016-04-08T06:55:57-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3945
 permalink: /2016/04/08/review-_meta-analysis-r-jss/

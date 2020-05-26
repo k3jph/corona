@@ -2,7 +2,7 @@
 id: 2016
 title: "Maryland Lottery Proceeds Don't Pay for Education"
 date: 2015-04-13T19:05:07-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2016
 permalink: /2015/04/13/maryland-lottery-proceeds-dont-pay-for-education/

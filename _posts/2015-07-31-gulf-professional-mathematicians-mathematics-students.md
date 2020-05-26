@@ -2,7 +2,7 @@
 id: 2169
 title: The gulf between professional mathematicians and most mathematics students
 date: 2015-07-31T14:18:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2169
 permalink: /2015/07/31/gulf-professional-mathematicians-mathematics-students/

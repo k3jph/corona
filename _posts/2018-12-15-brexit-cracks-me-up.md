@@ -2,7 +2,7 @@
 id: 6604
 title: Brexit Cracks Me Up
 date: 2018-12-15T08:53:02-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6604
 permalink: /2018/12/15/brexit-cracks-me-up/

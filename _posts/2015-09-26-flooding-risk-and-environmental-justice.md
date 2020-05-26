@@ -2,7 +2,7 @@
 id: 2890
 title: Flooding Risk and Environmental Justice
 date: 2015-09-26T08:08:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2890
 permalink: /2015/09/26/flooding-risk-and-environmental-justice/

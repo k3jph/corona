@@ -2,7 +2,7 @@
 id: 2626
 title: "I wonder how zoning works on Qo'noS"
 date: 2015-08-30T08:34:28-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2626
 permalink: /2015/08/30/i-wonder-how-zoning-works-on-qonos/

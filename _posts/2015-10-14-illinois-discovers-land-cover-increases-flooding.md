@@ -2,7 +2,7 @@
 id: 3007
 title: Illinois Discovers Land Cover Increases Flooding
 date: 2015-10-14T13:34:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3007
 permalink: /2015/10/14/illinois-discovers-land-cover-increases-flooding/

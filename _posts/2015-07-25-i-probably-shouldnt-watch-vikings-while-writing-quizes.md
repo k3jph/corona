@@ -2,7 +2,7 @@
 id: 2319
 title: "I probably shouldn't watch Vikings while writing quizes"
 date: 2015-07-25T09:46:14-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2319
 permalink: /2015/07/25/i-probably-shouldnt-watch-vikings-while-writing-quizes/

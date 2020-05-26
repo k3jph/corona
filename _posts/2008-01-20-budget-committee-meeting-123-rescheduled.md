@@ -2,7 +2,7 @@
 id: 3347
 title: Budget Committee meeting for 1/23 rescheduled
 date: 2008-01-20T21:50:02-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3347
 permalink: /2008/01/20/budget-committee-meeting-123-rescheduled/

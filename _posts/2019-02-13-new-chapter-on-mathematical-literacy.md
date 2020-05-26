@@ -2,7 +2,7 @@
 id: 6854
 title: New Chapter on Mathematical Literacy
 date: 2019-02-13T13:22:50-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6854
 permalink: /2019/02/13/new-chapter-on-mathematical-literacy/

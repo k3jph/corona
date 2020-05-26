@@ -2,7 +2,7 @@
 id: 4062
 title: My Dissertation
 date: 2016-05-06T09:02:11-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4062
 permalink: /2016/05/06/my-dissertation/

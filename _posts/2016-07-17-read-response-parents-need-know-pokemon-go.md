@@ -2,7 +2,7 @@
 id: 4319
 title: Read My Response to What Parents Need to Know about Pokémon GO
 date: 2016-07-17T09:29:29-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4319
 permalink: /2016/07/17/read-response-parents-need-know-pokemon-go/

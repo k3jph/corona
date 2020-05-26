@@ -2,7 +2,7 @@
 id: 3413
 title: Letter regarding non-financial performance metrics
 date: 2007-06-20T19:05:57-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3413
 permalink: /2007/06/20/letter-regarding-non-financial-performance-metrics/

@@ -2,7 +2,7 @@
 id: 5037
 title: Presidential Tax Returns and Filing Requirements
 date: 2017-06-03T18:46:59-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5037
 permalink: /2017/06/03/presidential-tax-returns-filing-requirements/

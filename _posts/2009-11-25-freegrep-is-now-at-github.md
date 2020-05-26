@@ -2,7 +2,7 @@
 id: 696
 title: FreeGrep is now at GitHub
 date: 2009-11-25T03:42:44-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2009/11/25/freegrep-is-now-at-github/
 permalink: /2009/11/25/freegrep-is-now-at-github/

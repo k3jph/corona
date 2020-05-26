@@ -2,7 +2,7 @@
 id: 4316
 title: Musings on Teaching Calculus Again
 date: 2016-07-16T21:02:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4316
 permalink: /2016/07/16/musings-teaching-calculus/

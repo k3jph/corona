@@ -2,7 +2,7 @@
 id: 3408
 title: 2008 Budget Committee Meeting Schedule
 date: 2007-08-21T21:44:02-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3408
 permalink: /2007/08/21/2008-budget-committee-meeting-schedule/

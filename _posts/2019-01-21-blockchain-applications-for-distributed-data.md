@@ -2,7 +2,7 @@
 id: 6764
 title: Blockchain Applications for Distributed Data
 date: 2019-01-21T17:02:41-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6764
 permalink: /2019/01/21/blockchain-applications-for-distributed-data/

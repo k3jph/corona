@@ -2,7 +2,7 @@
 id: 2543
 title: Wir sind die Roboter
 date: 2015-08-23T09:26:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2543
 permalink: /2015/08/23/wir-sind-die-roboter/

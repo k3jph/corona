@@ -2,7 +2,7 @@
 id: 832
 title: A Theorem on the Consumer Surplus
 date: 2014-04-02T20:28:11-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/?p=832
 permalink: /2014/04/02/a-theorem-on-the-consumer-surplus/

@@ -2,7 +2,7 @@
 id: 4459
 title: Watch my talk at the 2016 Mars Society Convention
 date: 2016-10-30T22:05:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4459
 permalink: /2016/10/30/watch-my-talk-at-the-2016-mars-society-convention/

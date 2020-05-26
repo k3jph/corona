@@ -2,7 +2,7 @@
 id: 5192
 title: Comments on RPN
 date: 2017-07-12T19:12:47-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5192
 permalink: /2017/07/12/comments-on-rpn/

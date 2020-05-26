@@ -2,7 +2,7 @@
 id: 3132
 title: New Budget Committee Meetings
 date: 2008-03-26T20:57:48-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3132
 permalink: /2008/03/26/new-budget-committee-meetings/

@@ -2,7 +2,7 @@
 id: 1793
 title: Public Financial Management, Week 2
 date: 2015-02-02T19:15:10-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1793
 permalink: /2015/02/02/public-financial-management-week-2/

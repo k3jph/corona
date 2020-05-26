@@ -2,7 +2,7 @@
 id: 3829
 title: waterfall 1.0.0 released
 date: 2016-02-15T21:31:52-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3829
 permalink: /2016/02/15/waterfall-1-0-0-released/

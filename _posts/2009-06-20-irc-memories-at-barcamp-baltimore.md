@@ -2,7 +2,7 @@
 id: 712
 title: IRC Memories at Barcamp Baltimore
 date: 2009-06-20T15:14:13-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2009/06/20/irc-memories-at-barcamp-baltimore/
 permalink: /2009/06/20/irc-memories-at-barcamp-baltimore/

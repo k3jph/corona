@@ -2,7 +2,7 @@
 id: 4198
 title: Brexit Versus Texit
 date: 2016-06-28T07:18:05-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4198
 permalink: /2016/06/28/brexit-versus-texit/

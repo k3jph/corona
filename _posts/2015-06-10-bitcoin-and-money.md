@@ -2,7 +2,7 @@
 id: 1898
 title: Bitcoin and Money
 date: 2015-06-10T17:51:09-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1898
 permalink: /2015/06/10/bitcoin-and-money/

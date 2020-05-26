@@ -2,7 +2,7 @@
 id: 3215
 title: Classroom Regulation
 date: 2015-11-12T17:12:28-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3215
 permalink: /2015/11/12/classroom-regulation/

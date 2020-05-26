@@ -2,7 +2,7 @@
 id: 4168
 title: Duckpin Bowling for Dollars
 date: 2016-06-18T06:29:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4168
 permalink: /2016/06/18/duckpin-bowling-dollars/

@@ -2,7 +2,7 @@
 id: 1672
 title: Be ashamed to die until you have won some victory for humanity
 date: 2015-03-05T21:03:38-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1672
 permalink: /2015/03/05/ashamed-die-won-victory-humanity/

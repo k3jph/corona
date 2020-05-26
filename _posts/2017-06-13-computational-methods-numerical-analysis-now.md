@@ -2,7 +2,7 @@
 id: 5054
 title: Computational Methods for Numerical Analysis is Out Now!
 date: 2017-06-13T08:48:20-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5054
 permalink: /2017/06/13/computational-methods-numerical-analysis-now/

@@ -2,7 +2,7 @@
 id: 7247
 title: Blockchain Compliance With Federal Cryptographic Information-Processing Standards
 date: 2020-01-23T08:01:40-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=7247
 permalink: /2020/01/23/blockchain-compliance-with-federal-cryptographic-information-processing-standards/

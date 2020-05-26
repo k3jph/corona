@@ -2,7 +2,7 @@
 id: 3275
 title: Numerical Analysis in R at Data Community DC
 date: 2015-12-01T19:10:26-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3275
 permalink: /2015/12/01/numerical-analysis-in-r-at-data-community-dc/

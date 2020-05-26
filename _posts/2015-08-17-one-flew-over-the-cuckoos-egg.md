@@ -2,7 +2,7 @@
 id: 2470
 title: "One Flew Over the Cuckoo's Egg"
 date: 2015-08-17T18:12:16-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2470
 permalink: /2015/08/17/one-flew-over-the-cuckoos-egg/

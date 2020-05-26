@@ -2,7 +2,7 @@
 id: 675
 title: Irresponsible Fearmongering
 date: 2010-10-18T01:43:43-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2010/10/18/irresponsible-fearmongering/
 permalink: /2010/10/18/irresponsible-fearmongering/

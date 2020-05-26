@@ -2,7 +2,7 @@
 id: 3013
 title: Who is a Stakeholder?
 date: 2009-04-18T19:45:42-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3013
 permalink: /2009/04/18/who-is-a-stakeholder/

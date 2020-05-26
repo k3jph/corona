@@ -2,7 +2,7 @@
 id: 3115
 title: Draft PELU Considerations
 date: 2008-04-08T19:08:44-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3115
 permalink: /2008/04/08/draft-pelu-considerations/

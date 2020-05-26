@@ -2,7 +2,7 @@
 id: 3341
 title: Correction, Budget Meeting on 1/30
 date: 2008-01-29T21:53:19-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3341
 permalink: /2008/01/29/correction-budget-meeting-130/

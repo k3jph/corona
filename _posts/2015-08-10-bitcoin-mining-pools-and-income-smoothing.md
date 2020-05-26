@@ -2,7 +2,7 @@
 id: 2394
 title: Bitcoin Mining Pools and Income Smoothing
 date: 2015-08-10T07:37:24-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2394
 permalink: /2015/08/10/bitcoin-mining-pools-and-income-smoothing/

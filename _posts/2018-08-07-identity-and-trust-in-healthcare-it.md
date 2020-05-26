@@ -2,7 +2,7 @@
 id: 6413
 title: Identity and Trust in Healthcare IT
 date: 2018-08-07T14:16:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6413
 permalink: /2018/08/07/identity-and-trust-in-healthcare-it/

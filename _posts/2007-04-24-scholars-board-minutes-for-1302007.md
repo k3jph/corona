@@ -2,7 +2,7 @@
 id: 3586
 title: Scholars Board Minutes for 1/30/2007
 date: 2007-04-24T21:50:54-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3586
 permalink: /2007/04/24/scholars-board-minutes-for-1302007/

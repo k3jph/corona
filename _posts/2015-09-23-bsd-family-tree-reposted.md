@@ -2,7 +2,7 @@
 id: 2884
 title: BSD Family Tree Reposted
 date: 2015-09-23T22:04:49-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2884
 permalink: /2015/09/23/bsd-family-tree-reposted/

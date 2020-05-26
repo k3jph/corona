@@ -2,7 +2,7 @@
 id: 3074
 title: My Candidacy for the Columbia Council
 date: 2009-03-15T22:40:22-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3074
 permalink: /2009/03/15/my-candidacy-for-the-columbia-council/

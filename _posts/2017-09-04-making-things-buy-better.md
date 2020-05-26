@@ -2,7 +2,7 @@
 id: 5447
 title: Making the Things You Buy Better
 date: 2017-09-04T07:37:09-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5447
 permalink: /2017/09/04/making-things-buy-better/

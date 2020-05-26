@@ -2,7 +2,7 @@
 id: 3382
 title: Budget Committee Letter on the Health Benefits Charge
 date: 2007-12-06T22:17:56-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3382
 permalink: /2007/12/06/budget-committee-letter-health-benefits-charge/

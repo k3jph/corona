@@ -2,7 +2,7 @@
 id: 3679
 title: Eulogy for James Patrick Howard
 date: 2007-03-09T10:00:20-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3679
 permalink: /2007/03/09/eulogy-for-james-patrick-howard/

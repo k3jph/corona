@@ -2,7 +2,7 @@
 id: 3891
 title: Phonics v0.7.3 with Cologne Phonetic
 date: 2016-03-30T06:56:25-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3891
 permalink: /2016/03/30/phonics-v0-7-3-cologne-phonetic/

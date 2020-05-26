@@ -2,7 +2,7 @@
 id: 4802
 title: Adam Gopnik Needs to Get Real
 date: 2017-03-01T19:07:40-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4802
 permalink: /2017/03/01/adam-gopnik-needs-get-real/

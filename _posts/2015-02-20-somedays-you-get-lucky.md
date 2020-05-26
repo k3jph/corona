@@ -2,7 +2,7 @@
 id: 1572
 title: Somedays, You Get Lucky
 date: 2015-02-20T20:58:21-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=1572
 permalink: /2015/02/20/somedays-you-get-lucky/

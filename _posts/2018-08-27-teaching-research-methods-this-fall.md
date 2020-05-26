@@ -2,7 +2,7 @@
 id: 6452
 title: Teaching Research Methods This Fall
 date: 2018-08-27T17:38:22-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6452
 permalink: /2018/08/27/teaching-research-methods-this-fall/

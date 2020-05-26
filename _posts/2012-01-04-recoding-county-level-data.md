@@ -2,7 +2,7 @@
 id: 451
 title: Recoding County-Level Data
 date: 2012-01-04T02:41:00-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://beta.jameshoward.us/2012/01/04/recoding-county-level-data-2/
 permalink: /2012/01/04/recoding-county-level-data/

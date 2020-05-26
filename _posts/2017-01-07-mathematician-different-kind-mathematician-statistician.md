@@ -2,7 +2,7 @@
 id: 4691
 title: A Mathematician, a Different Kind of Mathematician, and a Statistician
 date: 2017-01-07T13:53:56-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=4691
 permalink: /2017/01/07/mathematician-different-kind-mathematician-statistician/

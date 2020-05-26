@@ -2,7 +2,7 @@
 id: 5618
 title: Maryland Defense Force at One Hundred Years
 date: 2017-10-23T19:41:37-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5618
 permalink: /2017/10/23/maryland-defense-force-one-hundred-years/

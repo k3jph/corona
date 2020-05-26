@@ -2,7 +2,7 @@
 id: 6598
 title: Sewage Sludge Down on the Farm
 date: 2018-12-07T07:03:08-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: http://jameshoward.us/?p=6598
 permalink: /2018/12/07/sewage-sludge-down-on-the-farm/

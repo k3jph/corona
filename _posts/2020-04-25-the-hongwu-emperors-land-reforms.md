@@ -2,7 +2,7 @@
 id: the-hongwu-emperors-land-reforms
 title: The Hongwu Emperor's Land Reforms
 date: 2020-04-25T12:57:00-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: the-hongwu-emperors-land-reforms
 permalink: /2020/04/25/the-hongwu-emperors-land-reforms/

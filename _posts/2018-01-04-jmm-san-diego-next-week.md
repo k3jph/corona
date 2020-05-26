@@ -2,7 +2,7 @@
 id: 5951
 title: JMM in San Diego Next Week
 date: 2018-01-04T22:30:59-05:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=5951
 permalink: /2018/01/04/jmm-san-diego-next-week/

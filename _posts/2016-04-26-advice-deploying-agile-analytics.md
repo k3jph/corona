@@ -2,7 +2,7 @@
 id: 3918
 title: Advice for Deploying Agile Analytics
 date: 2016-04-26T17:06:19-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=3918
 permalink: /2016/04/26/advice-deploying-agile-analytics/

@@ -2,7 +2,7 @@
 id: 2216
 title: "I'm Going to MathFest..."
 date: 2015-06-21T09:58:13-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=2216
 permalink: /2015/06/21/im-going-to-mathfest/

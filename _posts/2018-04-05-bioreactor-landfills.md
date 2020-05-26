@@ -2,7 +2,7 @@
 id: 6288
 title: Bioreactor Landfills
 date: 2018-04-05T20:24:22-04:00
-author: James Howard
+author: k3jph
 layout: post
 guid: https://jameshoward.us/?p=6288
 permalink: /2018/04/05/bioreactor-landfills/
