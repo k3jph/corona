@@ -4,7 +4,7 @@ title: Scholarship Philosophy
 date: 2020-04-02T10:10:16-04:00
 author: James Howard
 layout: page
-guid: http://jameshoward.us/?page_id=7357
+guid: scholarship-philosophy
 image: /assets/images/researchlibrary.png
 menu-order:     10
 menu-label:     Scholarship
@@ -41,6 +41,7 @@ two more.
 1. James P. Howard, II, "Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic," 2020 Joint Statistical Meetings, Philadelphia, Aug. 4, 2020.
 1. Anna L Buczak, Benjamin Baugher, Christine Martin, Meg Keiley-Listermann, James P. Howard, II, Nathan Parrish, Anton Stalick, Daniel Berman, Mark Dredze, "Crystal Cube: Forecasting of Disruptive Events," International Conference on Machine Learning and Data Mining MLDM 2020, New York, Jul. 12-14, 2020.
 1. James P. Howard, II and John F. Beyers, Eds., [_Teaching and Learning Mathematics Online_](/tlmo). Boca Raton, Florida: Chapman and Hall/CRC, forthcoming.
+1. James P. Howard, II, "[Math that is Out of this World](/2020/05/27/community-teaching-through-oakland-mills-online)," Oakland Mills Online, Columbia, Maryland, May 4, 2020.
 1. Natalie M. Scala and James P. Howard, II, Eds., [_Handbook of Military and Defense Operations Research_](/mdor), ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
 1. James P. Howard, II, "World Religions Month: Hinduism," ser. Scorpion Speaker Series, Oakland Mills High School, Columbia, Maryland, Jan. 31, 2020.
 1. James P. Howard, II and Maria E. Vachino, "[Blockchain Compliance with Federal Cryptographic Information Processing Standards](https://ieeexplore.ieee.org/document/8965252)," _IEEE Security & Privacy_, vol. 18, no. 1, pp. 65–70, 2020, {% include doi.html doi="doi:10.1109/MSEC.2019.2944290" %}.
