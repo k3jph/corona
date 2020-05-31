@@ -293,3 +293,8 @@ a[class^=jh-] {
 @page {
   margin: 2.5cm;
 }
+
+.jh-latex-equation {
+  text-align: center;
+  margin: 1rem 0;
+}
