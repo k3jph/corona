@@ -23,7 +23,7 @@ What impresses me the most about them are their complete simplicity:
 
 {% include eqn.html 
  eqn="\begin{align}
-  \frac{dx}{dt} &= \alpha x - \beta x y, \\
+  \frac{dx}{dt} &= \alpha x - \beta x \text{, and} \\
   \frac{dy}{dt} &= \delta x y - \gamma y
   \end{align}"
  %}
