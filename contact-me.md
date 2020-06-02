@@ -21,7 +21,7 @@ menu-label:    Contact Me
             </tr>
             <tr>
                 <td>&nbsp;</td>
-                <td><textarea id="message" rows="10" cols="50"></textarea></td>
+                <td><textarea id="message" name="message" rows="10" cols="50"></textarea></td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
