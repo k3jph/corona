@@ -33,6 +33,7 @@ In my spare time, I serve Howard County, Maryland, as [a member of the Board of
 <!--
 ## Major Awards
 
+* Fellow of the [Royal Society of Arts](https://www.thersa.org/)
 * Fellow of the [British Computer Society](https://www.bcs.org/)
 -->
 
