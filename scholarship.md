@@ -40,15 +40,14 @@ two more.
 1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey, James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "Augmented Reality Post-Disaster Situational Awareness," _Johns Hopkins APL Technical Digest_, forthcoming.
 1. James P. Howard, II, "Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic," 2020 Joint Statistical Meetings, Philadelphia, Aug. 4, 2020.
 1. Anna L Buczak, Benjamin Baugher, Christine Martin, Meg Keiley-Listermann, James P. Howard, II, Nathan Parrish, Anton Stalick, Daniel Berman, Mark Dredze, "Crystal Cube: Forecasting of Disruptive Events," International Conference on Machine Learning and Data Mining MLDM 2020, New York, Jul. 12-14, 2020.
-1. James P. Howard, II and John F. Beyers, Eds., [_Teaching and Learning Mathematics Online_](/tlmo). Boca Raton, Florida: Chapman and Hall/CRC, forthcoming.
+1. James P. Howard, II and John F. Beyers, Eds., [_Teaching and Learning Mathematics Online_](/tlmo). Boca Raton, Florida: Chapman and Hall/CRC, 2020.
 1. James P. Howard, II, "[Math that is Out of this World](/2020/05/27/community-teaching-through-oakland-mills-online)," Oakland Mills Online, Columbia, Maryland, May 4, 2020.
 1. Natalie M. Scala and James P. Howard, II, Eds., [_Handbook of Military and Defense Operations Research_](/mdor), ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
 1. James P. Howard, II, "World Religions Month: Hinduism," ser. Scorpion Speaker Series, Oakland Mills High School, Columbia, Maryland, Jan. 31, 2020.
 1. James P. Howard, II and Maria E. Vachino, "[Blockchain Compliance with Federal Cryptographic Information Processing Standards](https://ieeexplore.ieee.org/document/8965252)," _IEEE Security & Privacy_, vol. 18, no. 1, pp. 65–70, 2020, {% include doi.html doi="doi:10.1109/MSEC.2019.2944290" %}.
 1. James P. Howard, II, [_Hurricane_ ser. Gurps Disasters](/games/gurps-disasters-hurricanes), Steve Jackson Games, Austin, Texas, 37-1711, 2019.
 1. David C. Challener, Maria E. Vachino, James P. Howard, II, Christina K. Pikas, and Anil John, "[Blockchain Basics and Suitability: A Primer for Program Managers](http://jitm.ubalt.edu/XXX-3/article3.pdf)," _Journal of Information Technology Management_, vol. 30, no. 3, pp. 33–44, 2019.
-1. Jeffrey Craig, Rohit Mehta, and James P. Howard, II, "[Quantitative literacy to new quantitative literacies](/2019/02/13/new-chapter-on-mathematical-literacy/)," in _Shifting Contexts, Stable Core: Advancing Quantitative Literacy in Higher Education_,
-Luke Tunstall, Gizem Karaali, and Victor Piercey, Eds., ser. MAA Notes. Washington: Mathematical Association of America, 2019, ch. 2, pp. 15–25.
+1. Jeffrey Craig, Rohit Mehta, and James P. Howard, II, "[Quantitative literacy to new quantitative literacies](/2019/02/13/new-chapter-on-mathematical-literacy/)," in _Shifting Contexts, Stable Core: Advancing Quantitative Literacy in Higher Education_, Luke Tunstall, Gizem Karaali, and Victor Piercey, Eds., ser. MAA Notes. Washington: Mathematical Association of America, 2019, ch. 2, pp. 15–25.
 1. James P. Howard, II, "[Blockchain Applications for Distributed Data](/2019/01/21/blockchain-applications-for-distributed-data/)," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 40, Baltimore, 2019, p. 278.
 1. James P. Howard, II, "[Distributed Snake Oil: Second Thoughts on the Blockchain Revolution](/2018/11/05/second-thoughts-on-the-blockchain-revolution/)," INFORMS 2018, Phoenix, Arizona, Nov. 4, 2018.
 1. Don Thibeau, Heather Flannery, Adam Migus, James P. Howard, II, "[Identity and Trust](/2018/08/07/identity-and-trust-in-healthcare-it/)," 2018 ONC Interoperability Forum, ser. Security Track, Washington, Aug. 7, 2018.
@@ -58,7 +57,7 @@ Luke Tunstall, Gizem Karaali, and Victor Piercey, Eds., ser. MAA Notes. Washingt
 1. James P. Howard, II, "[Phonetic Algorithms in R](/2018/02/14/phonics-joss-version-1-0-0-released/
 )," _Journal of Open Source Software_, vol. 3, no. 22, p. 480, 2018, {% include doi.html doi="10.21105/joss.00480" %}.
 1. James P. Howard, II, "[Two Fields Separated by a Common Language](/2018/01/12/audio-slides-talk-jmm/)," in _Abstracts of Papers Presented to the American Mathematical Society_, Joint Mathematics Meetings, vol. 39, San Diego, 2018, p. 511.
-1. James P. Howard, II, "[The Overhype Cycle of Data Science](/2018/02/19/data-science-overhype/)," SEMS Says, _Industrial Management_, vol. 60, no. 1, pp. 8–9, 2018, 
+1. James P. Howard, II, "[The Overhype Cycle of Data Science](/2018/02/19/data-science-overhype/)," SEMS Says, _Industrial Management_, vol. 60, no. 1, pp. 8–9, 2018.
 1. James P. Howard, II, "[Hurricane Harvey Dramatizes Flood Insurance Problems](http://www.greensboro.com/opinion/columns/james-p-howard-ii-hurricane-harvey-dramatizes-flood-insurance-problems/article_933c5130-8ffc-59ff-a732-5455e910eabe.html)," _Greensboro News & Record_, Sep. 3, 2017, reprinted from _The Conversation_.
 1. James P. Howard, II, "[The Problem with Offering Flood Insurance Subsidies](/2017/07/27/the-problem-with-offering-flood-insurance-subsidies/)," _Columbia Flier_, Jul. 27, 2017.
 1. James P. Howard, II, _[Computational Methods for Numerical Analysis with R](/cmna)_, ser. Numerical Analysis and Scientific Computing. New York: Chapman and Hall/CRC, 2017.
