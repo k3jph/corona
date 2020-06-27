@@ -66,7 +66,7 @@ to understand how much the Sun heats the Earth.
 
 The Stefan-Boltzmann law states,
 
-<center>[latex]T_e = [\frac{S(1 - \alpha)}{4\sigma}]^{1/4}s = 2[/latex],</center>
+{% include eqn.html eqn="T_e = [\frac{S(1 - \alpha)}{4\sigma}]^{1/4}s" %}
 
 giving the effective [blackbody
 temperature](http://astronomy.swin.edu.au/cosmos/b/blackbody+radiation) of
