@@ -12,20 +12,20 @@ This is the R package to support phonetic spelling algorithms in R. Several pack
 
 ## Source Code
 
-*   [GitHub Repository](https://github.com/howardjp/phonics)
+*   [GitHub Repository](https://github.com/k3jph/phonics-in-r)
 
 ## Installation
 
-The `phonics` R package is available for download from package at [GitHub](https://github.com/howardjp/phonics). Install `phonics` via [DevTools](https://github.com/hadley/devtools): 
+The `phonics` R package is available for download from package at [GitHub](https://github.com/k3jph/phonics-in-r). Install `phonics` via [DevTools](https://github.com/hadley/devtools): 
 
 {% highlight r %}
-devtools::install_github("howardjp/phonics")
+devtools::install_github("k3jph/phonics-in-r")
 {% endhighlight %}
 
 The `phonics` package is developed using the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) development workflow. To install the development branch, use:
 
 {% highlight r %}
-devtools::install_github("howardjp/phonics", ref = "develop")
+devtools::install_github("k3jph/phonics-in-r", ref = "develop")
 {% endhighlight %}
 
 ## Algorithms included
