@@ -2,9 +2,13 @@
 <html lang="en-us">
 
   <head>
-  {% include head.html %}
+    <link rel="canonical" href="{{ page.redirect.to }}">
+    <script type="d07c855a6e19787a5e1077e3-text/javascript">location="{{ page.redirect.to }}"</script>
+    <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+    <meta name="robots" content="noindex">
+    {% include head.html %}
   </head>
-  
+
   <body>
 
     {% include sidebar.html %}
@@ -22,7 +26,9 @@
       </div>
 
       <div class="container content">
-        {{ content }}
+        <h1>Redirecting&hellip;</h1>
+        <p><a href="{{ page.redirect.to }}">Click here if you are not redirected.</a></p>
+
       </div>
 
       <div class="social-icons">{% include social-icons.html %}</div>

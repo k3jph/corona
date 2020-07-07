@@ -1,44 +1,42 @@
-<head>
-  <link href="http://gmpg.org/xfn/11" rel="profile" />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  <meta name="description" content="{{ page.description }}" />
-  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link href="http://gmpg.org/xfn/11" rel="profile" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+<meta name="description" content="{{ page.description }}" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/jhoward-stacks-128.png' | absolute_url }}">
+<link rel="shortcut icon" type="image/png" href="{{ '/assets/images/jhoward-stacks-128.png' | absolute_url }}">
 
-  <a rel="me" href="https://scholar.social/@k3jph"></a>
-  <a rel="me" href="https://twitter.com/k3jph"></a>
-  <a rel="me" href="https://www.facebook.com/k3jph"></a>
-  
-  <title>
-    {% if page.title == null %}
-      {{ site.title }} | {{ site.tagline }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
+<a rel="me" href="https://scholar.social/@k3jph"></a>
+<a rel="me" href="https://twitter.com/k3jph"></a>
+<a rel="me" href="https://www.facebook.com/k3jph"></a>
 
-  {% if page.url and site.baseurl %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+<title>
+  {% if page.title == null %}
+    {{ site.title }} | {{ site.tagline }}
+  {% else %}
+    {{ page.title }} | {{ site.title }}
   {% endif %}
+</title>
 
-  <link rel="preload" href="{{ '/assets/css/poole.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/poole.css' | absolute_url }}"></noscript>
+{% if page.url and site.baseurl %}
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+{% endif %}
 
-  <link rel="preload" href="{{ '/assets/css/syntax.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/syntax.css' | absolute_url }}"></noscript>
- 
-  <link rel="preload" href="{{ '/assets/css/lanyon.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/lanyon.css' | absolute_url }}"></noscript>
+<link rel="preload" href="{{ '/assets/css/poole.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" href="{{ '/assets/css/poole.css' | absolute_url }}"></noscript>
 
-  <link rel="preload" href="{{ '/assets/css/jameshoward.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript> <link rel="stylesheet" href="{{ '/assets/css/jameshoward.css' | absolute_url }}"></noscript>
+<link rel="preload" href="{{ '/assets/css/syntax.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" href="{{ '/assets/css/syntax.css' | absolute_url }}"></noscript>
 
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"></noscript>
+<link rel="preload" href="{{ '/assets/css/lanyon.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" href="{{ '/assets/css/lanyon.css' | absolute_url }}"></noscript>
 
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed/atom.xml' | absolute_url }}" />
+<link rel="preload" href="{{ '/assets/css/jameshoward.css' | absolute_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript> <link rel="stylesheet" href="{{ '/assets/css/jameshoward.css' | absolute_url }}"></noscript>
 
-  {% seo %}
-</head>
+<link rel="preload" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"></noscript>
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/feed/atom.xml' | absolute_url }}" />
+
+{% seo %}
