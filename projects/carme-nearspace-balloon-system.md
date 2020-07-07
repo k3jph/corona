@@ -7,8 +7,8 @@ layout: page
 guid: https://jameshoward.us/?page_id=4034
 image: /assets/images/nearspace.png
 redirect_from:
-  - /carme
-  - /projects/carme
+  - /carme/
+  - /projects/carme/
 ---
 ## Introduction
 

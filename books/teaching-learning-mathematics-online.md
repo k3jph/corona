@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=5102
 redirect_from:
-  - /tlmo
-  - /books/tlmo
+  - /tlmo/
+  - /books/tlmo/
 ---
 
 {% include figure.html image="tlmo-cover-300px.jpg" placement="right" width="40%"

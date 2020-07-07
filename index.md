@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: http://localhost/wp-faculty/?page_id=2
 redirect_from:
-  - /archive
-  - /about-me
+  - /archive/
+  - /about-me/
 ---
 
 {% include figure.html image="jhoward-greenglow.jpg" width="50%" placement="right"

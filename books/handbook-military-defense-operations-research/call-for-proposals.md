@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=5727
 redirect_from:
-  - /mdor/cfp
-  - /books/mdor/cfp
+  - /mdor/cfp/
+  - /books/mdor/cfp/
 ---
 
 *   Proposal Submission Deadline: March 15, 2018

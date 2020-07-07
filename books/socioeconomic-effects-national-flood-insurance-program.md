@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=2887
 redirect_from:
-  - /se-nfip
-  - /books/se-nfip
+  - /se-nfip/
+  - /books/se-nfip/
 ---
 
 {% include figure.html image="SE-NFIP-cover-300.png" placement="right" width="40%"

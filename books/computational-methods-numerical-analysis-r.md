@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=1450
 redirect_from:
-  - /cmna
-  - /books/cmna
+  - /cmna/
+  - /books/cmna/
 ---
 
 {% include figure.html image="CMNA-cover-300.png" placement="right" width="40%"
@@ -58,11 +58,11 @@ The [`cmna`](https://cran.r-project.org/web/packages/cmna/index.html)
 R package is available containing all of the algorithms from this
 book, and a few extra implementations of interest. You can access
 the source code for the `cmna` package at
-[GitHub](https://github.com/howardjp/cmna). Install `cmna` via
+[GitHub](https://github.com/k3jph/cmna-pkg). Install `cmna` via
 [DevTools](https://github.com/hadley/devtools):
 
 {% highlight r %}
-devtools::install_github("howardjp/cmna")
+devtools::install_github("k3jph/cmna-pkg")
 {% endhighlight %}
 
 The `cmna` package is developed using the
@@ -70,7 +70,7 @@ The `cmna` package is developed using the
 development workflow. To install the development branch, use:
 
 {% highlight r %}
-devtools::install_github("howardjp/cmna", ref = "develop")
+devtools::install_github("k3jph/cmna-pkg", ref = "develop")
 {% endhighlight %}
 
 ## Related Posts

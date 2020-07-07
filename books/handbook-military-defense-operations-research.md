@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: http://jameshoward.us/?page_id=7290
 redirect_from:
-  - /mdor
-  - /books/mdor
+  - /mdor/
+  - /books/mdor/
 ---
 
 {% include figure.html image="mdor-cover-300w.jpg" placement="right" width="40%"

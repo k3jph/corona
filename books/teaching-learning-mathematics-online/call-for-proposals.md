@@ -6,8 +6,8 @@ author: James Howard
 layout: page
 guid: https://jameshoward.us/?page_id=5051
 redirect_from:
-  - /tlmo/cfp
-  - /books/tlmo/cfp
+  - /tlmo/cfp/
+  - /books/tlmo/cfp/
 ---
 
 * Proposal Submission Deadline: September 30, 2017

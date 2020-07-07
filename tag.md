@@ -6,7 +6,7 @@ description: The topics on JamesHoward.us
 sitemap:
   exclude:      yes
 redirect_from:
-  - /tags
+  - /tags/
 ---
 
 <div class="page">
