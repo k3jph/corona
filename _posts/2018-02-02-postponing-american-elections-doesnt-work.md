@@ -219,5 +219,4 @@ incorrect torture
 memos](http://www.nytimes.com/ref/international/24MEMO-GUIDE.html).  So
 now I am questioning my logic.
 
-[^vptitle]: As an aside, the title of the "Vice-President" actually has a hyphen in
-it. Get it right, people.
+[^vptitle]: As an aside, the title of the "Vice-President" actually has a hyphen in it. Get it right, people.
