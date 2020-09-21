@@ -65,7 +65,7 @@ two more.
 1. James P. Howard, II, "[The Needs of the Many and the Needs of the Few](/2017/04/22/slides-nerdnite-baltimore-8/)," Baltimore, Maryland: NerdNite Baltimore #8, Apr. 18, 2017.
 1. James P. Howard, II, "[And Behind Door #3...](/2017/01/05/behind-door-3/)," in _Abstracts of Papers Presented to the American Mathematical Society,_ vol. 38, Atlanta, Georgia: Joint Mathematics Meetings, 2017, p. 394.
 1. James P. Howard, II, "[Review of _Political Analysis Using R_ by James E. Monogan III](https://www.jstatsoft.org/index.php/jss/article/view/v074b01)," _Journal of Statistical Software_, vol. 74, no. 1, pp. 1–3, 2016, {% include doi.html doi="doi:10.18637/jss.v074.b01" %}.
-1. James P. Howard, II, "[Economics of Martian Onfrastructure](/2016/10/30/watch-my-talk-at-the-2016-mars-society-convention/)," Mars Society, Washington: 19th Annual International Mars Society Convention, Sep. 25, 2016.
+1. James P. Howard, II, "[Economics of Martian Infrastructure](/2016/10/30/watch-my-talk-at-the-2016-mars-society-convention/)," Mars Society, Washington: 19th Annual International Mars Society Convention, Sep. 25, 2016.
 1. James P. Howard, II, "[Retrospective Social Discount Rates](https://ww2.amstat.org/meetings/jsm/2016/onlineprogram/AbstractDetails.cfm?abstractid=321720)," 2016 Joint Statistical Meetings, Chicago, Illinois, Aug. 2, 2016.
 1. James P. Howard, II, "[Public Financial Management](http://www.syllabusjournal.org/index.php/syllabus/article/view/194)," _Syllabus_, vol. 5, no. 1, 2016.
 1. James P. Howard, II, _[Socioeconomic Effects of the National Flood Insurance Program](/se-nfip)_, 1st ed., ser. SpringerBriefs in Political Science. Cham, Switzerland: Springer International Publishing, 2016.
