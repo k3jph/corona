@@ -13,6 +13,10 @@ tags:
   - phonics
   - articles
   - R
+  - XSEDE
+  - data science
+  - demography
+  - computational linguistics
 ---
 
 I am very happy to say my new article, ["Phonetic Spelling Algorithm
@@ -50,3 +54,9 @@ been putting it to use.  It all started because I needed a high-speed
 soundex and I just let it grow from there.  This yak may not be shaved
 yet.  Maybe a
 [version in Rust, next...](https://github.com/k3jph/phonics-in-rust)
+
+_This work used the Extreme Science and Engineering Discovery
+Environment (XSEDE), which is supported by National Science Foundation
+grant number ACI-1548562. In particular, it used the Comet system
+at the San Diego Supercomputing Center (SDSC) through allocations
+TG-DBS170012 and TG-ASC150024._
