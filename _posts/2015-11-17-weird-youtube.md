@@ -4,7 +4,6 @@ title: Weird YouTube
 date: 2015-11-17T20:47:37-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3228
 permalink: /2015/11/17/weird-youtube/
 dsq_thread_id:
   - "4328211413"

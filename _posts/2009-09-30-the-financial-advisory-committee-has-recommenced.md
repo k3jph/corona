@@ -4,7 +4,6 @@ title: The Financial Advisory Committee has Recommenced
 date: 2009-09-30T08:49:00-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2009/09/30/the-financial-advisory-committee-has-recommenced/
 permalink: /2009/09/30/the-financial-advisory-committee-has-recommenced/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/200930292/the-financial-advisory-committee-has-recommenced

@@ -4,7 +4,6 @@ title: "GURPS Disasters: Hurricane released!"
 date: 2019-12-19T20:34:38-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7236
 permalink: /2019/12/19/gurps-disasters-hurricane-released/
 image: /assets/images/GURPS_Disasters_Hurricane-1.png
 categories:
@@ -25,7 +24,7 @@ from horizon to horizon. They are even given names.
 Everyone, I am happy to say that today, [Steve Jackson
 Games](http://www.sjgames.com/) released my new sourcebook, _[GURPS
 Disasters:
-Hurricane.](https://jameshoward.us/games/gurps-disasters-hurricane/)_ The
+Hurricane.](/games/gurps-disasters-hurricane/)_ The
 sourcebook covers how hurricanes form, what happens when they strike,
 and the recovery process and is designed to be integrated with any
 GURPS campaign. Like other GURPS sourcebooks, it can be used with
@@ -63,8 +62,7 @@ happen!
 So anyway, I was at the Steve Jackson Games website when I started
 browsing the catalog and noticed they wanted someone to write up
 how to game a hurricane. I didn't know much about roleplaying but
-[I do know
-hurricanes](https://jameshoward.us/scholarship/). So
+[I do know hurricanes](/scholarship/). So
 I sent them a pitch and here we are!
 
 You can buy the sourcebook from [Warehouse 23 today for six

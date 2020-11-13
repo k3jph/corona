@@ -4,7 +4,6 @@ title: Data in Search of a Theory
 date: 2018-01-24T20:33:13-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6009
 permalink: /2018/01/24/data-search-theory/
 image: /assets/images/data-search-theory.jpg
 categories:

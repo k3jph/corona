@@ -4,7 +4,6 @@ title: Notes on Solid Waste Reduction
 date: 2017-08-16T07:03:38-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5348
 permalink: /2017/08/16/notes-solid-waste-reduction/
 image: /assets/images/notes-solid-waste-reduction.jpg
 categories:

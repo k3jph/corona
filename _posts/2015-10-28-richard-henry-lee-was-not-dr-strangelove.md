@@ -4,7 +4,6 @@ title: Richard Henry Lee was not Dr. Strangelove
 date: 2015-10-28T11:12:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3162
 permalink: /2015/10/28/richard-henry-lee-was-not-dr-strangelove/
 dsq_thread_id:
   - "4265781259"

@@ -4,7 +4,6 @@ title: Summer Math Teaching
 date: 2017-06-30T07:25:05-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5113
 permalink: /2017/06/30/summer-math-teaching/
 instant_articles_submission_id:
   - "239857066515660"

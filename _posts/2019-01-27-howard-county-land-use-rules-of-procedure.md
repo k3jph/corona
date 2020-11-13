@@ -4,7 +4,6 @@ title: Howard County Land Use Rules of Procedure
 date: 2019-01-27T19:32:09-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6774
 permalink: /2019/01/27/howard-county-land-use-rules-of-procedure/
 image: /assets/images/howard-county-land-use-rules-of-procedure.jpg
 categories:
@@ -60,7 +59,7 @@ one that occurs all too frequently. You may recall that in 2012,
 proposed](https://msa.maryland.gov/msa/mdmanual/36loc/how/elect/general/how2012.html)
 were just fixing technical references. The public saw this once.
 We see conflict of laws in about a quarter of the cases on the
-[Board of Appeals](https://jameshoward.us/service/howard-county/).
+[Board of Appeals](/service/howard-county/).
 Let's not make the problem worse.
 
 Generally speaking, the policies being addressed may need to be

@@ -4,7 +4,6 @@ title: Runaway Trolley, Never Coming Back
 date: 2016-07-03T07:15:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4247
 permalink: /2016/07/03/runaway-trolley-never-coming-back/
 dsq_thread_id:
   - "4957433829"

@@ -4,7 +4,6 @@ title: More Extra Credit for College Algebra
 date: 2019-09-14T15:31:02-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7101
 permalink: /2019/09/14/more-extra-credit-for-college-algebra/
 image: /assets/images/more-extra-credit-for-college-algebra.png
 categories:

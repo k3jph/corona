@@ -4,7 +4,6 @@ title: "Pennsylvania's Flood Insurance Exchange"
 date: 2016-02-11T16:49:11-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3792
 permalink: /2016/02/11/pennsylvanias-flood-insurance-exchange/
 dsq_thread_id:
   - "4571543609"

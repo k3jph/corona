@@ -4,7 +4,6 @@ title: Things That Make You Go Hmm, Brookings Edition
 date: 2016-05-31T23:59:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4098
 permalink: /2016/05/31/things-make-go-hmm-brookings-edition/
 dsq_thread_id:
   - "4874597297"

@@ -4,7 +4,6 @@ title: Data Science Overhype
 date: 2018-02-19T07:46:42-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6177
 permalink: /2018/02/19/data-science-overhype/
 image: /assets/images/data-science-overhype.jpg
 categories:

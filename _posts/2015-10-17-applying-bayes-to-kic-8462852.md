@@ -4,7 +4,6 @@ title: Applying Bayes to KIC 8462852
 date: 2015-10-17T07:56:29-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3069
 permalink: /2015/10/17/applying-bayes-to-kic-8462852/
 dsq_thread_id:
   - "4233372164"

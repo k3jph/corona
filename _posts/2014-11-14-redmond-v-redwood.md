@@ -4,7 +4,6 @@ title: Redmond v. Redwood
 date: 2014-11-14T09:55:13-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1618
 permalink: /2014/11/14/redmond-v-redwood/
 dsq_thread_id:
   - "3222156049"

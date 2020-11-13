@@ -4,7 +4,6 @@ title: Compost Tea on Clay Soils
 date: 2017-10-18T19:22:27-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5612
 permalink: /2017/10/18/compost-tea-clay-soils/
 image: /assets/images/compost-tea-on-clay-soils.jpg
 categories:

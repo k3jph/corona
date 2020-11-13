@@ -4,7 +4,6 @@ title: These People are Not Qualified to Give Opinions
 date: 2016-09-13T20:26:16-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4427
 permalink: /2016/09/13/people-not-qualified-give-opinions/
 instant_articles_submission_id:
   - "1672832446349415"

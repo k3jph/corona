@@ -4,7 +4,6 @@ title: Notes on the Moon Treaty
 date: 2017-08-28T07:21:25-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5431
 permalink: /2017/08/28/comments-moon-treaty/
 image: /assets/images/comments-moon-treaty.jpg
 categories:

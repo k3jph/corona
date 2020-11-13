@@ -4,7 +4,6 @@ title: Charter Review Commission Public Hearing
 date: 2020-02-11T20:39:54-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7255
 permalink: /2020/02/11/charter-review-commission-public-hearing/
 image: /assets/images/charter-review-commission-public-hearing.png
 categories:

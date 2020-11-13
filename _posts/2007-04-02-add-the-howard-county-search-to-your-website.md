@@ -4,7 +4,6 @@ title: Add the Howard County Search to Your Website
 date: 2007-04-02T18:07:37-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3677
 permalink: /2007/04/02/add-the-howard-county-search-to-your-website/
 categories:
   - Blog

@@ -4,7 +4,6 @@ title: A Note on the Outer Space Treaty
 date: 2017-08-18T07:07:05-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5374
 permalink: /2017/08/18/note-outer-space-treaty/
 image: /assets/images/note-outer-space-treaty.jpg
 categories:

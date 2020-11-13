@@ -4,7 +4,6 @@ title: Teaching Project Management This Fall
 date: 2018-07-10T07:36:46-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6374
 permalink: /2018/07/10/teaching-project-management-this-fall/
 image: /assets/images/teaching-project-management-this-fall.jpg
 categories:

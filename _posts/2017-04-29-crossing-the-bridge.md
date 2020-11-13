@@ -4,7 +4,6 @@ title: Crossing the Bridge
 date: 2017-04-29T07:59:03-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4872
 permalink: /2017/04/29/crossing-the-bridge/
 instant_articles_submission_id:
   - "284273628690471"

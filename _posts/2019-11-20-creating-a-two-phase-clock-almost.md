@@ -4,7 +4,6 @@ title: "Creating a Two-Phase Clock...Almost"
 date: 2019-11-20T11:19:24-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7186
 permalink: /2019/11/20/creating-a-two-phase-clock-almost/
 image: /assets/images/creating-a-two-phase-clock-almost.jpg
 categories:
@@ -14,8 +13,7 @@ tags:
   - MC6800
   - signal processing
 ---
-A [quick update on
-this](https://jameshoward.us/2019/11/15/6502-based-computer-in-2019/). I
+A [quick update on this](/2019/11/15/6502-based-computer-in-2019/). I
 built the clock described in this video over the weekend:
 
 <blockquote class="embedly-card" data-card-key="66f8489580e04fc4a88a724eb5058bb3" data-card-branding="0"><h4><a href="https://www.youtube.com/watch?v=kRlSFm519Bo">Astable 555 timer - 8-bit computer clock - part 1</a></h4><p>Our computer's clock is built using several 555 timers. The first is configured as an astable oscillator. See https://eater.net/bbcpu8-clock-module for more....</p></blockquote>

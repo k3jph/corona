@@ -4,7 +4,6 @@ title: Bioreactor Landfills
 date: 2018-04-05T20:24:22-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6288
 permalink: /2018/04/05/bioreactor-landfills/
 image: /assets/images/bioreactor-landfills.jpg
 categories:

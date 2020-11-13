@@ -4,7 +4,6 @@ title: Some Fun Facts about the Moon and Sun
 date: 2017-08-21T06:58:09-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5388
 permalink: /2017/08/21/fun-facts-moon-sun/
 image: /assets/images/fun-facts-moon-sun.jpg
 categories:

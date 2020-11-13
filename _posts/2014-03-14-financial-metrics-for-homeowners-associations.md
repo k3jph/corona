@@ -4,7 +4,6 @@ title: "Financial Metrics for Homeowners' Associations"
 date: 2014-03-14T14:44:15-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=945
 permalink: /2014/03/14/financial-metrics-for-homeowners-associations/
 image: /assets/images/DSC_0115-1.jpg
 dsq_thread_id:

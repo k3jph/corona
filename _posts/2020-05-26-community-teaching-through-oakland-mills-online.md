@@ -4,7 +4,6 @@ title: Community Teaching Through Oakland Mills Online
 date: 2020-05-27T20:09:00-04:00
 author: k3jph
 layout: post
-guid: community-teaching-through-oakland-mills-online
 permalink: /2020/05/27/community-teaching-through-oakland-mills-online
 image: /assets/images/community-teaching-through-oakland-mills-online.png
 categories:

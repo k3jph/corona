@@ -4,7 +4,6 @@ title: Playing fair with Geometry
 date: 2015-12-17T21:10:24-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3396
 permalink: /2015/12/17/playing-fair-geometry/
 dsq_thread_id:
   - "4413381178"

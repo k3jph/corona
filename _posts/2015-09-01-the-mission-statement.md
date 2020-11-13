@@ -4,7 +4,6 @@ title: The Mission Statement
 date: 2015-09-01T08:16:08-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2644
 permalink: /2015/09/01/the-mission-statement/
 dsq_thread_id:
   - "4073803672"

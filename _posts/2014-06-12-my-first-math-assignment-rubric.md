@@ -4,7 +4,6 @@ title: My First Math Assignment Rubric
 date: 2014-06-12T11:21:12-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=1197
 permalink: /2014/06/12/my-first-math-assignment-rubric/
 dsq_thread_id:
   - "2754327935"

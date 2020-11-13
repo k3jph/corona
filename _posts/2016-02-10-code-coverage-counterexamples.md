@@ -4,7 +4,6 @@ title: Code Coverage Counterexamples
 date: 2016-02-10T21:25:50-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3798
 permalink: /2016/02/10/code-coverage-counterexamples/
 dsq_thread_id:
   - "4569179037"

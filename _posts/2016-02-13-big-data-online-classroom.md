@@ -4,7 +4,6 @@ title: Big Data in the Online Classroom
 date: 2016-02-13T22:24:08-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3802
 permalink: /2016/02/13/big-data-online-classroom/
 dsq_thread_id:
   - "4577610409"

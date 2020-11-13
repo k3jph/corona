@@ -4,7 +4,6 @@ title: Prepare for Hurricane Florence Like a Professional
 date: 2018-09-09T17:58:27-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6457
 permalink: /2018/09/09/prepare-for-hurricane-florence-like-a-professional/
 image: /assets/images/prepare-for-hurricane-florence-like-a-professional.jpg
 categories:

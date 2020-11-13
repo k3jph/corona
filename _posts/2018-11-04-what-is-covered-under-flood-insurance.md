@@ -4,7 +4,6 @@ title: What is Covered Under Flood Insurance
 date: 2018-11-04T11:44:29-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6510
 permalink: /2018/11/04/what-is-covered-under-flood-insurance/
 image: /assets/images/what-is-covered-under-flood-insurance.jpg
 categories:

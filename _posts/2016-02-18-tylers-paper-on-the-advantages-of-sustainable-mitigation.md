@@ -4,7 +4,6 @@ title: "Tyler's Paper on the Advantages of Sustainable Mitigation"
 date: 2016-02-18T18:54:16-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3838
 permalink: /2016/02/18/tylers-paper-on-the-advantages-of-sustainable-mitigation/
 dsq_thread_id:
   - "4591757433"

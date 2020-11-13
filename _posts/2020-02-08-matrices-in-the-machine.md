@@ -4,7 +4,6 @@ title: Matrices in the Machine
 date: 2020-02-08T08:01:00-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7266
 permalink: /2020/02/08/matrices-in-the-machine/
 image: /assets/images/pattern-metal-pipes-grid-35543.jpg
 categories:

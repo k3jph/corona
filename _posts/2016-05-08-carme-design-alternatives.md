@@ -4,7 +4,6 @@ title: Carme Design Alternatives
 date: 2016-05-08T22:52:04-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4070
 permalink: /2016/05/08/carme-design-alternatives/
 dsq_thread_id:
   - "4811750318"

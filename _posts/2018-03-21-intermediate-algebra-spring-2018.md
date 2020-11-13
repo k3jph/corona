@@ -4,7 +4,6 @@ title: Intermediate Algebra, Spring 2018
 date: 2018-03-21T19:09:49-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6241
 permalink: /2018/03/21/intermediate-algebra-spring-2018/
 image: /assets/images/intermediate-algebra-spring-2018.jpg
 categories:

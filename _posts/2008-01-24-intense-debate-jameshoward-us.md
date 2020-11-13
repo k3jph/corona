@@ -4,7 +4,6 @@ title: Intense Debate at JamesHoward.us
 date: 2008-01-24T01:18:38-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3345
 permalink: /2008/01/24/intense-debate-jameshoward-us/
 dsq_thread_id:
   - "4396666405"

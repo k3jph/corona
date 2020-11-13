@@ -4,7 +4,6 @@ title: I Got a Master of Science in Environmental Engineering and Science!
 date: 2019-06-19T09:41:47-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6987
 permalink: /2019/06/19/i-got-a-master-of-science-in-environmental-engineering-and-science/
 image: /assets/images/JHU-MS-EES-diploma-blog.png
 categories:

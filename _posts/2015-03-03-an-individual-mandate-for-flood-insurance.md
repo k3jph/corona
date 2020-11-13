@@ -4,7 +4,6 @@ title: An Individual Mandate for Flood Insurance
 date: 2015-03-03T22:11:26-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1890
 permalink: /2015/03/03/an-individual-mandate-for-flood-insurance/
 dsq_thread_id:
   - "3565317774"

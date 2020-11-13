@@ -4,7 +4,6 @@ title: One Step Closer to Ending Open Enrollment
 date: 2014-04-16T21:10:00-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=1141
 permalink: /2014/04/16/one-step-closer-to-ending-open-enrollment/
 dsq_thread_id:
   - "2617696473"

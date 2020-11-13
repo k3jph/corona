@@ -4,7 +4,6 @@ title: More Additions to the Howard County Search
 date: 2007-05-23T18:01:59-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3575
 permalink: /2007/05/23/more-additions-to-the-howard-county-search/
 dsq_thread_id:
   - "4465387280"

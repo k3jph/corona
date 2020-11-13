@@ -4,7 +4,6 @@ title: 'Say "Yes" to the Dress'
 date: 2017-02-15T19:41:53-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4762
 permalink: /2017/02/15/say-yes-dress/
 instant_articles_submission_id:
   - "648451722027091"

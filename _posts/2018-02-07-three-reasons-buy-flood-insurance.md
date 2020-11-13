@@ -4,7 +4,6 @@ title: Three Reasons to Buy Flood Insurance
 date: 2018-02-07T07:34:53-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6123
 permalink: /2018/02/07/three-reasons-buy-flood-insurance/
 image: /assets/images/three-reasons-buy-flood-insurance.jpg
 categories:

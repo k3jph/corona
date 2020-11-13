@@ -4,7 +4,6 @@ title: Friday the 13th, Again Already
 date: 2015-11-13T00:01:09-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3212
 permalink: /2015/11/13/friday-the-13th-again-already/
 dsq_thread_id:
   - "4313698931"

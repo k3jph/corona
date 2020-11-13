@@ -4,7 +4,6 @@ title: Election Security in Harford County
 date: 2018-06-27T19:19:10-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6351
 permalink: /2018/06/27/election-security-in-harford-county/
 image: /assets/images/election-security-in-harford-county.jpg
 categories:

@@ -4,7 +4,6 @@ title: Maslow and Buddhism
 date: 2016-05-31T20:32:29-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4107
 permalink: /2016/05/31/maslow-and-buddhism/
 dsq_thread_id:
   - "4873580695"

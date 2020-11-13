@@ -4,7 +4,6 @@ title: Recoding County-Level Data
 date: 2012-01-04T02:41:00-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2012/01/04/recoding-county-level-data-2/
 permalink: /2012/01/04/recoding-county-level-data/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/30315034259/recoding-county-level-data

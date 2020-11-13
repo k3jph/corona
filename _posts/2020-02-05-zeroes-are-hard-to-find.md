@@ -4,7 +4,6 @@ title: Zeroes Are Hard to Find
 date: 2020-02-05T12:16:00-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7257
 permalink: /2020/02/05/zeroes-are-hard-to-find/
 image: /assets/images/zeroes-are-hard-to-find.jpg
 categories:

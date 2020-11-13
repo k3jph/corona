@@ -4,7 +4,6 @@ title: Bitcoin Mining Pools and Income Smoothing
 date: 2015-08-10T07:37:24-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2394
 permalink: /2015/08/10/bitcoin-mining-pools-and-income-smoothing/
 image: /assets/images/9484489496_b6a28de91d_z.jpg
 categories:

@@ -4,7 +4,6 @@ title: A Challenge Problem for Extra Credit
 date: 2018-11-17T10:31:45-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6552
 permalink: /2018/11/17/a-challenge-problem-for-extra-credit/
 image: /assets/images/a-challenge-problem-for-extra-credit.jpg
 categories:

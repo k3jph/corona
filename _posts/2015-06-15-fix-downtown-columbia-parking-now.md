@@ -4,7 +4,6 @@ title: Fix Downtown Columbia Parking Now
 date: 2015-06-15T19:02:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2203
 permalink: /2015/06/15/fix-downtown-columbia-parking-now/
 dsq_thread_id:
   - "3851495481"

@@ -4,7 +4,6 @@ title: Cyanobacteria on the Early Earth
 date: 2018-02-16T07:16:40-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6167
 permalink: /2018/02/16/cyanobacteria-early-earth/
 image: /assets/images/cyanobacteria-early-earth.jpg
 categories:

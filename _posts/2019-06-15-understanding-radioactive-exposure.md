@@ -4,7 +4,6 @@ title: Understanding Radioactive Exposure
 date: 2019-06-15T09:08:29-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6978
 permalink: /2019/06/15/understanding-radioactive-exposure/
 image: /assets/images/understanding-radioactive-exposure.jpg
 categories:

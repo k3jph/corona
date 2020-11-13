@@ -4,7 +4,6 @@ title: "Video from Patrick Henderson's Meet the People"
 date: 2018-01-01T16:16:38-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5914
 permalink: /2018/01/01/video-patrick-hendersons-meet-people/
 image: /assets/images/video-patrick-hendersons-meet-people.jpg
 categories:

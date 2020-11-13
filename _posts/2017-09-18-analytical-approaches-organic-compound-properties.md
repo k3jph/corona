@@ -4,7 +4,6 @@ title: Analytical Approaches for Organic Compound Properties
 date: 2017-09-18T20:38:32-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5554
 permalink: /2017/09/18/analytical-approaches-organic-compound-properties/
 image: /assets/images/analytical-approaches-estimating-organic-compound-properties.jpg
 categories:

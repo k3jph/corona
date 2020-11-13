@@ -4,7 +4,6 @@ title: Sewage Sludge Down on the Farm
 date: 2018-12-07T07:03:08-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6598
 permalink: /2018/12/07/sewage-sludge-down-on-the-farm/
 image: /assets/images/sewage-sludge-down-on-the-farm.jpg
 categories:
@@ -51,7 +50,7 @@ there is concern about groundwater and surface water contamination.
 All the goodies in the water for plants is also good for things we
 may not want growing.  For instance, [runoff, when reaching major
 bodies of water, can lead to
-eutrophication](https://jameshoward.us/2018/10/29/freshwater-risks-from-algae-blooms/).
+eutrophication](/2018/10/29/freshwater-risks-from-algae-blooms/).
 Finally, there are concerns about [heavy metals in sewage
 sludge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3986993/).
 

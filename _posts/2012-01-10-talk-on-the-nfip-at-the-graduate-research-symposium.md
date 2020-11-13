@@ -4,7 +4,6 @@ title: Talk on the NFIP at the Graduate Research Symposium
 date: 2012-01-10T01:08:00-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2012/01/10/talk-on-the-nfip-at-the-graduate-research-symposium/
 permalink: /2012/01/10/talk-on-the-nfip-at-the-graduate-research-symposium/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/30315452170/talk-on-the-nfip-at-the-graduate-research-symposium

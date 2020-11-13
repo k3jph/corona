@@ -4,7 +4,6 @@ title: Some Hurricane Science
 date: 2017-09-09T07:43:48-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5502
 permalink: /2017/09/09/some-hurricane-science/
 image: /assets/images/some-hurricane-science.jpg
 categories:

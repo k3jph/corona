@@ -4,7 +4,6 @@ title: Stop Making 3D Plots
 date: 2015-08-12T08:49:25-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2407
 permalink: /2015/08/12/stop-making-3d-plots/
 dsq_thread_id:
   - "4025721114"

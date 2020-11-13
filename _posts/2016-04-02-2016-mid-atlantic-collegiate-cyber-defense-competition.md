@@ -4,7 +4,6 @@ title: 2016 Mid-Atlantic Collegiate Cyber Defense Competition
 date: 2016-04-02T17:32:40-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3929
 permalink: /2016/04/02/2016-mid-atlantic-collegiate-cyber-defense-competition/
 geo_latitude:
   - "39.1645203"

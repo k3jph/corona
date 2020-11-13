@@ -4,7 +4,6 @@ title: The MTA and Underprovision of Services
 date: 2009-07-15T03:30:04-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2009/07/15/the-mta-and-underprovision-of-services/
 permalink: /2009/07/15/the-mta-and-underprovision-of-services/
 dsq_thread_id:
   - "2268169913"

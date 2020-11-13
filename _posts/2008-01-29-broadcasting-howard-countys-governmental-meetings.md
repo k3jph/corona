@@ -4,7 +4,6 @@ title: "Broadcasting Howard County's Governmental Meetings"
 date: 2008-01-29T20:22:48-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3343
 permalink: /2008/01/29/broadcasting-howard-countys-governmental-meetings/
 dsq_thread_id:
   - "4396664511"

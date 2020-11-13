@@ -4,7 +4,6 @@ title: XSEDE is Awesome
 date: 2017-11-07T21:39:37-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5642
 permalink: /2017/11/07/xsede-is-awesome/
 image: /assets/images/xsede-is-awesome.jpg
 categories:

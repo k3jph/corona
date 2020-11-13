@@ -4,7 +4,6 @@ title: What to Do When Tornados Strike
 date: 2016-03-21T16:21:27-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3900
 permalink: /2016/03/21/what-to-do-when-tornados-strike/
 dsq_thread_id:
   - "4681846825"

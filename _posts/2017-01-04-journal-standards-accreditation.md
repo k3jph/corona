@@ -4,7 +4,6 @@ title: Journal Standards and Accreditation
 date: 2017-01-04T07:21:18-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4681
 permalink: /2017/01/04/journal-standards-accreditation/
 dsq_thread_id:
   - "5433347050"

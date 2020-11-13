@@ -4,7 +4,6 @@ title: Benefits and Costs
 date: 2015-08-28T07:45:14-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2633
 permalink: /2015/08/28/benefits-and-costs/
 dsq_thread_id:
   - "4075011614"

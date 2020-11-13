@@ -4,7 +4,6 @@ title: PELU Final Report, Revised Edition
 date: 2008-05-07T20:07:23-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3099
 permalink: /2008/05/07/pelu-final-report-revised-edition/
 categories:
   - Blog

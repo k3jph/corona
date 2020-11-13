@@ -4,7 +4,6 @@ title: Population Dynamics for a Better Future
 date: 2017-06-28T06:57:57-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5117
 permalink: /2017/06/28/population-dynamics-better-future/
 instant_articles_submission_id:
   - "447187765656032"

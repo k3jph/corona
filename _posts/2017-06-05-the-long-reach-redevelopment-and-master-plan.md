@@ -4,7 +4,6 @@ title: The Long Reach Redevelopment and Master Plan
 date: 2017-06-05T06:50:24-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5042
 permalink: /2017/06/05/the-long-reach-redevelopment-and-master-plan/
 image: /assets/images/the-long-reach-redevelopment-and-master-plan.jpg
 categories:

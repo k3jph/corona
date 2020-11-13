@@ -4,7 +4,6 @@ title: A Story of Food Bringing Us Together
 date: 2018-10-04T09:16:39-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6475
 permalink: /2018/10/04/a-story-of-food-bringing-us-together/
 image: /assets/images/a-story-of-food-bringing-us-together.jpg
 categories:

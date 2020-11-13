@@ -4,7 +4,6 @@ title: Introducing Flood Studies
 date: 2014-06-16T10:31:24-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=1227
 permalink: /2014/06/16/introducing-flood-studies/
 dsq_thread_id:
   - "2769811789"

@@ -4,7 +4,6 @@ title: Welcome to Plymouth Rock
 date: 2019-08-06T07:47:00-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7052
 permalink: /2019/08/06/welcome-to-plymouth-rock/
 image: /assets/images/welcome-to-plymouth-rock.jpg
 categories:

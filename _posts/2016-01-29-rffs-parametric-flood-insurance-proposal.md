@@ -4,7 +4,6 @@ title: RFFs Parametric Flood Insurance Proposal
 date: 2016-01-29T07:42:52-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3720
 permalink: /2016/01/29/rffs-parametric-flood-insurance-proposal/
 dsq_thread_id:
   - "4533607009"

@@ -4,7 +4,6 @@ title: Podcast on NIST Requirements and Blockchain
 date: 2020-10-05T11:19:00-04:00
 author: k3jph
 layout: post
-guid: 
 permalink: /2020/10/05/mpodcast-on-nist-requirements-and-blockchain
 image: /assets/images/podcast-on-nist-requirements-and-blockchain.jpg
 categories:

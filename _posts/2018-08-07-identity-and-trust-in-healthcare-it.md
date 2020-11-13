@@ -4,7 +4,6 @@ title: Identity and Trust in Healthcare IT
 date: 2018-08-07T14:16:00-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6413
 permalink: /2018/08/07/identity-and-trust-in-healthcare-it/
 image: /assets/images/hospital-1822457_1920.jpg
 categories:
@@ -30,7 +29,7 @@ One of the dominant forces right now in both healthcare and identity
 management is blockchain. And I have a bit of experience working
 with blockchain based solutions and many of these are overhyped. I
 actually alluded to this briefly in [a recent
-column](https://jameshoward.us/2018/02/19/data-science-overhype/). But
+column](/2018/02/19/data-science-overhype/). But
 in the case of identity management, I keep hearing echoes of previous
 stories.
 

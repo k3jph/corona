@@ -4,7 +4,6 @@ title: Buddhist Meditation and Modern Science
 date: 2016-06-17T07:07:13-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4190
 permalink: /2016/06/17/buddhist-meditation-modern-science/
 dsq_thread_id:
   - "4917661012"

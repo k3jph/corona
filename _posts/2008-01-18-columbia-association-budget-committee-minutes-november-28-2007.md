@@ -4,7 +4,6 @@ title: Columbia Association Budget Committee Minutes (November 28, 2007)
 date: 2008-01-18T18:24:43-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3360
 permalink: /2008/01/18/columbia-association-budget-committee-minutes-november-28-2007/
 dsq_thread_id:
   - "4396690658"

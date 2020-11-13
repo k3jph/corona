@@ -4,7 +4,6 @@ title: "Listen to me talk data science on KFNX's TechTalk"
 date: 2016-04-13T06:59:53-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3951
 permalink: /2016/04/13/listen-talk-data-science-kfnx/
 dsq_thread_id:
   - "4733449503"

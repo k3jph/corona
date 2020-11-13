@@ -4,7 +4,6 @@ title: Team Tracking with Trello
 date: 2015-01-29T20:31:49-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1779
 permalink: /2015/01/29/team-tracking-trello/
 dsq_thread_id:
   - "3468164317"

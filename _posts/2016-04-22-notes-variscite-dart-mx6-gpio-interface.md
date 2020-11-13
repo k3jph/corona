@@ -4,7 +4,6 @@ title: Notes on the Variscite DART-MX6 GPIO Interface
 date: 2016-04-22T07:02:06-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3979
 permalink: /2016/04/22/notes-variscite-dart-mx6-gpio-interface/
 dsq_thread_id:
   - "4762052093"

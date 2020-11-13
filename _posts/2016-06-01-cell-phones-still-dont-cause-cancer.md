@@ -4,7 +4,6 @@ title: "Cell Phones Still Don't Cause Cancer"
 date: 2016-06-01T07:42:40-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4110
 permalink: /2016/06/01/cell-phones-still-dont-cause-cancer/
 dsq_thread_id:
   - "4874706820"

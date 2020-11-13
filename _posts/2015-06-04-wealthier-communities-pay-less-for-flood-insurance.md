@@ -4,7 +4,6 @@ title: Wealthier Communities Pay Less for Flood Insurance
 date: 2015-06-04T21:03:29-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2159
 permalink: /2015/06/04/wealthier-communities-pay-less-for-flood-insurance/
 dsq_thread_id:
   - "3822231333"

@@ -4,7 +4,6 @@ title: Baltimore Sun Story on the CA Election
 date: 2009-04-05T18:43:48-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3026
 permalink: /2009/04/05/baltimore-sun-story-on-the-ca-election/
 dsq_thread_id:
   - "5883130246"

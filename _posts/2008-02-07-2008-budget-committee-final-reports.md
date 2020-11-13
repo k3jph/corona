@@ -4,7 +4,6 @@ title: 2008 Budget Committee Final Reports
 date: 2008-02-07T19:27:57-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3244
 permalink: /2008/02/07/2008-budget-committee-final-reports/
 dsq_thread_id:
   - "4341407539"

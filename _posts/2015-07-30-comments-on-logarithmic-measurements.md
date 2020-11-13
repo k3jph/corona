@@ -4,7 +4,6 @@ title: Comments on Logarithmic Measurements
 date: 2015-07-30T07:34:46-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2346
 permalink: /2015/07/30/comments-on-logarithmic-measurements/
 dsq_thread_id:
   - "3986168677"

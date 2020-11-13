@@ -4,7 +4,6 @@ title: Circling the Drain
 date: 2016-01-21T20:36:31-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3731
 permalink: /2016/01/21/circling-the-drain/
 dsq_thread_id:
   - "4512281094"

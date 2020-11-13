@@ -4,7 +4,6 @@ title: "California's risky business"
 date: 2008-03-13T10:15:45-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3136
 permalink: /2008/03/13/californias-risky-business/
 dsq_thread_id:
   - "4247426797"

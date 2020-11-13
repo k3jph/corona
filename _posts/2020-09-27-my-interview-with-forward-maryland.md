@@ -4,7 +4,6 @@ title: My Interview With Forward Maryland
 date: 2020-09-27T13:19:00-04:00
 author: k3jph
 layout: post
-guid: my-interview-with-forward-maryland
 permalink: /2020/09/27/my-interview-with-forward-maryland
 image: /assets/images/my-interview-with-forward-maryland.jpg
 categories:

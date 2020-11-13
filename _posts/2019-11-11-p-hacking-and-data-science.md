@@ -4,7 +4,6 @@ title: "[latex]p[/latex]-hacking and Data Science"
 date: 2019-11-11T10:06:54-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7171
 permalink: /2019/11/11/p-hacking-and-data-science/
 image: /assets/images/p-hacking-and-data-science.jpg
 categories:

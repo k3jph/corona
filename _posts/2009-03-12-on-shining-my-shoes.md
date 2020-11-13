@@ -4,7 +4,6 @@ title: On Shining My Shoes
 date: 2009-03-12T21:24:37-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3078
 permalink: /2009/03/12/on-shining-my-shoes/
 categories:
   - Blog

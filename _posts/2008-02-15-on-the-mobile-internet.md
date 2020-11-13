@@ -4,7 +4,6 @@ title: On the Mobile Internet
 date: 2008-02-15T22:42:17-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3200
 permalink: /2008/02/15/on-the-mobile-internet/
 dsq_thread_id:
   - "4293915932"

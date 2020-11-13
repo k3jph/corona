@@ -4,7 +4,6 @@ title: Engaging the Public Through Technology
 date: 2008-02-09T10:03:19-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3239
 permalink: /2008/02/09/engaging-the-public-through-technology/
 dsq_thread_id:
   - "4341390104"

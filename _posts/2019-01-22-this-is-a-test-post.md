@@ -4,7 +4,6 @@ title: This is a Test Post
 date: 2019-01-22T08:08:58-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6771
 permalink: /2019/01/22/this-is-a-test-post/
 categories:
   - Blog

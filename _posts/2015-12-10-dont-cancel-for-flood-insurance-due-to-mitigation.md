@@ -4,7 +4,6 @@ title: "Don't Cancel Flood Insurance due to Mitigation"
 date: 2015-12-10T08:05:03-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3320
 permalink: /2015/12/10/dont-cancel-for-flood-insurance-due-to-mitigation/
 dsq_thread_id:
   - "4391965874"

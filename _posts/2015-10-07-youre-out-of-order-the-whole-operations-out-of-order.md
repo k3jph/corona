@@ -4,7 +4,6 @@ title: "You're out of order! The whole operation's out of order!"
 date: 2015-10-07T16:50:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2952
 permalink: /2015/10/07/youre-out-of-order-the-whole-operations-out-of-order/
 dsq_thread_id:
   - "4203857212"

@@ -4,7 +4,6 @@ title: "Why I Won't Play Greedy Dice"
 date: 2016-08-22T20:24:26-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4397
 permalink: /2016/08/22/why-i-wont-play-greedy-dice/
 dsq_thread_id:
   - "5087161137"
@@ -20,7 +19,7 @@ Chase and I have started playing the [Pokémon Trading Card
 Game](http://www.pokemon.com/us/pokemon-tcg/), a lot. Perhaps
 obviously, this comes from the confluence of two events.  First,
 in July, [we started playing Pokémon
-GO](https://jameshoward.us/2016/07/17/read-response-parents-need-know-pokemon-go/).
+GO](/2016/07/17/read-response-parents-need-know-pokemon-go/).
 Second, he turned 7.  And 7 year-olds occasionally bring home random
 Pokémon cards.  So we bought some.  A bunch, actually.
 

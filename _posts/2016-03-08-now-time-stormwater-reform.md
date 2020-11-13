@@ -4,7 +4,6 @@ title: Now is the Time for Stormwater Reform
 date: 2016-03-08T17:17:48-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3875
 permalink: /2016/03/08/now-time-stormwater-reform/
 dsq_thread_id:
   - "4645896445"

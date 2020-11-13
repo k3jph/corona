@@ -4,7 +4,6 @@ title: Columbia Needs Municipal Wireless
 date: 2008-03-10T22:56:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3141
 permalink: /2008/03/10/columbia-needs-municipal-wireless/
 dsq_thread_id:
   - "4247429625"

@@ -4,7 +4,6 @@ title: Predicting Restaurant Health Hazards
 date: 2020-01-09T09:33:33-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7240
 permalink: /2020/01/09/predicting-restaurant-health-hazards/
 image: /assets/images/predicting-restaurant-health-hazards.png
 categories:
@@ -26,7 +25,7 @@ Human Podcast](https://pubsonline.informs.org/magazine/orms-today/podcasts)
 to talk about applications of data science. Ashley really wanted
 to talk about one of my first projects at [APL](https://www.jhuapl.edu/), and that was our
 study of [restaurant health code
-violations](https://jameshoward.us/2017/03/03/data-science-restaurant-inspections/).
+violations](/2017/03/03/data-science-restaurant-inspections/).
 
 We had a great talk. You can listen to it on the [INFORMS
 website](https://pubsonline.informs.org/magazine/orms-today/podcasts) or

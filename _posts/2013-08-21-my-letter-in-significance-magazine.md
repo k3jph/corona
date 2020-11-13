@@ -4,7 +4,6 @@ title: "My letter in Significance Magazine..."
 date: 2013-08-21T21:03:00-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2013/08/21/my-letter-in-significance-magazine/
 permalink: /2013/08/21/my-letter-in-significance-magazine/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/58944605478/my-letter-in-significance-magazine

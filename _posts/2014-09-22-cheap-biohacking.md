@@ -4,7 +4,6 @@ title: Cheap Biohacking
 date: 2014-09-22T21:43:06-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=1411
 permalink: /2014/09/22/cheap-biohacking/
 dsq_thread_id:
   - "3043793252"

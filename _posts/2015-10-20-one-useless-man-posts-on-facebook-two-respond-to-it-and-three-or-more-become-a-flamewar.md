@@ -4,7 +4,6 @@ title: One useless man posts on Facebook, two respond to it, and three or more b
 date: 2015-10-20T10:34:29-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3096
 permalink: /2015/10/20/one-useless-man-posts-on-facebook-two-respond-to-it-and-three-or-more-become-a-flamewar/
 dsq_thread_id:
   - "4242686844"

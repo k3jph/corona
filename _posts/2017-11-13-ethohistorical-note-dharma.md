@@ -4,7 +4,6 @@ title: Ethohistorical Note on Dharma
 date: 2017-11-13T07:16:50-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5665
 permalink: /2017/11/13/ethohistorical-note-dharma/
 image: /assets/images/ethohistorical-note-dharma.jpg
 categories:

@@ -4,7 +4,6 @@ title: Formal and Informal Language in English
 date: 2019-03-31T10:48:01-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6900
 permalink: /2019/03/31/formal-and-informal-language-in-english/
 image: /assets/images/people-2570596_1920.jpg
 categories:

@@ -4,7 +4,6 @@ title: Forecasting Artificial Earth Satellite Populations
 date: 2018-07-30T13:30:39-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6396
 permalink: /2018/07/30/forecasting-artificial-earth-satellite-populations/
 image: /assets/images/forecasting-artificial-earth-satellite-populations.jpg
 categories:

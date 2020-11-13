@@ -4,7 +4,6 @@ title: Syllabus for Public Financial Management, 2015
 date: 2015-01-26T16:42:12-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1758
 permalink: /2015/01/26/syllabus-public-financial-management-2015/
 image: /assets/images/7143277339_119f20d696_z.jpg
 dsq_thread_id:

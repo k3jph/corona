@@ -4,7 +4,6 @@ title: Only Evil Genius Spontaneously Arises
 date: 2015-06-11T18:42:44-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2175
 permalink: /2015/06/11/only-evil-genius-spontaneously-arises/
 dsq_thread_id:
   - "3841456388"

@@ -4,7 +4,6 @@ title: Financial Advisory Committee Meeting Tonight
 date: 2009-10-13T12:12:10-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2009/10/13/financial-advisory-committee-meeting-tonight/
 permalink: /2009/10/13/financial-advisory-committee-meeting-tonight/
 dsq_thread_id:
   - "2310664129"

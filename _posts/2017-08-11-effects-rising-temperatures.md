@@ -4,7 +4,6 @@ title: The Effects of Rising Temperatures
 date: 2017-08-11T07:35:41-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5342
 permalink: /2017/08/11/effects-rising-temperatures/
 image: /assets/images/effects-rising-temperatures.jpg
 categories:

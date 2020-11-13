@@ -4,7 +4,6 @@ title: Flood Insurance Reauthorization
 date: 2018-07-11T07:48:38-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6380
 permalink: /2018/07/11/flood-insurance-reauthorization/
 image: /assets/images/flood-insurance-reauthorization.jpg
 categories:

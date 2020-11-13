@@ -4,7 +4,6 @@ title: Second Thoughts on the Blockchain Revolution
 date: 2018-11-05T12:23:22-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6516
 permalink: /2018/11/05/second-thoughts-on-the-blockchain-revolution/
 image: /assets/images/second-thoughts-on-the-blockchain-revolution.png
 categories:

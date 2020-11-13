@@ -4,7 +4,6 @@ title: My Robot, or Announcing DC Closings
 date: 2016-01-24T13:26:14-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3752
 permalink: /2016/01/24/my-robot-or-announcing-dc-closings/
 image: /assets/images/snowcapitol.png
 categories:

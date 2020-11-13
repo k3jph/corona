@@ -4,7 +4,6 @@ title: Political Risk and Export Finance
 date: 2016-04-12T16:31:38-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3966
 permalink: /2016/04/12/political-risk-export-finance/
 dsq_thread_id:
   - "4742052025"

@@ -4,7 +4,6 @@ title: Hazard, Risk, and Expected Losses
 date: 2016-06-03T08:22:28-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4134
 permalink: /2016/06/03/hazard-risk-expected-losses/
 dsq_thread_id:
   - "4880575973"

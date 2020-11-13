@@ -4,7 +4,6 @@ title: Gun-Related Violence is a Recession
 date: 2015-12-05T12:16:21-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3203
 permalink: /2015/12/05/gun-related-violence-recession/
 dsq_thread_id:
   - "4378300939"

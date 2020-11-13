@@ -4,7 +4,6 @@ title: Dimensionality Reduction Through SVD
 date: 2020-04-12T20:11:00-04:00
 author: k3jph
 layout: post
-guid: dimensionality-reduction-through-svd
 permalink: /2020/04/11/dimensionality-reduction-through-svd/
 image: /assets/images/dimensionality-reduction-through-svd.png
 categories:

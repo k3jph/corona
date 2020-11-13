@@ -4,7 +4,6 @@ title: Stunt Budgeting in Howard County
 date: 2015-05-18T19:21:06-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2121
 permalink: /2015/05/18/stunt-budgeting-in-howard-county/
 dsq_thread_id:
   - "3775262597"

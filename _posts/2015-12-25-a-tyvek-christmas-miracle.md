@@ -4,7 +4,6 @@ title: A Tyvek Christmas Miracle
 date: 2015-12-25T08:23:29-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3489
 permalink: /2015/12/25/a-tyvek-christmas-miracle/
 dsq_thread_id:
   - "4432962541"

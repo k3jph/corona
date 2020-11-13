@@ -4,7 +4,6 @@ title: Geothermal Power in the United States
 date: 2017-06-19T07:34:24-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5086
 permalink: /2017/06/19/geothermal-power-united-states/
 instant_articles_submission_id:
   - "286637178466062"

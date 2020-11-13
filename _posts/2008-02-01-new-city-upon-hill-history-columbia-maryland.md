@@ -4,7 +4,6 @@ title: "New City Upon a Hill: A History of Columbia, Maryland"
 date: 2008-02-01T19:14:33-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3248
 permalink: /2008/02/01/new-city-upon-hill-history-columbia-maryland/
 dsq_thread_id:
   - "4341422358"

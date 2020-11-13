@@ -4,7 +4,6 @@ title: There are four lights!
 date: 2014-11-16T08:40:48-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1636
 permalink: /2014/11/16/four-lights/
 image: /assets/images/7742232822_6e32399ff6_z.jpg
 dsq_thread_id:

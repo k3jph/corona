@@ -4,7 +4,6 @@ title: "Again, I am Going to Mars..."
 date: 2016-07-14T20:10:33-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4302
 permalink: /2016/07/14/again-i-am-going-to-mars/
 dsq_thread_id:
   - "4986600311"

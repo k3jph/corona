@@ -4,7 +4,6 @@ title: The Teletype Sound Effect in the Movies
 date: 2018-05-16T18:54:07-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6318
 permalink: /2018/05/16/the-teletype-sound-effect-in-the-movies/
 image: /assets/images/the-teletype-sound-effect-in-the-movies.png
 categories:

@@ -4,7 +4,6 @@ title: Management Controls and the Pump
 date: 2015-04-02T23:45:00-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1969
 permalink: /2015/04/02/management-controls-and-the-pump/
 dsq_thread_id:
   - "3650910441"

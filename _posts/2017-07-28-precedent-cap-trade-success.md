@@ -4,7 +4,6 @@ title: Precedent for Cap-and-Trade Success
 date: 2017-07-28T07:00:07-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5243
 permalink: /2017/07/28/precedent-cap-trade-success/
 image: /assets/images/precedent-cap-trade-success-download.jpg
 categories:

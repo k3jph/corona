@@ -4,7 +4,6 @@ title: Data Science for Restaurant Inspections
 date: 2017-03-03T07:00:21-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4809
 permalink: /2017/03/03/data-science-restaurant-inspections/
 dsq_thread_id:
   - "5599847238"

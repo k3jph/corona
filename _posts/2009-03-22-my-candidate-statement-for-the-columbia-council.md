@@ -4,7 +4,6 @@ title: My Candidate Statement for the Columbia Council
 date: 2009-03-22T20:10:28-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3035
 permalink: /2009/03/22/my-candidate-statement-for-the-columbia-council/
 dsq_thread_id:
   - "4225949594"

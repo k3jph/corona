@@ -4,7 +4,6 @@ title: "I'm Going to MathFest..."
 date: 2015-06-21T09:58:13-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2216
 permalink: /2015/06/21/im-going-to-mathfest/
 dsq_thread_id:
   - "3866794654"

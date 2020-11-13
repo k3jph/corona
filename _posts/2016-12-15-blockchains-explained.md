@@ -4,7 +4,6 @@ title: Blockchains Explained
 date: 2016-12-15T06:41:52-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4629
 permalink: /2016/12/15/blockchains-explained/
 instant_articles_submission_id:
   - "196407977430608"

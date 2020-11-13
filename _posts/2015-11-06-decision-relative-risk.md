@@ -4,7 +4,6 @@ title: Decision and Relative Risk
 date: 2015-11-06T09:38:57-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3168
 permalink: /2015/11/06/decision-relative-risk/
 dsq_thread_id:
   - "4295364762"

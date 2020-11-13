@@ -4,7 +4,6 @@ title: Howard County is Looking for a New Board of Appeals Member
 date: 2019-10-10T13:23:38-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7147
 permalink: /2019/10/10/howard-county-is-looking-for-a-new-board-of-appeals-member/
 image: /assets/images/howard-county-is-looking-for-a-new-board-of-appeals-member.jpg
 categories:

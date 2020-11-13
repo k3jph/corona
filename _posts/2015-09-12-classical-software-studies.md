@@ -4,7 +4,6 @@ title: Classical Software Studies
 date: 2015-09-12T07:45:12-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2792
 permalink: /2015/09/12/classical-software-studies/
 dsq_thread_id:
   - "4121453330"

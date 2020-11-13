@@ -4,7 +4,6 @@ title: Planning for Martian Polity now on YouTube
 date: 2015-09-14T08:22:20-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2802
 permalink: /2015/09/14/planning-for-martian-polity-now-on-youtube/
 dsq_thread_id:
   - "4126501368"

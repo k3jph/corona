@@ -4,7 +4,6 @@ title: Socioeconomic Effects of the National Flood Insurance Program is now avai
 date: 2016-05-02T20:48:30-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4006
 permalink: /2016/05/02/socioeconomic-effects-national-flood-insurance-program-now-available/
 dsq_thread_id:
   - "4795304727"

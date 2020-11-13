@@ -4,9 +4,7 @@ title: Program Management Course
 date: 2019-01-04T07:36:37-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6716
 permalink: /2019/01/04/program-management-course/
-
 image: /assets/images/program-management-course.jpg
 categories:
   - Blog
@@ -33,7 +31,7 @@ Temporary is a key element, as projects are frequently defined as
 having a start date and an end date. I tell my project management
 students that the course is a project and I usually use a [kanban
 board to management my
-class](https://jameshoward.us/2014/06/09/using-agile-methods-for-course-management-and-delivery/).
+class](/2014/06/09/using-agile-methods-for-course-management-and-delivery/).
 
 Up a level is the _program_, a set of "[r]elated projects, subsidiary
 programs, and program activities managed in a coordinated manner

@@ -4,7 +4,6 @@ title: The Water Century
 date: 2014-10-27T17:56:17-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1466
 permalink: /2014/10/27/water-century/
 image: /assets/images/calif-drought.jpg
 dsq_thread_id:

@@ -4,7 +4,6 @@ title: Cheerleading the Online Classroom
 date: 2016-02-26T09:41:40-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3871
 permalink: /2016/02/26/cheerleading-online-classroom/
 dsq_thread_id:
   - "4611569131"

@@ -4,7 +4,6 @@ title: Data science and scientific computing book reviews
 date: 2015-10-08T23:10:20-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2977
 permalink: /2015/10/08/data-science-and-scientific-computing-book-reviews/
 dsq_thread_id:
   - "4207846287"

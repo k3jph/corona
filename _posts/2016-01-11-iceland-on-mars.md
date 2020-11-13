@@ -4,7 +4,6 @@ title: Iceland on Mars
 date: 2016-01-11T17:13:41-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3608
 permalink: /2016/01/11/iceland-on-mars/
 dsq_thread_id:
   - "4482598820"

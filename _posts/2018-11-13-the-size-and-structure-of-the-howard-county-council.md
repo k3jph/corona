@@ -4,7 +4,6 @@ title: The Size and Structure of the Howard County Council
 date: 2018-11-13T07:19:20-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6538
 permalink: /2018/11/13/the-size-and-structure-of-the-howard-county-council/
 image: /assets/images/the-size-and-structure-of-the-howard-county-council.jpg
 categories:

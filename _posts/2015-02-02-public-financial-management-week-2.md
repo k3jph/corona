@@ -4,7 +4,6 @@ title: Public Financial Management, Week 2
 date: 2015-02-02T19:15:10-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1793
 permalink: /2015/02/02/public-financial-management-week-2/
 dsq_thread_id:
   - "3479815849"

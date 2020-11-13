@@ -4,7 +4,6 @@ title: Musings on Teaching Calculus Again
 date: 2016-07-16T21:02:42-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4316
 permalink: /2016/07/16/musings-teaching-calculus/
 dsq_thread_id:
   - "4991436071"

@@ -4,7 +4,6 @@ title: Howard County Charter Review
 date: 2019-03-05T20:18:22-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6876
 permalink: /2019/03/05/howard-county-charter-review/
 image: /assets/images/howard-county-charter-review.jpg
 categories:

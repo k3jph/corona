@@ -4,7 +4,6 @@ title: Using Rust on the Open Science Grid
 date: 2019-01-03T07:52:12-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6681
 permalink: /2019/01/03/using-rust-on-the-open-science-grid/
 image: /assets/images/using-rust-on-the-open-science-grid.jpg
 categories:

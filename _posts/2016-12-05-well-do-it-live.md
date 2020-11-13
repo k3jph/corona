@@ -4,7 +4,6 @@ title: "We'll Do It Live!"
 date: 2016-12-05T21:43:17-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4532
 permalink: /2016/12/05/well-do-it-live/
 instant_articles_submission_id:
   - "221377121636120"

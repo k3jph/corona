@@ -4,7 +4,6 @@ title: Being a High-School Dropout, or How I Stopped Worrying and Went to Colleg
 date: 2016-08-30T22:23:21-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4411
 permalink: /2016/08/30/high-school-dropout-stopped-worrying-went-college/
 dsq_thread_id:
   - "5107804046"

@@ -4,7 +4,6 @@ title: Phonics in JOSS, version 1.0.0 released
 date: 2018-02-14T11:25:53-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5817
 permalink: /2018/02/14/phonics-joss-version-1-0-0-released/
 image: /assets/images/phonics-joss-version-1-0-0-released.jpg
 categories:

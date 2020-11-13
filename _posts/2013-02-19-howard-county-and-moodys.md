@@ -4,7 +4,6 @@ title: "Howard County and Moody's"
 date: 2013-02-19T01:22:19-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2013/02/19/howard-county-and-moodys/
 permalink: /2013/02/19/howard-county-and-moodys/
 dsq_thread_id:
   - "2271807216"

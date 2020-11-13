@@ -4,7 +4,6 @@ title: Lottery Luck in the Tax Proposal
 date: 2017-11-09T19:52:22-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5656
 permalink: /2017/11/09/lottery-luck-tax-proposal/
 image: /assets/images/lottery-luck.jpg
 categories:

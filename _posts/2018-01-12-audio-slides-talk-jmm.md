@@ -4,7 +4,6 @@ title: Audio and Slides from My Talk at JMM
 date: 2018-01-12T15:52:23-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5977
 permalink: /2018/01/12/audio-slides-talk-jmm/
 image: /assets/images/audio-and-slides-from-my-talk-at-jmm.jpg
 categories:

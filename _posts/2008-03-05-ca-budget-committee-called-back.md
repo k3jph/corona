@@ -4,7 +4,6 @@ title: CA Budget Committee Called Back
 date: 2008-03-05T18:21:46-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3133
 permalink: /2008/03/05/ca-budget-committee-called-back/
 dsq_thread_id:
   - "4247413908"

@@ -4,7 +4,6 @@ title: Cliff Stoll Has a Hidden Warehouse Under His Home!
 date: 2018-01-25T12:26:08-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6023
 permalink: /2018/01/25/cliff-stoll-hidden-warehouse-home/
 image: /assets/images/cliff-stoll-hidden-warehouse-home.jpg
 categories:

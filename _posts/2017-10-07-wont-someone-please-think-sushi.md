@@ -4,7 +4,6 @@ title: "Won't Someone Please Think of the Sushi?"
 date: 2017-10-07T08:04:07-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5607
 permalink: /2017/10/07/wont-someone-please-think-sushi/
 image: /assets/images/wont-someone-please-think-sushi.jpg
 categories:

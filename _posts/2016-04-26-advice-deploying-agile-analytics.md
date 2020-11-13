@@ -4,7 +4,6 @@ title: Advice for Deploying Agile Analytics
 date: 2016-04-26T17:06:19-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3918
 permalink: /2016/04/26/advice-deploying-agile-analytics/
 dsq_thread_id:
   - "4779317280"

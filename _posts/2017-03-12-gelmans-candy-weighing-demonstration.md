@@ -4,7 +4,6 @@ title: "Gelman's Candy Weighing Demonstration"
 date: 2017-03-12T17:31:41-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4828
 permalink: /2017/03/12/gelmans-candy-weighing-demonstration/
 instant_articles_submission_id:
   - "252994585111363"

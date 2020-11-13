@@ -4,7 +4,6 @@ title: Phonics in JSS
 date: 2020-10-12T11:59:00-04:00
 author: k3jph
 layout: post
-guid: 
 permalink: /2020/10/12/phonics-in-jss
 image: /assets/images/phonics-in-jss.jpg
 categories:

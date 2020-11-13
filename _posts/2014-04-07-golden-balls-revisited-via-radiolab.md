@@ -4,7 +4,6 @@ title: Golden Balls Revisited via Radiolab
 date: 2014-04-07T17:26:04-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=1119
 permalink: /2014/04/07/golden-balls-revisited-via-radiolab/
 dsq_thread_id:
   - "2594333889"

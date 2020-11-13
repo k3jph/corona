@@ -4,7 +4,6 @@ title: Financial Advisory Committee Reports to the Columbia Association (2)
 date: 2009-02-12T21:33:58-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3086
 permalink: /2009/02/12/financial-advisory-committee-reports-to-the-columbia-association-2/
 dsq_thread_id:
   - "4234079503"

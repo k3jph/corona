@@ -4,7 +4,6 @@ title: Unlocking the Box
 date: 2017-12-28T22:01:44-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4004
 permalink: /2017/12/28/unlocking-the-box/
 image: /assets/images/unlocking-the-box.jpg
 categories:

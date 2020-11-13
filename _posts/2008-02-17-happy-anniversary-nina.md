@@ -4,7 +4,6 @@ title: Happy Anniversary, Nina!
 date: 2008-02-17T06:00:59-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3197
 permalink: /2008/02/17/happy-anniversary-nina/
 dsq_thread_id:
   - "4293907171"

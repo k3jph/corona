@@ -4,7 +4,6 @@ title: Scientific computing and uncertainty book review
 date: 2015-10-09T00:10:36-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2980
 permalink: /2015/10/09/scientific-computing-and-uncertainty-book-review/
 dsq_thread_id:
   - "4208956589"

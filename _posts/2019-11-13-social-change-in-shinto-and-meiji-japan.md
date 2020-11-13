@@ -4,7 +4,6 @@ title: Social Change in Shinto and Meiji Japan
 date: 2019-11-13T08:33:00-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7177
 permalink: /2019/11/13/social-change-in-shinto-and-meiji-japan/
 image: /assets/images/social-change-in-shinto-and-meiji-japan.jpg
 categories:
@@ -34,7 +33,7 @@ intertwined, [both historically and
 philosophically](https://www.jstor.org/stable/30233721). Further,
 Shinto-Buddhist syncretism is a standard reference case in the
 [study of
-syncretism](https://jameshoward.us/2019/03/02/context-of-japanese-syncretism/).
+syncretism](/2019/03/02/context-of-japanese-syncretism/).
 The separation started with a governmental order to [separate the
 deities](https://www.jstor.org/stable/1062445?seq=1#metadata_info_tab_contents)
 of the two religious traditions. Once that separation of deities

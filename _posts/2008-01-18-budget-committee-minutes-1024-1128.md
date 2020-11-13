@@ -4,7 +4,6 @@ title: Budget Committee Minutes, 10/24, 11/28
 date: 2008-01-18T18:26:18-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3362
 permalink: /2008/01/18/budget-committee-minutes-1024-1128/
 dsq_thread_id:
   - "4396695587"

@@ -4,7 +4,6 @@ title: Thoughts on Monty Hall
 date: 2016-07-02T07:03:37-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4242
 permalink: /2016/07/02/thoughts-monty-hall/
 dsq_thread_id:
   - "4955381871"

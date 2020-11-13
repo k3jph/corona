@@ -4,7 +4,6 @@ title: pbcopy and pbpaste
 date: 2011-03-16T20:40:08-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2011/03/16/pbcopy-and-pbpaste/
 permalink: /2011/03/16/pbcopy-and-pbpaste/
 dsq_thread_id:
   - "2271650804"

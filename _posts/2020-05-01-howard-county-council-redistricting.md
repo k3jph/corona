@@ -4,7 +4,6 @@ title: Howard County Council Redistricting
 date: 2020-05-01T20:18:00-04:00
 author: k3jph
 layout: post
-guid: howard-county-council-redistricting
 permalink: /2020/05/01/howard-county-council-redistricting
 image: /assets/images/howard-county-council-redistricting.jpg
 categories:

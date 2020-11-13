@@ -4,7 +4,6 @@ title: Full-Spectrum Technology for Climate Change
 date: 2018-02-28T12:16:48-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6195
 permalink: /2018/02/28/full-spectrum-technology-climate-change/
 image: /assets/images/full-spectrum-technology.jpg
 categories:

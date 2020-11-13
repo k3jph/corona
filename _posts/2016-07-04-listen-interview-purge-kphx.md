@@ -4,7 +4,6 @@ title: 'Listen to My Interview About "the Purge" on KPHX'
 date: 2016-07-04T18:17:10-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4269
 permalink: /2016/07/04/listen-interview-purge-kphx/
 dsq_thread_id:
   - "4960917644"

@@ -4,7 +4,6 @@ title: Unsinkable in Space
 date: 2014-04-01T18:47:21-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=976
 permalink: /2014/04/01/unsinkable-in-space/
 image: /assets/images/Gemini31.jpg
 dsq_thread_id:

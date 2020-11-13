@@ -4,7 +4,6 @@ title: Elected Chairperson of the Board of Appeals
 date: 2018-02-08T19:51:43-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6130
 permalink: /2018/02/08/elected-chairperson-of-the-board-of-appeals/
 image: /assets/images/elected-chairperson-of-the-board-of-appeals.jpg
 categories:

@@ -4,7 +4,6 @@ title: One Ping Only
 date: 2015-09-18T07:11:37-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2853
 permalink: /2015/09/18/one-ping-only/
 dsq_thread_id:
   - "4141327871"

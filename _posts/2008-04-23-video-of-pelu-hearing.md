@@ -4,7 +4,6 @@ title: Video of PELU Hearing
 date: 2008-04-23T15:00:29-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3112
 permalink: /2008/04/23/video-of-pelu-hearing/
 dsq_thread_id:
   - "4240705948"

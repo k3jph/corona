@@ -4,7 +4,6 @@ title: Working with Mediawiki
 date: 2010-02-01T16:13:00-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2010/02/01/working-with-mediawiki/
 permalink: /2010/02/01/working-with-mediawiki/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/365265643/working-with-mediawiki

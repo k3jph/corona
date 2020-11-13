@@ -4,7 +4,6 @@ title: The Palin Resignation
 date: 2009-07-05T15:45:00-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2009/07/05/the-palin-resignation/
 permalink: /2009/07/05/the-palin-resignation/
 dsq_thread_id:
   - "2268169848"

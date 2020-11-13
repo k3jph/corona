@@ -4,7 +4,6 @@ title: The Cost of Hazard Mitigation
 date: 2015-08-27T09:42:18-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2628
 permalink: /2015/08/27/the-cost-of-hazard-mitigation/
 dsq_thread_id:
   - "4071944017"

@@ -4,7 +4,6 @@ title: How we externalize other life risks
 date: 2015-12-12T08:34:09-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3336
 permalink: /2015/12/12/how-we-externalize-other-life-risks/
 dsq_thread_id:
   - "4396532455"

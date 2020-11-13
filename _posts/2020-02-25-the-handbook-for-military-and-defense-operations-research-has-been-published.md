@@ -4,7 +4,6 @@ title: The Handbook for Military and Defense Operations Research has been publis
 date: 2020-02-25T15:38:06-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7299
 permalink: /2020/02/25/the-handbook-for-military-and-defense-operations-research-has-been-published/
 image: /assets/images/the-handbook-for-military-and-defense-operations-research-has-been-published.jpg
 categories:

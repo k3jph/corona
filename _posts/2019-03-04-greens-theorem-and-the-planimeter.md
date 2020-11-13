@@ -4,7 +4,6 @@ title: "Green's Theorem and the Planimeter"
 date: 2019-03-04T07:19:31-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6868
 permalink: /2019/03/04/greens-theorem-and-the-planimeter/
 image: /assets/images/30764630562_3c99082d7b_k.jpg
 categories:
@@ -19,7 +18,7 @@ theorem](https://mathinsight.org/greens_theorem_idea) very intuitive.
 It is a magnificently powerful theorem. It has been proven, so it
 must be true, but unlike many other theorems, I do not feel it comes
 naturally. (I have [mentioned this
-before](https://jameshoward.us/2015/10/04/stop-being-so-irrational/)!) But
+before](/2015/10/04/stop-being-so-irrational/)!) But
 I think that is because it does not start with our normal
 [latex]x[/latex]-[latex]y[/latex] Cartesian plane.
 

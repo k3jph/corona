@@ -4,7 +4,6 @@ title: "Review of the CA's Business Plan"
 date: 2010-04-12T23:58:20-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2010/04/12/review-of-the-cas-business-plan/
 permalink: /2010/04/12/review-of-the-cas-business-plan/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/516812967/review-of-the-cas-business-plan

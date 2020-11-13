@@ -4,7 +4,6 @@ title: Speed Cameras of the Future
 date: 2015-08-11T08:05:00-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2404
 permalink: /2015/08/11/speed-cameras-of-the-future/
 dsq_thread_id:
   - "4022584821"

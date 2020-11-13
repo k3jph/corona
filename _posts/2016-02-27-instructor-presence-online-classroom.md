@@ -4,7 +4,6 @@ title: Instructor Presence in the Online Classroom
 date: 2016-02-27T08:46:03-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3843
 permalink: /2016/02/27/instructor-presence-online-classroom/
 dsq_thread_id:
   - "4632737356"

@@ -4,7 +4,6 @@ title: Federal and State Quarantine Powers
 date: 2014-11-13T09:25:21-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1606
 permalink: /2014/11/13/federal-state-quarantine-powers/
 image: /assets/images/5322817686_0c670bdaa6_z.jpg
 dsq_thread_id:

@@ -4,7 +4,6 @@ title: The Willingness to Pay for Pretrial Diversion
 date: 2016-12-14T07:08:33-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4624
 permalink: /2016/12/14/willingness-pay-pretrial-diversion/
 instant_articles_submission_id:
   - "190514601412149"

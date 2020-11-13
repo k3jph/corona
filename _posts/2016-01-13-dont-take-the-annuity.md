@@ -4,7 +4,6 @@ title: "Don't Take the Annuity"
 date: 2016-01-13T06:02:30-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3700
 permalink: /2016/01/13/dont-take-the-annuity/
 dsq_thread_id:
   - "4487035949"

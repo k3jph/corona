@@ -4,7 +4,6 @@ title: Proposed Charter Review Recommendations
 date: 2020-03-02T20:47:32-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7314
 permalink: /2020/03/02/proposed-charter-review-recommendations/
 image: /assets/images/charter-review-commission-public-hearing.png
 categories:

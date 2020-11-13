@@ -4,7 +4,6 @@ title: Dissertation Proposal Defended
 date: 2012-01-22T03:15:00-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2012/01/22/dissertation-proposal-defended/
 permalink: /2012/01/22/dissertation-proposal-defended/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/30316040192/dissertation-proposal-defended

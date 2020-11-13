@@ -4,7 +4,6 @@ title: Insuring against disaster
 date: 2015-10-25T09:44:25-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3146
 permalink: /2015/10/25/insuring-against-disaster/
 dsq_thread_id:
   - "4258701517"

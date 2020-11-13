@@ -4,7 +4,6 @@ title: Analytics as a Service in the Enterprise
 date: 2015-04-22T17:29:46-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2042
 permalink: /2015/04/22/analytics-service-enterprise/
 dsq_thread_id:
   - "3704277305"

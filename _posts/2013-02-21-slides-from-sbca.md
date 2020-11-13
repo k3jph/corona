@@ -4,7 +4,6 @@ title: Slides from SBCA
 date: 2013-02-21T21:44:08-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3816
 permalink: /2013/02/21/slides-from-sbca/
 dsq_thread_id:
   - "4575035592"

@@ -4,7 +4,6 @@ title: Ensuring Water Security
 date: 2017-07-21T07:28:26-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5211
 permalink: /2017/07/21/ensuring-water-security/
 dsq_thread_id:
   - "6004632258"

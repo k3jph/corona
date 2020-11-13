@@ -4,7 +4,6 @@ title: The New Long Reach Village Center
 date: 2017-05-02T20:21:15-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4961
 permalink: /2017/05/02/new-long-reach-village-center/
 dsq_thread_id:
   - "5780922113"

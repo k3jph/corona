@@ -4,7 +4,6 @@ title: JHU/APL Wins Award for Innovation (And I Had a Tiny Part in It!)
 date: 2019-09-30T10:27:00-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7123
 permalink: /2019/09/30/jhu-apl-wins-award-for-innovation/
 image: /assets/images/jhu-apl-wins-award-for-innovation.jpg
 categories:

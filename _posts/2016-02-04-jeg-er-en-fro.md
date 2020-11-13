@@ -4,7 +4,6 @@ title: Jeg Er En Frø!
 date: 2016-02-04T22:51:28-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3759
 permalink: /2016/02/04/jeg-er-en-fro/
 snap_MYURL:
   - ""

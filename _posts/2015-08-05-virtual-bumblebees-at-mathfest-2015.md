@@ -4,7 +4,6 @@ title: Virtual Bumblebees at MathFest 2015
 date: 2015-08-05T02:00:27-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2381
 permalink: /2015/08/05/virtual-bumblebees-at-mathfest-2015/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"2379";s:11:"_thumb_type";s:5:"thumb";}'

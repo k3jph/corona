@@ -4,7 +4,6 @@ title: My New Math Assignment Rubric
 date: 2016-10-04T21:48:57-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4450
 permalink: /2016/10/04/new-math-assignment-rubric/
 dsq_thread_id:
   - "5197424568"

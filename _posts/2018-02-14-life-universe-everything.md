@@ -4,7 +4,6 @@ title: Life, the Universe, and Everything
 date: 2018-02-14T08:02:09-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6163
 permalink: /2018/02/14/life-universe-everything/
 image: /assets/images/life-universe-everything.jpg
 categories:

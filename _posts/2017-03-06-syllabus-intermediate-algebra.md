@@ -4,7 +4,6 @@ title: Syllabus for Intermediate Algebra
 date: 2017-03-06T07:04:28-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4812
 permalink: /2017/03/06/syllabus-intermediate-algebra/
 instant_articles_submission_id:
   - "839963229474956"

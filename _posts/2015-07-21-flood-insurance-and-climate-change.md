@@ -4,7 +4,6 @@ title: Flood Insurance and Climate Change
 date: 2015-07-21T08:26:27-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2298
 permalink: /2015/07/21/flood-insurance-and-climate-change/
 dsq_thread_id:
   - "3954535747"

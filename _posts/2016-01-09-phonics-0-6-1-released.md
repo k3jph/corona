@@ -4,7 +4,6 @@ title: Phonics 0.6.1 Released
 date: 2016-01-09T07:43:01-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3651
 permalink: /2016/01/09/phonics-0-6-1-released/
 dsq_thread_id:
   - "4476078277"

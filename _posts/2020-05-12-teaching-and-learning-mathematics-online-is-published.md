@@ -4,7 +4,6 @@ title: Teaching and Learning Mathematics Online is Published
 date: 2020-05-12T12:08:00-04:00
 author: k3jph
 layout: post
-guid: teaching-and-learning-mathematics-online-is-published
 permalink: /2020/05/12/teaching-and-learning-mathematics-online-is-published
 image: /assets/images/teaching-and-learning-mathematics-online-is-published.jpg
 categories:

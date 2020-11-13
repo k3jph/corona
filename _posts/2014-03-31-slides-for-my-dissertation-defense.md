@@ -4,7 +4,6 @@ title: Slides for my Dissertation Defense
 date: 2014-03-31T09:09:47-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3807
 permalink: /2014/03/31/slides-for-my-dissertation-defense/
 dsq_thread_id:
   - "4575006082"

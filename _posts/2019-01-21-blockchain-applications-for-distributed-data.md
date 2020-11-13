@@ -4,7 +4,6 @@ title: Blockchain Applications for Distributed Data
 date: 2019-01-21T17:02:41-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6764
 permalink: /2019/01/21/blockchain-applications-for-distributed-data/
 image: /assets/images/blockchain-applications-for-distributed-data-imx.jpg
 categories:

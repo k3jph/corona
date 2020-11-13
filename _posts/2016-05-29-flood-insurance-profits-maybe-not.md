@@ -4,7 +4,6 @@ title: Flood Insurance Profits? Maybe Not
 date: 2016-05-29T13:39:56-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4103
 permalink: /2016/05/29/flood-insurance-profits-maybe-not/
 dsq_thread_id:
   - "4867600013"

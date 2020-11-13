@@ -4,7 +4,6 @@ title: Review on Government-Run Disaster Risk Pools
 date: 2015-12-29T18:00:49-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3545
 permalink: /2015/12/29/review-on-government-run-disaster-risk-pools/
 dsq_thread_id:
   - "4445190873"

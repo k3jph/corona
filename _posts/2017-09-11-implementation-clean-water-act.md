@@ -4,7 +4,6 @@ title: The Implementation of the Clean Water Act
 date: 2017-09-11T07:11:23-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5499
 permalink: /2017/09/11/implementation-clean-water-act/
 image: /assets/images/implementation-clean-water-act.jpg
 categories:

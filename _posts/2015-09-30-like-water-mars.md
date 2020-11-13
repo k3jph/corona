@@ -4,7 +4,6 @@ title: Like Water for Mars
 date: 2015-09-30T09:37:47-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2605
 permalink: /2015/09/30/like-water-mars/
 dsq_thread_id:
   - "4207268516"

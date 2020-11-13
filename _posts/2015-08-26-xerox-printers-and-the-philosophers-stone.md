@@ -4,7 +4,6 @@ title: "Xerox Printers and the Philosopher's Stone"
 date: 2015-08-26T08:49:49-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2607
 permalink: /2015/08/26/xerox-printers-and-the-philosophers-stone/
 dsq_thread_id:
   - "4068584456"

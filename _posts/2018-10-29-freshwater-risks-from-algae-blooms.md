@@ -4,7 +4,6 @@ title: Freshwater Risks from Algae Blooms
 date: 2018-10-29T19:56:49-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6500
 permalink: /2018/10/29/freshwater-risks-from-algae-blooms/
 image: /assets/images/freshwater-risks-from-algae-blooms.jpg
 categories:
@@ -18,7 +17,7 @@ tags:
 ---
 Here in Maryland, we spend a lot of time talking about [eutrophication
 in the Chesapeake
-Bay](https://jameshoward.us/2017/07/10/eutrophication-reduction-local-limits/),
+Bay](/2017/07/10/eutrophication-reduction-local-limits/),
 but eutrophication can also be a threat to our freshwater supplies.
 This has most seriously affected Toledo in recent years.  In [2014,
 Toledo](https://www.nytimes.com/2014/08/05/us/lifting-ban-toledo-says-its-water-is-safe-to-drink-again.html)

@@ -4,7 +4,6 @@ title: Nonprofit Project at the End of the Semester
 date: 2015-05-06T19:22:05-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2063
 permalink: /2015/05/06/nonprofit-project-at-the-end-of-the-semester/
 dsq_thread_id:
   - "3742655830"

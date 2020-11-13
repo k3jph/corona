@@ -4,7 +4,6 @@ title: Beware of Zombie Agencies
 date: 2015-06-29T20:30:49-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2253
 permalink: /2015/06/29/beware-of-zombie-agencies/
 dsq_thread_id:
   - "3890757148"

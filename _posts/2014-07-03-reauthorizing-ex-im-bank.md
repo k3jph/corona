@@ -4,7 +4,6 @@ title: Reauthorizing the Ex-Im Bank
 date: 2014-07-03T10:24:44-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=1381
 permalink: /2014/07/03/reauthorizing-ex-im-bank/
 dsq_thread_id:
   - "2813305261"

@@ -4,7 +4,6 @@ title: Coping with Disaster at Springer
 date: 2016-04-21T07:23:15-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4008
 permalink: /2016/04/21/coping-disaster-springer/
 dsq_thread_id:
   - "4764837050"

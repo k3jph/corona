@@ -4,7 +4,6 @@ title: More Old Code at GitHub
 date: 2009-12-10T01:09:53-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2009/12/10/more-old-code-at-github/
 permalink: /2009/12/10/more-old-code-at-github/
 tumblr_howardjp_permalink:
   - http://howardjp.tumblr.com/post/276811812/more-old-code-at-github

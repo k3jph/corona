@@ -4,7 +4,6 @@ title: Talking About Opportunity Zones in Baltimore
 date: 2018-12-19T09:25:42-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6648
 permalink: /2018/12/19/talking-about-opportunity-zones-in-baltimore/
 image: /assets/images/talking-about-opportunity-zones-in-baltimore.png
 categories:
@@ -32,5 +31,5 @@ second half of the show discussing the implementation of the program,
 who will benefit, and how. And just to clarify, I was introduced
 as working for the new administration of Calvin Ball. This is not
 correct. I have been a member of the [Board of Appeals since
-2011](https://jameshoward.us/service/howard-county/), an independent
+2011](/service/howard-county/), an independent
 agency of the Howard County government.

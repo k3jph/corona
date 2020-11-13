@@ -4,7 +4,6 @@ title: Parallelized Implementation of bootCI for DCchoice
 date: 2018-11-11T09:10:34-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6526
 permalink: /2018/11/11/parallelized-implementation-of-bootci-for-dcchoice/
 image: /assets/images/parallelized-implementation-of-bootci-for-dcchoice.jpg
 categories:

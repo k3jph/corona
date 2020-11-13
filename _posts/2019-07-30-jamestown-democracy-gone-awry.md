@@ -4,7 +4,6 @@ title: Jamestown, Democracy Gone Awry
 date: 2019-07-30T09:39:35-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5888
 permalink: /2019/07/30/jamestown-democracy-gone-awry/
 image: /assets/images/jamestown-democracy-gone-awry.jpg
 categories:
@@ -28,7 +27,7 @@ London](https://www.jstor.org/stable/2210786), an early [joint-stock
 company](http://www.ushistory.org/us/2b.asp). Accordingly, the
 Jamestown Settlement was organized and controlled from London in a
 much more corporate fashion than [Iceland's haphazard
-settlement](https://jameshoward.us/2017/09/28/democratic-norms-settlement-iceland/).
+settlement](/2017/09/28/democratic-norms-settlement-iceland/).
 
 The governance of Jamestown was provided for by a [royal
 charter](https://academic.oup.com/ajlh/article-abstract/7/2/95/1785250?redirectedFrom=fulltext)

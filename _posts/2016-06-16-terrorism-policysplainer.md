@@ -4,7 +4,6 @@ title: Terrorism Policysplainer
 date: 2016-06-16T06:50:23-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4186
 permalink: /2016/06/16/terrorism-policysplainer/
 dsq_thread_id:
   - "4914811579"

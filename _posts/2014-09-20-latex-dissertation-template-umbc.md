@@ -4,7 +4,6 @@ title: LaTeX Dissertation Template for UMBC
 date: 2014-09-20T08:33:45-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=1408
 permalink: /2014/09/20/latex-dissertation-template-umbc/
 dsq_thread_id:
   - "3037718518"

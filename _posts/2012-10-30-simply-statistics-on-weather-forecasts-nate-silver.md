@@ -4,7 +4,6 @@ title: "Simply Statistics: On weather forecasts, Nate Silver, and the politiciza
 date: 2012-10-30T20:59:27-04:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2012/10/30/simply-statistics-on-weather-forecasts-nate-silver/
 permalink: /2012/10/30/simply-statistics-on-weather-forecasts-nate-silver/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/34654756677/simply-statistics-on-weather-forecasts-nate-silver

@@ -4,7 +4,6 @@ title: Discounting Future Risk
 date: 2017-07-07T07:30:06-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5144
 permalink: /2017/07/07/discounting-future-risk/
 dsq_thread_id:
   - "5970958919"

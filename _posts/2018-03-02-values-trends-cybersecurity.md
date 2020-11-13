@@ -4,7 +4,6 @@ title: Values and Trends in Cybersecurity
 date: 2018-03-02T07:48:40-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6210
 permalink: /2018/03/02/values-trends-cybersecurity/
 image: /assets/images/values-trends-cybersecurity.jpg
 categories:

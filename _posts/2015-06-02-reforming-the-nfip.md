@@ -4,7 +4,6 @@ title: Reforming the NFIP
 date: 2015-06-02T09:24:00-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2822
 permalink: /2015/06/02/reforming-the-nfip/
 dsq_thread_id:
   - "4127021546"

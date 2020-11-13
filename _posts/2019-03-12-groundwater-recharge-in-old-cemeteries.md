@@ -4,7 +4,6 @@ title: Groundwater Recharge in Old Cemeteries
 date: 2019-03-12T18:34:17-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6893
 permalink: /2019/03/12/groundwater-recharge-in-old-cemeteries/
 image: /assets/images/groundwater-recharge-in-old-cemeteries.jpg
 categories:

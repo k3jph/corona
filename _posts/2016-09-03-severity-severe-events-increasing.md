@@ -4,7 +4,6 @@ title: The Severity of Severe Events is Increasing
 date: 2016-09-03T12:15:47-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4423
 permalink: /2016/09/03/severity-severe-events-increasing/
 dsq_thread_id:
   - "5116784962"

@@ -4,7 +4,6 @@ title: Rainfall Stationarity
 date: 2018-10-03T09:42:13-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6471
 permalink: /2018/10/03/rainfall-stationarity/
 image: /assets/images/rainfall-stationarity.jpg
 categories:

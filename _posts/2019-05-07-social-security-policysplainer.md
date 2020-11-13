@@ -4,7 +4,6 @@ title: Social Security Policysplainer
 date: 2019-05-07T09:49:22-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6945
 permalink: /2019/05/07/social-security-policysplainer/
 image: /assets/images/social-security-policysplainer.jpg
 categories:

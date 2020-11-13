@@ -4,7 +4,6 @@ title: Mercurial Histories
 date: 2012-12-19T01:44:33-05:00
 author: k3jph
 layout: post
-guid: http://beta.jameshoward.us/2012/12/19/mercurial-histories/
 permalink: /2012/12/19/mercurial-histories/
 tumblr_jhresearchlog_permalink:
   - http://jhresearchlog.tumblr.com/post/38270311654/mercurial-histories

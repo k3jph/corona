@@ -4,7 +4,6 @@ title: Flood Preparation Tips for Renters via Roomi Connect
 date: 2016-01-28T21:20:32-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3821
 permalink: /2016/01/28/flood-preparation-tips-renters-via-roomi-connect/
 dsq_thread_id:
   - "4594367622"

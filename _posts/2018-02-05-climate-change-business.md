@@ -4,7 +4,6 @@ title: Climate Change and Business
 date: 2018-02-05T07:53:36-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6104
 permalink: /2018/02/05/climate-change-business/
 image: /assets/images/climate-change-business.jpg
 categories:

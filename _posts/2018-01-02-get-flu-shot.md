@@ -4,7 +4,6 @@ title: Why You Should Get Your Flu Shot
 date: 2018-01-02T07:33:23-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5924
 permalink: /2018/01/02/get-flu-shot/
 image: /assets/images/get-flu-shot.jpg
 categories:

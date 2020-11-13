@@ -4,7 +4,6 @@ title: "Don't Let the Ex-Im Bank Expire"
 date: 2015-06-23T12:16:00-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2825
 permalink: /2015/06/23/dont-let-the-ex-im-bank-expire/
 dsq_thread_id:
   - "4127049044"

@@ -4,7 +4,6 @@ title: Health Effects of Climate Change
 date: 2015-12-11T09:01:19-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3328
 permalink: /2015/12/11/health-effects-of-climate-change/
 dsq_thread_id:
   - "4393654670"

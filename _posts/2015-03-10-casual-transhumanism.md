@@ -4,7 +4,6 @@ title: Casual Transhumanism
 date: 2015-03-10T18:42:14-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1919
 permalink: /2015/03/10/casual-transhumanism/
 dsq_thread_id:
   - "3584736752"

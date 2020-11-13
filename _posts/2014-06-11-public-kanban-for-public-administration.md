@@ -4,7 +4,6 @@ title: Public Kanban for Public Administration
 date: 2014-06-11T09:47:11-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=1171
 permalink: /2014/06/11/public-kanban-for-public-administration/
 dsq_thread_id:
   - "2751408683"

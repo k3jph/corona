@@ -4,7 +4,6 @@ title: The Risk of Dying From COVID-19
 date: 2020-05-18T20:30:00-04:00
 author: k3jph
 layout: post
-guid: the-risk-of-dying-from-covid-19
 permalink: /2020/05/19/the-risk-of-dying-from-covid-19
 image: /assets/images/the-risk-of-dying-from-covid-19.jpg
 categories:

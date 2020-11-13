@@ -4,7 +4,6 @@ title: New Swedish Resources
 date: 2015-08-08T08:30:57-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2389
 permalink: /2015/08/08/new-swedish-resources/
 image: /assets/images/svmeatballs.png
 categories:

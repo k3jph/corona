@@ -4,7 +4,6 @@ title: 1000-year storms in South Carolina
 date: 2015-10-11T21:15:52-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2994
 permalink: /2015/10/11/1000-year-storms-in-south-carolina/
 dsq_thread_id:
   - "4216380829"

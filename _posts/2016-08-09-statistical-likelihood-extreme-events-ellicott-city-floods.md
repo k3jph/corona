@@ -4,7 +4,6 @@ title: Statistical Likelihood of Extreme Events and the Ellicott City Floods
 date: 2016-08-09T22:44:05-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4368
 permalink: /2016/08/09/statistical-likelihood-extreme-events-ellicott-city-floods/
 dsq_thread_id:
   - "5053896451"
@@ -42,7 +41,7 @@ must have happened to cause this:
 Well, yes, you can.  I am not defending the practices of those
 accused, but as evidence goes, this means nothing.  As usual, people
 have misunderstood risk, something I've written about so often here,
-[it has it's own category](https://jameshoward.us/tag/risk-management/).
+[it has it's own category](/tag/risk-management/).
 Let's look at the numbers.
 
 First, let's talk about what it means to be a one-hundred year event

@@ -4,7 +4,6 @@ title: The House Should Refuse to Seat the Georgia Delegation
 date: 2018-11-20T07:14:28-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6562
 permalink: /2018/11/20/the-house-should-refuse-to-seat-the-georgia-delegation/
 image: /assets/images/the-house-should-refuse-to-seat-the-georgia-delegation.jpg
 categories:

@@ -4,7 +4,6 @@ title: Insurers React to Climate Change
 date: 2014-10-29T09:56:26-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1469
 permalink: /2014/10/29/insurers-react-climate-change/
 dsq_thread_id:
   - "3169434744"

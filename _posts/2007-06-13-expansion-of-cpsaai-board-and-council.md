@@ -4,7 +4,6 @@ title: Expansion of CPSAAi Board and Council
 date: 2007-06-13T18:51:09-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3569
 permalink: /2007/06/13/expansion-of-cpsaai-board-and-council/
 categories:
   - Blog

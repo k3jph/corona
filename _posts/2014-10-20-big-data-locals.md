@@ -4,7 +4,6 @@ title: Big Data for Locals
 date: 2014-10-20T20:37:00-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=1444
 permalink: /2014/10/20/big-data-locals/
 dsq_thread_id:
   - "3138602209"

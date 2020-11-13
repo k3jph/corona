@@ -4,7 +4,6 @@ title: Making the Things You Buy Better
 date: 2017-09-04T07:37:09-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5447
 permalink: /2017/09/04/making-things-buy-better/
 image: /assets/images/making-things-buy-better.png
 categories:

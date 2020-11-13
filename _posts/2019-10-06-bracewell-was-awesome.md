@@ -4,7 +4,6 @@ title: Bracewell Was Awesome
 date: 2019-10-06T18:30:06-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7136
 permalink: /2019/10/06/bracewell-was-awesome/
 image: /assets/images/bracewell-was-awesome.jpeg
 categories:

@@ -4,7 +4,6 @@ title: An Inconvenient Poop!
 date: 2016-01-19T20:19:46-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3691
 permalink: /2016/01/19/an-inconvenient-poop/
 dsq_thread_id:
   - "4506223376"

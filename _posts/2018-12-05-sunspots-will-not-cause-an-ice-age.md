@@ -4,7 +4,6 @@ title: Sunspots Will Not Cause an Ice Age
 date: 2018-12-05T12:43:36-05:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=6566
 permalink: /2018/12/05/sunspots-will-not-cause-an-ice-age/
 image: /assets/images/sunspots-will-not-cause-an-ice-age.jpg
 categories:
@@ -17,9 +16,8 @@ tags:
   - SciServer
 ---
 I grew up in this small town in Ohio called Hamilton. [I've talked
-about it here,
-before.](https://jameshoward.us/2016/06/02/femas-flood-maps-not-scam/) I'll
-let you draw your own conclusions. The _<a href="">Journal-News</a>_
+about it here, before.](/2016/06/02/femas-flood-maps-not-scam/) I'll
+let you draw your own conclusions. The _Journal-News_
 is the local daily newspaper, something we don't see a lot of here
 in Maryland. But it is pretty common when you head further west and
 the kinds of comments on the newspapers' websites are from people

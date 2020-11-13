@@ -4,7 +4,6 @@ title: Is anybody there? Does anybody care?
 date: 2015-04-18T10:36:10-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2032
 permalink: /2015/04/18/is-anybody-there-does-anybody-care/
 dsq_thread_id:
   - "3692131106"

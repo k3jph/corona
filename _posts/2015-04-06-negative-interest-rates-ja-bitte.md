@@ -4,7 +4,6 @@ title: Negative Interest Rates? Ja bitte!
 date: 2015-04-06T18:35:43-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2001
 permalink: /2015/04/06/negative-interest-rates-ja-bitte/
 dsq_thread_id:
   - "3660188619"

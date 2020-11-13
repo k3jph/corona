@@ -4,7 +4,6 @@ title: This Post Means Nothing of Consequence
 date: 2019-07-01T07:35:00-04:00
 author: k3jph
 layout: post
-guid: http://jameshoward.us/?p=7015
 permalink: /2019/07/01/this-post-means-nothing-of-consequence/
 categories:
   - Blog
@@ -17,7 +16,7 @@ Maryland Global Campus](https://www.umuc.edu/), which until yesterday,
 is what we called "University of Maryland University College." I've
 been teaching for 9 years at UMGC, and was promoted to [Adjunct
 Assistant Professor in
-2015](https://jameshoward.us/2015/02/23/umuc-adjunct-assistant-professor/).
+2015](/2015/02/23/umuc-adjunct-assistant-professor/).
 In case you want to know what this means, I think this comic
 summarizes it nicely.
 

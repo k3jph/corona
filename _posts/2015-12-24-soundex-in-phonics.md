@@ -4,7 +4,6 @@ title: Soundex in Phonics
 date: 2015-12-24T12:25:49-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3482
 permalink: /2015/12/24/soundex-in-phonics/
 dsq_thread_id:
   - "4431232134"

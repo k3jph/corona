@@ -4,7 +4,6 @@ title: "Empire on the Hudson: Entrepreneurial Vision and Political Power at the 
 date: 2008-02-10T07:39:59-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3225
 permalink: /2008/02/10/empire-on-the-hudson-entrepreneurial-vision-and-political-power-at-the-port-of-new-york-authority/
 dsq_thread_id:
   - "4318500086"

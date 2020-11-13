@@ -4,7 +4,6 @@ title: Watch My Interview With Mars One Candidate Heidi Hecht
 date: 2016-07-04T17:57:08-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=4265
 permalink: /2016/07/04/watch-interview-mars-one-candidate-heidi-hecht/
 dsq_thread_id:
   - "4960885083"

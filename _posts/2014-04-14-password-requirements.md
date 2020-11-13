@@ -4,7 +4,6 @@ title: Password Requirements
 date: 2014-04-14T19:55:55-04:00
 author: k3jph
 layout: post
-guid: http://www.jameshoward.us/?p=1135
 permalink: /2014/04/14/password-requirements/
 dsq_thread_id:
   - "2610859922"

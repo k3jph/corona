@@ -4,7 +4,6 @@ title: Risks from Fracking
 date: 2017-07-19T07:01:27-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=5205
 permalink: /2017/07/19/risks-from-fracking/
 dsq_thread_id:
   - "6000516547"

@@ -4,7 +4,6 @@ title: Meiji Land Reforms and Modernization
 date: 2018-04-02T07:46:45-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=6280
 permalink: /2018/04/02/meiji-land-reforms-and-modernization/
 image: /assets/images/meiji-land-reforms-and-modernization-in-japan.jpg
 categories:

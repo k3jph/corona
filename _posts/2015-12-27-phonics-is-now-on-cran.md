@@ -4,7 +4,6 @@ title: Phonics is Now on CRAN
 date: 2015-12-27T20:11:57-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=3503
 permalink: /2015/12/27/phonics-is-now-on-cran/
 dsq_thread_id:
   - "4439241541"

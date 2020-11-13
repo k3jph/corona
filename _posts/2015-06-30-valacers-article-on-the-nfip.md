@@ -4,7 +4,6 @@ title: "Valacer's Article on the NFIP"
 date: 2015-06-30T22:16:28-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2257
 permalink: /2015/06/30/valacers-article-on-the-nfip/
 dsq_thread_id:
   - "3893849072"

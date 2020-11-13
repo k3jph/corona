@@ -4,7 +4,6 @@ title: "Don't Kill the Mac"
 date: 2015-06-18T18:33:54-04:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2210
 permalink: /2015/06/18/dont-kill-the-mac/
 dsq_thread_id:
   - "3860215909"

@@ -4,7 +4,6 @@ title: Why I am howardjp
 date: 2009-12-24T00:14:11-05:00
 author: k3jph
 layout: post
-guid: https://jameshoward.us/?p=2968
 permalink: /2009/12/24/why-i-am-howardjp/
 dsq_thread_id:
   - "4207765125"

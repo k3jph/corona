@@ -4,7 +4,6 @@ title: The Lotka–Volterra Equations
 date: 2020-05-31T16:58:00-04:00
 author: k3jph
 layout: post
-guid: the-lotka-volterra-equations
 permalink: /2020/05/31/the-lotka-volterra-equations
 image: /assets/images/the-lotka-volterra-equations.jpg
 categories:
