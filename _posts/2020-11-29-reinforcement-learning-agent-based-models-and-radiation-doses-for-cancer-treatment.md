@@ -60,6 +60,6 @@ An alternative approach may be to use Monte Carlo simulation to
 decouple the system.  That is, multiple start points can be used
 as the starting point and tested for convergence.  Monte Carlo
 methods have previously been used with simulated annealing to address
-this problem, as the authors note, so this is entirely unheard of.
+this problem, as the authors note, so this is not entirely unheard of.
 I think another way to address this may be to use genetic algorithms
 to try to optimize the finding across parallel runs.
