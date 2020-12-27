@@ -38,6 +38,7 @@ two more.
 
 1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey, James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "[Mixed Reality for Post-Disaster Situational Awareness](https://www.jhuapl.edu/Content/techdigest/pdf/V35-N03/35-03-Howard.pdf)," _Johns Hopkins APL Technical Digest_, vol. 35, no. 8, pp.
 205-210.
+1. James P. Howard, II, "[GURPS Disasters: Hurricane: Designer’s Notes](https://tekeli.li/path-of-cunning/tpoc_03.pdf)," _The Path of Cunning_, no. 3, pp. 22-23, November 2020.
 1. James P. Howard, II, "[Election Security and Policy Concerns](/2020/11/09/informs-presentation-on-electoral-process)," 2020 Informs, Washington, Nov. 9, 2020.
 1. James P. Howard, II, "[Phonetic Spelling Algorithm Implementations for R](https://www.jstatsoft.org/article/view/v095i08)," _Journal of Statistical Software_, vol. 95, no. 8, pp. 1.21, 2020, {% include doi.html doi="doi:10.18637/jss.v095.i08" %}.
 1. James P. Howard, II, "[Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic](/2020/08/05/jsm-presentation-on-ebola)," 2020 Joint Statistical Meetings, Philadelphia, Aug. 5, 2020.
