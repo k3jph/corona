@@ -26,7 +26,7 @@ In my spare time, I serve Howard County, Maryland, as [a member of the Board of
     * C.Phil., Public Policy
 * M.S., Environmental Engineering and Science, the [Johns Hopkins University](https://ehe.jhu.edu/)
 * M.P.A., Public Policy and Administration, [University of Baltimore](http://www.ubalt.edu/cpa/about-the-college/schools/school-of-public-and-international-affairs/index.cfm)
-* B.A., East Asian Studies, [University of Maryland Global Campus](https://www.umgc.edu/)
+* B.A., East Asian Studies, _cum laude_, [University of Maryland Global Campus](https://www.umgc.edu/)
 * B.S., Mathematics, [University of Maryland, College Park](https://www-math.umd.edu/)
     * College Park Scholars Citation, [International Studies](https://scholars.umd.edu/programs/is)
 * Post Secondary Educational Options Program, [Miami University](https://www.miami.miamioh.edu/)
