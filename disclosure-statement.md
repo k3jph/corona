@@ -10,9 +10,10 @@ menu2-label:   Disclosure Statement
 ---
 I am a member of the senior professional staff at the Johns Hopkins
 University Applied Physics Laboratory, LLC, a university-affiliated
-research center. In addition, I am an adjunct faculty member at the
-Central Michigan University, the Pennsylvania State University, and
-University of Maryland Global Campus.
+research center and division of the Johns Hopkins University.
+In addition, I am a member of the adjunct faculty at Central Michigan
+University, the City University of New York, the Pennsylvania State
+University, and University of Maryland Global Campus.
 
 In the last three years, I have received extramural research support
 from the Extreme Science and Engineering Discovery Environment,

@@ -14,7 +14,7 @@ redirect_from:
    alt="Me at the 2017 Howard County Library Evening in the Stacks"
    cap="Me at the 2017 Howard County Library Evening in the Stacks" %}
 
-I am a scientist at the [Johns Hopkins Applied Physics Laboratory](http://www.jhuapl.edu/). Previously, I have been a consultant to numerous government agencies, including the Securities and Exchange Commission, the Executive Office of the President, and the United States Department of Homeland Security, and worked for the Board of Governors of the Federal Reserve System as an internal consultant on scientific computing. I am a passionate educator, teaching mathematics and statistics at the [University of Maryland Global Campus](http://www.umuc.edu/) since 2010 and have taught public management at [Central Michigan University](https://www.cmich.edu/), [Penn State](https://www.psu.edu/), and the [University of Baltimore](http://www.ubalt.edu/).
+I am a scientist at the [Johns Hopkins Applied Physics Laboratory](http://www.jhuapl.edu/). Previously, I have been a consultant to numerous government agencies, including the Securities and Exchange Commission, the Executive Office of the President, and the United States Department of Homeland Security, and worked for the Board of Governors of the Federal Reserve System as an internal consultant on scientific computing. I am a passionate educator, teaching mathematics and statistics at the [University of Maryland Global Campus](http://www.umuc.edu/) since 2010 and have taught public management at [Baruch College](https://www.baruch.cuny.edu/), [Central Michigan University](https://www.cmich.edu/), [Penn State](https://www.psu.edu/), and the [University of Baltimore](http://www.ubalt.edu/).
 
 I am fortunate to [play in everyone else's backyard](https://www.nytimes.com/2000/07/28/us/john-tukey-85-statistician-coined-the-word-software.html). My most recent work has modeled the spread of infectious respiratory diseases and Ebolavirus, predicted global disruptive events, researched using blockchain for government services, and created devices for rescuing victims of building collapse. I have written [two books](/books/) on my work and co-edited two more.
 
@@ -22,14 +22,14 @@ In my spare time, I serve Howard County, Maryland, as [a member of the Board of
 
 ## Education
 
-* Ph.D., Public Policy, [University of Maryland Baltimore County](https://publicpolicy.umbc.edu/)
+* Ph.D., [Public Policy](/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
     * C.Phil., Public Policy
-* M.S., Environmental Engineering and Science, the [Johns Hopkins University](https://ehe.jhu.edu/)
-* M.P.A., Public Policy and Administration, [University of Baltimore](http://www.ubalt.edu/cpa/about-the-college/schools/school-of-public-and-international-affairs/index.cfm)
-* B.A., East Asian Studies, _cum laude_, [University of Maryland Global Campus](https://www.umgc.edu/)
-* B.S., Mathematics, [University of Maryland, College Park](https://www-math.umd.edu/)
-    * College Park Scholars Citation, [International Studies](https://scholars.umd.edu/programs/is)
-* Post Secondary Educational Options Program, [Miami University](https://www.miami.miamioh.edu/)
+* M.S., [Environmental Engineering and Science](/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
+* M.P.A., [Public Policy and Administration](/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
+* B.A., [East Asian Studies](/assets/docs/UMGC-BA-EAS.pdf), _cum laude_, University of Maryland Global Campus
+* B.S., [Mathematics](/assets/docs/UMD-BS-MATH.pdf), University of Maryland, College Park
+    * College Park Scholars Citation, International Studies
+* Post Secondary Educational Options Program, Miami University
 
 <!--
 ## Major Awards
