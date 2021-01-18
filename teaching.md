@@ -77,10 +77,13 @@ In the spring of 2017, I started occasionally teaching in the [Master of Science
 *   **MSA 600 Foundations of Research Methods in Administration** This course covers the basic research process starting with the scientific method, lit reviews, data collection, analysis, through to research writing. Through this course, a student is well-prepared to design and complete a research project in a government or business setting.
     *   [Spring 2017 Syllabus](/assets/docs/MSA600-Syllabus-Spring2017.pdf)
 *   **MSA 607 Program Management in Complex Organizations** This course is a unique course that looks beyond standard project management and looks at the interrelationships of projects inside large and diversified organizations.
+    *   [Spring 2021 Syllabus](/assets/docs/MSA607-Syllabus-Spring2021.pdf)
     *   [Spring 2020 Syllabus](/assets/docs/MSA607-Syllabus-Spring2020.pdf)
     *   [Fall 2019 Syllabus](/assets/docs/MSA607-Syllabus-Fall2019.pdf)
     *   [Spring 2019 Syllabus](/assets/docs/MSA607-Syllabus-Spring2019.pdf)
 *   **MSA 647 People and Project Administration** This course introduces the nontechnical side of project management. It focuses on communication, principally with stakeholders and within the project team. From this course, students should be able to manage project risk better from a personnel standpoint.
+    *   [Fall 2020 Syllabus](/assets/docs/MSA647-Syllabus-Fall2020.pdf)
+    *   [Summer 2020 Syllabus](/assets/docs/MSA647-Syllabus-Summer2020.pdf)
     *   [Spring 2020 Syllabus](/assets/docs/MSA647-Syllabus-Spring2020.pdf)
     *   [Fall 2018 Syllabus](/assets/docs/MSA647-Syllabus-Fall-2018.pdf)
     *   [Spring 2018 Syllabus](/assets/docs/MSA647-Syllabus-Spring-2018.pdf)
