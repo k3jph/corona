@@ -32,7 +32,11 @@ I have taught undergraduate mathematics at the [University of Maryland Global Ca
     *   [Summer 2015 (OL1) Syllabus](/assets/docs/MATH-106-Summer-2015-OL1.pdf)
     *   [Spring 2015 (OL4) Syllabus](/assets/docs/MATH-106-Spring-2015-OL4.pdf)
     *   [Fall 2014 (OL4) Syllabus](/assets/docs/MATH-106-Fall-2014-OL4.pdf)
-*   **MATH 107 College Algebra** A gentle introduction college-level algebra including equations, inequalities, graphing, and polynomial and exponential equations. MATH-107-Spring-2020-OL1.pdf
+*   **MATH 107 College Algebra** A gentle introduction college-level algebra including equations, inequalities, graphing, and polynomial and exponential equations.
+    *   [Spring 2021 (OL1) Syllabus](/assets/docs/MATH_107_6394_College_Algebra_2212_MATH_107_Spring_2021.pdf)
+    *   [Fall 2020 (OL3) Syllabus](/assets/docs/MATH_107_7382_College_Algebra_2208_MATH_107_Fall_2020.pdf)
+    *   [Fall 2020 (OL2) Syllabus](/assets/docs/MATH_107_6984_College_Algebra_2208_MATH_107_Fall_2020.pdf)
+    *   [Summer 2020 (OL1) Syllabus](/assets/docs/MATH_107_6388_College_Algebra_2205_MATH_107_Summer_2020.pdf)
     *   [Spring 2020 (OL1) Syllabus](/assets/docs/MATH-107-Spring-2020-OL1.pdf)
     *   [Fall 2019 (OL4) Syllabus](/assets/docs/MATH-107-Fall-2019-OL4.pdf)
     *   [Fall 2019 (OL4) Syllabus](/assets/docs/MATH-107-Fall-2019-OL1.pdf)
