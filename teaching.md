@@ -74,6 +74,14 @@ STAT-200-Spring-2020-OL4.pdf
 
 ## Public Affairs and Management
 
+### Baruch College
+
+In the Spring of 2021, I was invited to cover a course for the [Baruch College public and international affairs programs](https://marxe.baruch.cuny.edu/) in the Marxe School of Public and International Affairs.
+
+*   **PAF 503 Research and Analysis II** This course brings forth more advanced research methods with focus on both national
+and international applications.  We will be using Stata as the core statistical language in this course.
+    *   Spring 2021 Syllabus: Posting soon...
+
 ### Central Michigan University
 
 In the spring of 2017, I started occasionally teaching in the [Master of Science in Administration](https://www.cmich.edu/Global/Programs/Pages/degrees.aspx?dc=MSA) (MSA) program at [Central Michigan University](https://www.cmich.edu/). It may seem like a long commute, but my courses are taught at Joint Base Andrews, here in Maryland, through the Central Michigan Global Campus initiative. The MSA program is a degree in management focusing on technical administration, drawing on the course content common in both master of public administration and master of business administration programs. I have taught two different courses for Central Michigan.
