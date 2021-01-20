@@ -26,4 +26,6 @@ technologies become further mainstream.
 
 You can see my slides here:
 
-{% include pdfembed.html pdf="XR21-Presentation.pdf" width="100%" height="600px" %}
+<center>
+<iframe src="https://onedrive.live.com/embed?cid=C4DA866F3B02B780&resid=C4DA866F3B02B780%218941&authkey=AOX1V6ldMEbAgQc&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+</center>
