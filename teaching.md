@@ -80,7 +80,7 @@ In the Spring of 2021, I was invited to cover a course for the [Baruch College p
 
 *   **PAF 503 Research and Analysis II** This course brings forth more advanced research methods with focus on both national
 and international applications.  We will be using Stata as the core statistical language in this course.
-    *   Spring 2021 Syllabus: Posting soon...
+    *   [Spring 2021 Syllabus](/assets/docs/PAF9172-Sp21-Syllabus.pdf)
 
 ### Central Michigan University
 
