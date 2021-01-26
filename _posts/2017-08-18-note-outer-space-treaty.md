@@ -38,7 +38,7 @@ of their respective governments, implying they are subject to their
 national law while doing so.  Accordingly, when a private space
 mission launches from the United States, the launcher must [receive
 permission from the Federal Aviation
-Administration[(http://heinonline.org/HOL/Page?handle=hein.journals/jrlsl31&div=8&g_sent=1).
+Administration](http://heinonline.org/HOL/Page?handle=hein.journals/jrlsl31&div=8&g_sent=1).
 Under this standard, a privately-launched space colony must operate
 under the laws of its home nation, effectively enshrining a long-arm
 approach to governing in space.
