@@ -34,16 +34,18 @@ predicted disruptive events, and sought to understand small business
 cybersecurity. I have written two books on my work and have edited
 two more.
 
-## Publications and Presentations
+## Publications and Presentations 
 
-1. James P. Howard, II, "[Ethics for an XR World](/2021/01/13/my-talk-on-ar-vr-xr-ethics)," xR21, Laurel, Maryland, Jan. 13, 2021.
+1. James P. Howard, II, "Modelling Demand for Medical Resources," Open Science Grid All-Hands Meeting, Virtual, Mar. 1-5, 2021.
+1. Mina Sedaghatjou, James P. Howard, II, Minnie Liu, "Pedagogy of Care: A New Dimension for Online STEM Teaching Proven by COVID19-Pandemic," Fields Institute MathEd Forum,  Virtual, Jan. 31, 2021.
+1. James P. Howard, II, "[Ethics for an XR World](/2021/01/13/my-talk-on-ar-vr-xr-ethics)," xR21, Virtual, Jan. 13, 2021.
 1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey, James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "[Mixed Reality for Post-Disaster Situational Awareness](https://www.jhuapl.edu/Content/techdigest/pdf/V35-N03/35-03-Howard.pdf)," _Johns Hopkins APL Technical Digest_, vol. 35, no. 8, pp. 205-210.
 1. James P. Howard, II, "[GURPS Disasters: Hurricane: Designer’s Notes](https://tekeli.li/path-of-cunning/tpoc_03.pdf)," _The Path of Cunning_, no. 3, pp. 22-23, Nov. 2020.
-1. James P. Howard, II, "[Election Security and Policy Concerns](/2020/11/09/informs-presentation-on-electoral-process)," 2020 INFORMS, Washington, Nov. 9, 2020.
+1. James P. Howard, II, "[Election Security and Policy Concerns](/2020/11/09/informs-presentation-on-electoral-process)," 2020 INFORMS, Virtual, Nov. 9, 2020.
 1. James P. Howard, II, "[Phonetic Spelling Algorithm Implementations for R](https://www.jstatsoft.org/article/view/v095i08)," _Journal of Statistical Software_, vol. 95, no. 8, pp. 1.21, 2020, {% include doi.html doi="doi:10.18637/jss.v095.i08" %}.
-1. James P. Howard, II, "[Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic](/2020/08/05/jsm-presentation-on-ebola)," 2020 Joint Statistical Meetings, Philadelphia, Aug. 5, 2020.
+1. James P. Howard, II, "[Ebolavirus Transmissibility in the 2018–2020 Kivu Epidemic](/2020/08/05/jsm-presentation-on-ebola)," 2020 Joint Statistical Meetings, Virtual, Aug. 5, 2020.
 1. James P. Howard, II and John F. Beyers, Eds., [_Teaching and Learning Mathematics Online_](/tlmo). Boca Raton, Florida: Chapman and Hall/CRC, 2020.
-1. James P. Howard, II, "[Math that is Out of this World](/2020/05/27/community-teaching-through-oakland-mills-online)," Oakland Mills Online, Columbia, Maryland, May 4, 2020.
+1. James P. Howard, II, "[Math that is Out of this World](/2020/05/27/community-teaching-through-oakland-mills-online)," Oakland Mills Online, Virtual, May 4, 2020.
 1. Natalie M. Scala and James P. Howard, II, Eds., [_Handbook of Military and Defense Operations Research_](/mdor), ser. Series in Operations Research. Boca Raton, Florida: Chapman and Hall/CRC, 2020.
 1. James P. Howard, II, "World Religions Month: Hinduism," ser. Scorpion Speaker Series, Oakland Mills High School, Columbia, Maryland, Jan. 31, 2020.
 1. James P. Howard, II and Maria E. Vachino, "[Blockchain Compliance with Federal Cryptographic Information Processing Standards](https://ieeexplore.ieee.org/document/8965252)," _IEEE Security & Privacy_, vol. 18, no. 1, pp. 65–70, 2020, {% include doi.html doi="doi:10.1109/MSEC.2019.2944290" %}.
