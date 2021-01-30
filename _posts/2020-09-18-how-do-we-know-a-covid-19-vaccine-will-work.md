@@ -29,7 +29,7 @@ Influenza changes VERY rapidly, through two mechanisms.  The first,
 viruses that can lead to changes in the surface proteins of the
 virus](https://www.cdc.gov/flu/about/viruses/change.htm)."  Those
 surface proteins are what your immune system recognizes.  The second,
-"antigenic shift," Antigenic shift is a "[major change in an influenza
+"antigenic shift," is a "[major change in an influenza
 A virus proteins](https://www.cdc.gov/flu/about/viruses/change.htm)"
 in influenza viruses that infect humans.  Either of these changes
 create a new strain that is not recognized by the immune system.
