@@ -15,13 +15,13 @@ In addition, I am a member of the adjunct faculty at Central Michigan
 University, the City University of New York, the Pennsylvania State
 University, and University of Maryland Global Campus.
 
+I currently hold a commission from the State of Maryland in the 
+Maryland Defense Force.
+
 In the last three years, I have received extramural research support
 from the Extreme Science and Engineering Discovery Environment,
-sponsored by the National Science Foundation.
-
-I also hold appointments from the Howard County, Maryland, government
-and a commission from the State of Maryland in the Maryland Defense
-Force.
+sponsored by the National Science Foundation.  I have also held
+appointments from the Howard County, Maryland, government.
 
 Finally, I have published books with Chapman & Hall/CRC Press,
 Springer Nature, and Steve Jackson Games Incorporated.
