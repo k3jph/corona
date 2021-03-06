@@ -36,7 +36,7 @@ two more.
 
 ## Publications and Presentations 
 
-1. James P. Howard, II, "[Modelling Demand for Medical Resources](/assets/docs/OSG2021.pdf)," Open Science Grid All-Hands Meeting, Virtual, Mar. 1, 2021.
+1. James P. Howard, II, Anna C. Svirsko, "[Modelling Demand for Medical Resources](/assets/docs/OSG2021.pdf)," Open Science Grid All-Hands Meeting, Virtual, Mar. 1, 2021.
 1. Mina Sedaghatjou, James P. Howard, II, Minnie Liu, "Pedagogy of Care: A New Dimension for Online STEM Teaching Proven by COVID19-Pandemic," Fields Institute MathEd Forum,  Virtual, Jan. 31, 2021.
 1. James P. Howard, II, "[Ethics for an XR World](/2021/01/13/my-talk-on-ar-vr-xr-ethics)," xR21, Virtual, Jan. 13, 2021.
 1. James P. Howard, II, Arthur O. Tucker, IV, Stephen A. Bailey, James L. Dean, Michael Boyle, Christopher D. Stiles, William C. Woodcock, "[Mixed Reality for Post-Disaster Situational Awareness](https://www.jhuapl.edu/Content/techdigest/pdf/V35-N03/35-03-Howard.pdf)," _Johns Hopkins APL Technical Digest_, vol. 35, no. 8, pp. 205-210.
