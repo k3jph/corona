@@ -80,6 +80,7 @@ In the Spring of 2021, I was invited to cover a course for the [Baruch College p
 
 *   **PAF 503 Research and Analysis II** This course brings forth more advanced research methods with focus on both national
 and international applications.  We will be using Stata as the core statistical language in this course.
+    *   Fall 2020 Syllabus--Coming soon!
     *   [Spring 2021 Syllabus](/assets/docs/PAF9172-Sp21-Syllabus.pdf)
 
 ### Central Michigan University
@@ -99,6 +100,8 @@ In the spring of 2017, I started occasionally teaching in the [Master of Science
     *   [Spring 2020 Syllabus](/assets/docs/MSA647-Syllabus-Spring2020.pdf)
     *   [Fall 2018 Syllabus](/assets/docs/MSA647-Syllabus-Fall-2018.pdf)
     *   [Spring 2018 Syllabus](/assets/docs/MSA647-Syllabus-Spring-2018.pdf)
+*   **PSC 516 Environmental Politics and Policy** This course explores the nexus between the environment and policymaking.  We are going to look at the applications of politics to environmental questions, how the environment plays into larger political questions, and explore how to communicate environmental concerns in the policy context.
+    *   Summer 2021 Syllabus--Comming soon!
 
 ### The Pennsylvania State University
 
