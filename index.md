@@ -49,6 +49,7 @@ and serving on numerous public and private volunteer advisory boards.
 ## Education
 
 * Ph.D., [Public Policy](/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
+* M.S., Applied and Computational Mathematics, the Johns Hopkins University
 * M.S., [Environmental Engineering and Science](/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
 * M.P.A., [Public Policy and Administration](/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
 * B.A., [East Asian Studies](/assets/docs/UMGC-BA-EAS.pdf), _cum laude_, University of Maryland Global Campus
