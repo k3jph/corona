@@ -60,6 +60,7 @@ and serving on numerous public and private volunteer advisory boards.
 <!--
 ## Major Awards
 
+* Fellow of the [Cybernetics Society](https://www.cybsoc.org/)
 * Fellow of the [Royal Society of Arts](https://www.thersa.org/)
 * Fellow of the [British Computer Society](https://www.bcs.org/)
 -->
