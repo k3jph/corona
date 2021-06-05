@@ -48,12 +48,12 @@ and serving on numerous public and private volunteer advisory boards.
 
 ## Education
 
-* Ph.D., [Public Policy](/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
-* M.S., Applied and Computational Mathematics, the Johns Hopkins University
-* M.S., [Environmental Engineering and Science](/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
-* M.P.A., [Public Policy and Administration](/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
-* B.A., [East Asian Studies](/assets/docs/UMGC-BA-EAS.pdf), _cum laude_, University of Maryland Global Campus
-* B.S., [Mathematics](/assets/docs/UMD-BS-MATH.pdf), University of Maryland, College Park
+* PhD, [Public Policy](/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
+* MS, Applied and Computational Mathematics, the Johns Hopkins University
+* MS, [Environmental Engineering and Science](/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
+* MPA, [Public Policy and Administration](/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
+* BA, [East Asian Studies](/assets/docs/UMGC-BA-EAS.pdf), _cum laude_, University of Maryland Global Campus
+* BS, [Mathematics](/assets/docs/UMD-BS-MATH.pdf), University of Maryland, College Park
     * College Park Scholars Citation, International Studies
 * Post Secondary Educational Options Program, Miami University
 
