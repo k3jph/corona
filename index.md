@@ -57,13 +57,10 @@ and serving on numerous public and private volunteer advisory boards.
     * College Park Scholars Citation, International Studies
 * Post Secondary Educational Options Program, Miami University
 
-<!--
 ## Major Awards
 
-* Fellow of the [Cybernetics Society](https://www.cybsoc.org/)
-* Fellow of the [Royal Society of Arts](https://www.thersa.org/)
-* Fellow of the [British Computer Society](https://www.bcs.org/)
--->
+* Fellow of the [Cybernetics Society](/assets/docs/JHoward-FCybS.pdf)
+* Fellow of the [British Computer Society](/assets/docs/JHoward-FBCS.pdf)
 
 {% include figure.html image="akureyri-shades-420.jpg" alt="Me in Akureyri...with solar shades"
    cap="Me in Akureyri...with solar shades" width="50%" placement="left" %}
