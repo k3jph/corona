@@ -102,7 +102,7 @@ In the spring of 2017, I started occasionally teaching in the [Master of Science
     *   [Spring 2018 Syllabus](/assets/docs/MSA647-Syllabus-Spring-2018.pdf)
 *   **PSC 516 Environmental Politics and Policy** This course explores the nexus between the environment and policymaking.  We are going to look at the applications of politics to environmental questions, how the environment plays into larger political questions, and explore how to communicate environmental concerns in the policy context.
     *   Fall 2021 Syllabus--Comming soon!
-    *   Summer 2021 Syllabus--Comming soon!
+    *   [Summer 2021 Syllabus](/assets/docs/PSC516-Syllabus-Summer-2021.pdf)
 
 ### The Pennsylvania State University
 
