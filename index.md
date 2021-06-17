@@ -22,7 +22,7 @@ the United States Department of Homeland Security, and worked for
 the Board of Governors of the Federal Reserve System as an internal
 consultant on scientific computing. I am a passionate educator,
 teaching mathematics and statistics at the University of Maryland
-Global Campus since 2010 and have taught public affairs at [Baruch
+Global Campus since 2010, and I have taught public affairs at [Baruch
 College](https://blogs.baruch.cuny.edu/jameshoward/), [Central
 Michigan University](https://blogs.cmich.edu/howarjp1/), [Penn
 State](https://sites.psu.edu/jameshoward/), and the University of
