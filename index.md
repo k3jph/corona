@@ -50,7 +50,7 @@ and serving on numerous public and private volunteer advisory boards.
 
 * PhD, [Public Policy](/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
     * CPhil, [Public Policy](/assets/docs/JHoward-UMBC-CPhil.pdf)
-* MS, Applied and Computational Mathematics, the Johns Hopkins University
+* MS, [Applied and Computational Mathematics](/assets/docs/JHoward-JHU-MS-ACM.pdf), the Johns Hopkins University
 * MS, [Environmental Engineering and Science](/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
 * MPA, [Public Policy and Administration](/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
 * BA, [East Asian Studies](/assets/docs/UMGC-BA-EAS.pdf), _cum laude_, University of Maryland Global Campus
