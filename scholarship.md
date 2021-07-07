@@ -36,6 +36,7 @@ two more.
 
 ## Publications and Presentations 
 
+1. Mina Sedaghatjou, Janette Hughes, Minnie Liu, Francesca Ferrara, James P. Howard, II, Maria Flavia Mammana, "Teaching STEM Online at the Tertiary Level During the COVID-19 Pandemic," _International Journal of Mathematical Education in Science and Technology_, forthcoming.
 1. James P. Howard, II, Anna C. Svirsko, "[Modelling Demand for Medical Resources](/assets/docs/OSG2021.pdf)," Open Science Grid All-Hands Meeting, Virtual, Mar. 1, 2021.
 1. Mina Sedaghatjou, James P. Howard, II, Minnie Liu, "Pedagogy of Care: A New Dimension for Online STEM Teaching Proven by COVID19-Pandemic," Fields Institute MathEd Forum,  Virtual, Jan. 31, 2021.
 1. James P. Howard, II, "[Ethics for an XR World](/2021/01/13/my-talk-on-ar-vr-xr-ethics)," xR21, Virtual, Jan. 13, 2021.
