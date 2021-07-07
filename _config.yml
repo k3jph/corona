@@ -62,4 +62,3 @@ algolia:
   files_to_exclude:
     - tag.md
     - blog.md
-    - index.md
