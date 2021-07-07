@@ -122,8 +122,9 @@ ul ul {
   text-align: center;
   clear: both;
   padding-bottom: 3rem;
-  padding-top: 1rem;
+  padding-top: 0;
   padding-left: 0!important;
+  font-size: small;
 }
 
 /*
@@ -135,7 +136,7 @@ ul ul {
   margin-right: auto;
   text-align: center;
   clear: both;
-  padding-bottom: 1rem;
+  padding-bottom: 0;
   padding-top: 1rem;
   padding-left: 0!important;
 }
