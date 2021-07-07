@@ -116,6 +116,16 @@ ul ul {
   letter-spacing: 0;
 }
 
+.copyright-footer {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  clear: both;
+  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-left: 0!important;
+}
+
 /*
  * Social Icons
  */
@@ -125,7 +135,7 @@ ul ul {
   margin-right: auto;
   text-align: center;
   clear: both;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   padding-top: 1rem;
   padding-left: 0!important;
 }
