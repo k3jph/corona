@@ -9,6 +9,7 @@ image: /assets/images/curriculum-vitae.jpg
 permalink: /curriculum-vitae
 redirect_from:
   - /cv/
+  - /resume/
 ---
 
 ## Education
