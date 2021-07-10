@@ -5,6 +5,7 @@ on:
       - main
 
 name: algolia-search
+environment: algolia-search
 jobs:
   algolia-search:
     runs-on: ubuntu-latest
