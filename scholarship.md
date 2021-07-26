@@ -36,7 +36,7 @@ two more.
 
 ## Publications and Presentations 
 
-1. Mina Sedaghatjou, Janette Hughes, Minnie Liu, Francesca Ferrara, James P. Howard, II, Maria Flavia Mammana, "Teaching STEM Online at the Tertiary Level During the COVID-19 Pandemic," _International Journal of Mathematical Education in Science and Technology_, forthcoming.
+1. Mina Sedaghatjou, Janette Hughes, Minnie Liu, Francesca Ferrara, James P. Howard, II, Maria Flavia Mammana, "[Teaching STEM Online at the Tertiary Level During the COVID-19 Pandemic](https://doi.org/10.1080/0020739X.2021.1954251)," _International Journal of Mathematical Education in Science and Technology_, 2021, {% include doi.html doi="doi:10.1080/0020739X.2021.1954251" %}.
 1. James P. Howard, II, "[The Unexpected Pain of Unexamined Lives](https://thetattooedbuddha.com/2021/07/16/the-unexpected-pain-of-unexamined-lives/)," _The Tattooed Buddha_, Jul. 16, 2021.
 3. James P. Howard, II, Anna C. Svirsko, "[Modelling Demand for Medical Resources](/assets/docs/OSG2021.pdf)," Open Science Grid All-Hands Meeting, Virtual, Mar. 1, 2021.
 4. Mina Sedaghatjou, James P. Howard, II, Minnie Liu, "Pedagogy of Care: A New Dimension for Online STEM Teaching Proven by COVID19-Pandemic," Fields Institute MathEd Forum,  Virtual, Jan. 31, 2021.
