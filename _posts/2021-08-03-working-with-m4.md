@@ -1,11 +1,11 @@
 ---
 id: working-with-m4-macro-language
 title: Working with the m4 Macro Language
-date: 2021-01-20T09:54:00-04:00
+date: 2021-08-03T12:54:00-04:00
 author: k3jph
 layout: post
 permalink: /2021/08/03/working-with-m4-macro-language
-image: /assets/images/working-with-m4.jpg
+image: /assets/images/working-with-m4.png
 categories:
   - Blog
 tags:
