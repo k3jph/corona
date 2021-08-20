@@ -117,7 +117,7 @@ two more.
 
 1. Principal Investigator, Travel Grant. Johns Hopkins Applied Physics Laboratory, Janney Energize Award 2019, (INFORMS 2019, $6,500).
 1. Principal Investigator, Development Grant. Johns Hopkins Applied Physics Laboratory, Ignition Grant 2018, ($10,000).
-1. Principal Investigator, Europa Lander Orbital Tours, Extreme Science and Engineering Discovery Environment (XSEDE), Startup Allocation TG-DBS170012 National Science Foundation (NSF), 2017, (33,562,428 NUs, $13,652.86).
+1. Principal Investigator, Europa Lander Orbital Tours, Extreme Science and Engineering Discovery Environment (XSEDE), Startup Allocation TG-DBS170012 National Science Foundation (NSF), 2018, (33,562,428 NUs, $13,652.86).
 3. Co-Investigator, Crystal Cube—The Future Is Here. Johns Hopkins Applied Physics Laboratory, (PI: Anna Loskiewicz-Buczak), Propulsion Grant 2018, ($500,000).
 4. Co-Investigator, ANTICS—Advanced Network Technology for Integrating Communications in Space, Johns Hopkins Applied Physics Laboratory, (PIs: Dave Copeland and Ed Birrane), Propulsion Grant 2018, ($500,000).
 5. Co-Investigator, Dynamic Causal Decision Trees for Explainable AI, Johns Hopkins Applied Physics Laboratory, (PI: Mark Matties), Combustion Grant 2018, ($50,000).
